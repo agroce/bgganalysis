@@ -83,33 +83,41 @@ for l in open ("data/lowrank.txt"):
     except ValueError:
         pass
 
-lowRankf = open("data/lowrank.txt",'a')
-    
-for game in games:
-    if game in lowRank:
-        continue
-    if os.path.exists("data/"+str(game)+".txt"):
-        print game,"ALREADY READ"
-        continue
-    g = getComments(game,WORSTRANK)
-    time.sleep(0.8)
-    if g == None:
-        lowRankf.write(str(game)+"\n")
-        lowRankf.flush()
-        continue
-    if g == "PARSE ERROR":
-        print "PARSE ERROR!"
-        continue
-    outf = open("data/"+str(game)+".txt",'w')
-    outf.write("*-"*40+"\n")
-    outf.write("GAME: "+g[0].encode('utf-8')+"\n")
-    outf.write("RANK: "+str(g[1])+"\n")    
-    for c in g[2]:
-        outf.write("=-"*20+"\n")
-        a = c.attrib
-        outf.write("RATING: "+a["rating"]+"\n")
-        text = c.text.encode('utf-8')
-        outf.write(text+"\n")
-    outf.close()
+parseError = []
+for l in open ("data/parseerror.txt"):
+    try:
+        parseError.append(int(l))
+    except ValueError:
+        pass    
 
-lowRankf.close()
+
+with open("data/lowrank.txt",'a') as lowrankf:
+    with open("data/parseerror.txt",'a') as parseerrorf:
+        for game in games:
+            if (game in lowRank) or (game in parseError):
+                continue
+            if os.path.exists("data/"+str(game)+".txt"):
+                print game,"ALREADY READ"
+                continue
+            g = getComments(game,WORSTRANK)
+            time.sleep(0.3)
+            if g == None:
+                lowrankf.write(str(game)+"\n")
+                lowrankf.flush()
+                continue
+            if g == "PARSE ERROR":
+                print "PARSE ERROR!"
+                parseerrorf.write(str(game)+"\n")
+                parseerrorf.flush()
+                continue
+            with open("data/"+str(game)+".txt",'w') as outf:
+                outf.write("*-"*40+"\n")
+                outf.write("GAME: "+g[0].encode('utf-8')+"\n")
+                outf.write("RANK: "+str(g[1])+"\n")    
+                for c in g[2]:
+                    outf.write("=-"*20+"\n")
+                    a = c.attrib
+                    outf.write("RATING: "+a["rating"]+"\n")
+                    text = c.text.encode('utf-8')
+                    outf.write(text+"\n")
+
