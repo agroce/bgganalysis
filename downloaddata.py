@@ -1,6 +1,9 @@
 import urllib2
 import xml.etree.ElementTree as ET
 import os
+import httplib
+import random
+import time
 
 def getComments(gameNumber,reqRank):
     page = 1
@@ -10,10 +13,24 @@ def getComments(gameNumber,reqRank):
     rank = None
     print "READING DATA FOR GAME #",gameNumber
     while numComments != 0:
-        response = urllib2.urlopen('https://www.boardgamegeek.com/xmlapi/boardgame/'
-                                   + str(gameNumber) + '&stats=1&comments=1&page=' + str(page))
+        didRead = False
+        while not didRead:
+            try:
+                response = urllib2.urlopen('https://www.boardgamegeek.com/xmlapi/boardgame/'
+                                        + str(gameNumber) + '&stats=1&comments=1&page=' + str(page))
+                didRead = True
+            except httplib.BadStatusLine:
+                print "WAITING (1)..."
+                time.sleep(30)
+            except urllib2.HTTPError:
+                print "WAITING (2)..."                
+                time.sleep(30)
+
         html = response.read()
-        root = ET.fromstring(html)
+        try:
+            root = ET.fromstring(html)
+        except:
+            return "PARSE ERROR"
         numComments = 0
         for child in root:
             for deepchild in child:
@@ -33,7 +50,11 @@ def getComments(gameNumber,reqRank):
                                     for rankschild in ratingschild:
                                         a = rankschild.attrib
                                         if a["name"] == "boardgame":
-                                            rank = int(a["value"])
+                                            try:
+                                                rank = int(a["value"])
+                                            except ValueError:
+                                                print "NOT RANKED"
+                                                return None
                                             print "RANK:",rank
                                             if rank > reqRank:
                                                 print "GAME TOO LOW RANK"
@@ -46,8 +67,14 @@ def getComments(gameNumber,reqRank):
 
 WORSTRANK = 5000
 
-games = range(0,500000)
+top20 = [174430, 161936, 182028, 12333, 167791, 187645, 120677, 169786, 193738, 173346, 84876,
+              115746, 102794, 3076, 31260, 96848, 205637, 170216, 205059, 183394]
+    
+games = range(0,248000)
+#random.shuffle(games)
 gameData = []
+
+#games = top20 + games
 
 lowRank = []
 for l in open ("data/lowrank.txt"):
@@ -65,8 +92,13 @@ for game in games:
         print game,"ALREADY READ"
         continue
     g = getComments(game,WORSTRANK)
+    time.sleep(0.8)
     if g == None:
         lowRankf.write(str(game)+"\n")
+        lowRankf.flush()
+        continue
+    if g == "PARSE ERROR":
+        print "PARSE ERROR!"
         continue
     outf = open("data/"+str(game)+".txt",'w')
     outf.write("*-"*40+"\n")
