@@ -1,0 +1,231 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Catchup
+RANK: 4772
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+#to-play
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very clever abstract. There are several of these games where you play on a hex-hex grid and worry about the number of contiguous groups of pieces. Some of these really are better-suited to being played on a computer so the computer can keep track of the groups.
+
+Ketchup does not have this problem, as you only need to keep track of how large each player's largest group is.
+
+I find its play intuitive and enjoyable. If you are reading this, and haven't played yet, try it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Print & Play Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Tasty!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+pnp
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+As far as abstract strategy games go, this is a good one.  I'm just not a huge fan of the genre.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I've played >2000 games of the iOS app.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Does it help to comment that I love this game because I just can't put my finger on it?  It's a small board, it's a quick game but it feels different every time.  I have some heuristics going into the game that I always throw away as it switches into the mid-game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Elegant, fun abstract.  The rules are super simple and it's amazing how nice a game such simple rules produce.  There is also a very slick and addictive iPhone app, which is very well done (it has very adjustable AI, which I appreciate).  I've beaten the AI at level 17 out of 20 -- my best victory so far -- but I can't yet come close to winning with the AI at 20.  I suspect most games are won or lost in the first five turns, i.e. initial placement matters greatly.  Alas, I am terrible at "reading" the board in the opening stage (just like I am terrible at reading the board in Hex).  In other words, played against a high level opponent, I find the initial strategy quite opaque, and this detracts from my enjoyment at the present time.  Perhaps if I am motivated to study this game further and understand the opening stage better, my enjoyment will increase.  But I don't know whether I will find the motivation.
+
+Right now I have been playing this as an "abstract filler," but my rating could rise as I appreciate the deepness of the game.  Play it on a bigger board and it would be very deep indeed, I believe.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+DIGITAL PLAY:
+
+iPad Air
+Abstract game you want to group together big sections. Meh, average.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Pretty good abstract. Works with pen-and-paper, which is nice. A bit of bookkeeping, though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.3
+Nick Bentley is a master of the school of minimalism and elegance in game design (see Dieter Stein, Cameron Browne etc). Catchup is truly a masterpiece. Create the biggest group to win, but if you create the biggest group, the other player gets an extra move! A clever feedback mechanism that brings exceptional balance and cautious strategy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.65
+2016
+====
+
+Catchup is a perennial favorite. These days we tend to play exclusively pen-and-paper, but I'll occasionally play a match online. A rule was subtly changed within the past year and so my iPhone plays stopped almost entirely (I was about 40/60 against the level 20 AI), so it's taken a big slide in play time -- still a lovely game however.
+
+2014
+====
+
+A beautiful gem of a game that makes wish that I had invented it.  I'm happy enough to be able to play it in any case.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Catchup is my favourite abstract from 2010. Some amazing ideas were poured into this one. The "catchup" mechanism is perfect. It's like the designer Nick Bently found the best way to mash-up both abstract and Euro ideas into a very solid game that I hope becomes much better known as time goes on. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+iOS version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Rating after two games. I'm very partial to asymmetric games, and this one has shifting asymmetry! Can be explained in seconds. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP Version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+How deep does this game go? Because it (along with Onitama) has kindled an interest in abstract games that I've been resisting for years due to my inability to understand Chess or Go. And I get the impression there's a fair amount to understand and explore here.
+
+Hard to say how much of my exhilaration is due to Catchup and how much is just that I happened to be ready when I found this game. But I'm assuming a lot of it is the game: small and clever.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+This is one of my favorite two-player abstract games, and I've played literally hundreds of games of it (against an AI opponent). I didn't write the AI, but I've written an iOS app version of the game (AI written by Tysen Streib), and it's available to the public as of August, 2014.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+One of the best of the recent crop of excellent abstracts. Both accessible and deep. Great iOS implementation.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Like a great and lasting scientific theory, abstract games generally aspire to elegance and simplicity. Nick has done both and layered in a remarkably tense, cerebral and highly enjoyable game that is easily played in the 30 minute mark that it states.
+
+I've now introduced this game to a number of players and each time it's been a resounding success as the basic concepts are so simple as to be understood within moments and the idea of the 'catch up' mechanism is instantly accepted by players due to the wonderfully apropos game title/name.
+
+Listen, I LOVE abstract games. I love playing them, thinking about them, designing them and damn it, Ketchup is a game for the ages. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Signed (Essen 2014)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Signed (Essen 2014)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Hex is in my top 5 games of all time and this is a totally different beast (in a good way).  So far catchup feels significantly different from any other connection game I've played.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+2 player PnP game played on a 5x5 hex board. No expansions but several variants. Also got iPad Version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+[b]After more than 4000 plays (not a typo)[/b]. 
+
+I'm the Designer. This game went through 6 versions over 5 years. The goal was to design a game with the simplicity, balance, finitude, and decisiveness that abstract-game purists like, but in a form that appeals to non-purists (which means short, exciting, and accessible).
+
+I'm proud of it - it comes closer to achieving that goal than any of my previous designs (in the time since I've designed a game called "bug" which may come closer). In addition, BGGers give it a weight of 2.8, which speaks to its accessibility.  
+
+One of the most frequent comments I get about it is that there's more to it than a reading of the rules lets on. I shiver with joy when I hear that, because that's the kind of game I want to design. Hidden complexity is maybe the core reason I love games. There's a strange addictive beauty in it. 
+
+Its depth has surprised me. I wanted to design a deep game but it's gone beyond my expectations in this regard. In the standard version, the game is played on a relatively small hexhex5 board and each player will take, on average 14 turns. Yet, it turns out that it can be studied hard-core. I'm still nowhere close to mastery despite having played it an absolutely insane number of times. I'm still learning new things all the time, and I like it now more than ever.
+
+So I'm going out on a limb and rating it a 9, which is the highest rating I've given (or will give) one of my games (i.e if I ever design one I like more I'll give it a 9 and demote this to an 8).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+[microbadge=13314]
+
+01/24/2013: This is a very solid abstract designed by Nick Bentley (user [url=http://boardgamegeek.com/user/milomilo122]milomilo122[/url], whose [url=http://boardgamegeek.com/geeklist/142757/the-100-play-challenge-in-support-of-deeper-explor]100 Play Challenge[/url] geeklist I love (and joined in with twice).  I wish I had someone to explore this game with as I've only played it with my youngest daughter a few times.  Simple rules.  But there is very solid strategy involved.  You take turns placing a number of your "stones" on the board and the one with the largest contiguous area at the end is the winner.  The catch is, depending on how many and where you play your stones, your opponent may be allowed to play more.  Pretty cool stuff.  Go check it out!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Provisional rating because not played yet, but impressed by the concept.  Easy to imagine its being subtle and tense in play.  Will certainly be buying the app, and do not expect to be disappointed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+There's definitely quite a bit here, more than a reading of the rules lets on. Only one game played so far, against a 5-year-old who doesn't know from turtling. (I tried to explain to him what a 'strategy' is, in contrast to the 'rules', but OK, that's a work in progress.) Still, I already like it better than other 'make the biggest clump' games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Cute game built around a ketchup mechanism :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I really like Catchup. Its very simple and accessible but it requires a lot of thought. I like that this is an abstract built around area control and not movement. I have an easier time with those sorts of games, but, also, it makes it easier to reason about the best placements available, which helps to give it its accessibility. The biggest issue I have with the game so far is that I think it could feel very similar game to game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An easy 8 - rating may go up. Accessible, fun and challenging.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This game has everything you could hope for in an abstract. It should have won top prize in the Thousand-Year Game Design Challenge. Yes, sir!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very quick abstract game with nice idea of mechanics.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Rated a 7 preliminarily after two plays.  This seems like it will have some more strategic and tactical nuances than a lot of the other simple modern abstracts.  This is no Go, but I think that this game will have more replayability than most of its contemporaries.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A well designed, quick abstract from Nick Bentley. Largest group at the end of the game wins, but whenever you make the largest group during the game, you give your opponent the chance to "catchup" with extra stones.
+
+UPDATE: Bumped up from 7.2 to 8 after playing several games on the iOS app. This is a *fun* game to play.
+
+UPDATE: With more than 60 games under my belt, I'm increasing the rating again. There are a few reasons:
+
+•	I’m not close to understanding all the strategies and tactics after this many games, and I believe Nick Bentley when he says he’s still learning new stuff after 1,000 games.
+
+•	There is such a lot packed into a 5x5 hex. I’m not sure what it would do to the game to increase the board size, but there’s plenty to do here in a short period of time.
+
+•	The rule of giving your opponent one extra stone if you form a new largest group just *works.* It seems to provide the perfect balance. 
+
+•	Most of all, each new game turn is fun to take. I find myself not enjoying a lot of games at times because the puzzle aspect of what to do on a certain move is tedious.  Catchup is a game of twists and countertwists that seems fresh every move. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent, quick but still deep placement game where players have got to build the largest group of connected stones on a hexagonal board... at the end of the game; before it's very advisable not to lead but to stay as close as possible to the leader, since this allows the trailing player to place three stones in a turn instead of two.
+
+There is a faint Hex fragrance to Catchup and there might indeed be a slight first-player advantage as well. Nothing the pie rule can't solve.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+played online at igGamecenter. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Cool PnP maybe?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Really a smart 2 player abstract. I love the tension between deciding when to extend a group and so give your opponent a catchup move....the balance is just right where you sometimes want to do it but it isn't overpowering. Tough to figure out in the first several games, the strategy is not easy to find or intuitive. In my book this is a good thing as this is a game that will reveal much with further experience and analysis speaking to some real nice depth. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Finally!!!....... I get to play this (needed updated iOS).  A special kind of praise should be reserved for games which come along at this late stage in the history of game design, whose rule sets employ only the most fundamental, minimalist, elements, such as placement and set/structure creation, and which, despite this, carve out a truly original and engaging place apart from all that has come before.  Nick has obviously achieved this rare distinction with Catchup, a game which should last as long as games are played.  I'm just beginning to experience its charms by whooping on the lower AI levels of the app....but I'm looking forward to being gloriously decimated by a skilled human soon!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+superb abstract.  Friendly and pleasing as a beginner, with deeper aspects emerging for experts.
+
+Benefits from a computer implementation so that the bookkeeping is done for you, but that's certainly not necessary.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Good game! Simple elegant rules, interesting game play.
+
+[url=http://boardgamegeek.com/thread/505032/good-short-elegant-abstract-combinatorial-game-of]My review.[/url]
+
+====
+
+The game's rules have evolved through several iterations since that review, which got confusing to follow.
+
+===
+
+I'm a bit bothered by the inconvenience of counting the sizes of the largest groups, as in real life this proves cumbersome and error-prone once the groups get large and twisty.
+
+Playing online, the computer can precisely track the group sizes for the players, which is convenient.
+
+This raises a sort of philosophical question for me about how to rate the game, since I prefer playing games as boardgames, not online.
+
+I started playing it fairly often at http://littlegolem.net and I like playing it there. Since I most play online, I raised my rating from my original 7 to 8. But at the same time, this fiddliness about needing to accuratedly count the group sizes is a wart on an otherwise fine interesting game. It's sort of like playing a computer wargame and the computer doing all the calculations for players, so players start lazily paying less attention to those details - it's not quite the same as playing a boardgame. Maybe other people who only play games online won't even think about this issue or be bothered by it.
+
+===
+
+But aside from that somewhat philosophical quibble, it is a good game which I enjoy regularly. It is especially fun on the randomly generated irregular boards at littlegolem.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PNP
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Reminiscent in many ways of Hex, but with a much more open, organically developing board. Rating will probably rise with repeat plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Impressively abstract game of forming large groups of pieces with a "catch up" mechanic for your opponent if you try to grab too much at once.
+
+One type of piece and four rules; I'm drawn to the minimalism, and it's quick enough to not get bogged down. My rating of this might go up, if I feel I am improving as I learn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+So addictive this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+I'm not normally a fan of abstracts, but this one has held my attention more than any other I've played.  Solid, simple, and elegant.  Exactly what an abstract should be.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+This is a nic quick abstract that kind of feels like a light (or at least faster) verson of Hex.  The goal of making the largest group to win coupled with doing your best not to make your group larger too often so your opponent doesn't get extra stones makes for a layer of decision making I wasn't at first expecting. Solid abstract that I want to play some more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Likely deserves a better rating than the one given here.
+

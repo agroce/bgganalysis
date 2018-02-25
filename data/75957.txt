@@ -1,0 +1,146 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Slither
+RANK: 4925
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+go board
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Play on 13x13 go board
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Dynamic connection game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Okay update the game is now Slither. I still award it a ten especially after getting a good scope for the depth of this game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Quite an interesting connection game. The orthogonal connections lend it a much less "airy" feel than hex-based connection games - there are fewer virtual connections, and so it is more visually "solid". But at the same time, the dynamic nature of the stones causes the board position to shift around. The two colors of stones are like wrestlers made of liquid, crashing against each other, but also trying to flow past. It's very neat.
+
+As a bonus, it's playable with a standard go set. So many abstracts require custom components and boards, it's refreshing to be able to play it physically using good components.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I wanted to be the 30th rating, this game deserves a chance. Love the ideas, will update ranking after playing more. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+An interesting connection/movement game hybrid. It avoids the normal square grid problems by mandating the existence of orthogonal connections whenever a diagonal stone would be placed. It makes up for this major restriction by allowing movement of a single piece before placement.
+
+The result creates some incredibly interesting positions. Almost-certain connections can be broken up to create problems for an almost-certain win for your opponent; poorly positioned stones can be used as liabilities. At the same time, you can maintain positions if you want to -you only lose out on flexibility.
+
+After 13 games, positions are still very unclear, but I've gotten a lot better at it. This is an encouraging sign for the game's depth. If you're an abstract game fan, you should check it out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+interested
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+One of the greatest games ever designed!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.4
+2016
+====
+
+Slither is my favorite connection game at the moment. Last year the game hit me hard, but lately I've become a bit tired of the connection genre. I can still appreciate its loveliness however, and my matches (mostly online for me) are always tense. This is (yet) another abstract that I love but stink at.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+This is a hidden gem, and deserves to be a lot more popular.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Preliminary rating. This could be the real deal. 
+
+Update: About 10 plays in now, and Slither is for the time being the only abstract I want to concern myself with. Marvelous game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Simple rules, very deep. You'll be baffled as the fortunes of the game whipsaw back and forth.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP copy 
+
+need to print out rules, 
+
+thrift go board
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Delicious decisions; Snaking, slithering, shenanigans. An astounding abstract.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Played with Go board and pieces but quite different. Amazing the one time I played it, but ended in a draw and I think it often will.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+I hope I'm not being premature in my rating, but this is the most arresting game I've ever played.  I just demoted Hex, the only game I've ever rated a 10, because Slither has redefined what 10 means to me. I'm utterly, hopelessly spellbound by the thing. It's the game I wish I had designed.  
+---------------------------------------------------------
+It's more or less Hex on a Square board, with 2 extra rules: one which allows you to move your stones after they're placed and one that prevents stalemates.  But these two rules conspire to create a profoundly dynamic game.  It's incredibly variable, often featuring dramatic lead changes, and the tactical and strategic surprises are just sublime.  I didn't think that it was possible for me to like a game more than I like Hex but that turns out not to be true.  Go figure.  
+---------------------------------------------------------
+Update: Much time has passed, I've played maybe ~150x by now, and I feel the same about this game, only moreso. Even on a 10x10 board, which is small by connection game standards, the game is epic. Yesterday I played a 10x10 game which lasted 64 turns. There's a mind-boggling number of choices (branch factor is more than 1000 on most turns), and yet I never feel lost. And there are these neck-snapping reversals of fortune that just completely rearrange my brain. I don't play tons of matches of Slither, because I play it very intensely and it takes a lot out of me. 
+---------------------------------------------------------
+Connection games nearly all feature choke-points that develop over the course of the game. If you identify and control the choke points before your opponent does, you win. But with Slither, the choke points MOVE, A LOT. To win you have to control where the choke points go and set yourself up to control them when they get there. It's mind boggling. 
+---------------------------------------------------------
+This game also prompts me to lament how commercially minded we all are. Here's a timeless, eternal game, but nobody knows about it because there's no commercial version with fancy bits to drool over. grump. 
+---------------------------------------------------------
+NOTE: new players should start on a 10x10 board, or even 9x9. This is much more complex tactically than any other connection I've played - playing on a small board will help you learn more quickly, as with Go.
+
+ 
+
+   
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Use travel stratego board
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Interesting connection game.  It shares some of the features of hex, e.g. ladders, while being somehow more dynamic.  Need to play more to see what is/isn't connected, and how to block/make connections.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+I've been playing this on Little Golem because of a recommendation I got. I didn't realize how pure a connection game this was. It's the genre of abstracts I dislike the most and as expected, I wasn't able to find any fun in Slither.
+
+It's not a bad game, as such, so if you like connection games, you should probably give it a go.
+
+Avoid.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very nice square board connection game. You can move your dead stone to revive and that is quite cool.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A unique, fun connection game where you have the ability to "slither" around a bit by moving stones after they've been placed. I play on Little Golem.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+It's amazing that just two little twists on Hex (moving one piece to one adjacent space before placing a new one and banning moves which leaves pieces connected only diagonally) can result in a game so different and so interesting in its own right. Slither is obviously still supremely elegant, but also more dynamic than most connection games, requiring a completely different way to build barriers (i.e. the basic ingredient for the genre) and hiding more surprises as well - instead of placid endgames after all the decisive spaces have been safeguarded, here every space up from one side of the board to the other will cost a sweat.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Just an amazing abstract, incredibly simple rules but deep gameplay, a fantastic solution to the problem of a connection game on a square board. I think I like this even more than Hex.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.05
+Highest on my list of 'abstracts to get back to'. My wife seemed to enjoy it and I have just compiled thrift bits to make a mini-version to add to my Traveling Game Bag. Both of these aspects should help in getting this played sooner than later.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Wow ... just WOW. Nick Bentley made me see the light regarding the greatness of this game. Sweet, slick, slithering goodness here. It's very arrogant to say that this is the new Go, but it is the new Go.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A game I ultimately wanted to like more than I actually liked it. I'll never argue that a game needs to reveal its depths right away, but I found that after a dozen games, I learned basically nothing and was in no position to understand if I was playing well, how to connect an earlier move to a later outcome (and how to adjust my play accordingly), and could not draw any teachable moments out of anything. In the end it was almost overwhelmingly tactical, and my brain was simply unable to understand what I was supposed to be doing, why it worked (or didn't), and what I could do to exert positive influence over the game. 
+
+Face-to-face 9x9 games with my friend yielded the same result as playing online: the rules were simple, there was a winner at the end, but as to how the actual game unfolded, we hadn't much of a clue. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fantastic game simply elegant!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Enjoyable connection game with a twist, that you may move a piece to an adjacent square in addition to the usual placing of a new piece. This plus the restriction about diagonal connections makes for some learning curve and aha-effects because not all experience from other connection games necessarily applies here. :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Guess we all own it. Has my attention
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A game of surprising tension and turns of fortune. Play 9x9 to learn. Upgrade quickly to 13x13 for enjoyment. The larger board allows for multiple pockets of action to develop, multiple fronts on which to attack and defend. At different points in our third game of Slither, my wife and I both thought that we had the game in the bag only to see the game change along with our prospects. That sort of up and down, back and forth action seems common to Slither. The tension is tremendous. The restriction on diagonal placement, combined with the ability to move a piece each turn, makes for very dynamic play. My only criticism is that it can be difficult to plan ahead because the board-state is *so* fluid. I suspect practice will help, but this does provide a barrier to entry.
+
+I recommend that everyone give it a try. If you already enjoy connections games, then this one is a no-brainer.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Using my 9x9 and 13x13 go board to play this excellent connection game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Rating very tentative, after just two plays. It has the potential to be a very interesting abstract.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Very difficult for me to rate at the moment. The ruleset is simple and straightforward, addressing the problem of creating a connection game for the square grid. The solution entails that a player has two different forms of action per turn. In general, I do not like that, but it is unfair to rate a game without looking at the game play. 
+
+The game play is action, action, action. That should attract many players. It is also telling to compare Slither to Hex. Hex is a game which requires major reading skills. The better players become, the less is "spelled out" on the board. While that looks impressive, I am not sure, if it is a feature. Of course, it takes a lot of reading skills to play Slither, but the moves are also spelled out during the game. I prefer the latter approach. So, in a way, Slither improves on Hex.

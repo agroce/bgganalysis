@@ -1,0 +1,774 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Pow Wow
+RANK: 2420
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Real charming bluffing game that mixes math and poker.  Lots of laughs, but the end game trigger is lacking.  Players can sit out for a while if they get eliminated, so the game isn't perfect, but it's a lot of fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+JUGADORES: 6
+TIEMPO: 30
+
+PARTIDAS GANADAS/PERDIDAS
+Patri 1/0
+Oca 1/2
+picassojac 0/1
+Navir 0/2
+Loli 0/1
+Jose 0/1
+Angel (Patri) 0/1
+Conchi 0/1
+Manolo 0/1
+Emilio 0/1
+Tania 0/1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Zee - 11
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Cute, light and fun but if the headbands had been made with velcrow fasteners it would have been perfect.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+hella fun and easy to play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Me? I never bluff!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Fun game with broad appeal.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+[ESP] No podras para de reir en este juego en que los jugadores se convierten en indios. Cada uno se pone una pluma con un numero en la cinta que llevan en la frente. Se trata de adivinar la suma de los numeros de todas las plumas. Pero solo se pueden ver las plumas de los otros y no la propia. Quien adivine y fanfarronee mejor puede nombrarse cacique y organiza el proximo Pow Wow.
+
+Re-Implementacion de [gameid=8172]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+As they say, inverted Liar's Dice.  I think it succeeds more as an activity than a game, but success is success.  Game-wise I found the all-but-one-variable open information to lend itself to less interesting bids than Liar's Dice, but I had more fun playing the game the one time I tried.  Wish it had an interesting decision mechanic like the re-roll.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
++ Silly fun and some bluffing.
+- Won't play it very often.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is one of those games like Diamant which plays better with more people.  I'd recommend it for 6-8.  Rating will go up by one if playing with Jesse and watching the expressions on his face as he tries to figure out his bid.  Lots of fun and a good party game with the right crowd.  This is one that definitely deserves a reprint.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Gameplay is a complete 180 from Liar's dice. you have >75% of the info instead of 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Amusing
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Kind of party-psychological-game, where every player has all the information except the one bit he has.  Very funny because of the components, it has some kind of bidding mechanics full of bluff.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+06.02.03.02
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+opposite of liar's dice, with bits to make it a hit with kids.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Michelle and Rob S 2011
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Great little party game, reminded me of liars dice with more deduction/bluffing and less odds calculation.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great fun, improves on Coyote by making it for 8 people.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+BoardGameNation
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Sort of reverse Liar's dice. A great, silly game to play with a gambling, bluffing sort of crowd. Also good for kids.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fun family game.  Everyone enjoys putting feathers on their heads and trying to trick the other players into thinking that they have some huge number.  This is better and more fun than Liar's dice I thin, but for some reason we play Liar's Dice so much more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1000 Ft
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Yup, this game is the reverse of Liar's Dice (of which I am not a fan).  The game is mostly a betting and bluffing game with a bit of memory and statistics.  The game really breaks down into something un-fun at the end when only 2 players remain, and they must make either safe bets or crazy (confuse your opponent) bets.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Liars Dice w/o dice, instead you get feathers in a headband, I Like Liars, and this was a fun variation to the theme...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+the first player call a number,and you call a bigger one, and the last man call game. and you lose, happens 70% when I playing, hate it !
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An amusing "low brow" game.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+More fun than Liars' Dice!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Politically incorrect Liar's Dice.  This was a pleasant surprise, so glad I picked this one up.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Coyote for 8 players.  I like it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is a commercial implementation of the public domain game "Blind Man's Bluff" or "Indian Poker". It's an ok game. Fun with some drinks and a chatty, friendly crowd.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Fun, silly, quick.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Pow Wow is a silly party game that is definitely good for a few laughs.
+
+Everyone straps a feather to their head with a number on it.  So, you can see everyone's number but your own.
+
+Then, starting with whoever goes first, players bet on with the total sum of all of the feathers is, with the goal of getting as close as possible without going over.  This is tricky since the numbers range all the way from -15 or so all the way up to 20.  Maybe you have a -15 on your head, which of course you don't know about, making bidding high dangerous!
+
+Once someone doesn't want to bid higher, they call bullshit, and all of the feathers are revealed and totaled.  If the sum was higher than the last bid, the player calling bullshit loses.  If the sum was lower, the bidder loses.  Once you lose 3 rounds, you're out of the game.  Last man standing wins!
+
+Overall, good for a chuckle, but not something I'd be interested in playing often.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is a fun party game with new gamers.  I am honestly a bit tired of it but my friends like it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+A party game. A moderately boring one. It will not get played a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Pow Wow is one of those games that every new gamer has to try. It's essentially a card counting game, though in this case it's all about calculating your opponents' numbers to best guess your own, which is always hidden from you. Excellent choice for teaching newbies and making them feel comfortable, as the laughs tend to come easy with this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a mix of Indian poker and Liars Dice. I love that it can accommodate a lot of people. The game is easily explained and can be played with non-gamers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Klasszikus játék, mely nagyon társaság és alkalomfüggő.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Beth 8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fun bluffing game.
+
+[c]
+Production  -> :star::star::star::nostar:
+Fun         -> :star::star::star::nostar:
+Play Desire -> :star::star::star::nostar:
+Theme       -> :star::nostar::nostar::nostar:
+Down Time   -> :star::star::star::star:
+[/c]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Silly little game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+LI. No at amazon.de. To buy just for headbandz?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.1
+A nice change from Liar's Dice, but Liar's Dice is king.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Feels like Liar's Dice, but looks like Indian Poker?  I've never played Indian Poker per se, but it's probably very similar. In this case, you're declaring the total of all the numbers on everyone's heads, but you can't see your own.  Declarations are like Liar's Dice.  Raise, or call.  Some feathers have extra bits (x2, draw a random card, largest # is really 0) that make for significant swings of fate.  Light, but very fun!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.4
+In this game you put Indian feathers in a head hard and then on your tun you look at all the numbers on the headband and then try to figure out what you have and then progressively each person is saying a number that is increasing in value until someone calls out if they think it has gone over the total number. I enjoyed the play of this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+A silly but funny party game, perfect choice for beginners.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Party: 105
+Family: 625
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+FUN GROUP BLUFFING GAME
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Painful for me, but great fun for my kids.  It's sort of like Liar's Dice with headbands and feathers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Party game that makes every player look stupid. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[b]Status: Purchased. 19th SEPT 2016[/b]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Silly bluffing/guessing/BSing game. I like it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+I prefer this instead of Liar's Dice. 
+Decent party game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Deduction in the top. Top of your head, i mean.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I like this much more than Liar's dice, because it ups the social aspect.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Crazy, little party game. Very similar to Bluff. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Indian Poker with some twists.  A fun, fast game of bluffing and outstrategery-ing your opponents.  C'mon, any game with a card stuck to your head is a winner in my book.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This game was way better than I suspected it to be. Better than Liar's Dice actually. My favorite pure bluffing game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Pow Wow is ridiculous fun. You wear a headband and stick a feather in it that faces your opponents and which you cannot see. There are numbers and some special symbols on the feathers that range from -10 to +20. You go around the table either increasing the bid for how many points in total you think there are or calling. It's so funny how not being able to see just one piece of information makes it so hard for you to ascertain just what the hell is going on when everyone laughs at the bid you just made. Even when I'm eliminated I still enjoy watching the remaining shenanigans. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Game win in a mathtrade for Homínidos
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+http://bghut.pixnet.net/blog/post/24373919
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This is an updated version of Coyote, with a twist.  Once per round, you may say a number and then add a feather to someone else's cap, thus changing the amount of the total.  It makes the game a little harder and funnier.  Also, plays with 8 instead of 6.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very funny game, excellent to ply with family or friends
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Looks like Indian Poker (where you stick a card on your forehead).  Not played yet.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.6
+Much more strategy than it initially appears.  Good variation of Perudo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Indian poker, but produced nicely with a lil bit of variant that keeps people guessing. One of the best party games I know. Only small drawback is it is elimination and is not as cool watching as it is playing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A silly game where everyone has a numbered feather on their head that they have no idea what it is. players take turns trying to figure out what the total of everyone adds up to. guesses are raised until someone calls then all are revealed. losers are given a buzzard to stick on their headband. when someone reaches 3 buzzards they are eliminated.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Easy to play, quick bluffing game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.4
+One of best party game I see. Easy, joking and colored. Very fun
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A super-light fun filler.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun. laughs, and bluff. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Silly guessing games are not really my style of game. But fun with the right people.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A fun little party game that forces people to think as well as bluff their opponents. Great silly fun, as you would expect of any game with headbands.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This game is ridiculous.  I'm in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Others like this more then I do.  I find it is something that people of all gaming styles enjoy, even non-gamers.
+
+smell: -------:what:-------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A fun game that plays well with large numbers and with gamers and non-gamers alike.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Its Indian Poker with a math twist component.  Each player grabs a feather upon which a number between -10 and +20 is printed.  You cannot see your own card which is placed in your colored headband.  The first player tries to guess the total of all cards without guessing a higher number.  If someone challenges that guess, then all feathers are placed on the table and added up.  If the first player did guess higher, they get a vulture token velcro'd to their headband.  If they guess lower or equal, the challenger player gets the vulture.  4 vultures and you are out.  Gameplay and guesses continue around the circle until a guess is challenged.  This game supports quite a few players and rounds go very quickly.  The components are nice enough.  The feathers are paper and so one must be careful not to bend or mark them. The headbands are cloth with a velcro strip and the vulture icons are cardboard with velcro back.  This is a great party game, filler game, or an icebreaker game.  Its stupid, kind of fun, but if you pay attention you can win through deduction.     
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+It's fun as a party game... nothing more than that!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+12-17-15: 8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+A fun game, but I worry about it getting torn up. Might be the only game I commit the serious sin of laminating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Indian Poker meets Liar's Dice.
+
+Fun / silly kind of game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+Mar10:
+
+Wow, that was a lot of fun.  Rather like Liar's Dice.
+
+We player without the Tomahawks.  I think next time I'd introduce them almost immediately in the second round.  They just get over the whole "I'm sure the total is this... now I'm screwed."
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Fun party game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Yeppers, it's Liar's Dice, but with fun hats.  I enjoyed it, but Nanuk is still my favorite version of the Liar's Dice-type games.
+
+Still, the fun hats are fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+The mechanics is similar to Liar's Dice/Bluff.
+
+Funny at first, but it wears out quickly.  This is the usual issue with party games for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A mix of "Headbanz" and "Liar's Dice" and plays 8, I want in!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Goofy bluffing game. Good for non-gamers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This game plays quick and doesn't drag like Liar's Dice. We laughed a lot. Well worth picking up.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Essen 2008
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+Perfect game for large gatherings, both casual/non-gamers, and serious gamers before splitting up into smaller groups.  Loads of fun!
+
+OOP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Fun silly experience that actually has a good game behind it.  Reverse Liars' Dice - just as fun and more varied.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A very good Liar's Dice variant. If not for racist nonsense I would seek out a copy of this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Jon & Owen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Really is just like a reversed Liar's Dice, as everyone says.  It's nice to have a light game that will accommodate a bunch of people that's not annoying.  This is sure to guarantee a few laughs, but I would try to avoid AP-types.  I guess it is possible to mathematically scrutinize everyone's guesses, though you would have to cut through the bluffs, but where's the fun in that?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Awesomely stupid (in a good way) party game. Its a mix between Liars Dice and a drinking game we used to play in university. Great components too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ravensburger
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Basically the inversion of Liar's Dice and a hilarious game. Always up for it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Bluffing and deduction party game.
+Much like Liar's dice, but it suffers from too much information on players' hands (you know everything but YOUR result), shifting the balance towards the deduction part.
+Bonus points if you want to look silly (in a good way)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+owned 2010
+
+played about 5x more
+My doughter loves it, and it's ok for big rounds (more than 6 people). 
+But only one time the evening ;-)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Everyone wears a number on their forehead that they alone do not see. Bidding ensues, until someone thinks the combined number of cards has been exceeded.
+
+The Good: Some good laughs when one person has an overwhelming card on their head, that of course they are oblivious to. Plays fairly quickly - but I felt maybe a little long. Basic rules are easy to explain.
+
+The Bad: Too much luck, due to the special cards thrown in - times 2, eliminate the lowest card, randomly draw a card, etc. Also, the special cards were not intuitive - too easy to forget what they did and then you could not ask without giving the card away.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+This is basically a game where everyone sticks a number on their forehead.  You can see everyone else's number but not your own and you have to make assumptions about the number on your forehead.  In this game it's applied via Indian feathers in a headress.  Each feather has a different number.  This is the type of game where if it was the only game being played in my group, I would sit out and just watch hoping it would be over soon so we could do something else.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Sort of a combination of Liar's Dice and Indian Poker. OK, but nothing particularly exciting.
+(Based on just one play.)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I don't usually like bluffing games, but this one is both silly and fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.6
+Fun part bluffing/guessing game with really funny graphic idea.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+boxed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The experience very similar to "Liar's Dice". Had a great time with this and ready to play again any time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+It's a game of statistics and light bluffing
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Having played both Coyote and Pow Wow, I very much prefer the Pow Wow edition by Ravensburger.  Also, Pow Wow plays up to eight players.  This is more skillful than Liars Dice with a very silly, laugh-out-loud theme.  It has some card luck to it, but it does allow for a good deal of bluffing skills within the game.  It reminds me a lot of Liars Dice/Perudo but with card randomness instead of dice, so you must deduce the probabilities of whether someone's best guess is on the spot with regards to knowing what the deck of cards consists of (and whether the card has been used or not).  After getting used to the game, start playing with two feathers each player and use the tomahawks.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Silly, stupid game that somehow is a hoot to play.  It really is basically liar's dice in how it plays except everyone has a feather and knows the value of everyone else's feather but their own as each are stuck under everyone's provided headband.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Vitrine (étagère basse)
+
+
+
+Coyotte
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This is a really silly party game which has some nice social deduction. I dislike the player elimination and that where you sit can affect how well you do, but it is relatively quick, the information level changes depending on how much people are left in the game, and the headbands are a cool gimmick.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A couple of drinks and this is a fun game. Add some more drinks and this is really a fun game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+印第安吹牛
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+++ surprisingly thought-provoking party game, especially once players have two feathers each
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+One of the best party games I have ever played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Best with 6, 7, 8 players
+Recommended with 4, 5, 6, 7, 8 players 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Played it
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+In the shrink
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nothing complicated, just fun!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Clever little bluffing game. I groaned when this one first hit the table because it looked so stupid with the little headbands, but it was a lot more fun than I expected.  As in life, it pays to lie. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+When it comes to playing a game with a headband I would much rather play Headbands.
+
+When it comes to a game about bluffing I would much rather play Liar's Dice.
+
+This game is good for a few laughs at first but it really falls flat.  The value of the cards are just too variable to make meaningful guesses.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nice for non gamers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Silly party game where each player wears a number or multiplier on there head that everybody else except that player can see.  The first player looks around at the information available to him/her and then picks a number (you're trying to guess or be below the total) and then the next player either increases that number or calls it, this continues until someone calls and then a buzzard is affixed to the player who called incorrectly or was over the number.  Play until three players have been eliminated then the player with the least amount of buzzards wins.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+This is a great party game, and it allows 8 players. It's perfect for non-gamers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Gift from Kim T.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Brad
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Pretty simple game. I just assumed I had a 3 the whole time, got burned by being off by one on a challenge, so I upped it to 4 for the rest of the game and "tied" for first. Worked out for me, and you could probably do even better by tracking the feathers that have already been used. There's also a little bit in setting your initial guess so that a specific person might get burned. I won't refuse another play, but I won't be the one suggesting it.
+
+(Just checked the game rules, and the average value of the feathers is, in fact, a little over 4. Right on.)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+A cross between Indian Head Poker and Liar's Dice. My one play of this reminded me how much I HATE Indian Head Poker...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+As far as party games go, this ranks right up there, in my book!! Coyote re-done with more variants to the cards including a 2x and negatives. Great fun with the head bands and indian-style poker hats looking around the table at what is on everyone else's head to make a somewhat educated guess at the total.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A great game to play with a large group of people.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A great game to play with a large group of people.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Step up from Coyote, great fun. One of my favorite games to introduce my friends into board gaming.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+Not quite on the level of Liar's Dice (what is?), but certainly funnier.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Just stupid machanics.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+See comments for coyote
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A fun light game of bluff and deduction. See my review for more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.45
+Fantastic party ice-breaker! Indian poker complete with feathers and headbands. The feathers have either a number like 2, 10, 20 or a multiplier like 2x or even negative numbers. Everyone can see the other players feathers but not their own. A wonderful party filler that everyone really enjoys. 
+
+After several plays I am getting a little board with Pow wow. But I know that if given a little time off, we will come back to it with renewed enthusiasm again and again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Can be a lot of fun for the occasional occasion, with a large group of players who are all willing to contribute to the bluff and ham it up and are willing to be silly. A niche game only though as there's not a lot of immediate replay, and the huge variation in card values means there's not as much value to the bluff as Liar's Dice ie there's more luck here. But more laughs too. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This game is about having fun! Put pride aside, put on the headband, play this with people of all ages, and simply enjoy this game of bluffing and deduction. 
+
+Casual-ish Game. Party-ish Game. Family Game. Beer-N-Pretzels Game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Exactly like "Indian poker" that I played in college with a regular deck of cards.  You can see everyone else's card but not your own, so what is the total value of all the cards?  A fun party game that requires no skills other than addition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Liar's Dice with more information and sillier components.  *shrug*
+
+(1 play)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.9
+CC-COA
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun, simple and silly party game. A slight variation of indian poker/coyote. Components makes people look silly.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+If you love "Bluff", you're guaranteed to love this.  Tons of fun!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Bluffing game where we all look like a doofus. Probably better with more players and quite simple. For me it just wasn't my kind of game. I would definitely play it again with the right group but too much math!  Seemed cute. I am just terrible at bluffing games. Like- REALLY BAD.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Here I was thinking that a game that uses the visual concept of Celebrity Head with the mechanics of Bluff (Liar's Dice) would be twice as fun. But no, it turns out to be less than half as enjoyable.
+
+Sure there is some fun as players look around and snicker at how they look and what they have on their heads but Celebrity Head's humour lies in the right brain (i.e imagination) due to the type of questions asked.
+
+In Bluff the game play is distilled, but in Pow Wow not only are the numbers unwieldy but so is the distribution (despite increasing the skill level).
+
+Admittedly, in keeping with the theme I did feel like getting hold of a gun......
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deduction/bluffing. Plays 8.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+The game itself is lame and not really enticing. But I like the theme and the bits: getting a laughing crowd looking at each other with headbands and feathers. Good as a party game if everyone is in the right mood.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a very fun light game similar to liars dice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+The upside:
+-Silly game, but so over the edge that makes it cool to play. I'd say it's fun to play once or twice.
+
+The downside:
+-Gets boring fast.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+D版
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Not yet played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great Party Game. So easy and so funny. Really entertaining.
+Light game, for everyone to play.
+I have to rate it an 8, it's not my kind of game, but it's designed for a purpose and does it very well.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+[b]Unique Component[/b] - Indian feathers
+
+
+[b]Unique Mechanic[/b] -  The game is Indian Poker and fairly simple.  The indian feather cards are unique.
+
+
+[b]Quick Thoughts[/b] - Great game for all level of players. 
+
+
+
+This is the drinking game Indian  in a more family oriented setting.
+
+Got in 2008 then traded in 2014.  Repurchased the game in 2014.
+
+2008 Plays = 7
+2009 Plays = 6
+2010 Plays = 1
+2011 Plays = 2
+2012 Plays = 2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+pure fun
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A bluff-like game where instead of knowing your own number you know everybody else's. Otherwise they game plays similarly. Works better than I expected.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.25
+PUNTUACION
+picassojac: 7.5
+Oca: 9
+
+PARTIDAS GANADAS/PERDIDAS
+Nadia 1/0
+Patri 1/0
+picassojac 0/1
+Ikañi 0/1
+Quino 0/1
+Dani 0/1
+Navir 0/1
+Loli 0/1
+Jose 0/1
+Angel (Patri) 0/1
+Oca 0/2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The flagrantly racist theme makes this uncomfortable, but to the extent that you can shake that, this is fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Only one play, but it is a good deduction/bluffing game along the lines of liar's dice.  What sets this apart is the silly theme.  It's just more fun putting the feathers on your head and having everyone look at each other trying to count.  Might make a good game for a math class.
+Had to drop it at least one point to a 7 because the feathers are just too difficult to shuffle...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A fun game, if you don't mind sticking things to your head.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Fun silly game which you can bring out in big groups. I prefer Bluff and it's similar here except that the information is reversed - you can see the value of everyone except yours. Throw in some doublers and big plus and minus values and you've got a game where everyone will be laughing at you instead of with you. You can almost judge your feather value by the laughter sometimes. The wife really enjoys it. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I'm not thrilled with the components, but a fun game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+印地安吹牛
+2015/8/17購入
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Party
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is fantastic silly fun.  You feel a little chumpy because the game makes you feel like everyone knows something about you that you don't, but that's what makes the game so great.  Lots of laughs here as you try to gauge what your card is, based on what everyone else is bidding.  Certainly, there is a lot of luck here, but it's really a blast.
+
+Even though it seems a little finicky, I think that the feathers make all the difference creating the ambiance.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Adding up totals on feathers and guessing on a number.  To me, it would make more sense to have more variables out there besides just the one on your head, but it's a good party deduction game for what it is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Reimplementation of Coyote, with feathers instead of cards. Feathers fit the theme -- you stick them in your headband -- but those things are impossible to shuffle!! Need to play it with the expanded rules.
+
+The deck has numbers, mostly low, some negative, some high (10, 15, 20), and some specials (2x, cancel highest, etc). Without looking, draw one and put it on your head. Then bet about sum of all cards. In turn, raise sum or call. If called, loser gets a chip stuck to your headband; 3 marks and you're out. Last one in wins!It's the essence of Liar's Dice, plus you get a goofy headband!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Light fun and it does remind me of Liar's Dice.  Simple rules and a quick playing time make it a good group game as well as a good one to mix casual and serious gamers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I liked it but it fell pretty flat among my semi-regular social gamer group. Just wasn't that fun or exciting, pretty obvious guesses required, not much bluffing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[Raversburger 'Pow Wow' 2006 edition] {Beer&Pretzels; deduction, bluffing; optimal 6-8p} Pow Wow is an interesting variant of Indian poker. It's fun; esp. with beers.
+
+The feature-like cards are interesting and add much to the game experiences. However, the quality of the components is not that good and not durable - the cards and tiles are thin.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very funny game of bluffing and guessing without perfect information. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This one is essentially Liar's Dice in reverse.  Crossed with Indian Poker (or Guts) where you know what everyone else has, but not what you have.  
+
+It was fun, but I see no reason to own both this and Liar's Dice, and I believe that Liar's Dice is more fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A party game about guessing what you can't see.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Great fun! 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+acheté de mickey 06/12/09
+vendu à Freddy_Katch 16/08/10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.1
+Funny party game with minimal set up time.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Pros: Quick
+Easy to learn and play
+Headbands nice
+Inexpensive
+
+Cons: Difficult to shuffle
+Too light
+Feathers get greasy
+
+Conclusion:  Pow Wow is a tight party game I picked up for around $10.  People seem to enjoy looking at each others forehead.  Even with the advanced rules, it can tend to wear thin.  I like Liar's Dice better.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+very fun light-hearted bluffing game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nice party game for larger crowds. Keeps everybody involved and guarantees laughing even when you're dropped out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Bring forth the silly bidding game and smoke 'em tha peace pipe. Yeah this is very silly and I like it. Considering making my own by printing out MINERS helmets with candles for lights...the lights are the numbers...then you can hang dead parakeets or canaries from your head band as you drop out. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-8 30min - family, party - deduktion, bluff
+= coyote
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I'll have to try this again, being eliminated early in the one game I played. Maybe it was just the group I played with, but it seemed like it should have moved along faster given the game's weight. Nice components.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I'm a sucker for deduction games like this, and won my first game with a spot-on guess in the last round.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Coyote Redux
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Pretty basic, better than liars dice though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+There's a deep deduction game under here if you want to go that route. Or you can just bluff blunder your way through. It's fun either way. The latest Gigamic edition, called "Coyote" has MUCH better components though. I'd recommend that version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun little deduction party game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+A fun and clever concept; in practice is just OK (often feels more arbitrary than tense). 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Eh, alright. A game of numbers, card counting, and bluffing. Almost won the first time playing but kind of gave up at the end. Would probably play again; tomahawks make the game way longer but way more interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+More fun than I thought it would be.  This game is largely reverse Liar's Dice.  Good party game for up to 8 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Makes use of the one body part that Twister didn't dare include: the forehead.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ekseligmenh ekdosh tou coyote
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.1
+This is more fun than it should be.  It is silly and quick.  It is kind of like Liar's Dice in reverse.  Each player has a number but you cannot see your own.  Bid on the total of all numbers without exceeding the total.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+猜狐狸，多人欢乐。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Not exactly a new idea but it is nevertheless fun with the right crowd.  People who are easily embarrassed or have no sense of humor need not apply.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Zeit/Spieler
+30-drei
+30-vier
+30-fünf
+30-sechs
+30-sieben
+30-acht
+
+Gedöns: Federn am Kopp
+* Partyspiel
+* Schätz-Spiel
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+After 1 Play: It looked to be a very silly game, and I'm a big fan of silliness.  It's only the look of the game that is actually silly.  The gameplay is pretty straightforward deduction and bluff.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A twist on Indian Poker, this excellent game (also previously published as Coyote) offers plenty of pushing your luck, deduction, some bluffing and plenty of laughs in a quick and enjoyable combination. If anyone in the group is uncomfortable with some basic arithmetic, they'll probably want to sit it out. That's the only caveat I can think of.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Una especie de dudo con plumas de indio en la cabeza. Se trata de adivinar la suma de los numeros de todas las plumas. Pero solo se pueden ver las plumas de los otros y no la propia. Quien adivine y fanfarronee mejor puede nombrarse cacique y organiza el proximo Pow Wow.
+

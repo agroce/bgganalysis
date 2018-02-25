@@ -1,0 +1,118 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Wind the Film!
+RANK: 3786
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+เกมนี้ธีมว่าด้วยเราจะถือกล้องฟิล์ม (ที่ ณ ตอนนี้มีเด็กจำนวนมากไม่รู้จักแล้ว......) ไปถ่ายรูปตามสถานที่ต่างๆ เอามาร้อยเรียงเรืองราวตามธีมก่อนที่จะหมดแสงของวัน (หมดกอง)
+
+ระบบการเล่นจะชวนให้นึกถึง Bonanza นิดๆ (นิดเดียว) ตรงที่ 'ห้ามสับการ์ด' ในแต่ล่ะตาเราจะต้องเลือกหยิบการ์ดฟิล์มรูปภาพ (มีหลายสีแบ่งตามธีมและแต่ล่ะใบมีตัวเลข 1 - 12 ไม่ซ้ำกัน) ที่หงายอยู่ตรงกลางจะมีให้หยิบทั้งใบที่หงายอยู่ กับใบที่คว่ำไว้ (รู้แค่สี กับ range ของเลขโดยประมาณ) จุดสำคัญคือเวลาหยิบจะต้องเอาการ์ดมาวางเรียงต่อกันด้านหลัง ในจังหวะนี้เราจะสามารถเลือก'เลื่อน'การ์ดหนึ่งใบในมือย้ายไปข้างหลังได้ จากนั้นเราหยิบมากี่ใบก็ต้องเล่นการ์ดรูปที่อยู่ด้านหน้าของมือเราเท่านั้นใบ (อย่างเช่น หยิบการ์ดสองใบ.... เลื่อนใบหนึ่งถอยไปสามใบ.... วางการ์ดลงข้างหน้าสองใบ)
+
+ความสนุก (และปวดหัวเล็กๆ) ของเกมคือตอนทีเราจะลงการ์ดรูป การ์ดแต่ล่ะอันจะไปอยู่ในหมวดเดียวกับสีตัวเองแต่มีข้อจำกัดว่าจะตัวเลขต้องห่างจากใบก่อนหน้าไม่เกิน 3 และต้อง 'เรียงไปในทางเดียวกัน' (อย่างเช่นก่อนหน้านี้เล่น 7-5-ใบต่อไปก็ต้องเป็น 4/3/2 หรือถ้าเล่น 5-7-ใบต่อไปก็ต้อง 8/9/10 คือไปในทิศทางที่เพิ่มหรือลดเท่านั้น) ถ้าทำไม่ได้ก็จะต้องวางคว่ำไว้เป็นแต้มลบตอนจบเกม การหาจังหวะลงใบเปิดดีๆ กับเลี้ยงเกมรอเรียงการ์ดให้ลงมาสวยๆก็สนุกดี
+
+ความที่มันยากคือเราอยากจะให้เวลาเรา 'ดัน' การ์ดออกจากมือมันต้องเรียงลำดับถูกต้องแปลว่าเราจะต้อง 'ยัด' เข้าคิวตามลำดับให้ถูกแต่แรก แต่เกมยังให้เวลาเรานิดหน่อยโดยการที่เราสามารถเลื่อนการ์ดถอยหลังไปจัดตำแหน่งได้ใบนึงก่อน ตอนจบเกมเราจะได้แต้มตามจำนวนการ์ดที่สะสมได้ในแต่ล่ะธีม (แต่ถ้าธีมไหนไม่มีก็จะโดนแต้มลบ) และถ้าผู้เล่นคนไหนสะสมสีไหนได้ครบ 4 ใบก่อนก็จะได้แต้มโบนัสเพิ่มด้วย
+
+ถ้ามองในแง่ธีมอาจจะไม่ได้ตรงมากมาย แค่เอาไอเดียเรื่องกล้องฟิล์มที่ต้องถ่ายต่อเนื่องกับมีการกดเลื่อนเฟรมเวลาถ่ายเสร็จมาเป็นไอเดียตั้งต้นเฉยๆ (ระบบเกมไม่ได้เหมือนกับการใช้กล้องจริง) แต่ผมชอบระบบการเล่นมันมากเลยนะ มันบังคับให้เราต้องลำดับในหัวในลำดับประหลาดๆเดินหน้าถอยหลังไปมา (ผมคิดว่าพวกสายเรียนคอมแบบผมน่าจะชอบ...มั้ง) ดวงก็มีส่วนตามประสาเกมฆ่าเวลา แต่ก็สามารถตัดตัวเลือกแล้วก็วางแผนได้พอควร
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A card game with interesting decisions that likely deserves much more attention from the BGG community, at least as much attention as Parade which it reminds me of somewhat.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Purchased at 2017 BGG.Spring
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+http://www.for2players.pl/2017/02/wind-film-recenzja-gry-od-saashi-saashi.html
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2017.1 yellow submarine Tenjin
+reminiscent of Bohnanza a little.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+First play was really fun. Really looking forward to more plays. Simple gameplay, yet thinky and rather thematic. Rating likely to go up. Might be a 9 even.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A brilliant design game! Wind the Film reminiscent me a very much of Lost Cities. Which for me even a better game. This is my most favorite amongs other fillers game. Love the art, the game play and the flow of the game. Love love love the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great game, but can be very very tough. Wonderful art, great game design.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Clever card game with the bonanza mechanic.  No trading though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Ordered Dec 15 directly from Saashi & Saashi in Japan. Great customer service. Cost including shipping was ¥3500 (about C$40). Arrived one week after ordering! Thank you for the personalized note, Saashi!
+
+New. Comments and rating after playing a few games. Delightful game!
+
+I will note that the component quality is excellent ... linen textured heavy box, English and Japanese rulebooks, sturdy (but easily shuffle able) cards with nice finish, scoring pad, lovely visual design, everything fits perfectly into the box. Outstanding production.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nice little card game, plays in 30 minutes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This works very smoothly and has nice decisions.  I would cheerfully play it again.  But it didn't engage me enough to make me go out and buy my own copy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Great little card game with interesting streamlined rules. It feels a lot like games like lost cities and schotten totten. This one blows those away in my opinion as this one gives you more control and more interesting decisions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2017 acquisition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+card
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+早取り5pが大きいため、各色4枚の獲得を考えると、3枚取りという選択肢は既定路線のように思え、そうすると人の行動指針を窺って何を取るか選択するというよりはその場その場で取れるものを取るという感じになってしまい偶発的なインタラクションになってしまう。もうちょっと手応えのあるインタラクションが好み。
+とはいえ、箱庭的にあれやこれや自分の前でパズルする楽しさはあるし、独特なプレイ感で上手くまとまっている。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+My best filler game of all time. This game fired Battle Line, Lost Cities and many others.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+R632018TM (d70)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.75
+Not complicated, but a very interesting strategy game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+What I thought was a pleasant little family game turns out to be a bit of a brain burner and a bit frustrating besides.   I don't know if I played terribly badly or if I was just unlucky with available choices.  I will give it another go before I write it off.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.7
+Favorite small card game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+My first play was a blast. I loved playing this. Eager to get it to the table some more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Lighter card game with mechanics from Bohnanza (fixed hand arrangement) and Lost Cities (building a sequence in front of you).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+First game I've played since Bohnanza that restricts the order of the cards in your hand. Rather than trading, it allows you to shift one card away from the played end once per turn. Volume is dictated by draw which loosely translates to big risk leading to big reward, but it depends on the layout of the cards. Very interesting for its size and length.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.8
+Wind the Film - card tableau builder where you have to play cards in order from your hand (think Bohnanza). It works but hasn't got the fun of Bohnanza.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+If Wind the Film! hasn't yet been described as Bohnanza meets Lost Cities, I'd be surprised. Those are two of my favorite card games, yet this one almost gives you too much control over your fate to be fully satisfying. I enjoy playing it, yet I haven't yet encountered much angst while doing so, which is key to a card game like this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Love the theme. I am not a theme person but I am a photography person and of course it was an instant hit before I even played it. I must own this game. Clever hand management and set collection game from a drafting display of cards. Color and vibrant like my personality. ;) Of course it is a favorite. I can't wait to play again!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Keltis card play (play numerically up or down) and scoring with penalty of going over 3 steps, coupled with Bohnanza hand management rule with one card allowed to move as far back as possible. Set up seems more long winded than either of the original 2 designs.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An incredibly cute and deceptively deep hand management game. There is,nothing else quitr like it. The only,thing that brings down the score is the awkward way the game handles the cards still in your hand at the end.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+--Sep2017-- This is quite cool.  The dynamics are cool; the decisions interesting; there's enough randomness to blame for one's own back decisions.  I'd be delighted to play this more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I played this at the gathering of friends this past year and haven't seen or heard from it since... it was super fun but just not availble at all... I would love a copy.. fun card game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[Saashi & Saashi 2016 edition] {Film; Hand Management, card-drafting; scalable} This looks like a fun filler! The aspect of “Lost Cities” like card playing attracts me.
+
+Players cannot change the order of their hand.  One can only move one card each turn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+I have played this game. I enjoy it.

@@ -1,0 +1,2048 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Timbuktu
+RANK: 1409
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+db & Queen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+reviewed on my blog.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Achat de Chabooot avril 2008
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+JUGADORES: 5
+TIEMPO: 60
+
+PARTIDAS GANADAS/PERDIDAS
+Navir	3/2
+Tabli	1/0
+Cristina Oscar 1/0
+Oca	1/5
+XAXO12	0/1
+Jose	0/1
+Loli	0/1
+picassojac 0/1
+alucard66 0/1
+ananara 0/1
+Oscar 0/1
+Mª Angeles	0/2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+I just did not enjoy this game.  It's not a bad game, but where's the fun?  Blind guessing is all that I see.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This is a great brain burner!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Camel routes to Timbuktu avoiding the thieves on the way. Clever game but definately hard on the brain. I like it a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Very good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Memory game. Perfectly fine if you are a card counter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nice game, frustrating at times. We played our fist game without any pencils, I'm not sure it was a good thing. I'll have to play again before commiting to buy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Good game, combining deduction and mischief. Played only once, and finished last by far. Maybe it was the worst result a Timbuktu player ever scored.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I'm starting to like this a lot.  Sure, you can stare at your notes and try to deduce what everybody else is going to do, but sometimes you just have to take a blind stab in the dark with your camel.  Neat game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Sadly a lot of guessing in this deduction game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+sold 2013
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Essentially, the same puzzle repeated three to five times.  Some potential for mis-direction and screwage (by placing your camel in the only safe space that an opponent could have moved to without paying a good).  Timbuktu is quite an original twist on the deduction game.  However, I found it dry, repetetive and not very much fun.
+
+Queen's production is up to their usual standards.  The wooden camels are particularly nice, though their non-sticky labels are a bit of a pain.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Got this game (1995 "International" Queen version, "Tombouktou", missing the French rules somehow) as a 2006 XMas present and on 3/12/07 gave it a 5-player, three-board board run-through without researching it first, which was a mistake. The strategy hints in the old "English Rules" (file available for download at this site) were badly missed, as was something like the Babcock clue recorder (similarly available). I'm enough of a veteran boardgame-nut to put up with a blind and time-consuming walkthrough, and, by the time the third Oasis/Timbuktu was reached, had pretty much figured out that (and to some degree how) Soduku-like analysis of the thief clues would give you tactics. And I shared that, but by then the experience of playing mostly blind to what to look for had frustrated the less dedicated players, probably beyond recall... And it's Queen Games fault. The only suggestion that I can find as to what tactics might be appropriate is the sentence, BEFORE you're told how to apply stickers: "On the lower edge [of each caravan board] there is an overview of the thief cards..." Don't stop to ponder the fact that only only -some- combinations happen, and you start with hardly any idea what you're doing. How expensive could it have been to include some hints and a preprinted pad for recording clues? ...  I'm rather dubious (admittedly, after not much experience) about much gameplay there is here. The player-interaction elements are weak, so the experience seems a bit like playing simultaneous solitaire. I am considering variants like playing with the clues face-up (no rotation) to see if the players have effective (not merely marginal) ways to play against each other rather than merely avoid thieves; transfer goods captured by your set of thieves to your camels (or maybe even capture whole camels); trade between players, etc. to see if there's a stronger game to be made with these rather nice (and not cheap) components. Does anyone have a line on variations like this?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+great game, 5-players takes too long. best at 4. 5-player game is perfect without the extra board.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+AS i read though the rules at the game club I was like "Meh. lets see how this goes".. But on playing it I have to say this is a supper game.  Loads of fun with equal balance of risk taking and memory..
+The rules say you should take notes as you play.  I say NO!! it's a much better game if you don't..
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A game about minimizing the own losses with limited information. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Interesting deduction familiar game full of camels and thieves 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Fairly good deduction game.
+
+Another nice game from Dirk Henn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Juego de deducción. Cada jugador deberá avanzar sus camellos a una de las 5 líneas disponibles en el tablero siguiente, sabiendo que al final de cada etapa, las caravanas de camellos serán asaltadas cuando se detengan en un oasis. En cada línea serán asaltados 2 de los camellos los cuales perderán 2 tipos de bienes. A medida que avanza la tapa, los jugadores irán recibiendo más pistas, las cuales deberán agregar a sus conclusiones acerca del comportamiento de los otros jugadores.
+Algo interesante es que al final del juego los bienes tendrán más valor, mientras más de ese tipo de bien a sido robado en total.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Camels through the desert with thieves at every oaisis? Cool.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played this a second time and pulled the rating down some.  
+
+I found myself spending more time thinking about how to write an AI algorithm to play the game well than really engaging with it myself.
+
+It's novel and it presents interesting logic puzzles.  Maybe that would be fun on my own, but I really don't feel like scribbling notes and doing heavily analysis while my friends wait.  But if you're not solving your move, then what's the point?
+
+
+-----------------------
+
+Rating based on just one play.
+
+What I liked about this most was that it was different than other games.  Beyond that though, I enjoyed myself but I'm not sure how thrilled I was.
+
+My biggest worry is that we all got pretty close to optimum play, which made the game feel like it came down to luck.   Any of us could have played even better, but not without slowing the game down in analysis.
+
+So I'm a bit worried that the game is choice between too much luck or too much analysis paralysis.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
++ Cute deduction game. Better than Inkognito and Scotland Yard.
+- I'm not sure I'll want to play this after 5 plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+More of a logic and deduction puzzle than I like in a game. It was some fun but there are plenty of games I like better.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought CanCon jan 2013
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+http://www.sonic.net/~avmartin/games_played.htm#691
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Ow ow ow,  my brain hurts!  There isn't really THAT much to remember in this game,  but I still manage to get it wrong.....  Excellent mix of knowledge and guesswork - logical deduction would really improve your chances here,  but I wasn't able to get beyond the known-knowns!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought 21/7/2017 from charity shop
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+A memory game.  Not much fun.  Nice graphics.  (Sold Sep-06)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Ötletes a mechanizmus, de mi a hossza alapján amolyan átvezető játéknak szántuk, a dobozra írt játékhossz alapján, ehhez képest fárasztó, komoly odafigyelést igénylő játék. Kicsit a Cluedo jutott eszembe róla, de ez annyiban kiegyenlítettebb, hogy mindenki pontosan ugyanannyi információhoz jut hozzá. A logikázás mellett persze elég nagy a szerencsefaktor, mert vannak információhiányos időszakok, és még minden infó birtokában is kirabolhatják a tevéinket. Egynek jó volt...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+no chance for me, if i am not allowd to make notes... otherwise very good!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is really an induction game. You watch the others and try to figure out what they've got, which lets you know what safe plays are. But if you don't want to work that hard (or your opponents are irrational) then the game becomes a luck fest.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nagyszeru jatek, amelyben valoban izgalmas kihivas kiokoskodni a hianyzo informaciokat. Remek lehetoseget ad a bloffolesre is, amivel az ellenfelek tevutra vezetesevel talan "segithetunk" a tolvajoknak, hogy megszabaditsak a tobbiket sulyos terheiktol. 
+Ujrajatszas - nagyon szivesen emelem le barmikor a polcrol.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Another game that doesn't do it for me. I'm not against using logic and deduction (I love sudokus and other logic puzzles) but when you have no useful clues and have to make a blind guess then be punished for that guess or possibly not... Too many other fish in the sea.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Depending on how you play, it can be very easy, or extremely difficult.  The game is nice to look at, and the idea is nice.  But information is so scarce, that most of your movements are absolutely random.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Geruild via TradeMath - Spel 2014 Antwerpen.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Too dry and repetetive for my liking. I barely saw any deduction here, but to be fair I've only played it once, maybe after some more plays I would've seen it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4.5
+I'm afraid I was harsh in my rating, but that reflects the fact that I was frustrated during the whole course of the game. During the 2nd round things were a bit better. It seems like a promising idea that remained abstract and just doesn't work as well as planned. You can play the game, it's not bad or broken, but I for one did not enjoy it.
+So far the only Dirk Henn game I very much enjoyed is Shogun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+07.02.06.03
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+A two rating says it all : Extremely annoying game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Entry-level deduction game that features wooden camels instead of pastel ones.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A deductive reasoning game which reminds me of clue. You are trying to get camel caravans accross a dangerous desert where robbers are waiting to steal your goods. Whoever has the most goods at the end typically wins. You are given cards which provide information on one robber, so through positioning your camels you can typically avoid it. But the other robbers are hidden but through some game mechanisms you will usually get to see 2-3 of the robbers by passing cards. To do well you must remember who the robbers were and try to deduct which robbers are on which caravan routes from other player actions. Its clever but single minded, thus slightly tedious. A plus is that I find the game presentation attractive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+FOR SALE
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Pretty much the definition of average. Little fun and too little info for much of each (repetitive) round - no thanks.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Rating removed because my tastes have changed so much since rating it an '6'. Will re-rate once played again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[url=http://www.boardgameswithscott.com/?p=46]BGWS Review[/url]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Too confusing, but would be interesting to play with the boys in two years time. 
+Got Dirk's tag on the box in Essen, 2005!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+neuwertig
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+$20
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Excellent Deduction/bluffing/memory/set collection game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I really enjoy deduction games (see my #1 game) so Timbuktu (or "Tombouctou" as my box states) is right up my alley. Move your camels to the safe spots and at the same time make your opponents put their camels on the theft areas. Cool game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A unique an inventive positional placement game with an appealing combination of deduction and risk management. During each round, players will slowly get their hands on more information about danger spaces, but perfect information will never be available, so a certain amount of educated guesswork to base strategic placement decisions on will always be needed. Movement is driven by simultaneous camel selection. Track length and herd-size are adjusted to suit different player amounts.
+
+Players lead their own camel herd through a desert stretch in one communal pack, trying to hang on to as many of their carried goods as possible by keeping them safe from thieving hands en-route to Timbuktu. The board is split up in a series of grids and players will move all their camels from one to the other. Movement to 2 of the 5 nearest columns on the next grid is free. All other columns can be reached when a camel lengthens the load by ditching a good. After a grid is completed, 5 teams of thieves move in and rob 2 predetermined spaces in each column, from 2 team-specific goods. Scarcity increases the value of goods, and the herdsmen who gets the most valuable goods to Timbuktu is the winner.
+
+I'm becoming a huge fan of Dirk Henn's designs and the way Queen transmogrifies them from decently self-produced kits to superbly produced games that skilfully merge strong visual appeal with play-friendly design.
+
+By allowing people to take notes during play, Queen also tackled the weakest rule in the original head-on. Otherwise the player in the group best capable to memorize a handful of simple but confusingly similar combinations will win, and you probably won't need a game to know who this is. It would have been nice if rub-off note aids had been provided, but it probably would have tipped the production cost over the edge, as the game is awash with high quality playing pieces, including very cute camels. Ziplocks are provided, which is great service.
+
+Between camel turns, players will look at their notes over and over again, making this a fairly slow playing game, but thankfully the camel selection is simultaneous, keeping downtime issues off the board. There isn't much variety in your actions though, and there is a risk that the longer 4 or 5 player game will become repetitive. Simply removing a stage board is an option, but that does reduce catch-up opportunities and strategies that only come into play in the latter stages of the game. Camels who have lost most of all their load can be used in many interesting ways, something that also only comes into play on the longer treks across the desert. Throughout, there probably as many things to be learned from careful observation as from the information cards, and it probably hides more placement strategies than you might realise initially.
+
+Players who react well to deduction elements in games will lap this up. A bit of luck is needed, especially initially when placement is guided by patchy info at best. But as this game progresses, it becomes more and more strategic and involving. That it has next to no games that play similar is a bonus, but it is best played occasionally as frequent replays will increasingly highlight its static and repetitive nature over the clever deductive and strategic elements that will seduce most newcomers to it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4.5
+1 playing with 5.  There's an interesting deduction game in here, but its trying to get out...  The deductive parts are interesting but the lack of control is so huge that what you know seems to play far less of a role than it should.  Also feels quite long for what it is, with our first game clocking in at around 3 hours.  You could probably get in two games of Slueth in that amount of time...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+COMPLET
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Not played yet
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+One play (4-p).
+
+Very good first impression - for me; unfortunately, everyone else was "meh". Fools! I will have to breed an army of superclones so I may take over the world AND have someone to play this with, 'cause I ain't trading it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Still haven't tried this (sigh)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Had higher hopes for this one, since it's a deduction game.  Might re-rate after another play or two?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Boring camel placement game shining for its lack of theme and setting: why would a raider only steal, say, salt and pepper out of a couple of camels in a caravan packed with gold and spices?
+More than a game it feels like a poor excuse for an IQ showing off, since it forces you to remember the combinations of the soon-to-be-raided camels and wares and guess those you didn’t check.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played this once, not really my cup of tea.  Not enough interaction between players.  Not enough appealing elements to me.  The Queen material is very nice though especially the fine art of the good cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Excellent game of detection, intense but rewarding
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sounds interesting, but I think it's going to be hard to see the light.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Will play again only if players are able to take notes... I hated having to remember the combinations I passed forward...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Like it - deduction game where you get a little more information as the round progresses. Control freaks will hate it as sometimes you get a forced move, or your positioning to avoid thieves in this round might give you a 'bad' position for the next.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+[Bought DE Kiel 08-08-06]
+A nice deduction game if you're into that type of game. The robbers can be quite painful in the game which you notice then it's time to calculate the final score.
+Some tactics are obvious, but I feel there is something deeper in the game.
+Can be a real brain burner if you like, but we always play with the famous gut feeling instead. Usually quite close games.
+Can be played quite.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2~5人
+最佳5人
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Really nifty blend of classic Euro and deduction game. Theme is several notches deeper than a lot of Euros too! Best deduction game I've played in a long time. Quickly becoming known among our regular crew as "the OTHER camel game".
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+the stickers come off the camels after a few months and you have to glue them back on.  a light deduction, light tactical movement game that i really enjoy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Conservative rating after 1 game.  Really, REALLY liked it, but possibly in large part because I made it through the desert with only 2 goods stolen (in a 4 player game) and had more than double the points of my closet competitor.  Wonderfully dry deduction game with a bit of luck thrown in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought for 10€ in Essen 09
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I like to name the camels as I play them, for example making up a different name that starts with A each time I move the A camel. Albert, Amy, Ambrose, etc.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Nicely produced by Queen.
+
+It is a unique game that is not easily compared to other euros.
+
+Unfortunately, the game is not great. Limited deduction until 3 hands have been seen. Until then, it's random guessing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Great deduction game with surprising theme, solid mechanics and interesting decisions through out the game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I've only played this once. It's a game of deduction as you try to work out which of the positions on the track will be attacked by raiders. You have limited information and are restricted in where on the track you can place your camels and have to juggle the placing in such a way to limit the number of thefts you suffer. It's a good game but requires a lot of thought and you never have enough information to be totally safe.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid brain-burner.   Nice to see a somewhat original combination of mechanics in a game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+4/24/06 - camels are all saddled up and ready to ride! Cool camel bits; nice board(s) there are 4 gameboards - 2 are used in a 3-player game, 3 used in 4-player game, 4 used in 5-player game. Components are top notch in this game. I want to play this one NOW!
+
+Update:
+1 play - 3 player. We played this without pen and paper (contrary to what is suggested in the rulebook). Need to play this with pen and paper which will eliminate the memory aspect of the game and allow players to focus on the strategic and tactical play which I can see would be a huge part of this wonderfully produced game.
+
+Further update:
+1 play - 4 player game. This is a tough one to understand. After two plays of this I'm perplexed by the game. Not sure yet if there is much control over the value of the goods since when you lose a good it becomes more valuable so, if you play to lose some of your goods then you'll be left with very few but they'll score big - but your opponents will also score big or bigger than you since they didn't play that way. A lot of effort is needed to play this game and it is a longer game to play - there are more oasis's added for more players. Need to try this again to see if there is something I'm missing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Hurts my brain, but isn't much fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I thought I would hate this one, but ended up liking it alright.  The game does have a little deduction to it, although it's very light.  There ends up being a fair amount of luck to it, as you make your decisions based on your limited deduced information, and hope things turn out for the best!  The scoring system is also pretty neat.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An excellent game this of deduction to avoid where the thieves are hiding and what they will steal. Gte as much goods as you can to the city of timbuktu. The points are then awarded at the end where each good is worth the amount that have been moved out of the game. 1 Play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I really like this game.  Deduction games are great when they work.  This game works.  The only problem with this game is that the deduction doesn't click with everyone.  I think they deprive themselves of the depth of the deduction, relying on luck, when they could think a bit more and make a good play.  Some say that the decisions you make towards the end of the round are luck based, but I disagree.  Part of the game is minimizing your loss based on information.  Bayes theorem stuff.  This includes prepping the play in future rounds by playing certain camels in earlier rounds, and not being afraid to lose a good to move into a non-allowed pen.  Every move by every player has good information in it, it's just a matter of not being lazy and choosing to use it.  Some people will not like this game because they don't have the attention span.  If you play the game right, you cannot play this in 45 minutes....try 2 hours.  I went through a whole game only losing 5 out of 20 goods.  Trust me, this game is not about luck.  Don't let the neighsayers fool you.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Needs to be played quickly. With slow, analytical players this is a 3 or worse. You have very little information to work on (at least at the start of the rounds) so it's not really a brain burner. Overall, rather dry and not much fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I really enjoy deduction games and this has a fun mechanic for it. The cameleeples are great. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sell
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I'm starting to wonder if I'm handing out too many 8s -- every time I like a game a lot on initial plays, I seem to give it an 8.  But so far I really like Timbuktu.  It's the sort of deductive problem I lose myself in, but the deduction is combined with some decision-making.  A truly adept player would not only deduce but would also induce, based reading on his opponents' plays.  Simple rules, big role of memory, deduction, and heavy brainburn.  I could see others finding it a little repetitive but I think the game plays at a nice modest length.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very intense brain burner, and yet fairly light ...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Received via a math trade for the base copy of Puerto Rico.
+
+After one play, this is a solid 7. My wife and mom both enjoy deduction games, and so I was curious to try one other than the Clue hidden card mechanic.
+
+It's a bit hard to rate this game after one play. The key indicator will be if repeat plays enables us to read each other's choices better... using player choices as more information for deducing the good and bad spots. I think this is the case, so I expect this game will improve with familiarity and a little extra brinksmanship.
+
+Update: Well, I got impatient and sold this one in an auction. One play was not enough to tempt me to try this one again. Ironically, I think the best deduction game I've played is Mystery of the Abbey, despite the fact I traded that one away previously! 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+logical game, very beautiful.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Traded away unplayed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very cool, very unique game. I don't think this is a deduction game so much as a game of slowly revealed information. You gain more information with intuition and careful observation of your opponents than real deduction, I think.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Essen 2008, used, my find
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Played this at BGG con it was fun and I like the logic deduction part of the game but well it just doesn't have enough going for it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Gran juego de deducción con buenos componentes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+This game is far too over complicated for what its worth. It takes an age to set up and isn't really worth the effort. I enjoy some elements of memory in the game but there is to much involved in this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+This game I first played on some forgotten Spiel; and I didn't renew the acquiantance for at least a decade. I played with a slightly wrong rules interpretation causing the game to become quite thinky and not all that unpleasant... at least until you figured out how to make the most of the hidden information and delaying placement for as long as possible. With the correct rule in place the game would become decidedly more chaotic (and lighter). As such it's probably not one of Dirk Henn's worst designs (which is damning with faint praise, to be honest), but it [i]is[/i] very repetitive and probably not sufficiently interesting to play more than a few times. There's simply very little to see, much less plan for.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+February 2008.  Played once with gaming group.  Looks like a game that many people would enjoy.  I'm going to hang onto my copy (for now).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+I've had mixed results with deduction games: the standard Clue is a game that I have always enjoyed, even though because I find it too easy it really hasn't satisfied the deduction itch; Mystery of the Abbey has proven to be a game that I find boring - not enough player interaction with the number of players that we play with at home.  The game seems almost artificial with three players.  Will Timbuktu serve my interests or will it prove too much deduction and not enough [fun] game for my family?  
+
+My only play was a big success.  It was fun, without being at all tedious, like some deduction games can be.  Want to play again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Played once.  So far, I like it a lot, and would definitely like to try it again.  I played the Queen version, in which note-taking is allowed, so the game becomes more deduction based than memory based.  I don't think I'd like it nearly as much without the note-taking.  Also, the Queen production values are excellent.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Ouch!  This one will hurt your brain.  Bring along the Tylenol.  That being said, if it were a little shorter I'd probably rate it higher.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Independiente del idioma.(Sólo instrucciones)
+Sin estrenar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Each person has some info but not all info
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Someone on the listing for Timbuktu asked if guessing the right space to land your caravans on was the only decision you have to make in this game. Well, yes, essentially, that *is* all you have to do. But you never have perfect intelligence as to what is where, and outguessing your opponents either works or backfires right in your face. The game is not the deepest strategy game I've ever played, but it is fun, takes a short amount of time, and is accessible to virtually everyone. And the new Queen Games edition is gorgeous. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very good deduction game. I was taught to play with paper and pencil and while playing without might even make it even more brain melting, I think the last option is a lot better to have the game flow a little faster. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Essentially, a memory game i.e. simply remembering where the robbers are...  coupled  with some simple probability calculations. Quite fun on first play. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Take notes!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+How can I think while my brains are burning?  This is a tough deduction game, in a similar vein to Sleuth.  Sleuth is more elegant, of course, but whereas in Sleuth, one person's error can mess up the game for everyone, Timbuktu only lets you mess things up for yourself.   
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Gracias Werner!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+unopened
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ Community: 10+
+Weight: 2.79 / 5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Played the new Queen version - very nice production.  I really like the deduction aspect, which seems unusual in this sort of game.  I won my first game - can't be too bad a brain burner!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Traded away one copy to user Ooops in Essen Math Trade October 2010
+Traded away one copy to user DirkT in unknowns Math Trade November 2010.
+Sold one copy to binraix in September 2011.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Good blend of deduction, simultaneous cardplay and sequence timing. The deduction element isn't overwhelming since you can play well with just educated guesses and taking account of what your opponents are doing. At specific times, the actual sequence of who plays when can be more important as trains fill up.Plays quite fast (unless you're playing with people who want it to be a full on deduction/calculation game).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+With five players, the downtime as everyone consults his notes comes close to outweighing the enjoyment. With fewer players, what at first seems to be a bland experience with a few straightforward deductions becomes in its later stages quite a compelling game. Camels that have lost most or all of their goods can be used in interesting ways to acquire information at fairly low cost.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+reclamar 10 camellos, defectuoso
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Have played this a few times, and I can say that this game holds little love for me.  Though it's been long enough now that I don't remember why I weasn't so keen on it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Only one play so far, but I really like this game.  I mean, who doesn't love Camel Meeples, right? Very simple, yet quite challenging.  My only complaint is that the could have mad it slightly smaller - the box is huge for what you get. Another hit from the folks who brought us Alhambra:The Dice Game.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+M1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Pretty dry and repetitive.  Keeping track of info and who has seen whatisnt too much fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rating after 1 play. I don't think this a brainburner like everyone else mentions.   Of the 5 paths, you know information about only 1 of them at the start.  Maybe by the time you place your 4th camel, you'll know info about 3 of them.  The rest has to be guessed by interpreting other player's actions.  You can combine goods left on your camels with the goods info from the thief cards you haven't seen to help make your selection.  So that's worth a little info, but still that only manages the risk, not eliminate it.  So in the end, you generally have to make some guesses.  That's not altogether bad though since it's not a long game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Players are running their camel trains, carrying goods, across the board.  During each round of camel movement, from one waterhole to the next, several thefts will take place.  Players are given Cluedo-like advanced warning at which spaces the theft will take place, and what will be stolen, if your camel is occupying that space.  At the end of the game, any goods you're still carrying are given a point value based on what was stolen (clever!).  For years I'd heard about this as being a brain burner, and it is to some extent, but in reality it's not bad at all.  Good game, part deduction, part playing the odds, quite quick too.  The Queen edition has lovely bits.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I like the deduction aspect, but I don't like that it's combined with a memory element.  I'd rather be able to take notes.  Still, interesting game.  Might make for a good play-by-web experience.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Dirk Henn!!!  Brain burner delight. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sounds interesting, even if it has been compared to Soduku.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I really like deductive games, and this is probably one of the best.  On top of which, there are camels!  This game is a little intense for people not looking for a brain-burner, and can go on for some time if you use every board, which we usually don't.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting deduction game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[img]http://geekdo-images.com/images/geekmbs/mb_658_0.gif[/img]
+Box halfed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+First of all, I suck at this game. I have never won. Ever. Yet, I own it and I keep suggesting that it hits the table, because the components are some of the finest I have ever seen in any game, the theme rocks and the creative twist on the deduction mechanism rules! This is a keeper.
+
+[b]9.28.09 Update:[/b] I finally won at the last F5 game night. It was a 3 player game and it was the first time we played the customized side of the player board. It was way more fun being able to set up your camels any way you thought was best. It provided more strategy and depth. However, that being said, this game still has far too much luck for me to enjoy much. I will still play it sparingly.
+
+[b]Rating History:[/b]
+< 1.5.11 = 7.00
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+sign
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+This is simple, but very good game.
+There is some place for deductive reasoning and bluff, but still bad luck can mess with You.
+
+Sometimes it could take too long (with 5 players) for such simple title. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Never with 5. Very repetitive, sometimes no choice.  Suspect best with 3.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Következtetős, tervezgetős. x szakasz, minden szakaszban előrébb vándorol a karavánunk, ám minden egyes szakaszon jönnek a rablók, akik visznek vmilyen árut. Azt h melyik szakaszon, melyik karámból, mit visznek: ezek vannak minden szakasz előtt újra keverve. Amiből az egyes szakaszokon 3-t fog megismerni mindenki,egyet alapból kap, 2 pedig menetközben jön majd elő, a mikor az előre tudható, pontosabban a hol, mert h mikor ekrül oda etve. Így egy szakaszon 3-t ismerünk meg ebből kell kitalálni, összerakni, h hol-mi várható. Nagyon jó, nagyon szeretem.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.6
+Nice game if you are in to deduction and logical thinking games. plays well with 3 ,4 and 5 players. I like the fact that you can change the size of the board and the number of camels in order to lenghten or shorten the gamelenght.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This game was a pleasant surprise. I enjoyed my game of Tombouctou. I played it for the first time on the big gameday on July 1st 2006. This is basically a memory game. I am not a huge fan of memory games, but Tombouctou would be an exception to the rule. The reason is that Tombouctou is a bit different than your typical memory game.
+
+Basically in Tombouctou, at the end of each turn, a thief steals stuff off the camels. Their is a thief in one spot in each row. The goal of the game is to keep as much stuff on your camels as possible. Each item is worth something at the end of the game. The most points wins.
+
+TRADED.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+deep thought game with a good deduction element, however play/outcome can be
+greatly influence by luck of the opening draw. Can be SLOW with SLOW players.
+I have no desire to own this, but would play on occasion. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 Players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This game amuses me in concept and is a great memory test (unless you are full of cheaters)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Prestado por Sendoa
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3000 HUF
+Lefoglalva
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This a well designed game of a type I don't particularly enjoy (detailed tactics and deduction.)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A fair game, but nothing special. a perfectly pleasant way to spend an hour.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An advanced Cluedo game. Like to play with my kids. We don't use pen and paper, just memorize.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+International Version... rules in 6 different languages included, good!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Have both editions. This is a very interesting deduction game, with informnation passing clockwise each round. You must bring your camels through the desrt without being robbed. Very cleverly, the stolen goods are counted up at the end and set the value of what reaches the marketplace. As I played, I found that there was more to be deduced from the other players' decisions than first appears. A very interesting game I will enjoy testing further.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nice deduction game where the deduction isn't the ultimate goal (although it certainly HELPS).  Careful camel placement & loss reduction are other key points.  A lot of thinking between moves makes this better suited for "gamers" than the family crowd.
+
+Queen's new production looks great and doesn't feel "dated."  Hopefully, this will keep the game alive for years to come!  With 5 players, I recommend reducing the length to 3-4 rounds.  Grade: B
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The stickers didn't adhear well or at all to the camels.  Ended up using a gluestick to attatch the stickers to the camels.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+This game is decent fun.  I had high expectations for it.  I really like Dirk Henn, I respect many of the people who gave it high marks.  However, the chance elements can be really irritating.  On the one hand, it's part of the nature of the kind of game it is.  But I hate when you get a streak of "bad luck" with a game like this.  I guess after many plays it balances out.  I've only played this 4-5 times or so.  However, these irritating elements increased with each play and I liked it less and less.  I'll continue to play it, because it is captivating and fun.  But can also be very irritating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+y
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Necessary record keeping slows this game up a little.  It is a game of deduction.  On Bruno Faidutti's Best Games List.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I may upgrade this rating the moment I feel I'm getting some degree of control over what is happening.  As it is, I'm playing more on instinct as the sparse information must be inferred from other players' moves and the clues I get from the 3 hands I get to see (too late sometimes).  But the game itself is wonderful as it really feels like a game.  I guess note-taking could improve the quality and efficiency of every move, but this would remove some of the charm of trying to guess which road is the safest.  I also feel the game would be tedious and repetitive with 5 players, 3-4 works best I think.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+20
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun little hidden-information game about thieves raiding your caravans.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+B09
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+brainburner, gets good reviews
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+Kellemes kis családi játék, komoly dedukcióval, némi memória elemmel. Az utóbbit el lehet hagyni jegyzeteléssel, de szerintem úgy elvesztené a varázsát a játék. Elegáns, egyszerű ötlet, jópofa játék.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Deduktion im Durchschnitt.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Seems like a great idea, but not implemented very well.
+
+It's a game you feel like you want to take your time to ponder your moves, but at the same time it feels like gameplay should flow very quickly. As a result you either annoy the other players by dragging the game out, or you reduce your decisions to little more than random chance.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+This euro deduction game sounds original, but I still have to check if it is good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Very clever game, maybe too clever. You have to track down all the other players moves and goods. Simply too much. After some time the gamers tend to not look at the goods on the opponents cammels in order to guess some of their informations: in this way you can not made the right choice and the luck jump in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+I played one game of this, it went for 3 hours and we were beaten by my 10 year old son. He knew what he was doing, but it does make me wonder about the game. Some skill is required, but it doesn't seem to be very much, and the game goes way too long for that.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Fun deduction game with a nice theme. However, the fact that it's a serious brain-burner and plays too long with 5 people means it won't get played very often. I like it enough to never turn down a game, though probably not two in a row.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Speilbox 1/2006 blx 12
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I like deduction games, and this is a good one.  Unlike games such as Mystery of the Abbey, or Clue Timbuktu uses the mechanic in a fresh way.  Having a good memory helps, as does a little luck, good deductioning skills, and as the game progresses being able to bluff well also aids in play.  I like the stretching of brain cells this title offers that most euros shy away from.  Timbuktu offers great laughs, and a lot of fun for a reasonably quick play time.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Fun game - especially if you name your camels and have to remember them each round.
+
+Also ignore the rule which says you can write down where the thieves are going and what they are going to steal - this makes it far too easy. You must remember this yourself when you hand your cards along.
+
+However another ridiculously large Queens game box - why??
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.2
+Needs more play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.2
+Confusing first play. I can see that one would get better with subsequent playing but the first effort was a bit overwhelming. Also this is a memory game and I'm normally not very good at games where you have to memorize stuff in order to be effective.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+High strategy, some luck. Cool
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nice "deduction" game with gorgeous components. Very enjoyable and also feels quite fresh.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Tom
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A great dedection game that has camels instead of suspects.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+After one play, it is apparent that this is a special game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lots of fun packed in this game. Components look great, but I did not like the fact that you have to apply all the stickers to the 40 camels and I wonder how long they will stay stuck without having to glue them later down the line.
+
+As you have heard this is a deduction kind of game. I didn't find it nearly as brain burning as a lot of people have claimed. I almost didn't buy it. Due to so many people mentioning the brain burning aspect of the game. I however did use pencil and paper to keep track of the thieves. This didn't seem to detract from the game at all. I am out for a fun experience with other players. Not a mental meltdown of wits between each other.
+
+There are a lot of laughs when someone has a lot of their goods stolen and also a lot of bad words when it happens to you continually, but OMG what a fun experience. I am very happy that I took a chance and decided to get this game. 
+
+I highly recommend this game for everyone. It can be a fun family game with non-gamers or a heavily matched battle of wits when played with the advanced variation without the pencil and paper to keep track of the thieves. There's a lot to offer here to please most people.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+available at game store $30
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Got around to putting the stickers on the camels but not played it yet.  Too many games, too little time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+German edition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Could be a brain-burner, could be a light tactics game - depends on who you play with and what your attitude is. I prefer the easier way - it makes as much fun as the hardcore version but you aren't so tired after the play. Worth knowing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting deduction game featuring camels - wooden rather than pastel.  I like it.  Have played a couple of 4p games only using the 3p setup - see no need to add the extra time needed for the extra board?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+i can't remember why this game is on my list, does that mean i should not be playing it?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A real game of deduction. A bit dry and abstract, but the wooden camels go a long way.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Finefield, BGG Auction, 01-30-2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Solid game but very prone to AP problems. A good game anyway.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Mauricio
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+New edition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A bit too much like hard work
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I have a very bad memory of the kind which is required in this game. Deduction can be fun though and I see the merits in this game. It unfortunately isn't my kind of game because of the memory aspect. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fun game, lots of stuff to keep track of so have a paper handy. The rules recommend this and I can't stress enough how this will help you play the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+First and most importantly, you absolutely must allow the players to take notes during the game.  I've trod the path to Timbuktu with and without note-taking, and its desert flowers only bloom when notes are allowed.  There is way too much to remember without notes - every round you're learning three different combinations of two goods/two stops/one caravan, and then the entire thing is repeated again and again in different permutations in future rounds.  That's too taxing on my memory.  By the end of the game, I'm lucky if I can recall just one of the three-card sets, and I'm better than most at memorization.  But with notes, Timbuktu is terrific!  With players' brains freed from the drudgery of memorization, they can pay attention to what their opponents are doing and make smart guesses about what information they might have.
+
+This is strictly a five-player game in my opinion.
+
+The new Queen edition is so gorgeous that I'm tempted to dump my db-Spiele edition.  The Queen edition explicitly allows note-taking, smartly eliminating a point of contention in the old version. [b][UPDATE][/b] Yup, I went ahead and bought the Queen edition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A little fiddly with all the good you have to set up, but once that's done it's a wonderful brain-burner. Great for deduction, great for reading your fellow players, great great game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+3-5p, 45m. Sudoku-like deduction needed.
+
+Anniversary gift from the kids, July, 2008.
+
+Traded to Margeric in Fall Hoopla Math Trade on 9/29/12.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Perhaps I don't get it yet, but don't find the amount of info you get useful enough to really plan with. A couple of goods difference can be a huge disadvantage at the end, but you don't necessarily have the control to prevent it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Two plays, both with five, I think. 
+
+It has its fun and interesting moments, but it just wasn't fun and interesting [i]enough.[/i] To be more specific, it's simply too long given the chaos involved. Theoretically you could bust your brains out trying to guess what people know judging by their moves and what their camels are carrying, but I'm not convinced that it's really worth the effort. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very colourful deduction heavy game. Components are good even if, in the copy I've seen, stickers on the camels where falling off. Overall good production values. 
+
+As for the game this is a deduction heavy, brainburner. There is also a certain degree of hazard and cutthroat which makes playing this game cognitively hard. I can also see that there are many layers and nuances not immediately visible, some practice is needed to play well. And, if all play well, this may well produce analysis paralysis even in the habitually decisive players. 
+
+That said, I'm in no rush to play this again, but I don't think I would turn down a game as long as I don't feel tired or mentally exhausted (something that, alas, happens too often). 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+If you like camels at all, you will absolutely LOVE the components in the Queen edition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Dan4th's SS09 gift. A nice deduction game. You progressively get up to 60% of the information available and can infer more of it. Lots of educated guessing. The variable good value seems clever, but our games have all ended with most goods worth 9-12 points... not a huge difference.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is the best deduction game I´ve ever played. Exciting to the very end. Great bits, too. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An interesting game, combining deduction and optimization.  It's a bit overwhelming and confusing at first, but about halfway through you realize that it's not as complex OR random as you initially assumed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+An interesting idea that just didn't do much for me. At the time I was reminded of some other games, but I can't remember now what they were.
+
+Players control camels bringing several different goods across the desert. At each stop, thieves will take particular goods from particular spots. With limited information, players must try to avoid theft and simultaneously increase the value of certain goods so that by the end, their remaining goods are worth the most points.
+
+Pretty dry (excuse the pun) and not very engaging. The amount of control was limited to such a degree as to feel it didn't even matter what choices you made.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It's got camels - what's not to like?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I didn't really enjoy this - it just seemed like a bit of guesswork mixed in with a bit of deduction and generally just too much like hard work. Wasn't really fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.7
+For first time players, the first set is often enough for them to get a handle on the rules, strategy and tactics of the game.  One could almost play a special "reset" and give everyone back their goods after the first set of thefts and continue the game from there.  It might make some players less frustrated that they lost so many goods while getting the hang of the game, and everyone feels the game is moving along and not really resetting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Tombouctou... wtf where they thinking?! I hate to have this edition, but I don´t spend another 5 or 10€ just because some drunk jerk named the game wrong...
+
+However, this is a brilliant deduction game that plays very well from 3 to 5 players. 
+
+I can´t say that I like deduction games, but this one is a great game.
+
+
+*had the opportunity to switch the game*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+db-spiele
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Fun deduction game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I wish the stickers didn't keep peeling off all the time!
+Interesting deduction game that I'm probably being too mean on with my 6 rating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+It is hard for me to find opponents for this game, but for me it is a great deduction adventure.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Fun, limited information resource management game.  The stickers don't stay on the camels is my only complaint.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+A deduction game where one will get three pieces of information out of time over the course of the turn.  One must move his/her camels in the spots where there is no robber, or their camel does not carry what the robber is after.
+
+Fairly straight forward, but can be long when played with analytical people.  Components are nice.  Not my type of game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not your run of the mill deduction game. Very clever design where players can intuit or be bluffed by each other's moves. A nice elegant scoring system as well. I played without any note taking, not sure if that's the rule or a variant, but I suspect it's quite playable either way.
+
+One usability gripe: Stupid squiggly lines! Why? Make them straight.
+
+(1 play)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Good but somewhat long with the full complement of 5 players. Might be better with less. Queen's production on this is very nice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+[Initial Impression: 7] 
+I'm good at this game, but I just don't enjoy it very much. It's an interesting logic problem, but it seems less like a game and more like a puzzle to me. Maybe I'm missing some aspect of player interaction, but it mostly seemed like others can't really get in your way because they have the same limited information as you do. In terms of strategy, don't be afraid of the spots that make players pass cards - the more information you have, the more likely you are to make valid inferences.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+http://spotlightongames.com/list/nights/t.html#timbuktu
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Tuckboxes posted.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+not usually a fan of dection games but I like this one
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+db version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Good deduction game that is a bit of a brain burner
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+싫어하는 기억력게임ksp
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I like it best with note taking allowed.  It brings the deduction element more to the front.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Con tan sólo unas partidas jugadas, juego de deducción muy interesante. La mecánica es muy sencilla y se aprende rápido. Las partidas tienden a alargarse, porque hay que sopesar bien cada movimiento. Divertido, si te gustan de este tipo.
+El material es mejorable: las cartas de juego podrían ser algo más grandes y resistentes. Necesario el uso de fundas. El tablero está bien. Bonitas piezas de madera a las que hay que adherir unas pegatinas... por cierto, ten pegamento a mano porque todas se despegan.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Deduction element is fairly light (akin to Alchemist), you can figure out things and make educated guesses based on what the other players do, but you still going to have to guess because there isn't enough time to figure out everything 100%.
+
+Interesting. I would play again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Medium weight deduction game.  More to it than Cluedo but simpler than Sleuth.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+The deduction element felt too light for me, as you never have enough information to  work the whole problem out. I prefer my deduction games to really blow my mind, like Sleuth.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Best deduction game I've ever played. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+No comments
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Wow, Timbuktu is the first deduction game I've ever played that didn't suck.  Man, I'm glad I bought it.  The bits are super nice (although make sure you get those stickers on real tight or they'll peel) and the gameplay is smooth as butter.  There's just enough information to make some sure guesses, and a little bit of information to make some shakey ones.  I particularly like the economic effect of scarcity on goods that develops the final scoring.  This game just feels tight, elegant, and plenty mean enough to avoid the regular problem in deduction games - make one wrong turn and you're out.  Here, many wrong turns will be taken by all!
+
+Did I mention I love the bits?
+
+Update:  There are some issues with seating order that can unbalance the game if some people aren't good at deduction games.  Timbuktu can also become very brain burning if played over analytically.  Make sure you have the right group before attempting otherwise it won't be nearly as good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Like multiplayer mastermind.  Cute peices.  There seems to be quite a bit of moaning and groaning during the game which I like.  (-:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+alternate name: Tombouctou
+suitable for newcomers 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I just don't generally care for deduction games, but this one is at least somewhat charming with the theme and camel bits.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Fun game, but I don't know if I have anybody who would enjoy the intense deduction of it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Mixed feeling: 
+It can be played as a heavyweight brainburner and it works (mostly at full complement) or as a sort of happy-go-lucky memory game and it works. 
+
+It's a little dry (ba-dum-tss), but I wouldn't say no to a game once in a while. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Wow.  This one really caught me.  I really like it.  Unprecedented depth in a Euro game.
+
+Updated - downgraded mostly due to not being able to get anybody to play it.  If nobody likes it, why do I like it so much?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+After 1 play.
+
+Much better than I thought it would be.  I expected 100% deduction with no fun.  What I got was a lot of deduction and a bit of fun.
+Of course if you play with pencil and paper (which I don't recommend) and think heavily over every move it might be 100% deduction.  And 100% of pure boredom and insane downtime.
+If I'm to play it ever in the future, it will be not in this 'total brain burning' manner.  I'm not going to miss the fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Played once and need to play again.  This is a deduction game kind of like sleuth where you have a limited amount of information about which of your camels are going to be stolen from, and you have to guess where to place the rest of them based on this information.  Fun but takes a little long with a full complement.  I would like to play it with 3 or 4 instead of 5.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A fun simple game. Practically no strategy to it as luck plays such a big part.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+During my first play of this game, I knocked over a wine glass, covering half the board with red wine. Undeterred, we wiped everything down and started over. I think I've determined that deduction games aren't my thing. It wasn't a bad game, but it wasn't terribly fun, either. The hidden information and forced guessing makes the game feel too random even though there's technically not a lot of randomness in the game.
+
+I've played it a second time now with a different group and I might have warmed up a bit to this game, but not so much that I'm dying to play it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Could be the best deduction game I've played.  Not sure I would want to play with less than the full 5, which means it won't hit the table as often as I'd like.  Also, there are some types of gamers that I know just won't enjoy this game.  The audience is slim, much like RoboRally.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good game that requires deduction skills as much as memory and some guesswork. 
+With five players it's a bit long.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+New Queen version is absolutely beautiful.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+2013-01-22
+
+Initial Rating: 6.5 (November 2011)
+
+I didn’t want to play this (and still resist it sometimes) based only on the theme. For me the theme is dry and very boring but the gameplay is good enough I can ignore that. This is a deduction/memory game (my kind of game). I understand the rules allow for players to take notes but I have not played that way because I feel the game would be much easier. I will try it with notes sometime in the future so I can comment on that but I think I would not like the game as much that way.
+
+The game components are gorgeous, except for the stickers that (constantly) usually gets unglued from your camel. The mechanics are pretty simple but the gameplay is very tense. You have to manage the risk as you begin only with 1/5 on the information and as the round progresses you can get at the most ½ of the information of where and what the robberies will occur. That means that many times you will have to move without knowing if you will get robbed or not. As I have pretty good memory I think I have an advantage over most game mates, however as the game progresses you can mix up the information in your head, making this a bit of a brain burner (Which I like).
+
+I feel the game is a bit longer that I enjoy. I would like if the game finished 1 leg earlier. 
+
+The scoring system is very clever, you get more points for deliver the kind of goods that were mostly stolen, however, the player with most goods at the end (no matter what goods) will probably win.  
+
+I want to play it again and I would love to play it if the theme was more appealing to me.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Played once, couldn't wait for it to be over.  I'm just not that interested in tracking information, and playing this game well requires meticulous tracking.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+March 2013 Check.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+This is a very nice deduction game, although deduction alone won't win the game.
+Its also easy to get stuck in AP.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+R052014pk siumui
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A nice light deduction game that I think works best with five players. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Brain burner deduction game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Enjoyable game with a good theme and cute camels.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A quite good memory game. The game has no sense if making notes is allowed.
+
+2006
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Yes, it is a bit like Sudoku. But I like Sudoku as well. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+A definite brainburner. Players afflicted with analysis paralysis should stay clear.
+
+At the beginning of the game, I felt there was too much information (both hidden and revealed) to make calculated decisions, but by the end, I could see opportunities unfold in front of me.
+
+Keeping notes with pen and paper is a bit fiddly. Use the player aid found on BGG!
+
+NOTE: There is an issue with stickers coming off. Recommend using a glue stick to fix the problem.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Well I finally found some victims for this game.  It is a logic, puzzle type activity, I enjoyed it although it is not everyones cup of tea.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+de 3 a 5, tablero
+juego de deduccion, es un coñazo montarlo pero es una obra maestra. Debe ser el juego gordo de la tarde porque te dejara reventao de la cabeza
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Op zich geen slecht spel maar ik ben steeds te snel afgeleid waardoor ik de combinaties niet kan onthouden en dus steeds op geluk speel.
+De medespelers willen het niet spelen zoals voorzien in de spelregels (opschrijven van de combinaties) dus voor mij mag het de deur uit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Clever design, pretty bits, decent theming, and then the headache begins. This gets a bit too "puzzly" for me. I think I'm good at it, but it just seems like too much work and not enough fun. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not yet played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Even though it's definitely a lot easier than some of its more hardcore deduction game brethren, this can still definitely be a brain burner.  Depending on your opponents, it can be really easy to deduce where the thieves will strike.  But it gets more interesting later on as the camels have their stock depleted - it is possible to bluff your opponents.  The main problem with the game is that it is subject to A/P problems, depending on the player.  I would really enjoy this game in an hour, but if it lasts too long some of the fun disappears.  I have to admire Dirk Henn for being such a versatile designer.  I really like the camel meeples in the game - the whole package is very nicely done.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Semi-blind camel placement game. In a way, I see this as a better, more fleshed out version of Palatinus. There's quite a lot of information to track, but players basically just need to make educated guesses until they deduce where the thieves will strike.
+
+Fairly short and easy to learn, although the game can slow down a bit if the players want to "overthink" their turn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Queen Games
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Fun?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1/17/08
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Ultimate brain burning, four players sudoku. It's masterpiece of deduction, truly unique game. However, playing is so hard, that most people will quit.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(SPK)
+Name: Tombouctou
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A megjelenésén érezni, hogy nem mai játék, de működésileg nem mondanám elavultnak. Talán kicsit túlságosan absztrakt, de mivel eléggé oda kell(ene) figyelni a játékmenetre, nincs sok alkalom azon sopánkodni, hogy nem elég tematikus. Nekem tetszik, hogy részinformációkból kell dolgozni, és hogy egy-egy elrontott forduló után sincs veszve minden. Biztos vagyok benne, hogy néhány játék után jobban menne ez az egész. :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Simple to understand, yet interesting as it unfolds.  One of the better games to get the nod at my family gatherings.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Might deserve a 7.  Just one play, and I wasn't immediately warm to this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deduction.
+
+Jogo de dedução.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A quite clever deduction game. Recommend playing without pen and paper.
+(Based on just one play.)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Nice bits. A game with deduction where you have to take the leap.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Juego de deducción bastante chulo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.9
+best deduction game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+hand management and deducction are the mechanics in this economic game from 1993. Solid design and playing time that is right for what it is.
+worth trying if you have the chance.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Tremendous deduction game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+What a great game: mix of deduction and gambling - should I stay or should I go? New edition has great components too. If you like deduction games you'll love this one too. NOTE: I prefer to play this without pencil&paper (like in the original version) - then there is this little deduction and memory -elements which ones increase the excitement.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Great deduction racing game - I really enjoy this one on occasion, though I had a decapitated camel for the first few years I had it.  Took a while to get a replacement Camel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+___$__$$$__________$$$
+_$$$$$$_$$$$$$____$$_$$$$____$$$
+$$__________$$____$_____$$_$$$$$$$
+__$$$________$$___$$_____$$$____$$
+____$________$__$$______________$
+____$________$_$$_______________$$$
+____$________$$$__________________$$
+____$_________$$___________________$$
+____$$______________________________$
+_____$_________________________$$___$
+_____$$_______________________$_$__$
+______$$___________$$_________$_$__$
+_______$$$$$$$$$__$$$___$$$$__$__$__$
+___________$$__$__$_$_$$___$__$__$__$$
+_______________$__$_$_$____$__$__$___$
+_______________$_$__$_$____$__$___$__$
+______________$__$__$_$___$$_$$____$_$
+______________$_$___$_$___$_$______$_$
+____________$$$_$_$$$_$_$$_$_______$__$
+____________$$$$$_$$$$$_$$$$_______$$$$
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I'm not a deduction gamer but this is a deduction game that I don't stink at!  It's doesn't have nearly the complexity of Code 777 or Sleuth but I like it.  It does burn your brain a bit but I can actually figure most things out.  For a less longish game, play with fewer boards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Like many Dirk Henn games, easy to play and easy to teach.  I enjoy Dirk Henn games and found this one to be very enjoyable although next time I'm thinking of allowing paper and pencil to write down notes.  Some luck is involved, but the game is pretty much about hedging your bets.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A good twist on a deduction game.  Half deduction and Half puzzle.  Always reminds me of those logic puzzle books
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting and unique game.  I enjoy deduction games generally and I liked how this game managed to combine a deductive element into a game that also involved risk management and set collection.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+An interesting deduction game, but I feel that players have too little control over the outcome.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Not bad. I'll give it two or three more plays.
+
+Edit: far too long
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very nice deduction game, with a lot of tension.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+nice deduction game... More meaning for me because i actually have been there...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An elegant deduction game where the actions of the bandits are cleverly controlled and the value of the goods are based on the scarcity when the camels reach their destination.  One suspects that this game is too open to analysis paralysis, players spend most of their time referring to scribbled notes, but as I came last my powers of deduction were never that good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Need to play by Nov 1. 2011
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Un jeu de placement tactique, aux parties malheureusement un peu longues.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Не так-то просто в условиях недостаточной информированности принимать решения. Но в этом и есть прелесть игры - что-то просчитать, что-то предугадать, что-то отдать на волю случая.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Makes my brain melt. A deductiongame that it always takes me 3/4 of the game to remeber how to make use of the information available. I like it just for that challenge.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Try to reach Tombouctou with goods.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Queen games version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Finally, a deduction game where you're not always starving for information.  I like the fine granularity of the decisions.  It's almost a worker placement game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+I recommend playing the variant where you have to name all your camels with a name starting with the letteron their back. And more importantly I don't use pen and paper, as it's much better remembering the position of the robbers!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Played once. Interesting basic idea, but trying to work out all the clues is way too hard for what it's worth, and without the clues it's a random crapshoot. Not for me, I guess.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+An ok game. Not terribly exciting. I don't remember anything exceptional about it.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Tombouctou
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+Two Plays.
+
+At first, seemed like a brain burner but it's really not.  A little note taking should keep you straight.  Need to try this a few more times for a rating adjustment (+/-).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Played 2 times
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+With the complete track, it is a bit too repetitive for me, although the basic mechanism is very nicely done. I'll certainly try again, but probably a shorter game.
+Played once.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+No idea this game was so old.  Not a bad game really.  Fun to do the best with what information you have.  You'll need paper and pen unless you have a great memory.  Each round you have to remember 3 sets of 3 cards each... perhaps some can do it but it's a bit more than my brain can store at once.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(Box 5).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+* Innovative and fun game. It would be better to last 1 or 2 rounds less. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+There are some interesting aspects but overall it just gets too repetitive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Played twice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+312 2.8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3 to 5 player 45 min
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Original. Kind of different game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+100 PLN stan bdb wydanie miedzynarodowe instrukcja PL
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+>A good game. The rule is simple, but the deduction and motive detection gameplay make it very demanding to the player's brain power. I played poorly in the first game but I'm eager to play it again and again.>Can understand why this game is not very popular here. Demanding, expensive, and has a name which is difficult to be pronounced (at least in the perspective of a Chinese). But I think it deserve more table time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+07/25/06 Played about 45% of a game, once, of Tombouctou. A bit like Clue in that there's a large memory/deduction element. Its not a brain burner, but it does seem prone to analysis paralysis. A little tedious. Though its a nice looking game. I might play it again, but I wouldn't ask for it. There's nothing wrong with it. It just didn't grab me. I think I played enough to form an opinion; "eh".
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A deduction game that was more enjoyable than I expected!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Dirk Henn
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Camels make the game. It helps to make a few camel noises while you play this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Essen 2008
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Can be quite a brain-burner, but I also felt like there was quite a bit of luck involved until you have 3 hands' worth of information. By the time this happens, it's quite likely that you screwed yourself pretty badly from just random guessing.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Mr.Jack for more players, brain burn
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+I enjoy the gameplay and design of Henn's take on deduction.  However, every once in awhile you just don't have enough information to know where to go... and this is where luck comes in.  The other problem is that if you really want to play this the right way it should be a brain-burner and that's just too much paper-work especially considering the fact that some of your deductions are often based on what the other players are doing.  Problem being that your opponent's may not have a clue.  My feeling is that if I tried this again with experienced players my rating would go up (a bit).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.3
+Probably the most interesting deduction game of the few that I have played. Nice bits, lots of tension. I think, as a friend of mine said, that it could be a little shorter. Otherwise a great game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+not high on my want list
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Best deduction game I've played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Great disappointment. Its far too complicated for what it is: a simple deduction game at its core
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Okay. Requires more memory than I can handle without taking notes, and yet features the smallest amount of notes in any game I've played. I never feel like I can make an actual deduction from the clues. Meh.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is a great deduction game that rewards a little bit of risk taking but also good memory
+
+Can be played as a two player game, but it really shines with more.  Good amount of 'arms length' player interaction and strategy with a little AP if you are prone to it, but still it means that you can chat to the other players between turns, making it a great game to play with people you haven't caught up with in a while
+
+Gameplay is really easy to grasp after a turn or two as well.  It isn't a heavy thinky type game, so suitable for all ages
+
+Really like this one and hope to get to play it more as the years go on
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Cool game that probably doesn't have a wide appeal but shouldn't be missed if its basic attributes sound good to you.  I'm not really a deduction guy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2.5
+Played once.  The game is based on moving camels up a series of tracks over five rounds; some positions on the tracks have negative effects occur to camels on them at the end of each round.  The movement of each camel is restricted by its position on the board, and players only know 1 to 3 of the 5 possible negative effects that will occur each round.  The number of possible moves/positions that need to be analyzed before deciding which camel to move is extremely large; players must consider the information they know for certain about which spaces will get negative effects at the end of the round, the probabilities that other spaces on the board will have negative effects (which requires analyzing other players' prior movements and all possible combinations of unseen negative-effect cards), the effect other players' movements (during this turn) will have on their movement options, the resources each of their specific camels is carrying, and the restricted movement possibilties of each camel.  Thus, to play well, each player must agonize over each camel's move, and since each player must move at least 25 camels during the game, if the game is played strategically it will necessarily slow to a crawl.  And, thanks to the high impact of stochastic events (the negative effect cards and how your camel placements at the end of one round match up with the negative effects of the coming round), the game is not worth playing at a crawl.  
+
+What frustrates me most is that there is (almost certainly) a single logically optimal move for each player at each point in the game, yet it's tedious and time consuming to figure it out.  I'd have much more fun programming a computer to play through the game for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Just enough information to make interesting decisions, with the occasional wince.
+Do not play this game with slow players unless you have a good book to hand.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Didn't seem too interesting at first, but got better on every round. Rather exciting game, some deduction but nothing too paralyzing. Very clever!
+
+Indifferent.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+we had great fun during our first game, guessing where the next theft will be and trying to avoid the spots
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Light deduction with memory and bluffing. Fun game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Like a Sudoku puzzle. With camels. And where you never receive enough clues to reliably solve it.
+
+After the 3rd round or so, it started getting repetitive, but was fun until then.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Curioso juego de deduccion. Tiene una mecanica atrayente e inmersiva. Hay momentos en los que no hay mas opciones que optar por la buena fortuna pero eso tambien le da su gracia. Es un poco largo para 5 jugadores y un poco soso con 3 por lo que es recomendable para 4 jugadores.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+One of the best deduction games.  Working toward the puzzle.  Multiple rounds.  3-5 players. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I have yet to encounter a Dirk Henn game that I didn't like and here is yet another fun game for the family.  I see that some people recommend taking notes rather than reward whoever has the best memory.  Might be interesting to try it that way.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Clever mechanic of combining thievery with establishing the value of goods.  Even though this uses one (along with ancient Egypt) of the over-used themes in games--desert-caravan--it still delivers good solid fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+An incredibly simple yet deep game. Quite taxing on the brain but also quite rewarding. Components of excellent quality.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 players, 45m, 10+, wt 2.8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Rodney
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Yes, there is some deduction, but it's not enough for me. Could do with more player interaction too. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Peut-être un peu long pour ce que c'est, mais j'ai apprécié ma seule partie jouée...
+
+EDIT 2015-07-01: Un jeu exigeant, qui demande beaucoup de réflexion. Excellent, mais pas n'importe quand!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+25 $
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+2nd edition from Queen Games. Since the 2nd edition allows you to write down information, you can focus on deduction part without worrying too much about your memory. It's not guaranteed that you can deduct all the information(some cards you will never see, and sometimes you just have to guess from other players' moves). This was a bit of a dissapointment to me. Overall a good game, but feels a bit old.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Fun little deduction game. Takes a bit too much time sometimes, but I like the smaller victories in deduction.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.1
+A fun, highly interactive deduction game that's marred significantly by its play time. The game page claims a 45 minute playtime, but with 5 it's likely to run twice that, which is probably too much for a game that runs so similarly from start to end. House-ruling things to reduce the number of rounds seems wise, even if it might create minor first-player advantages. Clever and cute, to a point.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+How random.. and how cool!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A light deduction game, I quite liked it. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A much better party game that requires more logical deduction and plays best with 4 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+It took longer than I thought it would, but then again our initial play included a hopeless non-gamer and a known APer. So not quite the quick filler I was hoping for. The game itself is repetitive by nature, without much of an arc through 5 rounds, although it does get easier to avoid being stolen from as the game goes on. The best part is the thief reveal at the end of each stage. I'm hoping it plays much faster next time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+znalezc jakas recenzje
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Need to play again.  I played when I got off a plane from Paris.  I don't remember much other than my brain hurting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+acceptable deduction game, if it is played fast.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Interesting puzzle/logic mechanic. It seems that you'll probably want to sacrifice one camel to probe unknown areas or drop into a bad position. Only played with the default camel setup, but if you choose which goods to load on the camels it seems like it might be a good idea to specialize. I might suggest this next time we play.
+
+After more plays, I'm not sure this one is worth it. If I want a good logic/deduction game, I'll play Sleuth or Zendo. As it is, this game is a bit too random and the logic only comes from guessing what other people know.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Nice deduction game (there are not that many fine deduction games).
+
+The components are nice, except for the camel badges (the stickers lose the glue) and the graphic design is functional but beatiful.
+
+The theme is not perfect, but it works fine :-)
+
+I wouldn't like relying on memory to play it. There are nice handouts that allow you to take note of the clues you see every round, but then deductions are too easy. This is for me the biggest issue, and I have not found any workaround for that.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Deduction game with a hint of memory game (I like to play without notes). Playing is a bit on chaotic side since you don't have ever full information about thieves and you even don't know which camels are moving after you. It seems to be almost a perfect fit for my gaming taste with these elements. Biggest annoying thing about game is that stickers on camels don't stick with their original glue. I superglued them onto camels!
+
+Update (19.11.2007): Five player game can take quite a while and there doesn't happen too much moving from second-to-last oasis to final one as almost everyone can hold their precious cargos a bit and/or play to safe spots. Yes, a couple tiles will be lost because of moves you must make to avoid bad positions or by bad luck. Game is also quite repetitive as every journey is exactly the same. I'll try to play next time with one board less than five players normally would to shorten the game a bit.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Deduction, memory, and a bit of bluffing. Absolutely not for overanalyzers. For a deduction game, the fun factor is exceptional. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This clever deduction game comes with great components. Unfortunately Timbuktu is not much fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.9
+Very good game of deduction.  Definitely the brain-burner that everyone claims it to be.  You should pick up this game at your next opportunity.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Big-time brain-burning deduction game. Ouch!
+
+2007
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is a nice mid-length game. I tend not to play with the camel cards because managing so many things can be a bit unwieldy for a game that doesn't have that much strategy. I have found that this game goes over well with those who enjoy puzzles and deduction.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Players: 5.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1/06,3/96,
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+New Queen edition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+規則:
+*根據人數使用對應的主圖版
+*每人拿一個顏色的圖板跟所有駱駝還有駱駝卡，圖板上根據人數放置對應的貨物在對應格，玩家輪流放駱駝在起始點的任意格，放完後每個人一定要每一列都至少一隻，最年長起始拿回合跟階段標記，每個階段當駱駝從一區移動到另外一區結束，每個階段分成三個部分
+1.將盜賊卡分類洗勻，每種抽一張發給每個人，三人時，起始的左右各放一疊，4人時放起始的右邊
+2.移動駱駝分成數個回合，每個回合大家一起蓋著出一張駱駝卡，之後打開照順位移動該駱駝，每個駱駝從該列任意格移動到下一區的任何一列的最前面格，如果是移動到有箭頭相連的列免費，否則要棄掉一個該駱駝身上物品除非沒得棄(個人圖板上)，所有人移動完後回合標記左傳，繼續移動直到駱駝移完
+*踩到交換牌位置時，所有到盜賊卡左傳(包括人少時放在桌上的)
+3.盜賊階段 所有盜賊牌打開，三張剛好指定拿列哪格被偷什麼，對應駱駝玩家棄掉所有該物品放到主圖版旁，如果還沒到最後區，則階段標記左傳，且回合標記也給該玩家，盜賊卡重洗重發
+*遊戲結束時所有個人圖板上的物品價值主圖版旁棄掉數目的分數，分數最高的獲勝，平手比物品數量
+**變體***
+起始3/4/5人時發每種物品各7/5/4個，使用個人圖版的背面，每人自己分配物品位置，每隻駱駝要帶3~4種不同的物品，沒放上去的物品移出遊戲
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Too dry, too analytical and in the end, you end up taking some crap shoots based on what people have done or not done. Not a lot of satisfaction in winning, not too much fun in the playing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Only works with five players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+enfundado
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Based on one play: A game of deduction. The mechanics are fairly simple, move your camels from one section to the other and try to avoid the five thieves that will steal your goods in each of the next three section. You get to see three thieves per section, however not all at once, so you need to make some deductions and sometimes just hope for the best.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very interesting brain-burner with some clever deduction and risk management decisions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Semplicissimo e cattivo al punto giusto. Il meccanismo di calcolo dei punti privilegia i giocatori con le merci più razziate, e a ogni turno possono cambiare le quotazioni. Da non giocare col mal di testa: tutte le cose da ricordare memoria fanno friggere il cervello.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Storage - Hall 2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.9
+PO
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+It's a rather light game, but there is some deduction to it. I'm not a huge deduction fan, so I can't really recommend this one. The pieces were nice and the rules easy. But it ends up being a bit too long for what it is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+cezner
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I enjoy the simple mechanics and the deduction aspects, but it feels it goes on a bit too long and the game is about 1/3 chaos and 1/3 luck.  Add that when someone gets a lead, about all you can do is hope they make mistakes.  I think the game needs 5 rounds though to help even out the luck/chaos.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.9
+Great incomplete deduction game. Very straight forward to play, one has to pay a lot of attention to what is happenning.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Kinda clever, kinda boring.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good game.  Just easier to get other games to the table.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+With the right group... This is fun. Not the group that says "camel homework"
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Players guide their herd of camels laden with goodies through roads to the titular destination. However, thieves will steal certain goods along certain spaces in the five roads. As to which goods, which spaces and which road that is provided by packets of info passed around the table. But you will only know 3 packets for sure, the rest you have to deduce from opponent's movements of the camels. I love deduction games but trying to determine what info could be in each packet is a bit heady, as not only could an opponent give clues by avoiding a space in a road, but also occupying a threatened space (because the camel doesn't carry the goods desired by the thief)can throw you. Once at Timbuktu you sell your goods, in the same way in King Lui, neatly showing scarcity increases price. So interesting, but too much of a mental stretch and until packets start being passed, you can be (un)lucky.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+good game once you figure out the instructions.  Need a good memory to do well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This is not somuch a game as a race to solve a logic puzzle. It is usually very, very quiet during play. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+No idea about the game. But Queen games as a company has many issues. I will never support them again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+have 2 of them one for trade
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I just don"t find the deduction deep enough in this game.  It can also seem to drag on.  Not my favorite.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+So far only had a chance to try this once 3 player. I think 5 would be optimal but might be too long. Enjoyed this game of deduction for the first play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Deduction game. Best with 5.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Craving: 50 (Tombouctou), gift
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.4
+Another little gem that is so rarely talked about.  I absolutely love deduction games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.25
+Extremely good game.  The hand-made (dbSpeile) edition I had had some mis-printed cards, so I am glad that I also own the newer, over-produced Queen edition.  The components in the original are better, in my opinion, but the 3-D camels are kinda cute (once you get over the shock of having to apply saddle-bag stickers to all of them).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+G
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+Lots of effort but I'm not really sure what happened. Played a three player game. Didn't feel all that "fun." Rating will probably change as I get more plays--especially with more players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Played the new Queen version.  Very nice production qualities, but the game was nothing special.  Not bad, just nothing special.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Thought this was the "brain burner" everyone spoke about until the second round - it's not. It's simple deduction (note: simple, not "Murder in the Abbey" wait-until-the-last-round, not-enough-info deducation). You get som pretty good information coming your way each turn, and then it's about risk management. Enjoyed it more than I thought I would.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fun deduction game, if you find deduction games fun...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Plays: 0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Can be a bit of a thinker. Get your camels to Timbuktu without losing too many of the goods they carry to thieves waiting in each section of the board. The information of where the thieves will attack will gradually become known each phase, still leaving some deduction work. Good fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A good deduction game.  There is a little luck movements with minimal information, but as long as the game progresses at a reasonable pace, this doesn't harm the gaming experience.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A good game, but I find it a bit dry. It's essentially a series of three to five logic puzzles, each like the last, except that the penalties for doing poorly are cumulative.
+
+Cute camels, though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A rare beast - a deduction game where winning requires best use of imperfect information.  You have hard evidence (what you've seen) and soft evidence (what you deduce from others' action) and statistical evidence (X is less likely than Y).  You factor these together to find the safe play, prioritising the highest risk moves.  Good fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1 partida
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+une belle surprise
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A brain burner, chaotic if players don't take notes. A game of deduction and odds management. Other players' actions impact you because there are limited spots on the board, because their actions can be revealing, and because they influence market prices for goods. Always exciting when the smugglers moves are revealed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+interesting deduction game that is unique in that you actually have to deduce and new mystery each round.  Has some downtime but there seems to always be some to ponder when it's not you turn.  Pretty easy to learn and good as deduction game go.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This one seems like an easy one.
+It's a bit Clue.
+But there is more that meets the eye. :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Scratches my deduction itch.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.2
+Incentiva os "contadores" de counters, eventos etc.
+Para quem não consegue lembrar da última jogada, como eu, é bem monótono.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Provisional rating after one play.  Because of the brainpower necessary, it's clearly not a game that can be played for 'fun' all the time; however, every now and then, I can see how much fun this would be, trying to figure out info based on other people's plays, taking calculated risks in sending your camels out, and simply hoping that everyone else doesn't play 'rock' when you play 'scissors'.  A very interesting mix of issues.  My only concern is that it might be a very slow game when played with the right rules.  Time will tell if this is the case.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Enjoyed it, but it can make your head hurt
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Very good planning/deduction/guessing game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Each round starts with too little information and not enough maneuverability to utilize the information you do have. Anyone that opens a round with a "1 pitch" thief card is stuck playing a guessing game with the other four pens. I was stuck in this situation 3/5 of the rounds and guessed wrong twice to devastating consequences. Nothing like getting knocked out of the game due to simply guessing wrong. Once more information becomes available, the deduction aspect of the game comes into play and it does become an enjoyable, though agonizing, exercise. It won't matter if you guessed wrong in the earlier blind guessing part, though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A neat and different deduction game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Play only one time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Played once. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Not sure on this one. I want to think there is more game here than I felt initially. I would need to play another couple of times. It was quite long for what it is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+--Sept2007-- Definitely a brain-burner; much too much work for the youngsters.  And probably too much temptation to paralysis for most of my friends, too.  It's cool, but I'd guess I don't get it back to the table very often.
+--Jul2013-- Yeah; it took a while.  But the guys enjoyed it much more than I'd guessed they would.  It's better than I remembered, too:  easy to explain, and plays cleanly too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Not played yet
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Felt a little too uncontrolled for my tastes, although there were some nice aspects to it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A very clever game of deduction, lots of painful decisions (probably too painful for some lighter gamers). I wouldn't play the full 5 rounds of this with 5 players very often, but it is really good otherwise.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I like Timbuktu. It's very clean and complete. Playing this can take a while though when people optimize their moves (especially after a few beers :-)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Christmas 2008 gift from Sarah.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Rym and Scott and Matt and friends played live Oct 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(20)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+OOP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+PUNTUACION
+Oca: 8
+picassojac: 7
+
+PARTIDAS GANADAS/PERDIDAS
+Navir	3/1
+Tabli	1/0
+Oca	1/4
+XAXO12	0/1
+Jose	0/1
+Loli	0/1
+picassojac 0/1
+alucard66 0/1
+kenolose 0/1
+ananara 0/1
+Mª Angeles	0/2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Heavy deduction game -- sounds interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+One of the best deduction games that I've ever played.  Players guide caravans through the desert trying to avoid thieves at the oasis.  They have to deduce where the steals are going to be made by their card hands and by the movements of the other players.  To consider the different probabilities about the information that is not known by them is a crucial part of the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Pretty... and some nice ideas... and it's not as if we're swimming in deduction games. Still, always seems to be it all comes down to luck. And considering the length of the game, it makes the experience rather bland.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Szeretem ezt a jatekot a harmadik parti utan is. Az izgalom, hogy tenyleg jol kovetkezteted-e ki azt a pontot, ahol legkozelebb rablas lesz. Esetleg felrevezeted a tobbieket es olyan tevet kuldesz oda amirol nem tudnak rabolni, ok meg erre nem szamitva elkezdik mogotted tolteni a sort. Egyszoval, szorakoztato.
+Update1: Tovabbra sem vesztett fenyebol.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Little in the way of fun here. It's a deduction game, but half of your game is still spent guessing. I was getting better by the end, but by that time I was glad it was over. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Picked up the new edition. Finally own it after a 4+ year search. Still would love to get the original version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Too much of a brain burner.  You know your in trouble if you have to take notes to help you.  Nice new mechanic but I'd rather not think this hard.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Cave
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Lisette's
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Somewhat fun game; best with 5.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Timbuktu -- Played once; three-player.
+
+Dry, quiet play.  I think I will find it more engaging with more players, as their actions will give clues to the thief cards I haven't seen.
+
+
+
+Frank Branham in Deduction Games (http://www.thegamesjournal.com/articles/DeductionGames.shtml)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Your brain will melt through your ears whilst playing this game, but you'll enjoy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+A close run thing - it could have been a 7 had the game been slightly different. As it is - for us, at least - there was a disparity between the fun concept and the protracted analysis of your best move. Can see why some people like it a lot but it wasn't for me.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Own db Spiele version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Правила игры выглядят интересней самой партии. Если же играть серьёзно, вдумчиво и много раз, голову можно сломать - игра заставляет напрячь мозги, при том, что механика проста как апельсин.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Probably a more challenging game if you rely on your memory as opposed to taking notes. Keeping track on paper felt too much like Clue.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+One play with five players.  Excruciating decisions.  Need to play with pencil and paper.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I love this deduction game: the flow, the logic, the second-guesses.  I recommend some laminated player aids for keeping track of the information.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+[2010-11-06]
+Az első játékom alapján gyorsan kiderült, hogy az ilyen dedukciós játékok igazi rétegjátékok. Nekem személy szerint nagyon bejött, de a játékostársaim közül volt akinek egyáltalán nem. Ami szerintem teljesen érthető. Az ilyen típusú játékokhoz más hozzáállás kell, mint egy Ticket to Ride szintű játékhoz. Fontos a gondolkodás, ami lefáraszthatja az embert, de szerintem nagyon is kellenek az ilyen játékok is.
+Gondold ki, hova viszed a tevédet a következő oázisban, az apró információk jó végiggondolásával kerülheted el a fosztogatókat és áruid így juttathatod el a végső célig. Aki a legtöbb értékben juttat el árut a végcélba, az nyeri a játékot.
+Jegyzetelős, végig gondolkodós játék. Mindenképp olyanokkal érdemes játszani, akik kellően rá tudnak erre a szisztémára hangolódni, de ilyen emberekkel szerintem nagyon kellemes játékélményt fog nyújtani a Timbuktu.
+
+[2013-04-15]
+Nos folytatva a két és fél évvel ezelőtti gondolatot. Gondolkodós, a játékot komolyan vevő játékosokkal viszont igazából szerencsejáték. Ugyanis mikor nincs információ, akkor a szerencse dönti el, hogy ki melyik helyen mit fog elveszteni. Második játékra már egyáltalán nem éreztem, hogy ez kimondottan tetszene. Nem rossz játék, de nagyon sok jobb van nála. A kivitelezése viszont nagyon kellemes.
+8->5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I'm really impressed with this game. I never realized I liked deduction games before I played this one. It's fun with 3 as well as 5.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 1.5
+Well, the Queen version is pretty.
+
+But it is way too much work for whatever fun it yields.  
+
+I wouldn't consider this a brain burner, rather than an exercise in accounting.  Perhaps this should be a game about hiding your books from auditors.
+
+I'm still waiting for the fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I must be getting old as I need a sheet with clues whereas my sons do it in their heads! So much for experience!Now where did I put my caravan?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+own Tombouctou
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Can't figure out when went wrong in the initial play but I just did not like this game despite the very high production values and great designer name attached. Disappointing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great deduction game. Game is great in incraments, but I could not play this twice in one day. Great artwork though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A good deduction game, though we aren't keen on deduction games. Way better than cluedo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Very light deduction game. It actually worked pretty well. Not a lot of player interaction as the majority of the game has every player with their nose buried in their notes trying to figure out the safest place to move your camels, but those who like that kind of deduction mechanic are going to have a good time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+1 play at Essen '05. A deduction game with economics. I prefer other deduction games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A brain burner to say the least that somehow manages to combine deduction with a bluffing element.  I like how it grows increasingly difficult as the game progresses, creating more tension and drama in the race for victory.  My brain still hurts!  It would be hilarious to play this game without taking notes.  I think my head would explode.  Note:  I can't imagine too many games clocking in at 45 minutes.  60-75 or higher seems more likely.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Juego en el q hay q pensar más d lo q parece. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+BestWith:5>4>3 [Deduction]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Acquistato a Modena al negozio Chimera
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Handleiding: NL
+Huur: Groot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Deduction game with some real choices! I still suck at it, and it being quite long, I don't think I'll play it very often anymore. Sold off my copy, but wouldn't mind playing this once more (which isn't going to happen, as I know nobody who owns this).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Robert's
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I like the game has a try to out guess your opponent on the best placement for your camel.
+
+As a deduction game, a bit too brain burner for what it offers, mainly the same game four times in a row.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+I love deduction games!  "Mr. Jack" and "Fury of Dracula" are 2 of my top 5 favourite games of all time.  However, when "Mystery of the Abbey" failed to provide the fun factor I was looking for, and I discovered that "Timbuktu" was a group deduction game, I was excited to give it a try.  After reading the remarkably simple rules I was wondering how on earth a player would be able to "deduce" anything, but the first time I was able to figure out all 10 thieves in our first game was a great eureka moment!  It turns out this actually is a pretty decent little deduction game with an interesting economic element thrown in.  The production quality, while not quite as spectacular as "Mystery of the Abbey", is still top-notch.  You just can't go wrong with camels.  Or penguins.  (Hey!  That's my camel!)  The only thing you'll want to add to the game is the player aids created by BGG user BigWoo:  http://www.boardgamegeek.com/filepage/22959.  Do yourself a favour and print them off, cut them out, laminate them, and purchase 5 "dry erase" markers.  Then you'll be all set to play a very fun game!  Game design: 4.5/5  Personal enjoyment: 4/5  Total: 8.5/10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I would give this game an eight, but it is too heavy to be played often. You need fresh and really sharp mind to win.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+[1 play] Initial reaction rating.  Really more of a logic puzzle covering as a game.  I love logic puzzles so I did really enjoy this game and my rating reflects that I would love to try this game again.  The one thing I don't know about is that the game was pretty repetitive.  You move the camels to the next oasis and then the next, and then the next, and then the next.  It is always the same thing repeated five times.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+[Queen Games 'Timbuktu' 2005 edition] {Desert, merchant; memory, deduction, blind-action selection; optimal 5p} A nice deduction game with a strong Arabian theme.  It's unique enough to be in any game collection. It's funny to see other players are forced to lose goods or have their goods stolen.
+
+The game rule is clear and intuitive. It is not a pure deduction game - it needs strategy and some tactical (or nasty) moves to score points. My game group does not take notes, which makes Timbuktu more challenging.
+
+The component and artwork are elegant. The camels are cute. It'd be better if I don't need to work with the stickers.
+
+It's not easy to design an interesting and functioning deduction game. Deduction games are inherently boring and brain-teasing.  This game, nevertheless, provides fun and good player interactions.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.25
+An ok deduction-based game.  I like that the deductions aren't the victory condition in themselves, but rather a means to an end (getting your stuff to the end safely).  You don't get all the info for any round, and so have to make some educated guesses, and you can get lucky or unlucky early in a round, which adds some tension and groan-worthy moments when you realize later in the round that you just set yourself up to get totally robbed blind by the raiders.  We played a shortened 5-player game (four rounds instead of five), and I'm grateful in that I think it was starting to wear a bit old by that time.  It's not a bad game, but it started to get a bit repetitive.  Still, it's nice to have a deduction game that the winner isn't just the first person to declare it was Father Bruno in the Lobby with the Cube Tower or whatever, but rather who can put that info to the best use.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Really cool and really tough inference and bluff game.  Trying to figure what exactly is going on is very interesting.  I see some people here say this game will melt your mind, maybe they are right.  This game usually has a AH-HA I GOT IT moment for every player. Really good game,  the best Queen has offered for some time.
+
+Update 12/07  settled on 7,  there is just a little too little known information for my tastes,  but I can see why many people could love this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Fun, light deduction game. Certainly not a brain burner. Some things you know. Other things you can easily figure out. The rest you make reasonable guesses at. Another plus is that I don't have anything else quite like it in my collection, so it's "safe" in that regard.
+
+Update [11/11/09]: Dropped two points to a '6'. Played today and thought, "meh -- I could do the work to figure this out but I just don't care. Too much work and not enough payoff.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4.5
+This game works but it is REALLY not my cup of tes.  
+
+I stink at deduction games and this has crap loads of deduction at work.  Add to all that deduciton a blind bid feature and I did not like this game.
+
+I don't mind a blind bid mechanic in the right type of game but their is way to much thinking going on for this blind bid mech.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+My Ranking
+2014: Rank 100+
+2013: Rank 100+
+2012: Rank 75+
+2011: Rank 75+
+2010: Rank 50+
+2009: Rank 48
+2008: Rank 44
+2007: Rank 41
+2006: Rank 41
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Pros: Great for those who like deductive games. Fairly unque gameplay in that the deduction element is not a goal in itself but a means of helping you transport your goods safely.
+
+Cons: Could take a long time to play if you allow over analysis. May be one of those games best played with a timer.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Interesting game.  I'm not sure I'd call it deduction; there's just not enough information for that.  Its more a risk-taking game with limited info.  Its NOT a memory game, despite what some people comment; the rules even tell you to write things down!  The luck element can be annoying at times; sometimes you just don't have information you can really do anything with and must make a mostly random move.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Wow, you should have seen the steam coming out of my ears.  We played without the notepads.  I think I probably added 15 minutes to the play time.  I had a blast though.  I liked the mechanics of cardpassing, deduction and camel movement.  Very clever. 2006/07/18
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Good and tense deduction game. Would be funnier with writable sheets with a matrix to mark, ease the deduction process and shorten the game length, as in 'Mystery of the Abbey'.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+3-5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Deduction game like Sleuth but better and funny. It shuld be shorter for having right pleasure. You can remove one set if you like. I prefer playing with paper and pen.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Really fun deduction game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A little intuition and deduction with a little bit of luck thrown in for good measure. Nice theme and bits in a fun game where you try to sell your remaining goods at the end of the game for the most profit. Beware the theives!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+P1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not a bad little game based on the first outing.  The first play seemed chaotic, more like we were taking wild pot shots in avoiding the thieves for the most part.  But at least I could taste that there was more too it... much like I felt about Ra when I first played.  Subsequent plays have show me that isn't as chaotic as first percieved.  A solid game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+E7
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Received - Keepin' it Real (Short) - A US only Math trade
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A really great logical deduction game. Usually not in the mood for it, though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Played at least once
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+copies of db spiele and queen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+What a brain-teaser! I really sucked in my first game but liked the game nonetheless. I think this needs few more plays to get my "little grey cells" adapted to the gameplay. Very clever and original.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Rating after one play only.
+Liked it a lot. Rather unique gameplay.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Timbuktu is a delightful deduction game.  It moves quickly and offers a large physical board (a rarity in the world of deduction).  Experts at 2nd and 3rd level deduction can gain an edge, but not one that prevents all of the players from enjoying the game all of the way through.  About the only thing missing from Timbuktu are erasable player aids, and those can be downloaded from the Geek. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I haven't really played a good deduction game. I have played games with elements of deduction, but not the real deal. This is the real deal. No yelling or arguing it plays quite at the table. It's a bit long. I also think it's a bit short on game mechanics. Not a bad game, just not a headliner.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Although the 45 minute play time is a bit of a joke, this is a pretty solid game.  As with any competitive deduction game, it can sink rapidly into AP territory, which might be alleviated a bit with a sand timer.  All-in-all, an enjoyable, and very handsome game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good game. Similar to some other desert travel games I've played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+This has too many things to think about. I feel like I could make the optimal play every time if I took 5-15 minutes per decision, but I don't want to spend that long on this game, so I felt like I was making substandard plays the whole game. No fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 45min - strategy, wirtschaft - deduktion, memory
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Fun play, a bit too random and not much control.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A good game with some really hard decisions to be made. Memory is a must on this on!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.1
+Quite nice puzzling deduction game where you try to work out the possibilties  and such ...aka cluedo ....beautiful pieces and bits ..fu n enough
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+its basic but stll really fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+At the end of each stage, thieves will steal goods from the caravans when they stop at an oasis. Each player must engage in a Sudoku-like analysis of the clues he is given to determine which pitches in the new oasis will be struck by thieves and which will be safe places for him to rest his camels. As the round progresses, you gain more information about where the thieves will be. The object of the game is to be the trader left with the most value in goods when you reach Timbuktu.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+After one game i must say i enjoyed Timbuktu quite a lot. Rules are actually very easy to learn and the next games will be played faster.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Timbuktu is a deduction game by the highly acclaimed Dirk Henn of Alhambra and Shogun fame. There are not a lot of well designed deduction games out there in the market. Timbuktu works extremely well in subtly providing various layers of partially hidden information for players to tease apart. To be successful in this game, one needs to tap into all these layers of information, including those that are directly (rotating thief cards) provided and the information that is indirectly observed from player choices. To be fair, luck can affect the game in the way caravans are being assigned in each row which can restrict placements in future rounds and when the partial information is revealed to you during each round. Early in the camel placement each round, there is often not enough information to completely place your camels in the safe manner. Late in the round when more information is available, there is often inadequate safe spots left for camel placement. Needless to say, you need several plays to discover how to extract the hidden information during gameplay to excel in Timbuktu.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Only played it once. Might well rate it better after some more games. 
+There seem to be quite a few strategic possibilities which don't dawn upon you right away.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Ow! My chuffing head hurts!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+fun; everyone should like this; thematic desert scene; kids will also love;  try to get your camel to the end without getting robbed of all of your goods after 4 or 5 rounds of movement; secretly see some of the areas that will get robbed and try to avoid them - bit of area control going on here and some pressing your luck; would be a most enjoyable to a broad section of gamers; I think the more players that you have playing it, the better it is 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+partial information, deduce more by paying attention to the other players.  One of few deduction games that doesn't feel like a clue-clone.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Decent deduction game.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I thought beforewise, that this is heavier. It still needs much of thinking, but in good form. It is memory-deduction-probability game. I prefer to play only four episodes with five players. Game is too long with full five. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Initial Impression; limited plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Tombouctou
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+have not played as of yet
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.1
+achat usagé
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A light deduction game with a significant helping of chaos and luck.  It's probably my favorite of that type.  There's just enough deduction to keep be interesting and allow some control.  Educated guessing is the name of the game, and it is almost always pretty close.  A very good gateway game.  Nothing is too complicated mechanically, but there is enough thought to be had with only a very few rules.  Best of all, it's just plain fun.  Really a strong, light game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+I am not good at deduction games but this was fun. I think with 5 and adding the extra board it goes on too long. I would play again with 3.
+
+2009-10-18: Bumping rating up to 6.75 -> 7.5
+
+Traded MoV for this at Fallcon 22: 2009-09-18
+2010-Oct-16 - Sold at Fallcon 23
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.3
+Not bad... but not awesome too. Guessing game, with some luck involved.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rated after five played games, where the first game was played with notes. Making notes about thieves pretty much ruins the idea of the game, it is better without notes. If there were more interaction, the game would be better, but I don't know how interaction could be implemented. The components are nice, but stickers won't stick to camels, which is quite painful. And camels in blue look horrible. Simple game, which is intuitive and easy to explain to new players. Deductive memory games are not for everyone, but there is a target audience for this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rating after one play. I would need a computer by my side to play this game. I just don't have memory enough to keep all the information in my head. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Mine's Tombouctou actually. Same thing really.  It was missing 2 camels when we took off the shrinkwrap, but asked Rio Grande for the missing bits and they sent them.  One more reason to love Rio Grande games!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting but agonizing as your caravan is being robbed turn after turn. A quick guess will reduce the risk of being robbed considerably - figuring out exactly which route is safe to take should be possible most of the time, but is very hard to do. Quick competent guesses and a bit of luck will probably beat failed analysis.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Buen juego de deducción "tipo Cluedo" o "Misterio de la Abadía". Pero con muchos enigmas, lo que permite que el liderazgo del juego sea más disputado. Bueno para novatos en eurogames
+
+Nice deduction game similar to Clue or "Mistery of the Abbey". There are multiples misteries to solve, and this allows to have many changes in the leadership of the game. Very good for newbies
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Dirk Henn; At the end of each stage, thieves will steal goods from the caravans when they stop at an oasis. Each player must engage in a Sudoku-like analysis of the clues he is given to determine which pitches in the new oasis will be struck by thieves and which will be safe places for him to rest his camels. As the round progresses, you gain more information about where the thieves will be. The object of the game is to be the trader left with the most value in goods when you reach Timbuktu.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.2
+Η πορεία του καραβανιού στην έρημο είναι επικίνδυνη...κλέφτες καραδοκούν σε κάθε χάνι! Αν όμως αξιοποιήσετε τα λιγοστά στοιχεία με λογική, ίσως καταφέρετε να γλιτώσετε το εμπόρευμά σας από τα νύχια τους και να φτάσετε στο Τιμπουκτού νικητές!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Not Yet Played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Avoid thieves that are trying to steal from caravans. Memory may help to know the spots that are dangerous.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Bel gioco in cui bisogna sfuttare tutte le proprie doti mnemoniche per poter portare a casa il maggior numero di punti possibile, ottimi materiali.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A movement/deduction game in which you want to avoid the thieves on the path to Timbuktu. Unfortunately, you know only a drop of information and learn more only twice in each round -- then the round begins again and the thieves hide anew. Too long with five players, especially with those who ponder at great length; good with four or three.
+
+I'm interested in trying the game with no notes, as suggested by Dan Blum, who always plays this way. Very curious...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Difficult conceptually, but mechanically very smooth and simple. Just so much to keep track of, esp. inductively.
+
+Just not optimistic this will see much table time, as it's a hard slog.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I find this game brilliant, but I admit that it is hard to find a group to play it with.  Everyone needs to be comfortable thinking deeply (and quickly) or it isn't satisfying.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+A better than average medium weight game with elements of deduction and some luck of the opponent move thrown in.  Great wooden camels.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A bit too much memory (I'm bad at that)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+I think this one belongs in most collections as it is so very different from most other games.  There isn't anything quite like Timbuktu.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Played twice. Needs more people than we three.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Slightly repetitive, but very entertaining and an excellent twist on the deduction genre.
+I finally broke down and re-glued all the stickers on the camels using white glue and a tooth pick. Took me a while, but it worked.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+nice game, but too long (played 4/5 players)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+y
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Excellent deduction game, may not be easy to teach at first but once you get a game or two under your belt its easy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I like the deductive reasoning in this game, which a player aid helps a great deal.  The only thing I don't like is at times it's a bit too random which makes real deduction not as valuable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An okay deduction game, which is definitely not for the AP crowd. When played carefully, you can actually work out all the bad spots on the route, and in your setting up beforehand it is possible to make the most advantageous combinations of goods on your camels. Tactics seem to be along the lines of either positioning your own camels to avoid the thieves, or positioning your own camels so other people have no choice but to take the bad spots. Presumably can be played with pen and paper to keep track of what is where, but for a real challenge you'll want to do it without.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought 22/07/2017 from a charity shop £10.00
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+a bit overly-long. I love the mechanics of this game. The bits are just beautiful, but I think together the deduction mechanic doesn't appeal to everyone. Plus the game runs prob an hour long for my liking, nip that off N it'd prob b a game that would see the light of day more...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A game from the "thinky if you want it to be, but ultimately not worth it" family.
+
+That is, if players are sufficiently motivated, they can perform the mental acrobatics necessary to figure out the likelihood of each thief combination being each column (based on the actions of other players, all available combinations, etc.), and then play accordingly.
+
+OR, players can decide that the game's middle-to-low level of enthrallment doesn't warrant this extravagant mental effort.  Having made this logical decision, said players will then make superficially reasonable plays based on whatever stray information they happen to remember from the card sets that they were passed.
+
+You can probably guess which category I fall into.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Nice game - hard for me to remember everything
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Played once (with 5 players). Some very nice base ideas, which have been fleshed out into a too intense game. Maybe it would have been more enjoyable (and easier) with less players, but we had the feeling there was too much information and trying to play accordingly was more painful than enjoyable. Having more rounds with more players makes the game much longer (although it is good for balance reasons to have everyone start once). I will try to play it with fewer players next time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+the rating is based on reading the rules 
+
+polu endiaferwn gia to eidos tou euelpistw suntomana to paiksoume medieval game pou dwthhke ws dwro se filo
+
+edit 
+
+παιχτηκε πρωτη παρτιδα αν ζητατε κατι στην κατηγορια euro ειστε στο λαθος παιχνιδι.Αν δεν σας πειραζει το random η η συνδυαστικη-αφιαρετικη σκεψη(εχει μπολικη το παιχνιδι)
+τοτε το παιχνιδι μπορει να σας αρεσει:)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Love the little camels! A brain teasing deduction game that requires a lot of thinking. Enjoyed the game but some parts were very slow and the lack of control over moves can ruin a very well thought out plan.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Deduction game with camels. Try not to have goods stolen from your caravan as you cross the Sahara by avoiding dangerous spaces on the board. You'll need paper and pen, otherwise it becomes a difficult memory exercise. 
+It can be annoying to have to make a move without knowing anything about where you are moving to. This is fair enough if your opponent played so as to put you in this position, but is worse when the game randomly forces you into it. 
+There's an interesting scoring system where you get more points for goods that have been stolen from other players (representing their price rising due to reduced supply), but this aspect of the game is hard to control or play for. Trying to keep all your goods intact is probably a recipe for disaster. Instead, maintaining a couple of unaffected camels can be better.
+Requires a sort of thinking I don't particularly enjoy. It's not a brain-burning game as such, but something about Timbuktu irritates me. It's as if it makes you use a different part of the brain; a part which also induces mild annoyance.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.9
+Interesting deduction game.  Over the course of a round, 3/5 of the information about impending thefts will be revealed to you.  Through careful examination of the known information, you try to avoid the other 2/5.  Be the player who delivers the most goods to market. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Great deduction game. During the first game, everybody was focussed on making the best moves based on the cards they themselves saw; I suspect that deducing what other players have seen will become a more important aspect after more plays. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deduction (3j4j5jj)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A game of deduction and calculated risk. I didn't delve deeply into the logic puzzle elements, just skimmed the first level and avoided risks. Can cause paralysis of analysis and being forced to choose between two (or more) bad moves. Too deep to be a light game, but lacked the anxiety and aha! moments of deeper games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3.4
+Decepcionante y largo para lo que es.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting twist to your standard deduction fares.  Since you won't completely figure out all of the card combinations available, and you definitely need a bit of luck to protect the goods you are carrying from being stolen.  I personally found that by allowing note taking, you take away a lot of the tension from the game, but I also realize some people are just not good at providing themselves with memorization cues.  Very tough decisions between occupying a thief space you know that's safe for your caravan or leaving it open for an unsuspecting opponent.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting deduction game that I couldn't stand when I began it, and actually liked it by the end.  I wouldn't mind trying (and hopefully doing better at) Timbuktu again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Rating after first play. Heavy-duty deduction game that melts your brain away. I liked it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+NEW
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This game is not for my tastes. The deduction and memory aspects do not mix well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A deduction game that does not follow the usual Clue blueprint too closely, thankfully, and while the theme is not particularly strong, the mechanics and feel of the game are both great.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Avanza tus camellos por las 5 líneas disponibles. Al final de cada etapa las caravanas serán asaltadas: 2 camellos por línea perderán 2 tipos de bienes. Al final del juego los bienes tendrán más valor mientras más de ese tipo de bien a sido robado en total.

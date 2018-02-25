@@ -1,0 +1,349 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: ConHex
+RANK: 3380
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+ConHex can be seen as a distant variation of Gomoku except for that instead of claiming a space on the board by placing a stone directly on it, the stones are placed around the space. The first player to secure the majority around a space claims it. Then you are just fighting over the neighbouring spaces in an attempt to connect the two opposite ends of the board.
+ 
+The starting player has a huge advantage in this since the first player to achieve the majority instantly claims the space and the majority cannot be challenged afterwards. There is no compensation for going second., and you can hope for a tie at best unless the other player makes an obvious mistake. In four words, this game is turd.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+An excellent connection game where you are trying to gain majority spaces around each square or hex in order to control it.  A bit like GO in that if you see you can take control of an area, you don't need to play a stone around it until your opponent does.  
+--Aug '07
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Intricate 2-player abstract strategy, I love playing on Yucata.de. Now I want the real version.
+
+This is not your standard connection game. The way the vertices indirectly control the fields leads to some surprisingly distant influence, giving it a Go-like feel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Only played on Yucata
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+nestorgames
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+08.01.01.03
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+an: Jürgen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I really like this one...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.25
+Wow!!! simple rules but absolutely great abstract game.
+
+Played on www.yucata.de and loved it.
+
+Home made.
+
+2009 Xmas gift for my father.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+@Yucata
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+in process
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Based on two plays at yucata.de and I have to say I'm not at all impressed. Starting player seems to have huge advantage and game play is thus very straight forward. Not a favorite of mine.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sounds interesting. I may be willing to trade for a copy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Hands down classic.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+As far as connection games go, this is one of my favorites. The idea of owning cells based on the smaller pips is very interesting. The shape of the board allows for comebacks and is not too big overall. A very fun game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A great abstract - I want to make myself a copy out of hard wood.  A coffee table game if ever there was one!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+A great area majority/connection game.  Each possible move bears on three areas, except in the key corners and center, which effectively make those areas more expensive.   The game is dead simple, yet the multiple implications of each move make the strategy quite complex.   One of the best connection games, along with Hex, Twixt and Y.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+It feels broken to me. The swap rule does not fix this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This beautiful looking game requires the type of mental jiu jitsu that I find fun in two player abstracts.  I worry a little about the first player advantage.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A connection game with an area majority element thrown in. Interesting and worthy of exploration, although all other connection games pale in comparison to the queen of the genre, Twixt.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+nestorgames
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Abstract game that plays well and looks nice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+The Boardgames with Scott review made this look neat. Maybe not 50 bucks worth of neat though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Big first move advantage. Pie rule doesn't work. Small board results in a short, rather tactical game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.45
+2017
+====
+
+A nice tweak on Hex where cells are claimed via corner majorities. The extra level of indirection adds some nice spice to the dry Hex mix.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+perfect game of connection
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I understand it well enough to enjoy it, but it still surprises me by pointing out new ways I can play badly. I'd like to play it a lot more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Still early in my exploration of Conhex. Area control, connection, and zones of influence. A nice package. Worried that it may be solvable, but for now very smitten.
+
+Homemade board printed on scrap manilla folder cardstock, though online play at yucata gives a better view of the board than does physical play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+can be played online on yucata.de
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A nice twist on Hex. Rating based on one play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Original high quality  Wooden edition. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I'm wondering if this is just literalizing something that's going on in every connection game-- you can start committing to a section of the board, and then later take uncontestable control. But it's a satisfying bit of business to conduct even if it were just window-dressing (which I'm not sure it is).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+基本一軸のコネクト系に、エリアマジョリティを加えてミニマムに破綻なく成立させている。単調になりがちなコネクト系にうまく捻りを加えている。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+ConHex will become a classic.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Clever little abstract strategy game.  Available on www.yucata.de.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I lost terribly, and still had fun. This is a very well designed game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+2015-01-02
+
+Initial Rating: 7.5 (December 2011)
+
+ConHex is a very simple game rules wise, however it has a surprising and satisfying depth. Every move counts and it is great as you try to outwit your opponent. 
+
+The first player does have an advantage but I play with the rule that the second player can appropriate the first players' move, so the game has zero luck and it is pure skill.
+
+Bottom line, a good connection game. I would like to buy it. I'm downgrading its rating because nowadays I rate much harsher than in 2011. Still a good game I would like to play often.
+
+Current Rating: 6.5
+[hr]
+2018-01-09
+
+After a long time, I’m downgrading ConHex´s rating again. I still consider it an ok game and I would play it if requested, however,, my desire to play the game is low. I still enjoy it though. 
+
+Current Rating: 6.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Well, I haven't quite figured out the strategy, but I'm enjoying it and want to play more until I figure it out. Another yucata.de game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I am not a fan of abstract games but this one captured my attention immediately and held it. It is simple enough that I am was able to think tactically on my first play and it went so quickly that I was happy to play two other games immediately. I am not yet sure how deep the game is and how quickly, if ever, moves would become obvious.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+2 Spieler
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+9
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+  Another great abstract.  More going on here than meets the eye.  Don't let the simple elegance of the board fool you.  There is some real good gaming to be had here!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Interesting connection game but I'd prefer to play the grandfather of the genre, Hex.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+2 versions : the original cylinder 3-irn-verlag bos and the beautiful Gehrhards box game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Based on a few plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A clever abstract Hex-like connection game with a twist.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Quite a nice and simple game, I like it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Elegant abstract.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Every move needs to be precise. The game slowly squeezes you out of winning. Very methodical game that is missing that one feature in most great abstracts: the fuzzy thinking, intuition. What I really dislike about this game is that in the hands of two skilled players, it locks one out early, and all that fun positioning of the plates is foregone by an early surrender.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A nice game where you are trying to connect two sides of the board by gaining majorities of different sections.  Once you place the required 2 or 3 pieces around a section you conquer it.  Of course most of the placements are within intersections of 2 or 3 sections making for some interesting decisions.  Not sure how strong the first player advantage is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+An interesting change of pace from Hex or Y. It's Hex on a square board, but as long as the cells meet in threes the overall shape is unimportant. Uses the 'Noc' metarule described in Cameron Browne's [gameid=17821]. Interest dwindling after second play.
+
+...oh, you know, strike that - I've played about 50 times since that comment (online) and as I pick up new tactics, it's keeping my interest. Board is too small, which skews the game towards tactical, and unlike most connection games, the center is less powerful, which I'm not crazy about. (It means that almost every first move is swappable.) But I'm still playing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+pnp
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A pretty good abstract. Hard to judge these types of games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Area control + connection.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Conhex is an original and elegant connection game. The board is just big enough so that the game has strategic depth. Although the object of the game is to connect two sides, the game has an interesting circling momentum to it. The set is very attractive. If you like connection games, this is one you must check out!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+P&P
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A great lighter-weight abstract game. I enjoy it more than Hex or Atoll. The learning curve for this game is not too steep, and you may soon be enjoying a bit of back and forth play even against strong opponents.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Own Nestorgames edition. Great mixture of hex and area-majority.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I wish I didn't have *quite* such a blind spot when it comes to connection games.  This one is clearly interesting and well designed.  I just suck at it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Interesting abstract that feels a little like Twixt. I played a real board version that Mr. Antonov brought to the GoF and amazed the designer by beating him in my first game :-)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Interesting and unique design, currently implemented on Little Golem. I just find that I don't have a lot of fun playing it, for some reason.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I've played a dozen games and I'm still willing to play more, even if I don't like abstract games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+And yet another one of these combinations so natural that you wonder how nobody had come up with it before - ConHex is a connection game where the areas on the board that you need to connect are conquered by filling the majority of fields around it. 
+
+The majority aspect is here surrogate to the connection game - nevertheless it adds a completely different flavour to it. The gameplay gains urgency since single fields belong to two or three areas of the board - in stark contrast to other connection games, ConHex doesn't encourage at all occupying fields rather close to each other. This stresses even more the importance of having the initiative in certain areas of the board.
+
+Overall ConHex is not as staggeringly deep as other classics in its genre (connection games I mean... Hex, Twixt, Havannah, Y and so on), but it's definitely more accessible - it takes less to play it and not being as tiring it turns up to be just as replayable as them if not more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Really short and fun connection game (like Hex) that offers an interesting twist: you use small counters to "bid" on the tiles that will form your connections. Solid game that I play on littlegolem.net.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1/07,
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+TRY 2013 on Yucata: the implementation is pretty good, and the game is alright too.  But I am not fond on abstracts in general.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Not bad, but I would've preferred something more intuitive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.7
+~
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Abstract area control game that's ok. Played on yucata.de. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Clemens Gerhards version, purchased at Essen 2012.
+
+Very accessible connection game. Not as deep as other connection games probably because the board is quite small in comparison.
+
+My only small complaint about the Clemens Gerhards version is it uses tiny balls, which of course can be easily lost. I would have preferred pegs.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+"Own" as in printed out a copy of the board on paper and use small and large cubes from T&E to play with.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Interesting abstract. I've only played it on yucata.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+00_play_online on http://www.yucata.de
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A fast and tense connection game. At times, it feels like one bad move can cost you the whole game. The Clemens Gerhards version is nicely made, but I wish the little glass beads were bigger. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Clever connection game involving claiming intersections which then allow you to claim adjacent spaces in order to cross the board.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting connection game. We played the wooden version several times at Essen 2011 and enjoyed it, but felt it wouldn't have staying power with us.
+
+It's also a bit aesthetically awkward/unattractive that you mark control of the variously shaped regions with rectangular markers, and that the vertex markers are little balls that roll away too easily.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very very solid game. Cannot end in a draw, good elimination of starting player advantage. Feels like Go, but much quicker and easier.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Clever connection game consisting of lots of tense "micro-majority" struggles. Very accessible and beautiful (the Gerhards edition). 
+
+Played it (lost, of course, 2 times) with M. Antonow at Essen '08, which was a sublime pleasure. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4.5
+It's an OK abstract but I am not much into abstracts lately.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An abstract side connection game on a square board. More beginner-friendly than Twixt. The big rectangles just mark which hexagon belongs to which player. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Another connection game. Not bad but not remarkable either.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I like how this plays out.  Need more plays
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
++ decent abstract (I'm very bad at this)
+
+played only at yucata
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Wow - what a great little abstract game.  Easy to pick up and play, but very enjoyable and intriguing.  I'll be curious to see how well it stands up over time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Plays : 8
+
+My favorite game ! Each play is an intense duel.
+My wooden version - though a bit expensive - is beautiful too (Clemens Gerhards).
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I improvised a set from a printed board, a plastic sheet, and two dry-erase pens.  My wife, who normally despises connection games, beats me handily at this one.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Painfully tricky.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+2017年8月購入 ¥2,890
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+First impression. I may change when play more times.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Feels a lot more interesting than Hex.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Clever game, the rules are simple enough for anybody to pick up easily and the different strategies are fun to explore. I will definitely be using this one in the classroom.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Will play it, don't really see the need to own it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Yucata
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+The original with the labeled box, solid wooden board, white and brown marbles, wooden tiles.
+Signed on the back
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+po: vb

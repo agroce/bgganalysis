@@ -1,0 +1,287 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Yavalath
+RANK: 3892
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Print & Play Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Been meaning to rate this for a few years now.  What an abstract should be: simple rules that generate deep play.  Novel mechanic - get group of 4 and win, but not 3, or you lose - opens up a great deal of brain burning fun.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+nestorgames
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Interesting game.  Very tactical, but I'm not sure there's much room for strategy.  Not sure how to rate.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+egyszerű érdekes játék. kipróbáltuk ketten és hárman is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+This game has been created by a computer, which is a strange concept to me.  It is a variation of 4 in line, in which 3 in line is forbidden.  That makes you think much more.  Interesting package and board, as all games from this editor.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.1
+The first published gamed designed by a computer.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I'm surprised how much I liked this one. The 4 in a row wins 3 in a row loses forces you to think different than in other similar games. One of the best n in a row out there.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+An excellent, elegant abstract.  Simple rules:  take turns placing stones; if you make three-in-a-row, you lose; if you make four-in-a-row, you win.  Essentially, that is it.  
+
+From such simple rules, surprising tactical depth emerges.  I'd say gameplay is about a rating of 7; I've added 0.5 for the fact that you can play three players too (indeed, many people report that they prefer it with three).   
+
+03-2015 update:  I've lowered my rating by 0.5 because it seems that as you and your opponent get better at the game, you often reach an endgame of simply trying to outlast your opponent, by avoiding having to play in a space next to two of your pieces (thereby giving you three in a row, and eliminating you).  There is still skill in that (i.e. in playing the mid-game such that you minimize the number of dangerous spaces you create), so it's not a fatal flaw of the game.  But I find the cold endgame a bit anti-climatic, when it occurs.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very enjoyable fast paced game. I can see this one being explored for quite some time. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Four-in-a-row, but if you make a stand-alone three-in-a-row (as a four-in-a-row automatically entails a three-in-a-row, or course), you lose. Very simple rules, very fast play with lots of forced moves, highly portable. What's not to like? 
+
+[b]Update[/b] I really don't like the game at 3. Every time I played Yavalath at this number it proved far too easy to create a game state where nobody wins save the player who moves last; necessitating a fixed strategy where players #1 and #2 strive to eliminate player #3 as soon as possible, and reduce matters to a 2 player-game. So best to leave player #3 out of the proceedings from the start then.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great game base for many excellent games Such a good vote for it's versatility and the number of completely different games you can play. Reccomend Nestor games book on the game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.4
+The game features interesting choices and both move-by-move decisions and overarching strategies can be employed.
+
+I didn't like the seeming likelihood of a draw in 3-player games.
+
+Interested to play again. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.4
+Incredible. My favourite type of design, only one rule, from which comes complex and intriguing behaviour. A game designed by a computer using genetic algorithms. Four in a row wins, three in a row loses. That's it! Yet belying these simple rules is a wonderfully intense and interesting game. Patterns emerge, the game shifts dramatically from opening to endgame, and play proceeds on a knife edge. A true triumph from Cameron Browne, a prolific and interesting designer. His monte-carlo type bot is a tough challenge when given enough time to think.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Researching still... not sure yet.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+H
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+DIY
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+m
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Nestorgames
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Really shines with three-players. Plays like a run-of-the-mill abstract with 2.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I'm pretty sure I have a homemade one of these around. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+The game is quite deep.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+[2015.08.12]
+Yavalath was a near perfect discovery for me.  First, I already had the bits on hand to play, but more importantly it is amenable to pen and paper play -- a category of gaming that I've recently been exploring.  However, during the course of play I've found it to be a very good 3-player abstract, which is a near mythical beast IME.  Draws are possible for sure, but I've never been one to discount a game because of that fact.  That said, my opinion of this might change if we ever get to the point where draws become too frequent.  For now... Huzzah!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I've wanted to try this one for awhile now, being the first game published that was designed by a computer program. Very interesting. Felt like the same sort of strategies I use when playing Go-moku or Pente, but obviously the hex board changes it up nicely. Plus, the one rule about losing when creating a line of three is so smart!
+
+We messed up our first few games, not understanding that the line had to be straight.  Why isn't this mentioned in the rules or in any example?!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I haven't played enough but it does seem to have some of the same strategies as Zertz or Checkers, and is much more like them than Go-Moku.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Sixteen plays, twice with three and the rest two-player. It's a relatively short abstract where you're trying to set yourself up in such a way that your opponent cannot block your four-in-a-row without losing to the no-three-in-a-row condition. 
+
+As far as the two-player game goes, Yavalath feels more like a quick diversion than a deep strategic contest. Two thoughtful players might enjoy developing their moves and countermoves, and in doing so tease out a deeper game, but they could do the same with a game that has more complexity.
+
+That said, it is sometimes fun to play a quick fifteen-minute contest such as this. 
+
+I find it interesting that the game was generated by a computer program. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+"Adult tic-tac-toe", apparently a category of game I enjoy but can't quite respect myself for.
+
+Update: Have now played an opponent with a radically different style; I suspect there's at least a little more depth than I thought.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+currently pretty interesting.  i and the people my wife and i teach this to seem to enjoy the fact that it was designed by a computer.  We play on an abalone travel board (which needs a few more marbles for long games).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+3目並べてはいけない4目並べ。ルールはこれだけ。瞬間的に決着がついていくため何度も遊んで定石を探っていく過程が楽しい。慣れてくると盤面が埋まるようになり、そうなるとニムになる。どちらにせよ面白い。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The mechanism (make 4, avoid 3) is simple, but very effective. Maybe, the game would win still some more quality by making the board a little bit smaller (something like 46 squares instead of 61). Then, in endgames the danger of being forced to build a 3-chain might become an attractive element.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Fun game that can be played at a quick pace or with some more thought put into it, and at least early on inspires that "one more game, I'll show you" feeling when you lose. [url=http://www.boardgamegeek.com/thread/483373/a-review-some-people-will-read-of-a-game-some-peop]Review here.[/url]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I, for one, welcome our new A.I. game designer overlords.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very good game and much better than what can be inferred from the rules.
+I like both the 3-player suitability and the "cold" phase when 4 in a row is unlikely.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-3 player PnP game played on a 5x5 hex board. No expansions but several variants.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+The present trend among abstract games is short, tactical affairs, I suppose because those are easier to get people to play. I like big sweeping abstracts more than I like short tactical ones, but this one is very good.  Yavalath short, draws are rare, the rules are very simple and familiar even if the feel of play is novel.  This is now either my favorite or second favorite N-in-a-row game, depending on whether you think Yinsh is one or not.  Yavalath is also proof of principle that computers can be programmed to design good games, since that is how this one is designed.  I wonder what other games the same program has designed.  
+
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP from Nestorgames
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I like the idea. Looking forward to playing this more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+enjoyable qualities:  short, fun abstract.  pnp
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Simple rules, surprising depth.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Publisher :)
+
+First game designed by a computer. Fun and deep.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great abstract game of "stones in a row" category. Deep.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A decent 2-player game which becomes genius with 3-players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Other than being an excellent abstract game for 2 or 3 players, it's worth noting that with a [gameid=33767] set you can also play [gameid=51401], [gameid=42556], [gameid=526], [gameid=32350], [gameid=26135], [gameid=30936], [gameid=81034], [gameid=24697] and a [gameid=3406] [geekurl=/thread/443360]variant[/geekurl].
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Using a thrifted chinese checker board and marbles.  The center works perfect for this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+First player have huge advantatge but is a good game. You can bid for first player (how in hex)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Printed board plus some glass beads from a craft store.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Easy to transport and play a few games back to back.  I can gauge I am doing better when games last minutes instead of seconds.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Only tried the two player version... feels a bit like Go. Might be too easy for the player who begins. Have to try some more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I grew up playing Pente.  I loved it, and eventually burned out on it. 15 years ago, I discovered the Keryo Pente variation which injected new life again into the Pente genre for me, for a little while.  Now, Yavalath comes along, and again turns the stones-in-a-row genre into something new, making me feel the way I felt when I was a kid, discovering Pente for the first time.  Great game.  Has that just-one-more-time quality that makes me play it several times in a row once it comes out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A game designed by a computer. On a 5x5 hex-hex board, place one stone at a time on your turn. The object is to get 4 in a row. If you get 3 in a row, you lose. And that is 100% of what you need to know. 
+
+This is a fantastic game, and a great gateway game. I've had loads of luck teaching it to pretty much everybody, and since a game of it is so short, you can play a lot right away. This one is a total joy. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+played 3p, there's a lot of kill-doctor-lucky-ing
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Simple elegant abstract with nifty gimmick: 4 in a row wins, but exactly 3 in a row loses. Leads to amusing aha-effects as players learn strategy.
+
+2-player games always seem to end decisively.
+
+3-player is a fun less serious twist. So far they usually seem to end fairly soon (but not as fast as 2-player), but sometimes they enter an interesting endgame where you need to try to maximize your number of "safe spaces" where you can play but opponent's can. We had at least one game where one player lost (due to 3 in a row) and the others tied.
+
+Great filler game for a con or club meeting - portable, very easy to teach, works with 2 or 3 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+--Jan2014-- Intriguing game of simple rules and an awful lot of forcings.  Needs more study if I'm going to have the ability to rate it correctly.
+--Jan2015-- Had so much fun with the Android app, I was motivated to buy a "real" copy from Néstor.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Skynet is coming.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sounds like fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+astratto in tavoliere esagonale con 5 esagoni per lato (Tintas o Catchup)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting game. Wish the board was bigger.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Homemade ... repurposed Abalone board.  It's clever and "nasty" ... I like it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+fills that right niche about where pente and connect 4 would go. Also has very classic and easy rules. Also gets credit for innovation and likely impact on future games. Rating based on the liklyhood to play, whereas in terms of originality more like 10. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Interesting abstract. Game are very quick at the beginning because it's not easy to see what to do to win without loosing (because there are victory condition and loose condition).
+I think that to good players can easily make draw games.
+Need to try with 3 players...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Tried with an Abalone set using Go stones. Did not excite us at all.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid, functional, tiny abstract
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Category: Abstract Strategy
+Mechanic: Pattern Building
+Family: Combinatorial, Computer-generated games, n in a row
+$ - ?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+DIY
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4.5
+Interesting concept, but seems fatally flawed in that the starting player has a huge advantage.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Interesting and very easy to learn abstract game, which is however not my cup of tea.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Really great, super simple game. Takes literally 30 seconds to start playing with a new player and induces several early "aha!" moments as new strategies become apparent. This is really fun.
+
+I admit I haven't played it enough yet to get a sense for the depth, but this is one of my current go-to fast abstracts.
+
+P.S. Immediately after adding this comment, I saw that russ also noted the "aha" moments this game creates. I wonder if there's a name for that effect, and funny that we described it in the same way.
+:)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+An abstract which was created by a computer and is super-easy to learn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.6
+this game really surprised me. They introduced it to me as another 4 in a row but this is quite different in that you have a continuos strain toward forcing the opponent in chains of moves, much like zertz. Rules couldnt be simpler: put 4 of your pieces in a row but never have 3 of your pieces in a row. Apply pie rule at the beginning. 
+That's it ! but it is really really interesting to play
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+My brother and I played this one to death a few years ago.  This game plays super fast, with a lot of intense action.  This was the last game I played before I got married.  :)  My brother (my best man) and I were playing this in the back room until the time for the ceremony to begin.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Print & Play
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Can be played online at http://games.wtanaka.com/yavalath
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+7 after 2 plays
+
+Attractive and high quality game components. Extremely simple rules, making it very simple to teach. However, gameplay is a little dry.  The balance between 3 players is done well, with significant player interaction.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+2,33 PnP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Lacks any aspect of the game to make it highly repayable, though the strategy involved is VERY cool.

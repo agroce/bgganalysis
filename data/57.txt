@@ -1,0 +1,449 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Schoko & Co.
+RANK: 3185
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is one of the early euros that we cut our teeth on - years before the Catan franchise!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+麻美実家
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Only played once -- need to play again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Good simple economic game. A bit to easy to trick the system. Not for hardcore gamer.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I admire the mechanics in this, perhaps, too realistic economic game, but, oof... way too long.  And dry, dry, dry.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Klassiker unter den Wirtschaftspielen.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played 5-10 times. Any game where with literal book-keeping (and accountants) has a strike against it; it's actually fun. It may require the express cards, which I don't normally play to keep someone from running away with it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+08.05.01.04
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Lab
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+100 % Business Game. Make the best prices! The Schmidt-Nachrichten are too hard. Example: Everybody cannot buy any schokolade. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.15
+Oh boy, this is old school Euro - haven't played in years and so need to get back to table to re-assess.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+auctions, commod spec
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+MAMA
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+One i owned as a kid and still a very nice oldie!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This one is a real nail biter!  This game should be played as part of any MBA program because players for much of the game are on the brink of success or disaster with their chocolate business.  Taking advantage of shortages and surplusses is importand as is paying attention to what your competition is doing.  Fun, but I couldn't play it very often because this one is quite stressful - moreso than 1830!
+
+Unfortunately, the cards are almost too harsh and the alternative cards available here on the geek even more so.  Whacking people too soon puts them out of the game for good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+OK financial game.  Simpler to play than first appears from reading the rules.  I like the simple production engine and the open market for raw materials (which creates opportunities to restrict supply in theory, but in practice seldom happens).  Interesting tension in taking contracts: do you hold out for maximum value or take them early at moderate prices in an attempt to deny other players.  The express cards and random event add a little too much randomness for my taste, though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Not yet played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Must have been phenomenal in its day - it still plays like a modern game; only the looks have faded.  There's a fair amount going on so perhaps with more experience it would rate higher.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A classic business game, sadly out of print. Not without minor issues (the system for bringing out new Cocoa could learn somthing from McMulti), but nontheless this is really the primiere "German" business game and is extremely highly recommended for American gamers. I usually recommend playing 6 or 9 months. 6 months is usually enough to decide a winner, and more than that can go on for quite a while given that the game doesn't have a whole lot of variability.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I'm a big fan of economic games and while the core system here is good, I'm not a fan of the fluff they decided to add.  It really sucked getting a card played on you at a crucial moment, totally hosing you for a turn.  I don't mind getting hosed by clever play, but just getting a card played on you is totally lame, especially since some cards are way more powerful than others.  I might be willing to play again without them since the whole managing a chocolate company part of the game was pretty good, but the game length might prevent me from really wanting to give Schoko another try.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+- Empfehlungsliste Spiel des Jahres 1988
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Some great concepts here.  I would love to explore it further, especially if we drop the event deck which really disrupted an otherwise fine economic sim--then again, events do happen and they certainly provided a lot of laughs.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Mild interest.  Hoping to find it at a thrift store for $1.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Schoko is a heavier German game of the old school, which means that it has some rough edges. The game lying underneath has some interesting ideas though, including one that has never been reused and really should be.
+
+This is, in many regards, a much more complete financial simulation than most. Players run chocolate empires and have to:
+
+1) Buy raw material. (in a sealed auction)
+2) Process the raw material (requires workers)
+3) Acquire contracts (A unique auction with push your luck elements, requires sales people)
+4) Have the secretaries process those contracts.
+5) Have the book keepers do the final necessary paper work to actually get the money.
+
+This is just the summary...there are a lot of things going on here, and there are a lot of ways to lose efficiency along the way. The basic idea is making money, but doing that can be more complicated than it seems. Salaries eat a huge chunk of money each round, and having extra mouths to feed can be a serious detriment to your bottom line.
+
+There are also some take that elements in the game, and some random hoseage. I frankly expect that from a somewhat older game, though some people will probably be turned off by them in a game like this, which is otherwise very computational and thinkey. These take two forms:
+
+1) The event cards. Each round beyond the first some event occurs. Most of these are situationally very bad. You can pay some cash to know about them ahead of time though.
+
+2) The express cards. These are hose cards passed out at the start of the game and are used to hit the other players. They vary wildly in power, and can really be nasty if they're used at the right time. For some groups, these are probably best left in the box. I don't mind them though, and they have some entertaining flavour.
+
+The highlight, gold star amazing idea is undoubtedly the bizarre sales contract auction. In this, the price of the item slowly rises until someone bites the bullet and takes the offered price. I really like different mechanics like this.
+
+Problems exist though:
+
+1) I don't particularly care for is the importance of the cocoa supply and how much control players have over it, and how group think can affect the game. This could also be a highlight, but I find that the temptation to flood the market can lead to cash rich games and take away some interest. Perhaps this isn't an issue with repeat play.
+
+2) The Sales contract auction is an amazing idea, but it seems to break down way too often in practice. Our group seems overly fond of having huge infrastructure built up, which can then be used to participate in a huge number of contract meetings, and people end up holding out for big payouts. This mechanic is a wonderful idea, I think it needs a much tighter implementation to come to full fruition though.
+
+3) Even with a shorter game (9 rounds with 3, 8 rounds with 4) the game still seems to wear out its welcome. There isn't much of a story arc here beyond the first few rounds. The early going is a little different because people need to build up cash and infrastructure, after a certain point everyone is flush though, and the Wertpapier is gone, from that point on, a lot of the interest seems to fade away.
+
+Overall, I liked it quite a bit after the first play, mainly because I was optimistic that the sales contract auction, while flawed, was flawed because we were playing with 3. Playing it again with 4 seems to indicate that the auction really isn't a player count issue, but rather a group think and/or system issue. When the auction isn't working, the rest of the game reveals itself as a somewhat clunky nickel and dime affair, and one that seemed to drag significantly more the second time around. I don't think this is an outright bad design, and the overall concept here is good, but I don't particularly want to play this one again. Too long for what it offers. Someone really needs to mine some of the ideas here though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Finally got to play this. To be honest my copy was used and its not the most attractive game. Not ugly, but there was always a new box begging to be opened. Excellent opportunities to mess with your opponents strategy's and plans. The game involves selling chocolate on the world market. Its an economy type of game which may turn off some and the theme could be applied to selling anything but the mechanics are excellent. It makes for a very good game by any standard.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+Good serious economics game. People might get broke and are then watching an 3 hour game. Full 12 month play might be a bit long, 6-8 seems to be OK. Reminds me of Playboss.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+
+
+
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A lot simpler than a glance at the rules would suggest.  Not for the bean-counting squeemish.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is one of those games that is probably better than I rate it except that it runs too long; we usually only play an 8 month game with 4 players, rather than the standard year-long game.  It is a great business game and is a lot of fun as you process raw cocoa into chocolate bars and sell them in the market.  However, some of the event cards are way too powerful and if you get screwed in the first couple rounds, say goodnight!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[2]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Interesting idea, but has flaws...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Condition: Box worn, insert damaged (as one would expect with a game from 1987). Components are complete and includes basic printed cards with translations, as well as English rules/player summaries.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Goes a bit long (8 months worth was a good long game) and is showing its age. The described mechanism for bidding for contracts is easily simplified to ordinary blind bidding and I'd love a more variable cocoa supply (we found every player just asked for & got a full supply at 1000DM). Some of the Express cards are a tad too powerful for my tastes too. Otherwise a well executed business game where taking on debt for expansion can pay off. Unlike Derk's review, we found an extra Salesman a great boon (especially if hired by the last player in order to prevent anyone matching it). The player with the extra salesman can sometime get a contract to themselves (ie at the maximum price).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+One of the best business games ever.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is a very good business/resource management game. The theme here, fitting rather well, is chocolate production. You run a company up against the other player&#039;s companies -you must compete for the world cocoa supply, turn that cocoa into chocolate, then get thebest price for that chocolate. On the home front you need to employ (ie. pay) your staffof workers (who turn cocoa into chocolate), salesmen (who sell your chocolate viacontract), secretaries (who process the contracts) and bookkeepers (who close thecontract). You do not receive any cash for chocolate sold until the bookkeepers have closethe contract. Good stuff.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is an old-school business management game in which the challenge is to optimize the return on your initial capital while dealing with the uncertainties created by the choices of your fellow players and by various events.
+
+In my opinion, the game is better without the "take that" cards that are included, since the blind bidding mechanism provides plenty of uncertainty.  Also, you can play 4, 5 or 6 turns and get the general idea of the game; not enough changes from turn to turn to make it worthwhile to play 12 turns.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The English rules we had didn't match the German text, so a full translattion is needed. A little clarity in the cocoa selling would help too. Although long in play, and basically a manufacturing sim, I really enjoyed this game. All the right elements are there in the right place. I liked that you had to have salespeople to be able to get contracts, an element missing from most business games. By carefully managing the meetings, you could be the only bidder and just take the contract offered. I also liked the way you could look at the other players boards and assess their business easily. Lots of cubes meant a high wage bill. Lots of cocoa meant high potential production, meant possible big contracts, but do they have the accountants to complete the contracts (again a nice touch). I think this game is ripe for revamping and producing. Maybe modernising the Event and Express cards, and speeding up the bidding process, but everything worked for me. It all felt right. It's curious to compare this with Emira, a modern game with everything feeling wrong.
+
+***
+
+Played again today after many years, still really enjoyable. Very simple mechanisms, some randomness in the card reveals, but simple rules produce a complex game because of the players' choices. It was only a 2P game, which skewed the bidding process, less competition, but it was still taught and a close finish. I say again, ripe for a reprint.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+y
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+last played when I was around 18. was fun then and i'm pretty sure I would still like it now.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A04
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good economic game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Classic game of chocolate making.  I'm surprised this has never been republished.  Combines auctions with worker management and feast or famine situations.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+The dutch auction is very cool - and the IDEA sounds great. But then you play the game, and it's like running a company. Really - EXACTLY like running a company. Shudder...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Good theme and good business simulation.
+
+A notable game of its time, but nowadays, you can find better 3-hour games.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Taupiers
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Just bought this and yet to get it to the table. Had a quick read through of the rules and sounds like it will play well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very stright forward economic simulation on company level. Seems to be a bit dry for some folks :-(
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+outstanding
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+Very good economic game. The game fits with the theme.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Storage 3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good economic game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This game is getting old, far too old. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+One of the most unforgiving games I've played.  Fun in a masochistic sort of way ;).  It seems to simulate the business decisions one would face and if this isn't your cup of tea, I'd give it a bye ball.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Old, a bit technical, company simulation.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(2-4) - 180 Min.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Emmm, chocolaty goodness.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+SCHOKO & CO.(also known as AMBITION in France) is a four-player game based quite loosely on the chocolate business. This is a very good business/resource management game. Beatiful mechanic. The game is structured around two different and unusual kinds of auction. Game is working well with 3 or 4 players. It is easily one of the best "running a business" economics games available, and I would readily recommend this game to any fairly experienced group that can play finesse games. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good economic game but a little bit old-fashioned, there are better options today. At the end is repetitive, 6 turns for 3 players or 8 for 4 is enough.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ambition (version française)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is an economic game that should be right in my wheelhouse. The core mechanics of bidding on cocoa and bidding on chocolate contracts would on their own rate this game about an '8' for me. The randomness of the event deck is fine, but the brutal 'take that' nature of the action cards docks it one point, and the game length knocks off one more. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Reading the rules made me feel a bit uncomfortable with this game, because of its take that -factors and the fact that a lot is left to chance. However, the game is a fun economic simulation with some nice mechanisms and in the end manages to overcome problems rising from luck and chaos.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+best 4 - 2,93
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+We played a shortened version of this.  Good solid business game.  The ideas are clever.  Worthy of more play, but it may lack that certain something to keep you captivated.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nice mechanisms, but takes too long.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Somewhat light business game rule-wise, yet rich in details. Looks and feels old, and has few really stupid rules, but was an mildly ejoyable game nonetheless.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Very clever game, whree you need to plan the whole process: you'll need many kind of resources: cocoa (to make chocolade), workers to actually do the job, salesman to sell your products, AND secretaties and bookkeepers to do all the paperworks. All this is made well and I reallly liked it. But then there are these special actions and gards which ones turns this great game to not-so-great. Those cards give some flavor to game so you can't just drop them out, but on the other hand they make the game too random. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very nice economic game. Recommended.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Played once.  This was just a horrible experience.  Our game was a textbook example of the rich getting richer.  I can see some of the finer qualities of the game, but the experience is too recent, and too deep...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This business game has stellar ideas where players are in the role of running a chocolate manufacturing company.  I love most of the "nuts to bolts" ideas of running a chocolate business.  However, in the final execution, what makes it lacking is a runaway leader potential and randomness of event/sales cards.  The game offers many variables on controlling your choco biz but offers too much randomness that IMO does not reflect typical economic conditions (i.e. supply & demand) mechanisms offered like many good business games.  Sales contracts made to market do not reflect any supply & demand rules and IMO is too randomn for such a long thinking game.  If Schoko were short and light than I would not have minded that much randomness but since it's a long game with lots to consider, it should reflect some more player control and planning.  I really wanted to like Schoko & Co a lot more than I did but I think it needs some variant(s) to resolve balancing issues before I would consider future playings.  The presentation of the game and all the bits & pieces are fabulous.  In short, it's a business game that doesn't reflect the realisms of economic theory.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Loved it when it was first released but now seems clumsy and dated
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ebay 99p
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Vieux bon jeu de stratégie au design bien dépassé, mais dont les mécanismes de stratégie sont bien huilées.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Best with 4 players
+Recommended with 2, 3, 4 players 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I owned and traded this game before playing it.  And after playing someone else's copy twice, I have concluded that parting with Schoko & Co may have been a mistake... but not enough so that I am putting it back onto my want list.  While the game can be utterly dry and very spiteful at times, I like the mix of Euro mechanics and business theme.  It's a shame the game takes as long as it does.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Somewhat fiddly and a bit long.  Some neat  systems though and I really love CHOCOLATE. Feels heavy almost like an AH game in some respects.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+It was okay.  As usual for economic games, I was crushed.  Probably much better with more than 2 players.  Wish the availability of cacoa was more randomized: don't like choosing how much available in the cities.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4
+180m
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An old school economic game that's still, IMHO, relevant today.  You control the chocolate market buy deciding how much cocoa enters the market, bidding on cocoa, paying workers to produce chocolate, bidding on contracts, paying secretaries and book keepers to process the contracts.  I suppose it could be quite dry except that there are some good opportunities to manipulate the market and some fun event cards that affect everyone and some take-that cards that you play on other players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Maybe that is was outstanding in the past but its too long and boring nowadays
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Love the theme, but I find this kind of economical model a bit dull at this length.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+チョコレート会社
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I had a chance to play a partial game of this.  Definitely some worthwhile stuff in this one, but the game is *long* and would clearly be a better game with experienced players.  I'd like to try it again sometime...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Haven't played yet, but really want to.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.1
+Very glad I purchased this one. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1/08,
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Based on one play: The mechanics do not really work together and only the auction is interesting. The game is also overly painful as all the events are not only random but designed to make your life difficult. You have to manage a lot of employees and your money, it is like work but more frustrating. Many of the mechanics also have little to no effect while others can make or break your game. Not work trying out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.9
+En Français: AMBITION
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Game is working well with 4 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Not played in a long time, time to play again methinks
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Sold.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+The "reverse auction" mechanic for purchasing contracts is AWESOME FUN! Too bad for the rest of the game; too many non-decisions.
+
+The event cards are amusingly brutal, but the novelty wears off.
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Attic
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+bonne simulation d'entreprise
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+one of the few games I've owned that has never made it to the table. Bought it after I really enjoyed one play with a good friend who introduced me to a lot of euros. early worker placement/ economics game. would like to get this to the table SOMEDAY:)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rating of 6 for the game out of the box.  There's a lot of neat stuff going on in this game, but something really needs to be done about the wild-assed event cards and "screw you" cards: they need to be milder in effect and more balanced.  Other than that, Schoko & Co. seems pretty good, if a bit opaque; it'll take several plays to get very good at it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.6
+Wants to be an economic game but doesn't reach that target in a satisfying way. Somehow it's not stuffed with a lot of potential ... so you are in danger of giving a bored yawn.
+Chocolate - the theme is great, though! But not the game.
+
+EDIT: Traded it together with "San Juan", "Kahuna" and "Ra" for "Hamburgum" and "Liberté" - which was a fantastic deal for me!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Something went terribly wrong in my one game. It was too easy to make money and became deadly dull by turn 6.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Sweet and easy economic system with some fun action cards.  I really like the way this works.  It's an oldie but a goodie.  Sure it is long and a bit clunky, running a little heavy in the accounting dept, but it is still engaging.
+
+There is a nice balance between keeping a heavy staff to guard against events and playing close to the bone to keep expenses down.  I like the way the foreign chocolate market works.  I haven't seen this in any games before or since.  This game deserves a lot more credit that it gets.  
+
+I just can't imagine playing the long game.  4 hours?  2 hours works to June just fine.  
+
+People looking for a streamline Euro, should steer clear of this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+With only one play, I like this economic simulation, though it does have its age spots.  Personally, I didn't really care for the "take that" nature of the special cards, nor the sometimes-devastating effects of the monthly forecast card.  I would like to play this again, perhaps with less influence of these detractors.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An older game that really keeps up with newer releases. Sure the event cards feel kinda old school Monopoly-ish. However, the two auction mechanisms (one English auction/realistic market simulation and one Dutch/reverse auction) are excellent!! 
+Nicely themed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I'd played a partial game before and was lukewarm.  This was a full year, and we had fun.  Once we realized that groupthink could do interesting things to the market, we were putting ourselves through boom and bust cycles, trying to break down the other player's machines.  I lost by a lot, but had fun doing it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+1 play, partial game
+
+Wow, this is a nice business simulation type of a game! There is a lot to like: a cool market with fluctuating supply and demand, employees (of different types, which do what you'd expect them to do) to pay/hire/fire, an interesting auction for contracts, a bit of push-your-luck (in getting the good contracts), an interesting way to take cash out of the game. The main problem, though, was the random smackage from both the event deck and from the Express cards. They're sort of like the events in the crayon rail series, which Mary and I normally remove from those games -- we [i]may[/i] like Schoko better that way, although it makes the sneak peek action less interesting! Maybe if we just eliminated the truly heinous events? 
+
+With a bit of modernization (mostly to speed up the contract auction and modify the event/Express take-that randomness), I think this could be a darn good game!
+
+[b]--- Summary ---[/b]
+Players each get 3 Express cards: take-that cards to play on each other during the game (max 1/player/month). Also, starting cash and workers (any combo you want, paid for out of your cash -- hired in player order).
+
+Each round begins with players hiring/firing workers. There are 4 kinds: workers, who convert cocoa to chocolate; salesmen, who will go to meetings to sell chocolate (acquiring contracts); secretaries, who process contracts; and bookkeepers, who convert contracts to cash. 
+
+Then, each player adds some number of cocoa to the market. The total is divided evenly into 5 lots for auction, with extras added to the later lots. Players each write down their bid. The highest bidder (ties broken by turn order) wins the lot. If any cocoa remains (due to full storage space), the next-highest bidder goes. 
+
+Next, everyone converts cocoa to chocolate (3/worker). Then, chocolate sales! These are a bit odd: draw a number of contracts = n x (max number of salespeople a single player has). Each player can go to n meetings per salesperson they have. One at a time, auctioneer reveals a contract card and players decide whether or not to attend. Then the auctioneer sets price each round, starting with minimum value shown. In turn order (auctioneer last), players may accept price. If no one does, auctioneer raises in 1-5K increment and repeat (until max price is reached). Winner removes that much chocolate (1-6 bars?) from their storage. After all contracts are resolved, secretaries can each move one contract to bookkeepers' desks (last month's unprocessed contracts first). Finally, bookkeepers each can collect cash from 2 processed contracts.
+
+The round (month) ends first by revealing and acting on the top event card (players could have paid 15K at start of month to look at the card). Then, players pay interest on any loans taken, or pay them back; may also buy bonds at 50K each (worth more at end of game the earlier they were bought). 
+
+At the end of the game, the player with the most cash and bonds (less loans) wins!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An excellent business game that incorporates more real-life business decisions than most of its genre.  You have workers to pay or fire, production and supply issues, market fluctuations, and you have to keep a good eye on what route your competition is taking, especially if you didn't pay the $15,000 for inside information.  I enjoy business/economic games more than most, so my rating may reflect that.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Sold
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Blau B
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.3
+Being published in 1987 this game was way ahead of its time.
+A true business game was unheard of in those years (with the notable exception of Playboss).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+One of my first two purchases along with Shark.
+May be slightly dated now but I'll never forget the day my cousin, the Salesman, put in a blind bid of 30k per tonne of cocoa when we all put in 1's and 2's. I guess he didn't see the end of the shortage coming. lol! 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Rating after 1 play (so far!)  I really enjoyed this game, & suspect my rating may go up after a couple more plays with experienced players.  This game has a very high degree of player interaction & lots of interesting bidding & decisions to be made.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3.5
+2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+played once, but somehow it was boring...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good Game. I really got my buns whooped in the first game but I can tell it's worth playing more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4 3h - Wirtschaft
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3.5
+An attempt at a business game that just falls flat; it is way too subject to "bang-bang" control.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Made the game myself. I seem to have lost the files that I made, though. IT's a very interesting game that I mainly used for an entrepreneurship class.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+There's nothing much wrong with the core system. The Express cards aren't great, but could be fixed easily enough. However, my big problem with the game is that one turn feels much like the next - there's no sense of progression at all. A revamp of the game which includes some infrastructure development (extra cacao and chocolate storage, improved chocolate and contract processing, etc.) might be more interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+- still in its original wrap!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Fascinating and overly long economic game. Derk says it's broken. Maybe it is, but it's worth a couple of plays to figure out the system.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Big on strategy; low on chance. Always enjoy a game but can't seem to find others who enjoy this game as much as I do.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A little bit dated.  But, still interesting management game.
+AH's "Business Strategy" is more sohisticated society and this is more wild society.
