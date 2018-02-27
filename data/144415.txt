@@ -1,0 +1,1225 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Nauticus
+RANK: 1368
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A game about shipbuilding and shipping goods played over 5 rounds for 2-4 players.
+
+Each round, the start player chooses one of 8 possible actions from a variable wheel.  Each action is associated with a bonus that only the start player gets, and then each player in turn gets to decide whether or not they wish to (or can) perform the action, similar to Puerto Rico. Most of the actions have a set number of workers to assist in performing the action, as all performed actions require one worker per iteration of that action.  Instead of performing the action, the player may choose to pass and since each player starts every round with three minus point tiles (-3, -2, -1), passing is a very valid choice sometimes (also the pass tiles have a crown symbol on the backside which can be useful for one of the actions).
+
+Play continues like this clockwise around the table with each player choosing an action first until 7 of the 8 actions have been chosen, then a new round begins (the start player marker rotates clockwise). 
+
+The actions come in two main forms, those that you need to pay for (blue) and those that you don't (white). The blue actions require a worker per item purchased and also cost 0, 1, 2, and/or 3 gold. If you spend the 6 gold and 4 workers (the maximum) you receive one item extra for free. The items you can buy are: 1) ship hulls, which typically you want to buy first as they are the base of your ship, 2) ship masts, 3) ships sails, which need to be affixed to masts, and 4) goods, which you will want to ship for potential big end game points. Purchased items are built in your shipyard immediately while free items always go directly into your warehouse which is very space limited. At any time if you complete a ship, you pause and immediately receive a bonus items(s) such as gold, more workers, 3 points, the coveted crown masts and/or sails (crowns serve as a wildcard, normally all of your masts and sails must match so these give you flexibility and more cried symbols). Ship building is VERY important because in addition to the nice little bonuses, they are one of the main ways to score endgame points and they are needed to ship goods which are the other main endgame points.
+
+The white actions cost workers of course but do not cost goldm rather you can do as many iterations of these as you have workers to spare.  The actions are: 1) 2 gold per worker, money is a necessary currency in the game as well every three gold is worth a point at end game, 2) shipping goods (provided you have allocated them to ships), which provide ever increasing points for shipping more of the same type, 3) transporting from your warehouse to your shipyard, this is a necessary step as your warehouse gets very full very quickly and you want and need those stored items in play, and 4) crown scoring, where you get points for crown symbols showing (flipped pass tiles, crown masts and sails assigned to ships), this is a not insignificant way to score points in game. 
+
+Each player also has a onetime extra action tile that they can use at any point on their turn in the game. 
+
+This is a game where you are constantly struggling to have just enough gold and/or workers, where you have to decide when/if to pass on an action and where you need to carefully time out the sequence of actions you want all the while other players are choosing or not choosing what you want. There are A LOT of tiles in this game so setup is a bit of a pain, it's what I'd call a heavy mid weight with a theme that works very well and it scales nicely. There are definite moments of AP but generally decisions/turns can be quick. Very overlooked title that for some stupid reason isn't in English but there's a great rules translation here on the geek and the components are language independent. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A straight-up medium weight euro-game from the masters of the genre. It looks nice and the gameplay is familiar, but there are enough minor twists to keep things interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+The basic mechanics are rather simple and straightforward, i.e., pick an action, then perform it to pick up workers/resources, pick up ship parts, build ships, deliver goods and score points. Here the meat is in that when you choose an action everyone gets to perform it while you get a bonus for making the action available. So you are looking for actions that benefit you more than your opponents, and Sometimes you might even take actions that give you no value to simply prevent others from gaining big points on their next turn. There is no direct player interaction but due to the nature of the action selection mechanics, you must pay constant attention to what others are doing.
+
+While the game itself does not sound too complicated, the action phases in this game can be quite tricky to resolve due to many restrictions and detailed rules. It is easy to forget to do something certain administrative tasks, to simply play wrong or to find yourself being screwed because you forgot a rule. Playing well also requires a decent amount of optimisation of resource usage and phasing your actions. The art and graphic design of the game are acceptable although a bit uninspiring.
+
+I found the game to be ok if somewhat unsatisfying. The fact that building those ships and getting/delivering goods to score points is split into so many incremental little steps, I felt that that the game progressed too slow. It gave very few moments when you thought that you are actually accomplishing something.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Artwork not to my taste.
+Very repetitive gameplay that lacks a sense of progression for a finally flavorless game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+There's a lot to like in this game.  Not as many rules as I feared, and it plays with almost no downtime, thanks to [b]Puerto Rico[/b]-style role selection.  The constrained building stuff (similar to their recent [b]Asara[/b]) doesn't jazz me, but actually using those ships to deliver goods made it work for me.  Or don't deliver anything at all--you can still win!  The comparisons to [b]Puerto Rico[/b] are inevitable, but this feels quite unlike that one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Very much enjoying this clever game. A lot more to it than meets the eye, very interactive and challenging!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A good euro of building ships and loading then with merchandising, have a good mechanism of selecting the actions to be done by all players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Amazon
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An underrated gem. I think this is a beautiful, elegant game (which is to be expected from K&K) that isn't getting enough attention.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Ενδιαφέρον eurogame στο οποίο κυρίως κατασκευάζουμε πλοία και κάνουμε εμπόριο προϊόντων. Ο κεντρικός μηχανισμός φέρνει λίγο σε Puerto Rico καθώς υπάρχουν διαθέσιμα προς όλους κάποια actions και αυτός που επιλέγει το action παίρνει και κάποιο δωράκι σε σχέση με τους υπόλοιπους παίκτες που απλά εκτελούν το action. 
+
+Οπότε φτιάχνουμε την καρίνα των πλοίων μας, βάζουμε τα κατάρτια, βάζουμε τα πανιά και πλέον έχουμε ένα έτοιμο πλοίο, κατάλληλο για εμπόριο προϊόντων. Σε κάθε γύρο θα γίνουν συνολικά 7 actions αλλά αν επιλέξεις να συμμετέχεις και στα 7 στο τέλος θα έχεις μεγάλο πρόστιμο. Αντίθετα με 5 actions και 2 πάσο στο πρόστιμο θα είναι μίνιμουμ. Το παιχνίδι δηλαδή προωθεί την πενθήμερη εργασία την βδομάδα.
+
+Οι τιμές των πραγμάτων καθώς και τα δωράκια από τα actions αλλάζουν κάθε φορά. Το interaction γενικά είναι μικρό και περιορίζεται στο ποιός θα προλάβει τι. Το επίπεδο παραγωγής είναι ικανοποιητικό. Μια πρώτη παρτίδα τεσσάρων παικτών μας πήρε περίπου 2 ώρες.
+
+Το παιχνίδι θεματικά θυμίζει πολύ το εξαιρετικό Shipyard σε μια κάπως πιο light έκδοση με απλούστερους κανόνες.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not bad.  It reminded me a lot of Puerto Rico, but with far fewer strategic choices and tighter resource management.  There were things I liked about it, but I worry about it playing the same every time - there doesn't seem to be much room for variance.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.2
+Very nice action-placing game with interesting new combination of mechanics.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Surprisingly, my feeling is closer to Michael's than James'. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kramer & Kiesling.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Pleasant enough but a mostly solitaire exercise.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fine game, beautifully produced, full of difficult choices, hence moves can be slow, especially as bonuses can cause domino effect.  Last 3 separated by 3 points, so very close!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+It has some interesting choices here and there, but overall it feels like a mix of chaotic elements (caused by other players, not randomness) and obvious decisions once you have to deal with them. Not my kind of game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Kiesling and Kramer do it again
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ME.GM
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Only played at yucata.de thus far, but is a great site for the game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+07.04.05.01
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The awesome duo K&K  is back, with another 2013 medium weight euro.
+
+Nauticus is an action selection game with a central mechanic reminiscent of Puerto Rico (turn player chooses an action with a bonus, but everyone else performs it anyway), all condensed in a short time-frame (the game lasts just 5 - or 4 with two players - rounds, with just 7 actions in each round).
+
+The games plays kinda smoothly (that's what you expect when a duo of professionals design and develop), but don't fully convince me: it's possible to be completely shutdown in the last round, and the special action tile is a rather "gamey" solution to that problem.
+
+Would re-try it, but probably won't change my mind...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Simple mechanisms underlie a reasonably thinky game, which rewards planning, including when to pass. Requires efficient utilisation of limited workers and money, along with monitoring others in order to not choose an action that will benefit them more. Masts/Flags/Goods etc. were in plenty supply, wonder if it'll be tighter with 4 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Quite derivative of Kiesling's earlier game, Vikings. If you liked Vikings, but wanted a more complex economy layered on top of it, Nauticus is probably the game for you.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Not played yet
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+if there would be a option of super heavy euro it would be it.still the art and components are great.hard to get thou.
+game for hardcore euro gamers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Just Another Soulless Euro? It could be described as such by others, but being of the Soulless Euro faith I am content to be a follower... The beautiful presentation, agonizing decisions, "Puerto Rico-esque" actions type feel and interactive gameplay left me satisfied and yearning for more.
+
+ Once again, the dynamic duo of Kramer and Kiesling brings us a clever, quick playing mid-weight Euro game that is challenging, elegant and dare I say fun?...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+BS j in foil
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+This is more Kiesling-Kramer and pretty good stuff.  Puerto Rico-like in the action selection where everyone follows the selected action and the person who chose the action receives an added benefit.  There appear to be multiple approaches to victory.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This game is not bad. The problem is, it is heavy reusing ideas from Puerto Rico and Puerto Rico is just better in almost every aspect. Therefore I would never play this game if Puerto Rico is a possibility. Also both game take equally long. 
+All in all playing this game only makes me want to play Puerto Rico.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Decent game. Loses out by being perhaps a little too light and chaotic for serious gamers whilst being too long and too complex for social gamers but worth a play once every while.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Clever optimization game.  The theme was fun, even though it felt pasted on. Really like how the game mixes Strategy with short term tactics.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Unexpected big surprise! The Kiesling/Kramer duo have amazed me in the past year; they have made 2 great games, this and Coal Baron... 
+
+After playing the later first, I though it would better than Nauticus, but no. Nauticus have more things in which you have to keep an eye on, it's more engaging, less linear... Damn both are very good games, but Nauticus is a real gem.
+
+It's a pity that the artwork is so so and the "build ships and deliver goods in the Middle Age theme" is over used because the gameplay is wonderful.
+
+Now Palaces of Carrara is even higher on my wishlist.
+
+*update*
+
+After some more games on yucata, it seems like the 4 hull boats strategy is the only one to follow, that make the game considerably worse... Deliver goods is too much work for such a little benefit. The max. 15 VP for the crown action also penalizes other kind of creativeness... What a pity!!!
+
+*update*
+
+In my last game on yucata I won delivering 0 goods vs two other players delivering 8 and 9 respectively... that means that deliver goods is totally inefficient... This game has very good ideas but is half baked, it needs the rules to be revised and the goods delivering more valuable. Until that I downgraded my rating from 8 to 7 and now to 4.
+
+*last update*
+
+Nauticus is half-backed and not tested enough, I don't know how K&K and Kosmos let the game go to the printers in this immature conditon, it's not common. Their games are always so well crafted and perfectly balanced that it is strange to see a game from these designers in which an experienced player can condemns you to loosing the game in the very first action, the starting player order is devastating.
+
+Downgraded to 3 and I think I'm being soft as long as is a broken game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+@ Yucata
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+An okay role selection, set collection and worker placement game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Nice action-selection nautical themed euro. Solid medium weight challenge yet for me lacks that special 'fun factor'. Definitely would play if offered, but not a standout.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Very polished and well made game.  Except they forgot to put in the fun.  I wouldn't care to play this again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A very tight economic/resource management game that's beautifully produced.  However, it's still another game where players try to manage resources the most efficiently. The uncertainty of what each item will cost next round makes the game interesting and new but not new. I'm not sure how to say that exactly. It is a mechanic I haven't come across previously and it's well done, but the resulting "feel" of the game is still the same resource management game. Also, the play time is a little long for what it is.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I enjoy it. But there is just something I can't put my finger on.  It's a game if you haven't planned well by mid game it is game over for you.  I feel there is only a maximum number of things you can achieve throughout the game and if you step outside that boundary there us no way you can finish what you started due to the limitations.  I'm sure you could calculate what the best moves are and play on auto pilot.  Time will tell with more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Medium weight from Kramer and Kiesling.
+
+It's okay but not fantastic.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played this game several times at yucata.de and have more positive things to say than negative. Thinky game with solid game play and cool rondel mechanism involved. Unfortunately is also all about optimization which doesn't keep me interested so long.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Only played once. Some nice ideas with the central circular piece controlling player bonuses and adding some randomness. There's lots of things to do every round and getting it all together for the final round is key to victory.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+sammy 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+10/13/15 - Kramer/Kiesling
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Solid Euro with some interesting timing mechanics. Gameplay is centered around knowing when to go for small ships for short-term income, and when to shoot for larger ships, which give more points. The careful timing and planning of actions is complicated not only by the blocking actions other players take and from the changing market prices and product availability, but also by the bonuses on each space that might change your plans if a good opportunity presents itself. The end result is a very complex decision space within a fairly simple rules framework. All in all, a very good game, worth hunting down a German copy if you're a Kramer & Kiesling fan.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid middle-weight Euro. There's nothing wrong with it; in fact some of the mechanics are quite nice. But there's nothing calling me back to play it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Action selection where person choosing the action gets a bonus and everyone gets to do it. Nothing new and the theme doesn't really pull you in either. 1 Play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The monotonous look of the pirate ships just screamed set collecting for me. It's a good game but I just can't get over it's monotonous ship looks.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I looove the “role selection” mechanic which can be found in Puerto Rico. In Nauticus it doesn’t work as well than in PR. You’re more at the mercy of which other roles the other players pick and especially in which way they are chosen! This is partly due to the fact that you only play 4-5 rounds and chose 7 out of 8 actions each round, so the order they are chosen means a lot. For instance if the sail action is chosen before the mast action, the sails need to be put into your inventory and such, and especially the action where you retrieve actions from your inventory is crucial and is extremely important in the last round. Of course, this problem is mitigated by the fact that you have a special one time use action where you can pick any action. But of course you’d rather use it on the point action (up to 15 extra points) or some other, and at least you just hope you don’t get to use it too early.
+
+Besides the role selection, the interaction is limited. You’re sitting and puzzling with your own player board and build your own ships out of a couple of different ship parts and then you ship your own goods.
+
+While I understand the decision from a game mechanic point of view, I’m not happy how the different actions change from round to round (i.e. where they are placed). It makes it so much harder to plan ahead when you don’t know where the stuff are going to be/cost/what kind of bonus you get for that action in the next round… And that’s a big problem I think. I’m especially thinking of whether a specific type of sail/mast is free or not! For instance, in my first game the sails I mostly went with (and for my 4-length ship) cost 0 in all of the 5 rounds, so in each of them the sails were put into my inventory, so later on I needed to use that action and workers to move them into my ship… And it seems as if it’s pretty important to complete a ship or two at the beginning so you can get a bonus and boost your infrastructure either with money or workers as there isn’t any income phase each round, or with crown masts/sails which are jokers and can give you points if you take a certain action. 
+
+Speaking of points, Nauticus features a very simplistic (which is positive in this regard) point system: you only get points from two things, ships and goods (and then converting various stuff at the end like gold into VPs). The best strategy seems to change depending on the number of players; with 2 players, it’s not too hard to grab a lot of similar goods and they net you a lot of points. That’s a little sad, but if everybody knows that, I guess it’s okay. Overall, Nauticus is a good but not great game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+*6* (3+ Plays)
+I like the role selection mechanic to build ships, similar to Puerto Rico. The game and strategy feel repetitive because there's not much that change from each game, only position of the roles. The game looks visually appealing. There is a lot of calculation and planning involved for such a simple game, making the game a little long. The AP will definitely show, especially when calculating bonuses. Overall, It's a solid game that works just not enough to make it great.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+2-4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Saw it demoed once.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Reasonable light-medium euro, but not at par with other K&K games. Nothing innovative here, although I quite like the windrose. Dislike the inelegant "free items cost workers and go to the warehouse" and the way the ships look.. Not one to own
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+forgettable euro
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Similar to Asara, but instead of building towers you are building ships. 
+
+At its heart this one is a plain set collection game, with a slightly different role/action mechanism to many other games I've seen. 
+
+This is a decent game, and I would play it again. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Solid K&K. Unfortunately, "solid", isn't enough anymore to command repeat table time. A little less player interaction than I'd like. Players are generally doing their own thing, collecting ship parts, completing ships, collecting goods. Ship masts/sails (in four flavors) don't generally run out, so that doesn't really matter. Goods are limited, which is about the only thing you pay attention to on other player's areas. But a decent enough twist on worker placement, where everyone gets to take the action you select, but all players get a bonus in temporary workers, and you get some other random personal bonus. But unlike the personal bonus in like Puerto Rico, the personal bonus here is random (set for all actions at the beginning of the round). I thought the acquisition of parts/goods was a little bland. You can always get any part/good, but the prices fluctuate. It works, just not super interesting. Would happily play again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+A disappointing offering of the Dynamic Duo, unfortunately strengthening my opinion that their later designs are simply no longer for me. The main problem I have with Nauticus is that the game appears to offer very little alternatives to the build ships-buy goods-ship them cycle. Yes, you can decide on smaller or bigger ships; or on Crown bonuses, but those are cosmetical details of the main path. They do not appear to be strategical alternatives. The timing aspect of the game is not even implemented compellingly: everything you cannot immediately place goes into your warehouse, from which you can only get it out by taking another action (which costs workers, which you get by... guess!). That's it. Nauticus unfortunately fails to excite me: while there are games which force people down the same path, they offer a ton of options to play with along the way so at least it doesn't feel you're stepping on each other's toes because there isn't an alternative. It isn't helping much that tagging along with others in Nauticus is made [i]very[/i] obvious, to the extent of doing what Puerto Rico does, for example. But then without a random influx of goods, and just a very small handful of buildings.
+
+Some people have remarked upon a potential likeliness with Shipyard. Yes, there is one, in the sense that in both you create ships out of parts. But in Shipyard you have different ways to go about collecting the parts (even though they are tied to the main rondel system), can even specialise, and meet the varied goals the game sets you. Even if in the end you all need to same things: hull, propulsion, crew, canal sections. Apart from that it's not fair be comparing the two games: Nauticus is also in a major part about goods transportation (as an artificial means to augment your score), something completely missing from Shipyard. And Nauticus is also aimed at the more casual player.
+
+Good to have tried the game, but unfortunately more disappointing than I'd anticipated. I will keep out an eye on the game to see how sentiment for this game develops over time, though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.4
+puerto rico style actions with 7 actions per round but with penalties for free actions.
+-bought 33
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.75
+I learned this one on Yucata.
+
+It's a pretty decent strategy game with a hodgepodge of mechanisms that will be familiar from other games. The rules around workers might get confusing, but that's actually one nice part about the online implementation - it does that hard work for you.
+
+While I wouldn't turn down an offer to play this game, it's not going to be my first choice. There are just a lot of other strategy games of this length I would pick.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Traded away - Canadian Fall Trade - 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Main
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Me entretuve bastante jugando, una lastima que no este traducido al inglés por lo menos.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+$50 BGG
+Ship Building
+Each player runs a shipyard and tries to assemble ships of various sizes in order to ship goods with those same vessels. Time is short as each action can be executed only once per round, assembly of the masts and sails must be precisely coordinated, and the goods can be shipped only when the ship is complete. Thanks to the customized action wheels, everyone is always involved in the game's rapid sequence of actions. Whoever builds the biggest ships and ships the most valuable goods will be the winner in the end.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+wait for an english version.  LANGUAGE INDEPENDENT, try to find cheaper version (less than $25)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Sold one copy to biacbs in July 2014.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Some aspects of this game are a little strange.  For instance, why does the wheel rotate each round but the action segments are distributed randomly?  That means there's no look ahead to say "that's expensive now, but next turn I can get it cheaply and/or with extra workers to help move things".  Also, passing or not was often a straightforward calculation that seemed more interesting in concept than reality.  But overall I liked the game anyway, even though we screwed up a crucial rule for most of the time.  I dug the tight economies of workers and money.  I enjoyed just how difficult it was to build and use big boats, all for an end game bonanza.  Good stuff.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+20 euro
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Another great game by Michael Kiesling & Wolfgang Kramer as the dynamic duo takes on simultaneous action selection this time in Nauticus. Streamlined and elegant game play had been the hallmark of K&K made this game my instant favorite after Palaces of Carrara. 
+
+This game offers a great experience in ship building and shipping goods with a cool action rondel that everybody gets to participate in the action when anyone takes it.It's a very tight resource management game but when it rewards you, you'd surely feel accomplished.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This K&K title feels like a blend of Puerto Rico (action selection with bonuses, shipping goods) and Asara (building towers or ships from tiles).   The art is nice, but too busy for the player aids and action tiles.   While I had a great time playing this, it's not exactly my favorite type of euro game.   It's long and has very limited re-playability.   There are some variable costs and bonuses, but that's about it.   This is the kind of game you play a few times and then trade away.  It's almost the textbook example of that.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Nauticus. Kramer and Keisling are doing great things of late. Palaces of Carrera has been a real grower. And this year they produced Coal Baron and this, Nauticus. This is another clever clever elegant design, one that offers plenty of decisions at every turn. And every turn is short so there is not a huge amount of down time. 
+
+You need money, you need workers, and guess what?....you can't get enough of either. There is a bit of Puerto Rico here: the start player selects an action which everyone carries out but he gets an added benefit from choosing it, but there the similarity ends. And there are some genius touches: you will get minus VPs each round unless you pass on 3 of the 7 actions, and you really need to do all 7 of the actions. Arghhhhh....so many tough decisions. Its only downside is its length which at a couple of hours is twice as long as Palaces. But definitely recommended.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Essen 2013
+A másik idei Kramer-Kiesling játék, sajna szintén csak 2-4. Előzetesen úgy gondoltam, h ez lesz a gémerebb, és h így képek alapján ebben éreztem az Asara fillinget.
+Játszva a Nauticust, azt kell mondjam, h nekem sem volt semmi Asara érzésem, viszont valóban ez némileg gémerebb játék.
+
+Hogy melyik teszik jobban? Őszintén szólva, nem tudom. Nekem mindkettő nagyon bejött.
+
+Hajóépítős, áruszállítós. És a 4 bűvöletében épül fel :-)
+Hajókat építhetünk, amik 3 elemből állnak : hajótest (ez még a hajó méretétől függően lehet 4 féle (eleje, hátulja, közepe, és 1 elemű)), árboc és vitorla. Ez utóbbi 2 is 4 féle lehet - zászlók-jelzések az eltérések, és természetesen 1 hajón csak 1 féle "szín", azaz zászló lehet.
+
+A 4-es szám marad az áruknál is: 4 féle van.
+5 fordulós a játék, egy fordulóban a 8 lehetséges akcióból 1-et választ az aktuális játékos, aki megkapja az akció bónuszát, és végrehajthatja az akciót. Ezután a többi játékos is sorban végrehajthatja ezt az akciót, de ők már a bónuszt nem kapják meg.
+Így lesz a 8-ból 7 akció kiválasztva (az 1x kiválasztottat már nem lehet, lefordul), ha ez megtörtént , akkor új forduló.
+(Azaz 1 akció nem lesz felhasználva minden fordulóban.)
+Egy csavar: Valamint mindenkinek van 3 mínusz pont karikája (-3,-2,-1), amiktől úgy szabadulhat meg minden fordulóban, h NEM hajt végre 1-1- akciót, hanem elpasszolja. Ami megmarad az a forduló végén mínusz pontként szépen elszámolódik neki.
+
+A 8 akció fele, ahogy kitalálható: a 4 db 4 elemű cuccok vásárlása (hajótest, árboc, vitorla, áru). Mindegyik 1 akció, és ugye 4-ből választunk, áraik változóak.
+
+Itt jön az egyik finesz:
+Az akciókör is 4 részből (4 körsávból) áll: Az akciók egy belső kör köré vannak körcikként lerakva, 8 körcikk- 8 akció. A belső körön munkások (amik alapban járnak az akciókhoz), plusz egy keskeny kör a bónuszokkal, aztán jön az akció-körcikk, aztán egy újabb kör, amin az adott körcikk árai vannak (0-3).
+Az akció-körcikkek minden fordulóban véletlenszerűen kerülnek le, így az árak változnak (a külső köríven vannak az árak fixen felfestve körcikkenként), és az adott akcióhoz járó bónusz is változik: az a 2. köríven van fixen felfestve.
+Az akcióhoz járó munkás szám is változik, a belső kör ugyan nem fix, de az is forog, változik.
+Ilyen:
+
+
+Az egyes akciók végrehajtásához munkások kellenek. Méghozzá, annyi amennyi cuccot mozgatunk. (3 áruhoz 3 munkás, 2 hajótesthez 2, stb.) Az előre adott munkásokat (belső kör) kiegészíthetjük a sajátjainkkal, amik persze elvesznek, és majd szerezni kell újakat.
+
+A másik 4 akció az nem vásárlós, az ténykedős:
+Pénzszerzés, raktár kipakolás, pontszerzés, áruszállítás.
+A raktár: a szerzett dolgaink -lásd első 4 akció- ha ingyenesek -vagy bónuszból- akkor a raktárba kerülnek, ha fizettünk érte, akkor egyből a "vízre" kerülhet. Persze értelemszerűen: hajótesttel kell kezdeni, ha az van, akkor lehet árut tenni bele, árbocot emelni, és vitorlát tenni.
+Egyszerre több hajó építése is történhet, de az egyszer lerakott elemek később nem vonhatók össze, azaz 2 fél hajóból nem lesz egész, azokat önállóan kell, folyamatos egymás mellépakolással felépíteni.
+Árut csak teljes, elkészült hajóról lehet majd elszállítani, rápakolni már építés közben is.
+
+És ha elkészül egy hajó, akkor az elkészült hajóért bónuszok járnak, x db-ból lehet választani hajóárboconként egyet-egyet. Azaz egyes hajóért 1 bónusz jár, 4-es hajóért 4 bónusz.
+
+Nagyjából ennyi.
+
+Illetve van még 1 extra akció, amit a játék alatt 1x vehet igénybe minden játékos, itt vásárolhat, vagy ténykedős akciókat (a fentebbi 8-at) hajthatja végre.
+
+Pontozás:
+A kész hajókért jár pont, minél nagyobb annál több, a leszállított árukért -egy fajtából minél több, annál több, természetesen minden fajta külön értékelve.
+Illetve még előtte, minden befejezetlen hajó minden eleme, minden raktárban lévő minden elem pénzre váltódik (1-1), majd 3 pénzenként lesz belőle 1 pont. A maradék pénz lesz a holtversenydöntő.
+
+Vélemény:
+A játék nem túl gyors, de nem is lassú, kényelmes 1,5 óra körüli 4 fővel, jól tervezhető, interaktív is -mit viszek el, milyen bónuszt a másik elől, de nem akció blokkoló: hisz mindenki minden akciót végrehajthat.
+A tábla szép, az elemek szépek, egy mínusz pont: ha már munkások, akkor miért kellett az amúgy szép játékhoz fakockákat csomagolni munkásoknak? Miből állt volna fabábukat? Nem hiszem, h jelentős árkülönbség lenne, ugyanakkor mennyivel szebb....
+Nekem nagyon bejött. Nagyon jó, h a tulajdonomban van. 
+
+Update: 2 személyesben is igen kiválóan működött, és nem volt hosszú sem. 1 órán belül volt.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.95
+Fantastic colourful components make it a delight to look at. The rondel used to choose your actions is newto me. The game itself is good too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+[Good quality pieces.  Plano 3620 storage.  Kosmos German but English rules available courtesy of wamboyil (supplemented by RH's run-through - thanks to both)]  Puerto Rico like fun with variable pricing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Custom insert trays
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Interesante juego.. que está en la cola de espera para ser jugado...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is a pleasant game that works well, with an appropriate amount of game-induced variety in the random draw of the action tiles.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Simon
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I like the Puerto Rico-style mechanics also in this game. Since the action tiles are shuffled each round (and not rotated), and since the goods and sails have the same basic values (no matter which color), it's hard to make a long term plan here. So you start off somewhere, and try to do the best out of it. The game does not lead you in any direction. Apart from that, I like the game. It could be a little shorter, but it's possible in this game to do the actions simultaneously, and then the playing time will maybe be one hour or so (instead of 2).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+@Sara
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The first game that  "pass"  action is not bad, kinda repetitive gameplay though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+#areaprenotazione
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+As is usual for Kiesling & Kramer this is a game with few rules bot a lot of depth. The strongest point of the game is the variable setup of each round. The combination of actions and boons are very interesting. The game feels like a lighter version of Shipyard, which is also a great game.
+
+Visually the game really pops, it has some nice bright colors and some very nice artwork. Components are also good, though I don't quite know what the first player marker is supposed to be.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Puerto Rico meets Asara....well perhaps not but the action/role selection reminds me of Puerto and the shipbuilding is Asara like.  These are both games I really like so I had high expectations for Nauticus.
+
+I enjoyed my first play and have given this a tentative 7.5 for now.  Looking forward to playing this again very soon.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Print rules
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.2
+Akcióválasztós, hajóépítés, némi szállítgatással. Elég absztrakt játék, de szórakoztató. Jó ötlet, hogy négy dolog rendelődik minden körben máshogy össze az akciókkal kapcsolatban: akció-árak-bónusz-instant munkások száma. Így minden körben más-más előnyt kap az akciót választó játékos, nomeg más-más hatékonysággal lehet az akciókat végrehajtani mindenkinek.
+Viszont eléggé el tud húzódni, ráadásul az utolsó körben rengeteg a holtidő, mert mire valaki egy akciót+hajóelkészítést+bónusz akciót végrehajt simán eltelik 10-15 perc. 
+
+7.2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.4
+Maybe I played this game with thew wrong tactics, but I really enjoyed trhe experience and look forward to more plays
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Kind of a bastard child of Puerto Rico and Shipyard, and unusually complex and dry for a Kosmos family game (which, I suppose, suggests it's not). It stops well short of the latter, however, and while it remains a dry optimizing exercise it plays reasonably quickly after the ramp-up. A solid title but certainly not breaking any new ground.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A modern classic to me.
+I love the feeling of achievement after the game finished. I can see all my fleet of ships I created in so few actions: incredible. 
+The game runs smoothly. The game is so polished. Well put game from the dynamic duo Kramer - Kiesling.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Felt too dry. (Yu)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I'm not seeing the interesting bit yet.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Based on online plays.
+These guys make a fluent, interesting game even with such a lame subject. The passing mechanism is... huh... not interesting at all?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Love a game where you build and have a sense of accomplishment.  Role selection is one of my favorite mechanics.  Lots of pretty pieces and goods and shipping too!  A few borrowed ideas but it feels fresh and strategically new enough. Good playing time and a great add to a Euro collection!  English rules here on BGG worked great!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid Euro, good inter-meshing mechanisms - pinch of Puerto Rico, dash of Shipyard....  Works well though, as expected from a team like K&K.  Should play in at the 90 min mark, but cold drag with those AP-prone - plenty to think about, but a lot of min-maxing going on.  Great bits for your dollar.  Language-independent.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Boring
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Finefield, Geekway, 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4 Players
+Von Patricia und Thomas
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4 giocatori
+90 minuti
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good collection game. Unfortunately there is no English version in sight.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Classic German game with nice design elements and some puzzle factor.  Definitely worth playing, but not a need-to-own for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Another solid design from Kramer & Kiesling. Far from the greatness of their best titles, but again they hit that sweet spot where the game is simple and strategic enough to be played by gamers and non-gamers alike. It's quite abstract, but the rules are very intuitive. The only randomness is in the setup of action tiles at the start of each round.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Kölcsön Süntől
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Another solid game from the famous duo. I like the game and how everything is interwoven, but it can be a bit long and repetitive.
+
+Away from that, it's a rock solid strategy (and mathy) game, with a perfect mix of luck and skill.
+
+However, it seems that at the end, no matter which way you went, the scores will be close and the game will be decided by the points you did within the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Lio, Pierre
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Not my favorite K&K offering: this felt like somewhat of a individualistic set-collection Euro rather than one of their tense shared spatiality ones.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+MT
+2-4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+30
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Still sealed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2푸코 액션시스템...테크가 그립다..
+차라리 푸코 한판 더 kps
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Some great ideas, probably need to play it again...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+in shrink
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Huh. This is different.  It's a ship-building game, a little like Shipyard, but it doesn't work in at all the same way. I like how the prices of the actions change every turn, and of course, the set collection aspect is always fun. (1 play)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Straightforward mechanics, quick to learn, numerous but each simple, yet orchestrated in such a way that the sum is significantly greater than the parts.
+
+Money is tight. Workers are not quite as tight. The attrition of both as the rounds progress is lightly reminiscent of the punishing feel of In the Year of the Dragon.
+
+VP conversion can be a challenge. Decisions on preparing for the next round rub up against leveraging workers for benefits during the current round.
+
+Action bonus and action impact on your opponents make for a tense balancing act of ordering action choices throughout the game. More "take that" possibilities than anticipated due to tight workers and money for shared action coupled with unpredictability of action layout with bonuses and free workers each round.
+
+Rating may continue to increase with additional plays. A little AP near the end. Component aesthetics are beautiful. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+We tried it out at "Jena spielt 2013" and loved it. Now I borrowed it from the Ludothek in Leipzig.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+First game (4p): 3 hours of my life wasted
+Second game (3p): 2 more hours wasted
+No, thank you.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This game reminds me Shipyard a bit. Comparing with Shipyard which is mainly focused on ship building, Nauticus combined ship building and set collection mechanics. The game is proceeded by action selections which is similar to Puerto Rico job selections. Nauticus is good game. Several game mechanics are well combined. However, the game is sort of unbalanced. So called, the Crown tactics is quite strong. For me, Nauticus is not my cup of tea. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+I'm a big fan of K&K, and this has the elegant rule set I associate with them. Production value is fantastic. But in terms of gameplay, this is a mostly solitaire optimization exercise in the Rosenberg/Feld/post-2008-euro mold, which means it'll be up a lot of people's alley but not mine. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(2-4) - 90 Min.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Sprzedane na Allegro za 86,03zł.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ordered, shipped 1/13/14. http://trkcnfrm1.smi.usps.com/PTSInternetWeb/InterLabelInquiry.do?origTrackNum=9461210899609001339899
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Awfully abstract and unintuitive game.  I hate such games.
+
+What's worse it seems there are only 2 valid strategies: shipments and big ships building.  I predict boredom during the 2nd play already...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+2014-08-11
+
+Initial Rating: 7.0 (August 2014)
+
+I was pleasantly surprised by the game. Hate the theme, but the gameplay is fun enough (for now) that I want to explore it further. Very reminiscent of Puerto Rico. The rules are pretty straightforward, but they allow for some very interesting decisions (how much workers to use/save, do I follow the action or pass, how much coins/workers do I need to complete my boats, which action do I use). The gameplay flows quick enough so its playtime is relatively short. 
+
+It is a strange game as you can give up actions without a steep penalization as in most games. If you don’t take an action you can actually do it better later (if lucks wills it) as you don’t spend any resource (workers or coins) in the current round. 
+
+The game components are very good. The art is ok.
+
+In our games, the last player wasn’t able to get some components (middle part boats) as they are depleted when it is his turn. I´m not sure how I feel about this but it seems unfair.
+
+For now I want to play more. For me, it is way better than Puerto Rico.
+
+Current Rating: 7.0
+[hr]
+2015-02-20
+
+Alter 5 more plays, I can say that Nauticus really bores me for some reason I can’t explain. Nowadays, I never have any desire to play it so I’m rating it accordingly.
+
+I realize my dislike toward the game is irrational because I can’t pinpoint out the reason for my dislike, but it is there. 
+
+Current Rating: 5.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+A heavier Kramer & Kiesling. Lots of choices but pleasantly snappy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Beautiful.  Great decisions points yet very simple.  Con-super long set up (tons of pieces to sort) for those of us that are anal about it ;)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Great game, super glad I decided to import this one. Very smooth, fun and interesting game. K&K do it again!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I really like this action selection game. I'm not a big fan of Puerto Rico, but I do recognize the mechanism here. One difference is that the rewards for each action are randomized round each round, which makes for some nice variety. I like the ship building a lot, too; it's simple but a lot of fun. The components are really high quality and beautiful to boot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I like Shipyard better
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+seemed like a decent euro, need to play more
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A fine, quick playing, ship building game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I have been playing this 2p on Yucata and really enjoying it. I imagine multi-player chaos may significantly affect your ability to strategize when playing at higher player counts.
+At 2p the game is quite intense and fun. There is a nice tension in choosing actions based on the bonus it's associated with that round or choosing based on which action makes the most sense for you. You also need to make sure that you are able to benefit from the actions your opponent chooses. This can make the order of selected actions very important. Missing out due to bad timing isn't terrible since you can pass which earns you 3VP the first time you do it in a round, 2VP the second time, and 1VP the third time. 
+
+It has interesting and sometimes subtle decision points and requires you to pay careful attention to your opponent so that you can edge them out. To me this is a resounding return to form for the K&K crew. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid Eurogame, not much to discuss.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+One of the earliest euros I played online and got the cardboard weeks later.
+Really enjoy it still - a lot less fiddly bits and bobs online though!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Only online play at Yucata.de – I usually like Kramer’s games. They are streamlined old-fashioned euro games that work. They might lack the spark to stand out from the masses, the thematic integration of crossover games or the complexity of modern heavy euros but they are solid enjoyable games. Nauticus somehow fails for me though. The role selection, the decision between many small ships or a few large ones, focusing on crowns or shipment of goods – there’s enough on offer but the sum isn’t greater than the parts. There’s too much sameyness. In part, this might be due to a failure of online boardgame implementations to transmit the flavor of a more complex game, especially as other players’ moves are difficult to follow. Nauticus is a challenge that doesn't get me. No surprises, no interesting puzzles, no small races. I rather play Kramer’s Glück Auf from this vintage or Palaces of Carrara with a similar turning wheel mechanism. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I played a 3-player game with some very tired people and still had quite a bit of fun. It has a lot of the same tension from Puerto Rico where people can take actions in a sequence which does not work well for you. I need to play this again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Nauticus would have been a smash hit if it had come out 10 years ago. As a game, it works. There are plenty of choices to make and money management is important. But it just feels dull. There are a lot of rehashed mechanisms and the game lacks a spark of excitement, maybe it's a lack of player interaction. I think there would be plenty of people that enjoy the game, but sometimes just working isn't enough.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Very interesting ship building and shipping game. Nicely tactile as well and your resources are so damn limited!
+One downside: shipping strats just dont seem to be worthwile. Build ships to win.
+Interested in how it plays with more than two.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A fun resource management game. Liked it a lot, it had very nice art and clean and clever mechanics.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+A better "version" of Puerto Rico. You get a sense of evolution with the boats being built and passing is a viable option. The main problem is that the game is uninspiring, somewhat boring and repetitive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+~ Played on Yucata and hope to get better as I get more games in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Just couldn't get anyone interested in playing it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(SPK)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Hmm, nem egy könnyed darab, de nem is durván nehéz. Azért van sok finomság, amire figyelni kell. Tematikailag nem túl izgalmas, de mechanikailag elég egyedi, maga az akcióválasztás, munkásfelhasználás része is, meg a hajóépítés is. Van némi interakció is, érdemes figyelni, hogy a többiek mit csinálnak, bár olyan nagy ráhatásunk nincs a másik tevékenykedésére, legfeljebb az akcióválasztós bónuszban előzzük meg. A játékidő a nehézséggel összhangban van, nem nyúlik el, de azért szabálymagyarázattal együtt így is 2 óra. Szokatlanul sokszor éreztem magam AP helyzetben, ami szetintem nem annyira jellemző rám. Nem hiszem, hogy nagyon gyakran vágyom majd erre. :/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I honestly almost always win this game using the exact same strategy. So, it just doesn't have the replayability of many other games. Still it's fun to build your ships and try to make it difficult for your opponent to do the same.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I think I would prefer this to Puerto Rico.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A classic Kramer and Kiesling game that I think would go over very well with my group. I'm really debating jumping head first into the Kosmos line!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+KEEPER CHROME
+Very pretty galleon building game. Shipyard with none of the rondel complexity.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+7.5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+Much thinkier than its facade looks like.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Average strategy game. Select action. Build ships. Deliver goods. Nothing new. Not bad, but not thrilled either.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Interesting bits and pieces but all in all doesn't get me really.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.35
+Not very fun but still a good game for only 15 euros! 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+In shrink
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It's a game of planning your actions available with resources, workers and money.  There are two major paths: building several ships or delivering as many of the same type of goods as possible (or, a hybrid of both these major strategies).  
+
+I tend to think building ships are slightly better since you get very nice bonus choices (# of masts) when completing a ship.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Two more plays have maintained my interest.  I don't see this one moving beyond 8 in my ratings, but I have enjoyed the nastiness that can occur with the Puerto Rico-esque role/action selection system.  One can really mess with opponents by selecting roles out of the preferred order...;-)  I do wonder if the 4 masted ship is a viable path to victory - I'll have to give it a try next time. 
+
+======================================================
+
+Favorable first impressions as there is an interesting central mechanism that proveds differing amounts of free workers for each of 8 possible actions which are moved around every round.  As well, the first player to select each action gets a bonus reward.  This is what Shipyard wishes it could be...:-)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Fantastic game of building ships and shipping goods. Love the unique action selection mechanism. Lots of different chits, so best to use some kind of organizer that you can pull directly from the box and then place on the table, rather than lots of little bags.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Sulla scia di Puerto Rico, ma incentrato sulla costruzione di Navi piu che sullo sviluppo di un sistema commerciale.
+Millemillanta pezzi da apparecchiare quando si gioca ed eterno da defustellare all'acquisto.
+Il gioco di per se è veloce e soddisfacente.
+Facile da spiegare.
+Edito al momento solo in tedesco, ma manuale italiano disponibile online.
+Buon gioco, non eccelle ma non pecca di particolari difetti.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+I don't mind games that others consider a dry Euro, but this one just doesn't really work for me though it has an interesting mechanism. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Originally rated an 8. Played 2 player on Yucata. Good first impression. It seems like multi-player solitaire but only for the first half. Later the action order can mess with the other players. Attractive and medium weight game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+very nice game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ludothèque de la mer
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This one feels like a marriage between [thing=72991][/thing] and [thing=3076][/thing].
+Some people also mention a resemblance with Shipyard, but I haven't played that yet.
+
+Buy parts of ships, match them together and build ships that can deliver your goods (optional). 
+I'm a bit scared about replayability, since I cannot imagine there are many ways to victory, and once you have figured out which number and size of ships do the job, you are probably going to use the same strategy each time you play. I wonder if the original roundel in the middle is going to stop you doing that.
+
+The last round can take a lot of time (together with the extra action), because of the careful counting and planning that needs to be done to be sure your ships are finalized and your goods can be delivered.
+
+Second play amused me even more than the first one. What I especially like about this game is that it's about building your own ships, and others can't disturbe that too much. Some people may say, there is not a lot of interaction. Ok, true, but sometimes it's good to be able to built something, without others trying to make that impossible.
+
+The one time extra action feels a bit as an afterthought, a fix just before printing, for a game flaw.
+
+Minus: 3 (replayability?) - 5 - 6
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I like the central wheel for action selection immensely, but instead of focusing on this, Nauticus overburdens it with rules for storage and building and transport that are mainly defined by restrictions. And although it is probably too early to tell after a single game, it felt as though all this complexity does not add that much actual depth to your decisions. Basically, you’ll have to decide between small ships for many quick gains and big ships for one or two mega turns, but that choice is more clearly presented in Asara, for example.
+
+This (possibly only perceived) lack of streamlining is also apparent in the need to include an extra action for all players to avoid being screwed over in the last turn. While it is an adequate solution, a bit more tinkering with the game engine maybe would have resulted in a more elegant way to deal with this. Nevertheless, I’d certainly be willing to play again and would not be that surprised if the game turned out to be deeper than my current appraisal of it.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Yes it could be seen as a dry-dock game about shipbuilding, but still a tough, interactive and worthwhile puzzle.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Finished in reverse order of players (4P game), start player last and vice versa.  Wonder if this is an issue?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Worker placement.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Msog £30/ mpp £30/90(90) mph £20
+(3)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Likes:
+- nice wheel mechanism.
+Dislikes:
+- only one strategy (despite several other sources of VPs).
+- the game makes you do the same, what others are is doing. To win, you just have to do it a little better.
+- lack of tension - unlike Puerto Rico, it really doesn't matter who takes a given action first. So you chose them maily for the bonuses, not for the actions themselves.
+- just boring.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Received as Christmas gift - 2013
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+IG @boardgameaday
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Nauticus is one of my favorite Kramer and Kiesling games, and it's a real shame that it hasn't seen an English language printing. 
+
+The primary action selection mechanism is great. It's similar to Puerto Rico's role selection in that the selector gets the action plus a bonus while everyone else gets the action. It's a great way to keep everyone involved every turn. 
+
+The artwork is gorgeous and the bits are first rate. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Location: 3-1-1L
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+für 10 Euro auf dem Flohmarkt der Brett 17 gekauft
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Quite an enjoyable game of collecting stuff, building and planning. Good decisions to be made about which bonuses to choose. Better than Carrara.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Players select from an action wheel, gaining the bonus but letting the other players take the action too. I really like the ship-building aspect of the game. Numerous ways to score and some interesting mechanics but overall it just didn't excite me. Still, I'll usually play any K&K game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not the best game of Kramer and Kiesling. Too fiddy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Fresh take on Puerto Rico-style role selection. It's a bit exacting (all or nothing scoring on a highly non-granular scale) and the final turn can get a little too optimizey, but definitely a fun one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+US
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Resource collection/action selection with a weak theme. Nothing special. Worth a play or 2 if you're into Euros
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This seemed quite interesting at first but having played it more I've realised that only one action doesn't happen each round so you can count on most things. Then it comes down to who has the most boat middles and there the start player has an advantage. There is a lot of good but there is something just off enough to make it average.
+
+*Update*
+
+Lowering my rating again. Either there are not enough boat middles in this game or the value of large ships is too great. It seems that the only viable strategy is to grab as many middles as you can on turn one of the game. This gives the start player a significant advantage and likely means that the 4th player has already lost.
+
+Unfortunately I can not see an obvious fix as it seems to be a balancing issue between different strategies. Did this game go through comprehensive development, it does not seem so.
+
+Currently I could still be talked into playing but I'll see if that remains the case or if the games turns out to be truly broken.
+
+*More*
+
+My appreciation has gone up again now that I've realised that I should only play this as a 3 player game. I don't think I'll ever play it 4 player again and there are other much better 2 player games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Stored at family´s dungeon in Cadiz.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ Sealed. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Simple structured optimization title with variable phase order. Enjoyable, but does not particularly stand out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Un juego majo y entretenido que te deja una sensación rara cada vez que tomas una decisión porque todas las opciones que tienes te parecen por un lado buenas pero por otra malas y no sabes bien si la opción que tomas es la correcta.
+
+EDIT. Parece que hay una estrategia predominante
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Not bad but a bit to dry for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Players are in charge of a shipyard, trying to build various size vessels that need hulls, mast and sails. In addition, players need money and workers. There are 7 available action slots - the first player choosing one gets a bonus, similar to Puerto Rico, then other players get to perform that action. Bigger ships are worth more points but take more effort to construct.
+
+I think the trick in this game is deciding what to do with your early ships and what bonus to take. It's got some interesting decisions, sometimes tough decisions, so it's a decent game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Mildly high downtime and lasts too long
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Players manage money in an attempt to build ships in this middle-weight euro from designers Kramer and Kiesling. The main mechanism of the game is a Puerto Rico-style action selection system in which players who select an action also get a certain bonus. This means careful attention to what opponents are doing is required. There's something a bit mechanical about the whole enterprise (practically everything scores something, so it's just a question of optimization), but there's no doubt that this is "well-designed."
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Slightly boring
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+obtain second hand from kotakon on 26/12/2015
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Trade condition: new in shrink.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Can imagine the rating will increase with more games. Action selection with a variable board - really nice to play
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+[b]Nauticus[/b]
+
+[i]Another Kramer/Kiesling game that I got to play thanks to Mat. While not my favorite from these designers [i](that honor belongs to [thing=129948][/thing])[/i] I really enjoyed it.
+
+- Another innovative use of the wheel system found in a few of their other games [i]([thing=27173][/thing] and [thing=129948][/thing]).[/i]
+You never know how actions will line up in future rounds which changes the price for goods and amount of free dock workers you get. 
+- Beautiful components, great art in the game [i](once you figure out how the sails stack the built ships look cool)[/i].
+- There is a lot of future planning that needs to be done, but it is not overly complex.
+- Perfect balance of length and complexity, the game played in a little over an hour.
+- Building combos when you complete ships is fun since you can piggy back the rewards you get from completing multiple ships.
+
+This is definitely a game I would love to play again, unfortunately for me I think it is a bit heavy to play with my wife. She loves Palaces, but Nauticus is definitely a step up in rules complexity. This is on my wishlist, but not a priority since it wouldn't get much play at home.[/i]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good game, very little player interaction though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+German edition.  English rules downloaded.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.25
+心得:
+行動選擇上有點像波多黎各，但是額外bouns是隨機的
+且強迫作一樣動作有時限制太多
+買東西有些時候可以擺有些時候要運算是有點煩雜的規則
+買四組送一的規則也有點奇妙
+整體而言雖然可以有不同路線
+但是行動差距上說實話不大
+規則:
+*起始中央版塊錨對準左上三個工人位置，船板塊跟貨物板塊分類洗好
+*每人起始10分，4工人，15元，一個額外行動板塊跟pass板塊
+*沒經驗的首家，第二家多1元，3人時第三家多1工人兩元，四人時第三家多1工人1元，第四家多兩工人兩元
+*所有資訊都是公開的，錢跟工人無供應上限
+*兩人遊戲進行四輪，三人以上進行五輪
+*每輪執行七個行動，每次行動由起始玩家選擇行動，獲得額外好處(依然可pass)，其他玩家選擇行動或pass，然後換起始玩家
+*船可由1~4塊組合成，每艘船的軌桿跟帆要一樣(除了皇冠百搭)，船板塊不可空中間，可分次完成
+*每輪第一個行動完成後會放一個錨板塊在上面，作為下輪中央板塊的錨對齊點，所有行動板塊都會重洗隨機放置
+*每塊沒花到錢的板塊都到倉庫，有花到錢的可自由選擇
+*每個行動沒做一次都要工人，可由中央提供，或是自己在額外出來做多次
+*買的行動如果四個不同種的都買，或獲得一個免費的，買第二個以上一樣的一個4元
+*pass就翻一個pass板塊
+*買船體 軌桿 帆行動都差不多，有花錢可買，沒花到錢的放到倉庫
+*買物品的話有話錢的可直接放在船下面，一格只能放一個，沒完成的船也可放
+*倉庫行動，每一個工人可以移動一個倉庫板塊到下方造船廠區
+*提款 每一個工人獲得兩元
+*送貨 每個工人可把完成船的下面貨物運送出去，放到旁邊計分，清空的船可載存貨，要裝滿且完成的船，且一次要能全運完
+*皇冠行動 每花一個工人 獲得場上自己圖板皇冠個數的分數(上限15)，所有都算
+*完成船獎勵，幾節的船獲得幾個獎勵，6選1(每艘船獎勵只能重複一次)，皇冠帆，皇冠軌桿，3分，7元，3人，兩個不同貨物
+*額外行動可在自己行動前後做，先得2工人，所有花錢的都是2元，所有工人要自己出
+*每輪會根據Pass板塊扣分，有可能會有負分
+*最後分數 一樣的貨物 分數累加 2-5-9-14-20-+5每一個
+船 2-8-20-35
+剩下的所有配件(倉庫或造船廠)跟工人都轉成一元，3元1分，平手剩錢多的勝利
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+造船之王
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+ Looks great, but it’s just another so so euro.  Glad I only paid $15 for it. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Im not sure if the rating will go up or down after further plays. There is tension, but it is a game for calculators.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid euro with a fun random rondel. It requires just a bit too much setup for what it is though.
+
+• Original Rating: 7 on Jan 07, 2016 after 2 plays and several online plays
+• Traded away on Jan 07, 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nauticus is a role-selection set-collection game in which you're trying to build a small fleet of ships and use them to deliver goods.  On your turn, you choose an action from a wheel that associates that action with a bonus--everyone does the action, but you get to use the bonus too.  Many of the actions are used to acquire ship pieces--hull, masts, and sails.  Ship sections must be built in that order, and the crests on the mast and sail much match.  Stuff that can't be placed right away (or things that cost zero) must be placed in storage, and gotten out later with the storage action.  You get big points for large (4-segment) ships, which will take you most of the game to build.  Alternatively, you can get lots of points for delivering lots of the same type of good, which will require you to finish ships early on.  Overall, the game really comes down to managing timing, so that you can play the right types of stuff in the right order.
+
+(1 play)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nice, medium-weight role-selection game.  Similar fundamental mechanism to Puerto Rico;  i.e. a player chooses a role which provides them a reward, then everyone gets to do the related action (but with a bonus for passing).  Here one is constructing ships from various pieces, loading those ships with goods & delivering those goods.  Most of the focus is on ship construction.  It is a tactical affair that lasts about 30 minutes per player.  Timing is key for the action selection.  Naively I see 3 strategy paths & the game feeling fresh for 5-10 plays.  If you like the recent games from this pair (e.g. Asara or Palaces of Carrara), I think you will enjoy this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+[thing=3076][/thing]-like game, where the aim is to build ships and ship goods, while taking into advantage the roles selected by your opponents, with a bit of resource management. Like the concept and the mechanisms, but it's hell during setup and cleanup.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+TRY Dec/13 on Yucata: Due to availability of resources, this plays very different with 2p vs. more, but scales fine.  I like the 'extra action' idea, to take a bonus turn and type of your liking & timing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+pudelek
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Well, this is definitely harder to play as it seems. Not something you wanna play with your family game playing friends NOR with players who suffer from AP!
+
+In our 1 play I was always short on Talers, workers, or both. You really have to be careful to the temptation of buying too much in 1 action.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a game about building ships and shipping goods. On a turn, the active player selects an action, then gets a special bonus dictated by the position of that action tile on the board. Then they get to preform the action or pass. Then, each player in turn gets to take the action or pass. The actions resolve a number of time depending on how many workers are used, and the inner ring of the actions area depicts workers you can use for the action without needing to delplete your supply.
+
+Knowing when to spend your workers is really tough as they are needed for most major actions and they are hard to replenish. The round ends when 7 of the 8 action tiles have been taken. Then, the tiles get randomized again so the bonuses and costs will always be different.
+
+The game draws a lot of compairsons to Shipyard in my group due to both games having similar boat building mechanisms although the comparison pretty much ends there. Like many games where the active player choses the action to resolve for everyone, this game benefits greatly from paying close attention to your opponents to predict their moves and to budget yourself tightly. There's room for a lot of long term planning, and the action selection with variable costs and rewards is a unique mechanism that brings some solid enjoyment. It's maybe missing some magic to really get people excited but it's a solid game overall.
+
+:star: Art, Iconography and components functional
+:star: Clever or interesting mechanisms
+:star: Reasonably low downtime between turns with mildly AP players
+:star: Multiple plays stay interesting
+:star: Low or mitigatable luck elements
+:star::star::nostar::nostar::nostar: Raw enjoyment
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.903
+only got rid of it because of international move :(
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played the Prototype. Solid Game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Yucata
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.32
+Jogo muito detalhado, embora sem um sabor por ai além, talvez por ser muito cartão, cubos de madeira bastante simples e um tabuleiro com um formato que não se justifica. As principais decisões parecem clarividentes e as escolhas não são assim tantas, num jogo onde também o tema acaba por não se sentir como prometia. Não é mau, mas sendo de Kramer, a expectativa era muito alta!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Essen Auction list@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is a great euro game with a twist on worker placement! When a player takes an action, it is not blocked like in a traditional WP game. Instead, each player may take the same action or pass. If they choose the action, they do not receive a bonus.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+similar to Puerto Rico; good challenge to build efficient engine; nice theme and I really like to see my fleet at the end of the game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I might like this VERY much. I like the "everyone always involved" aspect. Heck, I like everything about it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A decade earlier, this game might have gotten explored to the point where it really shined (or alternately, was exposed as broken). I don't believe it will receive enough plays to do it justice. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+harmless, meaning dry, few decisions, generally boring. Kramer/Kiesling have lost it. :-(
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+rahdo
+OOP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+sold
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Not sure if it is a Puerto Rico replacement but it does have a great flow and interesting decisions, really liked it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Nice and light weight forward planning game that plays much better than I expected. Looking forward to more plays.
+
+Good choices. Plays quickly and it's quick to learn and teach as well. Feels all very polished.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An original twist on the (now classic) role selection and spinning wheel (think Vikings rather than either rondel or Tzolk'in) mechanisms. I love this kind of weight, where everything is quite simply put, but there is plenty of room for thinking. Elegant design worthy of the Kramer/Kiesling duo!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Pluses for me: tight action selection and tactile ship building.
+I do enjoy the game but after 10+ plays it comes to the table much less. I feel that there is not much left to discover (even before hitting 10 plays).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Like new (played a few times, some shelf wear, bought it from Doug Garrett)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+German Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+what a great game! it's so different than what we're used to playing. so many strategies! completely enamored over this game.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Starts and ends awkwardly but there's interesting choices in between. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+The variable costs of each round, shortage of workers and money, the negative marking and striking a balance between shipping goods and ship building, all put together makes for a very tight nautical adventure.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought second hand from Chris Ward
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Rahdo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Rating based on online play at yucata.de.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Just a fantastic game play experience for me. Medium amount of strategic depth, difficult and interesting choices every turn with great art and theming. Will play this anytime, anywhere. 
+
+Only potential concern is the long term replayability as I don't think there is a path too victory without a 4 mast ship.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Gabi, Jota, Pepe
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3.5
+My current low rating is from one online play, where I unsuccessfully tried to learn the game myself. I’m open to being taught face-to-face!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Run a shipping business - build the ships, stock them with goods, ship the goods, etc.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Several plays online (Yucata.de), nearly all 2-player. Early thoughts (5 or 6 games in): http://www.boardgamegeek.com/thread/1098519
+
+An interesting, middle weight role selection / set collection game. The theme is similar to Shipyard -- build ships (hull, mast, sails), load them with goods, deliver goods -- but this is much lighter and faster. You get points mostly by:
+- completing ships (bigger is better)
+- delivering goods (4 types in game; get more points for having delivered larger sets = goods of one type)
+Goods, though, seems to be more of a side project than anything else -- you probably can't ignore it completely. Most points seem to come from ship-building (and crown actions?). In addition, you get bonuses when you finish a ship -- even more incentive to do so!
+
+Some clever stuff here:
+- Puerto Rico like bonus for the person choosing a role. But the bonus is randomly determined during start-of-round setup.
+- The actions require workers, but you get 0-3 workers (based on the bonus allocated at start of round) for free with each action
+- Choosing an action therefore forces you to consider several things: how badly you need the action or the bonus _at that time_; whether or not you should just pass for the free VP (cancel a -3, -2, or -1 end-of-round penalty) and the free crown (worth a variable number of VP if/when the crown action is chosen)
+- Each round starts with a random setup. Then, you can look at the setup and the opponent's tableau to make some sort of plan: which actions you need to take and when, and what the opponent is likely to choose and how you can take advantage of it
+- When you buy stuff (4 of the 8 actions), there's a clever little rule: if you buy all 4 things up for sale (costs are always 0-1-2-3), you get another for 0 coins. But anything you get for 0 coins must go into storage (limited space); otherwise, you can start building it immediately at your dock. That free stuff, though, will later cost you a worker to move it to your dock! 
+
+I wish, though, that the goods path were more viable. It seems that everyone mostly has to do the same thing: build ships and collect a few goods along the way.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Take Puerto Rico action selection, a splash of Felds chained bonus moves and Kramer scoring and you have a winner. These guys are on fire at Essen 2013. Like Coal Baron lots of screwage potential with action selection timing. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.8
+Action selection resource management euro. Choices seem obvious at first but potential tight money/workers can throw a spanner in the works. Deeper than first appearance suggests. Great. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Rating could easily move up with more play.
+
+Very tight resources to manage. That is where the main part of the game is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+On first play, this didn't completely catch my fancy (compared to Coal Baron, published by the same authors and first played within a couple of weeks of each other), but it's good enough to play and it's possible I'll like it better as it becomes more familiar.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Tentative rating.  Played with 3 on Yucata and enjoyed it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+Tight little action placement.  Had a very Puerto Rico feel to the action seletion.  had an awsome new mechnaic on passing.  You had to pass up to three times or you lost VP's I reallly like that feel.  The passing actionn is now a true strategic choice
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Build Ships. Deliver Goods. A game of incremental innovations rather than something truly novel, but the action-selection keeps players involved and the juggling of getting resources & buying stuff seems pretty tight.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.4
+Great game and bonus mechanics.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+I am amazed. I'll be clear about this: I got this game purely based on the name of the authors, and I frankly wasn't expecting more than an OK game that I would be happy to play maximum 5 times. I must say that I was very pleasantly surprised. The game is both deeper and heavier than I expected. It's not Shipyard, but K+K have once again used familiar mechanisms and combined them in interesting ways that work really well (as most of their games do). This game offers some really meaningful, painful decisions, especially towards the end.
+Some of the downsides are
+- The last turn(s) can take quite long because it is really of huge importance to get everything perfect
+- Getting one small thing wrong can have an enormous impact, and in some cases can cost you the game.
+But this is a very solid game that I'm glad I got.
+
+Initial rating: 7.3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+I enjoyed my play of Nauticus. The action selection isn't quite as punishing as in Puerto Rico and the game is also substantially more transparent so you can see what you're trying to accomplish - and how to do it.
+
+The four players all ended up with scores pretty similar to each other so I'm curious how much space there really is for exceptional play, but with 3 new players and 1 player who'd played once before, it was a lot of fun as everyone worked through the game together. I think I'd enjoy this substantially less with a group of experienced players who can optimise everything perfectly.
+
+Despite enjoying it though, like Diplomacy, I have very little interest in playing it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Shipping/set collection and construction get points, but goods and parts are limited. Anything free, for no thematic reason, needs to be warehoused before use, an extra action. Feels overly constrained.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nice combination of Mechanismus that - after one play - do Seem to add up to a great Name. Lot's to do, little downtime.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Nauticus is playable but just didn't hold my attention. Choices are mostly obvious, and there's not all that much to do each turn until you complete a multi-masted ship, at which time there's almost too many options.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A tight resource management game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Played in a 4-player game at BGG.con 2013. We got about a third of the way through and mutually agreed not to finish the game. We could see that there was no narrative arc to the game; you don't have a chance to specialize or develop your abilities, so what you're doing in the first round is the same as what you'll be doing in the last round.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Borrowed some ingredients from Wikinger. great game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Tough work building ships and delivering goods! Interesting if a bit fiddly components, mechanisms that only vaguely relate to the theme.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nauticus is a Kramer/Kiesling game that shares simliarities with another of their games, Asara. Whereas Asara is about building towers, Nauticus focuses on ships. Nauticus is the more complicated of the two, with an interesting action selection mechanic. It is also very reminiscent of Shipyard.
+
+Each round the eight action tiles will be randomly placed on the board in a circle. Each tile will border a bonus printed on the board, and additionally there is a wheel that provides another bonus and which will rotate from round to round. Whenever someone selects an action, they get the bonus printed on the board. Then they get the bonus printed on the wheel and perform the action, or pass. Then, in clockwise order, everyone else gets the bonus on the wheel and chooses whether to perform the action.
+
+The actions are all about getting money, getting ship parts, moving ship parts, getting goods and delivering goods. Some things can be played directly to your harbor but some have to be stored in your warehouse first. At game end, ships score you points, many more points for longer ships, and delivering goods is a set collection game (but it's easier to ship smaller ships).
+
+The game is all about timing... picking the right actions when they make sense for you, but not for other people. Of course, there's another neat mechanic where passing saves you from getting a penalty (3 pts for the first pass, 2 for the second, 1 for the third). So forcing people to pass an action they don't want to take or can't take isn't necessarily a good thing.
+
+Also, only 7 of the 8 actions will be taken every round, so if you need something to happen this round, you might need to take the action yourself. And once per game you get to use an extra action tile and take any of the 8 possible actions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Sweeeet. I secured a copy!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+When my friend brought this game to the table, I thought I was in for a solid, but boring, typical German experience. The game components look really solid, but also uninspired and run-of-the-mill. But after my first turn I was enjoying myself a lot, and the game was exciting to the end. Resources are really tight in this game! The combination of set collection and actions selection (Puerto Rico like) works really well. Certainly one of the better recent games by the famous designer duo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.9
+Interesting worker placement & tile game.  While money is somewhat tight, it is workers that are really the tight commodity in this one.  Some neat elements that can make rounds different, but it seems to be very AP prone.  We played at 4 players, but I think it may play better at 2 or 3.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+[Milan-Spiele]
+16,90€ (+3% PayPal-Gebühr, s. Rivet Wars: Eastern Front)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+Extremely tight euro.  Very enjoyable but can drag a little with four players- especially if one is AP-prone.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Provisional rating, one play (at Spiel). Enjoyed this, and I agree with other commentators here that one is constantly engaged with the game whether on turn or not (and consequently the game seem to play fast, though having waited twice for a table at Spiel, it does not seem so from the outside). I went for a crowns strategy, my friend went for a shipping strategy, our scores were very close at the end.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid game, was compared to Puerto Rico in its main mechanic but it feels very different, you have much less control (would like to try with 2p for more strategic gameplay)
+
+[+] good components, good mechanics, replayability, combos!, you must pass to avoid negative points, very little downtime
+[-] there are different scoring strategies but it seems that you have to do a bit of everything to win, combos can slow down the game, the once-a-game special action feels like an ugly last minute patch...
+
+got in MathTrade Essen 14
+gone in MathTrade Dec14
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Quite heavy for a Kosmos game. You have to plan several things, the Puerto Rico effect is there. Good game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+(Jan 2013 after 1 4p learning game) - I like K&K as designers.   This game was a little more complex than I first thought and our game play was slow.  
+
+It kind of came together in the final round and I know what I would do differently in future plays.
+
+This is a classic you want to do 4 things, but can only do 2 or 3 type game.  there is a balance between workers, money and when actions will trigger with a pretty unique action wheel where 7 of 8 actions are done each round and virtual workers enter the equation of how many times you can do the action for free vs. having to pay more.
+
+There is a lot here and it makes my brain hurt a little at times, but in a good way.  Want to explore more.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+The standout mechanic here is the role selection mechanic from Puerto Rico: one player chooses an action and everyone performs it. This creates a few interesting decisions, but interaction is still very low, and the set collection and resource management aspects were very straightforward and just didn't grab me. After two plays I think I'm done. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Ship building, and collecting (or shipping) goods. Feels a bit repetitive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Under review.
+
+Kramer and Kiesling take on role selection and do it well. Folks may need more than one play to understand and appreciate the rhythm of play but I really like the various actions, resources and rewards on offer. Rather than majorities this time, scoring is done on completing VP conversion actions such as building ships and shipping goods.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+You could call this ... Shipyard lite. Interesting mechanic and pretty amazing artwork and very well balanced, even with two players. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nice looking, nice theme and easy game to play. Element of pick up and deliver and push your luck as long as the time is right. Be interesting to play with more players, think the free resources will be more limited.  Played with 4, takes alot more time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Yucata
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Well designed game but personally missed a spark
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Cool action wheel mechanics.  Difficult to balance all the resources you need to score points.
+
+Throws together familiar ideas in a novel way.
+
+Unfortunately, a bit dry and the consensus around here is that it is only ok.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Maritime shipbuilders building the tallest sailing ships to carry the most precious cargo. Shipbuilding takes three steps to step masts, assemble hulls, matching sails, and fill the hold. Set collection game. Unique action wheel that also determines market values. Beautiful board and components...lots of puzzle pieces.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+played at GOF 2014 and LT 2015. Nice central mechanism. Feels a bit dry however and the fun varies a lot with who is playing. Can take forever.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+A fairly bland ship building and goods delivery theme but the mechanisms work nicely. The game has a 'Golden Rule' which can feel annoying but is a clever restriction which drives competition. Whenever you receive an item for free, it must go to your warehouse first (and you generally don't want it to). Several different strategies to try out. Good game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+German version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Decent looking medium weight game. Interest low.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Essen 2013
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+p: vb
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Attractively produced.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+R

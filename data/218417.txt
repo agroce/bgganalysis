@@ -1,0 +1,878 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Aeon's End: War Eternal
+RANK: 727
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+#GeekSort-Exclude
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter backer
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Won this at Gen Con by being a beast at Resistance. And by that I mean being okay at it and getting lucky. Same thing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Expansion
+Stored in main box
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great theme, and my favorite cooperative deck builder I have played. I love this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Very interesting deckbuilder, where your playstyle must significantly change depending on the nemesis you face.  The nemesis we fought was majorly focused on alignment, and the characters we picked were, uh, not good at that.  We lost horribly, but we also played a generic deckbuilder strategy and by the time we adapted to this nemesis, we were toast.
+
+Would definitely play again, as it is a very strategic game, but with the understanding that the deckbuilding aspect is secondary or tertiary to the strategic and co-operative aspects.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Part strategy, part luck. But it's always thrilling to see how each round unfolds.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great fun at 1-3 players. None of the card combos feel broken, and complexity of game state has been kept within bounds (nothing remotely like the more ambitious end of Sentinels in this respect). These are good things, but it does mean some games are perhaps rather muted and samey in feel in terms of what you do.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+More good stuff for Aeon's End
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter (10/2018).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Let me start this off by saying that I rated Aeon's End a 10 and I'm a big fan of that game's design on many fronts. My copy of War Eternal is a Kickstarter version.
+
+ART/UI:
+The UI of the cards were changed in War Eternal to a modernized look which is serviceable. I do miss the older look that drew inspiration from MtG circa Urza block, since it added a lot of personality to the game. In this case, the art attempts to make up for the lost impact of the UI change (which is, again, a serviceable change). I would say the art succeeded. Despite being in a style that isn't my personal preference, the vividness and extra expression in each piece is leagues ahead of the older art. I would argue that in some cases, older art is superior (Spark), but in others the new is strictly better (Crystal). In either case, the Art and UI get a stamp of approval from me.
+
+QUALITY:
+Component quality somehow stepped up from the original, yet not enough to move very high. If there were some sort of component 10-point objective scale, Yugioh and Dicemaster cards are the worst thing ever created, rated at a 1, the original Aeon's End cards are a 2 (and feel like nails on a chalkboard) and War Eternal sits at a 3. That's nothing to be proud of. This game was funded well enough that black core with linen finish would've been not only feasible but still save plenty of money. Sleeves are still a MUST if you buy this, so factor them into the cost of the game, otherwise it's barely playable. Sadly, the Nemesis and Mage boards took a different turn. While being of nice chipboard this time instead of some bendy, flimsy cardboard crap, they also lack any finish, so they feel (and damage) exactly like a bad prototype. Ironically, the chipboard upgrade makes them worse than the originals because of this because now you can't sleeve or laminate them for protection. The box insert is serviceable but also flimsy and low quality. AE really hasn't improved the component quality to any professional level.
+
+GAMEPLAY:
+Variable player powers (more specific this time)
+Card market + randomizer cards, similar to Dominion. Now with added "Market Setup" templates.
+Totally deterministic player decks; no shuffling! This is extremely strategic and skill-based
+Nemeses are very powerful AI, though in War Eternal it seems like extra gimmicks add too many extra corner cases and situational lucksack (Nemesis deck is still seeded randomness)
+Turn order cards make a return: players and Nemesis turns are completely random based on a deck of cards. You never know whose turn is next and can't plan for any particular outcome in the immediate (not very tactical).
+Hardmode is breakneck and much more difficult than the original. Some Nemeses hardmodes are well done, and some are the board game equivalent of videogame "damage sponge" difficulty modes, wherein the powers boil down to lucksack.
+Casting system is one turn in a rear, where spells are prepped before being cast. Very strategic.
+
+THE BAD STUFF:
+War Eternal looks like Aeon's End and quacks like Aeon's End, but there are definitely some differences, some of which are negative. I'd like to start "THE BAD STUFF" by saying that I think the game is actually very good and that all of the new cards, Nemeses, and Mages are interesting and highly creative. The amount of extra depth in this version is leagues above the original, right down to the Unique Starter cards for each Mage and how much extra flavor everything has. That having been said, this version of the game amplifies the original's minor problem with the totally random turn order cards. Because the game is set up to be highly strategic and because the turn orders are totally wacky, it removes all tactics from the game: you can plan a big over-arching plot, but don't count on gaining small opportunistic advantages. There are almost never opportunities in AE:WE unless the stars align.
+
+In this version of the game, there are SO many situational player powers, cards, Nemesis abilities, Nemesis cards, tokens, and STUFF everywhere that making a nice smooth plan and roughly sticking to it with minor adaptations as the game throws you curveballs is nearly impossible. There's a very high probability that on any given turn, the Nemesis (or a player) takes a double-turn. And as one entity gets a double-turn, it necessarily increases the probability that another double-turn exists. If two entities (players or Nemesis) gets a double-turn, then it's guaranteed there WILL be a third double-turn. Why is this bad? The player Mages are all reactionary. In a game with highly situational corner-case-exploiting abilities, it's difficult to set up the perfect situation turn after turn. In the original AE, this was something you worked toward and got better at through play. In AE:WE, every power on the board is so incredibly niche that it's rare you can take advantage of a double-turn as a player, or even just having players go before the Nemesis.
+
+War Eternal very much relies on the Nemesis to set 'em up and the Mages to knock 'em down. You can't knock down what isn't set up. In this way, having double, triple, or even QUAD (!!!) Nemesis turns can spell instant-loss no matter how well you plan. This was still a minor problem present in AE, but we never found ourselves in a no-win situation outside of a quad-Nemesis turn or a tri-Nemesis turn in hardmode. A single badly-timed double-Nemesis can cause a game loss. Purely through chance. In a game about extreme strategy and teamwork. Imagine you take that loss (which we thankfully haven't yet): are you really going to set up the exact same Nemesis, Magi, and market all over again and try the exact same (good) strategy all over again because of one lousy turn order? Probably not. That particular configuration is going to be forever ruined in your mind, which sours the experience of a team-based strategy game. In a game like Arkham Horror, where the focus is on story-telling, this sort of thing can be acceptable. But AE is supposed to be a strategic (AND tactical) game. AE:WE really drops the ball here and you feel the hurt in each game you play. This one single major design oversight brings this version down from a perfect 10, in my opinion.
+
+VALUE:
+Extremely high. They pack a lot in one box. The number of mages, nemeses, game cards, and nemesis cards are much higher than the original base game. At the exact same retail price, it feels like a steal. With as many unique components as you get, the replayability is incredibly strong, just like the original.
+
+CONCLUSION:
+Buy the damn game anyway. You'll have to grit through a big wackier set of turn situations and still have to buy sleeves to play, but it's worth it. There's simply no other game besides the original Aeon's End that can deliver this kind of strategic co-op in such a compact and streamlined form, complete with all the complexities of a much larger game.
+
+However, if you have any misgivings whatsoever, go ahead and buy the base game and several expansions first. You can't go wrong with them and you can always tap into War Eternal whenever you need.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted. Also includes the accessory pack.
+
+Combined in one box with the base game (in the Broken Token insert).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+War Eternal is a significant jump in difficulty, to the point where the game is not fun to play because the players do not stand a chance.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent standalone that combines with co-op deckbuilder Aeon's End. Adds oodles more mages, Nameless, spells, relics, and gems. Favorite is Desmodia and her +2 Sigils.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Finally won a game. Prefer the newer artwork. Looking forward to overcoming different Nemisis' with differing characters and market builds.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Backed on Kickstarter. Estimated delivery August 2017; actually received Sept 2017.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes: KS
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Aug 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Kickstarted: Enlightened Exile
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed the Voidwalker pledge on Kickstarter on March 25, 2017 - $150. Estimated delivery is August 2017. Includes Aeon's End, The Depths, The Nameless, Aeon's End: War Eternal, and The Void. Plus, the Accessory Pack. Received on
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent co-operative deckbuilder with no shuffling. Reminds me of my time raiding in World of Warcraft -- While the generic fantasy theme isn't really my cup of tea, the varied boss mechanics and spell interactions keep the game fresh and interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+484 cards Percival
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Initial Impression: After reading reviews regarding poor component quality of the 1st edition Aeon's End, I was hesitant to get this game. I'm happy to say that this edition has top quality components. The tokens are sturdy, as are the character boards. Beautiful borderless artwork adorns some of the sturdiest cards I've ever had the pleasure to sleeve. Although gameplay has slightly more complexity than Dominion, the extra options of how to spend your ether make for an interesting game. Tackling the different bosses requires tight cooperation between the players and the use of their unique character abilities. With so many bosses, boss powers, characters and character powers, this game looks to be a different experience with every play.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+More everything to the base game, solid big expansion.
+
+Owned by a friend.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I loooooooove all the component upgrades and new stuff added to the base game. The characters in this expansion are far more distinct in how they ought to play and mechanically work. The monsters I've played with thus far engages me in nail-biting close games. And this game continues to SHINE with the added variety as the devs pump out more.
+
+I'll gladly buy any of these I can get my hands on for as long as I can...Well, as long as it's at a sane pace.
+
+My one gripe is that I prefer to play with this game, like the original, with fewer players rather than the full four. But that could be a "me" thing as most deckbuilders aren't quite my forté - this is the exception.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+bonus
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Seems like I completely misjudged the base game, which I only rated a 5.5 back in the days. I am a sucker for production value and the new look and feel of this standalone  expansion is much much better than the original experience - like gamechanging better! 
+
+The game itself is brutally hard and we were not able to beat the first nemesis in five tries - and we're not exactly new to the deckbuilding/co-op genre (turns out we played power cards wrong as we executed their effect on every nemesis turn). But in contrast to the time we played the base game we are now motivated to figure out the combos to bring down all those bastards! This is deckbuilding at its best and I am very happy that I gave the franchise a second chance.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+I think this is better than the original - card design is nicer for sure and the tweak to the turn order mechanic for 4 players is great.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Stand alone expansion to Aeon's End.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.63
+:F::O::R::E::V::E::R::blank::K::E::E::P::E::R: (FLC, in the same box as Aeon's End)
+
+:trade: [b][size=11]My Best Solo Game![/size][/b] (Tied with Aeon's End)
+:building: [b][size=11]My Best Coop Game![/size][/b] (Tied with Aeon's End)
+:building: [b][size=11]My Best Deckbuilder Game![/size][/b] (Tied with Aeon's End)
+:building: [b][size=11]My Best Variable Player Powers Game![/size][/b] (Tied with Aeon's End)
+:building: [b][size=11]My 3rd Best Multiple or Variable End-Game Conditions Game![/size][/b] (Tied with Aeon's End)
+
+
+:!block: [b]IMPORTANT NOTE:[/b] This rating is done considering that I also have [thing=191189]Aeon's End Second Edition base game[/thing] and also all these expansions.
+* [thing=196421]Aeon’s End: The Depths [/thing] (2016) :star::star::halfstar: (Nym, Reeve & Z'hana / Horde-Crone)
+* [thing=212139]Aeon’s End: The Nameless [/thing] (2017) :star::star::halfstar: (Malastar / Blight Lord & Wayward One)
+* [thing=223914]Aeon's End: The Void[/thing] (2017) :star::star::halfstar: (Sparrow & Xaxos / Maiden of Thorn & Knight of Shackles)
+* [thing=228552]Aeon’s End: The Outer Dark [/thing] (2017) :star::star::halfstar: (Indira & Remnant / Thrice-Dead Prophet & Wraithmonger)
+
+
+[b](KICKSTARTER GAME)[/b]
+Original ETA = 2017/08
+Received = 2017/10/10 (+2M)
+
+
+[b]War Eternal Base Game: Games Played = 10 + 21 = 31 times[/b] (60)
+:gg::gg::gg: [b]Awesome Purchase! (Less than 2$ per hour!)[/b]
+
+[b]With The Void Expansion: Games Played =  12 times[/b] (21)
+:gg::gg::gg: [b]Awesome Purchase! (Less than 2$ per hour!)[/b]
+
+[b]With The Outer Dark Expansion: Games Played =  15 times[/b] (21)
+:gg::gg::gg: [b]Awesome Purchase! (Less than 2$ per hour!)[/b]
+
+
+[b]
+:STAR: COMPLETE RATING:
+[/b]
+[c]
+[b]SCORE  CRITERIA       WEIGHTING       ------- STAR RATING SCALE -------[/b]
+
+(10!) FUN             (x15):         BORING :star::star::star::star::star::star::star::star::star::star: REALLY FUN
+
+(10!) GAMEPLAY         (x5):       NO DEPTH :star::star::star::star::star::star::star::star::star::star: LOT OF DEPTH (FOR THE WEIGHT)
+(9.5) GAME FLOW        (x5):         FIDDLY :star::star::star::star::star::star::star::star::star::halfstar: SILKY SMOOTH
+(10!) DOWNTIMES        (x2):         LOT OF :star::star::star::star::star::star::star::star::star::star: ZERO
+(9.0) RANDOMNESS       (x2):      PURE LUCK :star::star::star::star::star::star::star::star::star::nostar: PURE SKILLS
+(10!) MECHANICS        (x2):         BORING :star::star::star::star::star::star::star::star::star::star: INTERESTING / INNOVATIVE
+
+(10!) REPLAYABILITY    (x5):           ZERO :star::star::star::star::star::star::star::star::star::star: INFINITE
+(9.5) SCALABILITY      (x3):           POOR :star::star::star::star::star::star::star::star::star::halfstar: GREAT AT ALL PLAYER COUNTS
+(7.0) PORTABILITY      (x1):          BULKY :star::star::star::star::star::star::star::nostar::nostar::nostar: SUPER EASY TO PLAY ANYWHERE
+
+(10!) THEME            (x1):   UNATTRACTIVE :star::star::star::star::star::star::star::star::star::star: ATTRACTIVE
+(9.5) AESTHETICS       (x1):           UGLY :star::star::star::star::star::star::star::star::star::halfstar: GORGEOUS
+(8.0) COMPONENTS       (x1):    LOW QUALITY :star::star::star::star::star::star::star::star::nostar::nostar: HIGH QUALITY
+(10!) VALUE            (x2):  TOO EXPENSIVE :star::star::star::star::star::star::star::star::star::star: REALLY CHEAP(LOW COST FOR WHAT WE GET)
+
+(7.0) SETUP TIME       (x2):           LONG :star::star::star::star::star::star::star::nostar::nostar::nostar: ZERO
+(10!) GAME LENGTH      (x2): TOO SHORT/LONG :star::star::star::star::star::star::star::star::star::star: JUST PERFECT
+(9.0) RULES COMPLEXITY (x1):        COMPLEX :star::star::star::star::star::star::star::star::star::nostar: SIMPLE
+[/c]
+[b]TOTAL = 481.5/50 = 9.63[/b]
+
+
+:thumbsup: [b]POSITIVE POINTS:[/b]
+
+++ Great post-apocalyptic/fantasy cooperative deck-building game, which remind the players of RPG games, in which the alpha-player syndrome is minimal, which is great.
+++ I love that you don't shuffle your deck: just flip it over and you're set! This minimize downtime and also add to the strategy in which you play/discard your cards.
+++ I love the turn order deck with which you never exactly know when your next turn (or the Nemesis one) will be. This give a great tension and exciting moments. Also, it's still giving player enough information as the round progress, which can lead to some more strategy.
+++ The game come with a lot of variability in each game setup to give some really great replayability: there is several characters that can be played, several Nemesis that can be fought against with a lot of basic Nemesis cards that are included in the Nemesis deck that also change the way the Nemesis will fight and there is a great quantity of Market cards (and thus strategies) that are available to the players.
+++ I really love that each Nemesis have really different fighting behavior and/or ways to win/lose the game (by adding some new mechanism/components in there). This is really fun to first explore and understand how they fight (and how to respond), and then it leads to really different strategy we must follow, thus increasing the replayability. 
+++ There is a really nice sense of escalation in this game as the Nemesis deck is set in tiers that become harder and harder to fight against as the game progress.
+++ The theme is really interesting and somewhat fresh in it genre. It's fun to read the flavor text on cards and on the back of the characters playmat.
+++ The is a lot of small-box expansions to add new content if you want "more of the same".
+++ Except from some issues (see negative comment on components), most of the component are of good quality for the price. 
+++ The KS add-on Accessory Pack is really great and really add a tactile touch with chunky gem-like counters (instead of cardboard tokens) and also lower the fiddliness of the gameplay with the spindown dice.
+++ Somewhat easy to teach and fast to play.
+
+
+:thumbsdown: [b]NEGATIVE POINTS:[/b]
+
+-- The card quality is inconsistent: most of the cards have a smooth glossy finish, but some of them have a rough texture to them. I don't really care since I have sleeved all my cards, but it's a known issues unfortunately with at least the first print run for the AE:WE Kickstarter.
+-- I had some other issues with my KS copy (namely damage cards and also missing gem-like counter from the Accessory Pack), but these were quickly taken care of by the publisher, so kudos to them for that.
+-- In almost all my standalone games and expansions, there are some form of markings to the cards, done during the manufacturing, which is annoying.
+-- There is not a different card number between the cards from Aeon's End: Second Edition and Aeon's End:War Eternal, so for some people it may be annoying if you want to know which card come from which game. But all small-box expansions have a unique starting letter to the card number.
+-- The setup time and tear down time is longer than I would wish, but we have find some ways to minimize it: When we make a new setup (market cards and Nemesis deck), we reuse the same setup as long as we haven't won with it (we may change characters though and sometime, if the market is too harsh for this Nemesis, we may change 1 card stack). When we win, we only change roughly half the Market cards for new ones (between 3 to 4 card stacks), and change the Nemesis basic cards for the same Nemesis, until we have won easily a few times against this Nemesis (until we find that we have really figured out this one). This also help us master the cards' power (only half the cards to learn instead of all 9 of them) Then again, even if for a next game we would play another Nemesis, we always keep roughly half the current Market cards and go to the next Nemesis up the difficulty scale. Finally, we also always setup the Market cards and the Nemesis deck at the end of the game (while talking about the game we just finished) to speed up the setup time for our next game.
+
+
+:arrowE: [b]OTHER GAME INFO:[/b]
+[b]
+Game Weight = 3.1/5
+Release Date = 2017
+Number of Player = 2-4
+2-player length = 45-60 min.
+(Usually around 45 minutes of playtime, but with 15 minutes, sometimes more, of setup/tear down, talking about our strategy for the game.)
+Player Count Preference = Best at 2, great at 3, recommended at 4! :thumbsup::thumbsup:
+
+NOTE: SLEEVED, because not all the cards are played all the time.
+[/b]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Coöp Dominion! I love Dominion and coöps, so that's a positive...
+
+The characters, with their unique abilities, create opportunities to craft strategies that are synergistic in nature. Not just in the deck, as is common for deck builders, but between decks. It's very exciting and gives a dimension to play that can only be found in coöps.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.6
+kickstarted. challenging and fun game. lots of variety with the different Nemesis, market cards, and Mages.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lots of fun, really gives the feel of working on a fighting team. I love the new art style, and the random turn order is a breath of fresh air that prevents too much "solving". Only not rated higher as it could very easily be played by one player while everyone else just follows directions, not a problem for my particular play group but a problem nonetheless (and unfortunately one that plagues most co-op board games)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The missing cards and starter sheet were replaced (and carefully packed), so good customer service.
+
+My first game of this was very difficult.  The theme, art and mechanics are great.  It's just way too hard.  I am concerned a bit that this game might be too heavy, in that the lack of shuffling means you can really analyze the order you buy and use cards, and that plus the option to pick the cards in your market, and pick your mages, before play but after you know the Nemesis, is why they made the game so hard: they expect you to analyze it to death so they made it really hard in order to compensate.
+
+I am not really looking for a "deck construction" type game where I spend two hours planning what mages, market cards, and card buying and playing order I will use.  I would rather have random everything and make decisions on the fly, like a typical "deckbuilder."  I think I may end up tweaking this one heavily to make it easier so I can play in a more breezy style; I am not at all interested in "deck construction" type pre-game prep work and strategizing.  
+
+I do like the general mechanics and choices though so I am looking forward to more plays, and have ordered more stuff, including the original base game, which is supposed to be easier.  Also I plan to play with two mages from now on, not four, which I believe is just easier, and also more practical in terms of remembering who bought what for each hand.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1 to 4 Players
+Deck Building Co-op Game
+KS Release August 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Enjoyed my first few solo playthroughs.  Really like the variable player order and the flow of flipping the discard pile face-up to keep going.  
+
+My main beefs are:
+Setup is a pain for a game that is nothing but cards.  Feel like this could have been made easier by labeling the backs of the Nemesis cards with their Tier (since that should never be hidden information.)  Labeling card backs as gem/spell/relic would help too - if it meant getting rid of cards that force you to shuffle, I think it'd be worth it.
+
+The "first game" sheet included was confusing - apparently it was the one for the base Aeon's End game, I bought War Eternal since it was supposed to be standalone with better components.  
+
+Rulebook and overall templating of cards is a bit of a mess, easy to miss important things on your first through playthroughs.  
+
+Will update rating based on further playthroughs.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted with Legacy
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Rating based on multiple play test sessions
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Solo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This expansion is going to steal all of legendary glory hehe, xD by far my fav game of al time 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Essen 17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+dodatek
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great standalone expansion to Aeon's End.  Adds a lot of great new content without any rules bloat.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Kickstarter Elder with acessory pack
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Perhaps the best deckbuilding I ever tried. Very very hard but so rewarding when you finally beat that Némésis !
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Aeon's End is a cooperative deckbuilding game. The game it's closest to, in my mind, is Sentinels of the Multiverse. I feel they are somewhat similar because you're each playing a hero that is trying to bring the big bad down to 0 health. There are alternative win conditions in Aeon's End and an alternative lose condition other than having the whole team knocked out. I don't normally like deckbuilding games versus tableau building games. I like this more than Sentinels of the Multiverse, though, because you don't constantly have to calculate least health, second least health, etc, etc. Aeon's End is also interesting due to the fact that you don't shuffle your deck. When you need cards from an empty deck, you flip your discard pile to become a new deck.
+
+Beyond the way the you flip your deck, there are a lot of options to typically consider: charge up your ability, purchase a card (which card?), spin your breach... making it cheaper to open and temporarily allow you to cast spells, open a breach outright, and more. There is a lot of variety in the box between the different starting characters, the different bosses, and various cards that can be placed in the market. Not only that, there are big box and small box expansions for virtually unlimited replay value. Overall, I consider this to be a great coop with great variability. I just hope they don't produce too much stuff for the game, the way they did for Sentinels of the Multiverse.
+
+War Eternal & Expansion Specifics: You can play this one stand alone, but the effects/cards are a little more complex and nuanced. In addition, the bosses tend to be harder and more punishing. I think it's better for new players to start with Aeon's End base game and its expansions (Depths/Nameless), before jumping into this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+inkl.
+Aeon's End: The Void ‐ English first edition (2017)
+Aeon's End: The Outer Dark ‐ English first edition (2017)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Production is now stellar. The second edition had made this game simply amazing. This is simply the only game where I have won the game and enthusiastically high high-fived my fellow players because we pulled off such an epic win. One of my favorite games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Brilliant expansion.  Challenging to come up with the market that will allow you to beat each boss.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Merged into the main game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Liked the original but the production was terrible.   The upgrade pack made ot less ugly and raised the score of the original.  Coop deckbuilder.  Much like legendary group vs the boss.  Its not easy but i rather play this over any legendary.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Favorite deckbuilder
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+TLDR: The game is a great co-op deck build, but is challenging with weird scaling, and the packaging/box design is bad.
+
+First this game is great and offers a real challenge to experienced deck builder players. It also offers a nice co-op experience too, especially as it encourages actual teamwork.
+
+I only have two real complaint about this game, and one of them isn't really about the game itself. The big one I have related to the game itself is that it scales funny: three players is easiest, four is most challenging, and two can feel either fair or unfair depending on what variant of the initiative rules you use (2 player initiative cards or 4). While it feels completely winnable with all play counts, it just felt weird in that each boss's difficulty appears so different based on how many people are playing, and not in a sensible kind of way.
+
+My not directly related to the game complaint is the box for this game is stupid. It has no meaningful insert and the box is way bigger then it has any need to be. The box could have been 1/3 the size and fit everything just fine; such a wast of space and expenditure. Once I get the second edition of Aeon's End I will be tossing one of the boxes (not sure which one has the art I like more) and combining them into one to save on shelf space.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Just as great as the original. I like the cleaner look of the game and the slightly smaller box.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+6500฿ KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+1-4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+And I thought the basegame was hard.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter 2017, arriving in August
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.9
+Purchased on Kickstarter. Co-op deck-builder. It plays great. My wife and I really enjoy it.  My favorite deck-builder in my collection. I will definitely purchase evry further expansions! 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted 2017.
+
+2017 acquisition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+A fantastic game with great tension. Card art is fantastic and components are excellent. Great flow from turn to turn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+x artwork
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Adds more content to an already great game.  Components and artwork are improved in this version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+A very fun and VERY challenging deck building, boss battle, co-op (or solo) game. Setup takes a while, but otherwise it's a wonderful game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter - $95 pledge level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+120 minutes
+To be tried multiplayer. Seems like "just" more of the same as Aeon's End. Potentially a bit harder. :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2017-08
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1st Kickstarter 2017 (2nd in total).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Aeons End War Eternal Kickstarter including First installment. Wife and i simply loving this Deckbuilder. Besides Shadowrift the best Deckbuilder you can get.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Aeon's End is now my favorite deck builder.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Kickstarter Core + War Eternal + Accessory pack
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Received for Christmas 2017 by my Secret Little One Exchange
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Excellent co-op deck builder
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Just one game. I need to play more to know exactly what rating to give to that game. Right now, I'm not fully convinced. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+[url=http://www.techuser.net/klondikeprob.html]Cooperative games are not games, they are puzzles. And whether I win or lose against a random inanimate/unintelligent algorithm, I am left feeling unsatisfied. I'd rather play a One versus All or a Team versus Team game. [/url] 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Project http://kck.st/2mLUT5K
+- Backed: 03/21/2017
+- Funded: 04/21/2017
+- Pledge Level: Pledge $65 or more: "Enlightened Exile
+One copy of War Eternal and The Void expansion with all stretch goals.
+
+Backers of the Aeon's End 2016 Kickstarter will also receive the Update Pack. Others can add $10 to receive the Update Pack. See the Update Pack section of the project page for important details.
+
+All backers can add $20 to receive the Accessory Pack."
+- Payment: $85
+- Survey: 04/27/2017
+- Projected Delivery: 08/2017
+- Shipped: 
+
+Status: DELIVERED
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed on Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Feb 2018 Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[b]Accessories:[/b] premium sleeved, plano like containers
+
+[b]Additional Info:[/b] Kickstarter edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Expansion: In the box with the base
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Enlightened Exile pledge
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+It's a deckbuilding game without the game. Essentially a sort of puzzle, the new edition improves the art, however there is no more "playing". You figure out the exact sequence of cards you need to beat the boss via trial and error. I don't mind this sort of thing in the LOTR card game as you get to construct a deck to defeat the "puzzle" of the mission, however it's not so fun in a deckbuilder, in which you would expect to build a deck to overcome the situation as it arises instead of having to buy a set number of cards in a nearly exact order to win the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+seems really fun
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Aeon's End: War Eternal provides a lot more of what made Aeon's End great. This is a must buy for fans of the original looking for more content. War Eternal is also a great starting point for those wanting to experience Aeon's End for the first time.
+
+See more of my thoughts at https://boardgamegeek.com/blogpost/69771/aeons-end-war-eternal-card-city-xl-mint-works-prom
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Game offers lots of variability and promotes constant communication during the game. Setup and breakdown can be a pain but well worth it since each game lasts 60-90 minutes w/ nonstop excitement. Lots of characters (w/ unique abilities) and bosses to choose from. Received via KS and have been hooked ever since.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Plays logged under base game. Same comments as per Aeons End as this is more of the same, but that is definitely not a bad thing. More characters and more nemesis is what makes the game so all in all a great addition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very strong follow-up from the original AE. Very much enjoy playing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Fantastic Game,
+The best parts of Sentinels of the Multiverse and Dominion had a baby and dressed it in towns of Fantasy charm.
+
+Must have co op.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Card game 1-4, playable solo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Cooperative deck builder with totally controlled deck. You do not shuffle Your deck! ++ Replay-ability 
+Art 6/10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Level Up Games.  November 2017.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Arrived
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+August 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+One of the best deck builders out there!  This is the top in this genre of games for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Superb combination of the best parts from Sentinels of the Multiverse and Dominion. The game itself is hard to beat, and all players would like to play more!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+The mismatch with the original printing is atrocious.
+When (if ?) the "replacements" for the first edition become available, I'll update my rating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Initial rating 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Kickstarter: https://www.kickstarter.com/projects/2012515236/aeons-end-war-eternal
+KS Pledge: Henge Mystic
+Est delivery: August 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Sleeved Arcane Tinmen
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Played about 6 games with various number of heroes and won 50%. I'm completely new to this game, so I don't agree it is hard. Cards artworks and quality is much better than I thought after watching gameplays. One problem: after those several games using randomizers I know almost all the content (except one spell) so for further solo fun I may increase difficulty or buy expansion.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Agosto 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Expansion
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+C
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The "no shuffle deck" thing is more of a gimmick than anything else but it's a solid team deck builder underneath.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+In mijn bezit sinds 19-10-2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Just amazing, enjoy it everytime I play. The dificulty level is well balanced.
+
+Highly recommend if you like challenges and deck building!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Perfect 2 player co-op game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Expansion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Adds even more options and variety to an already incredible game.  New artwork update is excellent.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter: Enlightened Exile
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kicking
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought Oct 2017 as part of Base, War Eternal and 4 available expansions for $90 from FB Exchange
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Freaking awesome game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+playtest PnP. great improvement over the first game, yet mixes with it seamlessly thanks to the update pack (sans nemesis stuff). love the synergy between mages' special abilities.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+x
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Just few word
+Aeon's end is great but war eternal is greater
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bagged
+Sleeved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+This is a standalone version that does not require the base game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Stand-alone & expansion for base game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Cooperative
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed It on Kickstarter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+- Co-Op - ?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Idem à Aeon’s end. Précision à venir lorsqu’il sera joué.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Takes a great co-op and makes it even better. Much better art this time around too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter 4/21/17
+Due 8/2017
+Kickstarter survey complete 4/27/17
+L
+
+This is the standalone expansion.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Oh man we LOOOOOVE this game!  What a great design and execution!  These guys have hit on a fairly perfect balance of randomness and strategy that pays off.  The set up is fairly complicated but learning the rules and game mechanics is very easy, and developing a play approach with your friends is really fun and intellectually stimulating.  Bonus points because it is HARD.  Rarely do we find a game that challenges us this much.  Highly recommended if you like a good challenge!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ks
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+N-G: 12/11/17 Interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+I designed it. Literally my most played and favorite game ever.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Currently sitting on my shelf waiting until I complete all of the monsters from Aeon's End.  :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.3
+Very good, but not as impressive/do not enjoy as much as the first game.
+Basic Nemesis cards don't feel as inspired and repeat the original game too much, while relying on Unleash Twice a little bit too much to my taste.
+Building the Nemesis with the whole pool - and it's not recommended in the rulebook - leads to too many unwinnable situations of mostly Unleash twice cards, Attack cards, plethora of minions, etc.
+Overall, mixing all the expansions together really hurts those who choose to play with a totally random set-up.
+
+The new Nemeses are impressive and have very interesting designs - aside from pretty bland Umbra Titan.
+Nemesis tokens are an interesting addition and open new designs, but break immersion by being generic. I liked Fury tokens better but I get that having specific tokens for each Nemesis would have made too many components and would have been a chore as a player too. So good choice.
+
+Now the new mages, for some, I have difficulty wrapping my head around. As in their first iteration, Mist and Xaxos are really subpar, perhaps even more than before, especially for Xaxos. 
+Ulgimor is very interesting but usually dies too late to be useful or carries someone to the grave with him. 
+Quillius should have had a OR, as she's entirely luck-dependant in whether or not she'll be able to have tokens depending on the Nemesis deck. And if she doesn't she's pure vanilla, with a poor deck and no ability. Garu's much more interesting and reliable.
+Yan Magda, Dezmodia and Gex are pure awesomeness and my 3 new favorites though. Indira's really interesting and a great new direction. Hope we see more like her yet more like the old ones too.
+Mazahaedron is bizarre but in a 3-player situation he can become great at building the main player's deck.
+
+The new market cards are a mixed bag. Some are really great and inspired, some are tweaked versions of the original cards.
+I think Nova Forge and the one with Dezmodia riding a ball of rock are marvellous, Alien Element is a great gem, Scoria Slag and Erratic Ingot are very good and reliable way to ramp into crazy spells, and Dimensional Key is awesomeness in a card.
+Equilibrium sounds interesting but most of the time is not, and I haven't had the opportunity to use Link yet. I like the idea but I'd rather buy big splashy spells. We'll see as time goes by.
+
+Overall, a solid game with good designs, but small questionable decisions here and there in terms of template, printing, or design (Quillius, Wraithmonger), that makes me feel like War Eternal has been rushed when it could have used some more tweaking and playtesting and really be perfect.
+
+Also, I wish Attack cards did more than "Unleash twice, deal some more damage". It gets old when you get 16 unleash by the time you reach mid-tier 2. And now that I mixed both sets it won't be easy to tell basics from AE and WE apart due to them having the same card numbers.
+
+Also: while games used to be determined by the turn order card draw due to being super tensed, the players get utterly crushed without any hope of coming back much more with this expansion, than they used to.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Priority: High
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Part of Kickstarter Campaign Aeon's End Eternal War (Aug 2017)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1-4 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(04/19/2017) - Backed on Kickstarter! More Aeon's End is always a good thing, I'd say.
+
+(09/22/2017) - It took three different boxes to hold all of the content, but War Eternal is here!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Max Players 4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Donald owns
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+UNPLAYED
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Games looks awesome.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+* A chore to setup.
+* Easy to teach, fun and simple to play.
+* Quite challenging.
+* Prone to quarterbacking.
+* Lacks somewhat of a story-line.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Like this game just as much as it's predecessor!
+Always ready to play this game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+KS Edition with promos, exclusives and The Void and The Outer Dark expansions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+The updated art is nice, does not change the game play (which I liked anyway).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+It's a good deckbuilder and I love that it's cooperative. But I just don't like deckbuilders that much and this game didn't change my mind.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Action Phase Games, Indie Boards & Cards
+Location: Hall 3, Q-102
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+✔
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.1
+Currently OWN this game
+See Aeon's End for rating and games played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Still awaiting shipment
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+$32 CAD + 13% HST = $36.16 at Amazon.ca
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Preorder
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.2
+Overall: Great unique deck building game! 9.2/10
+
+Gameplay: Very fun, relies heavily on strategy and teamwork. Quarterbacking could be an issue when experienced players play with first timers. Luck plays a very small factor in this game. 
+
+Components: Theme and art is excellent, components have a great sturdy feel to them. Only compliant would be the inserts. 
+
+Replay Value: Good number of mages + uniqueness of each boss + different difficulties + awesome selection of market cards + expansions = Super Replayable. 
+
+Misc: Game could be a bit too difficult to a point where it might be a turn off for more casual players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.4
+Playtesting and review
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Aug 2017 release KS pledge manager complete
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Wonderfully complex, deep; rewarding intelligent and strategic decisions.  Very cooperative for a group that becomes comfortable with the mechanics of the game.  A massive amount of opportunity to replay the game many times over with different results and gameplay.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The first AE was fantastic. War Eternal has some really exciting mages and market cards, but the Nemeses are so incredibly brutal that we just aren't finding the game much fun to play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Players 1 2 3 4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+August 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Premium Sleeved (Fantasy Flight)
+
+Broken Token Insert
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+via kickstarter mail for Essen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Has been played but not logged.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Awesome co-op!  Lots of unique twists on the deckbuilder formula.  Very challenging with lots of depth.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Similar gameplay to base game.  But this time card backs are colored correctly.  And huge thumbs up for company sending a reprint of the base game free with purchase.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+So much better than the original. Harder too!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+I backed this on KS and after playing it I ordered everything else I could find! Awesome system and totally replaced Sentinels of the Multiverse for me or rather I should say it is the game I wish Sentinels had been (no modifier overload).
+
+I love the streamlined and straightforward mechanics, the different Nemeses decks and effects, and the variable turn order. I love the art as far as character diversity and lack of chainmail bikinis are concerned! 
+
+The only downside is I would have liked thicker character and nemesis boards.
+
+Awesome system! 
+
+This is now my go-to deck builder and has gone on my metaphorical 'Keep Forever' shelf. I hope they continue to churn out expansions for this as I'll buy every one!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS edition with both expansions
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+So much awesome here, totally incredible experience. VERY difficult.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+314(63.5x88).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed on Kickstarter (2017)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Regalo GAH 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Gen Con 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Co-op / Solo
+Expansion / Stand Alone
+Tokens have been replaced by Indie Games. Took a while, but all good things are worth the wait. Shout out to Indie for replacing the bad tokens without any fuss.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+All bad things which were seen during KS campaign about the game (except campaign itself) were fixed for production copy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.75
+Dominion meets Sentinels of the Multiverse in this stand alone expansion to Aeon's End! More cards, more mages, and more nemeses!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Most expansions add 30% to the base game.  This adds 300%.  In addition to the unique card-play mechanics, this is a game exponentially strengthened by a variety of cards, heroes and enemies -- i.e., War Eternal exponentially strengthens Aeon's End!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed March 21th 2017 - Received September 17th 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+[microbadge=17587] 
+All plays for Aeon's End: War Eternal are combined under Aeon's End (we mix and match sets).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Aeon's End擴充
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Sleeved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Excellent co-op deck builder with some really interesting twists. I love the variety of characters and nemeses. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Kickstarter Edition (Handful of added basic nemesis cards)
+
+>>> Rating Comments >>> (Tentative rating; low play count, current hotness)
+
+As with Aeon's End, this standalone expansion is a smart cooperative deck-building game. The new set of mages, nemeses, and market cards take the mechanisms showcased in the first game and add different wrinkles. I still need to play more, but I'm very much looking forward to it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Love it. Great new art and some tough new Nameless to fight. Plus 12 new mages. Endless hours of fun
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent stand-alone expansion. It builds on a great formula. I think this expansion is a bit more balanced than the base game. There will always be combinations of cards with synergy, etc... but the some of the game's core content, like player's special abilities feel more consistently balanced. Also, those abilities and thereby charges are more frequently important.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Standalone Expansion (Aeon's End)
+
+Adds new heroes
+Adds new nemesis
+Adds new cards

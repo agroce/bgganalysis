@@ -1,0 +1,546 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Ortus Regni
+RANK: 2626
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great game, found the lack of text especially helpful with friends from other countries.  Made the game feel very universally acceptable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+การ์ดเกมว่าธีมว่าด้วยการสู้รบสร้างอาณาจักรในอังกฤษยุคกลาง จุดเด่นคือภาพงานอาร์ทของการ์ดที่สวยงามไม่มีอะไรมาบดบัง (ไม่มีทั้งตัวหนังสือและสัญลักษณ์ใดๆ)
+
+รูปแบบเกมจะเป็นแบบ LCG ซื้อชุดเดียวเล่นได้เลยทุกคนมีการ์ดเหมือนกัน กล่องหลักเล่นได้สองคน แต่ถ้าซื้อกล่องเสริมแบบเพิ่มคนมีสองกล่องก็จะเล่นได้ 4 และ 6 คนตามลำดับ (ตัวเสริมแบบเพิ่มชนิดการ์โเห็นใน BGG Listing แต่ยังไม่เห็นทำออกมาขาย) ไอเดียคือเราจะเป็นเจ้าของดินแดนต้องไปตีดินแดนฝ่ายตรงข้าม ตัวเกมมีการ์ดให้เราเลือก 15 แบบ อย่างล่ะ 6 ใบแต่เราจะเลือกมาจัดสำรับแค่ 24 ใบเท่านั้น
+
+แนวทางการเล่นมีหลายแบบแต่แบบที่เรียบง่ายสุดคือการส่งทหารไปตี ระบบของเกมนี้จะเริ่มจากการที่เราต้องลงการ์ดดินแดน เพื่อที่จะได้จั่วทหารจากกองกลางมาไว้กับตัว จากนั้นเมื่อพร้อมก็จะส่งทหารไปโดยมีข้อแม้ว่าเราจะต้องมีดินแดนคอยผลิตอาหารมาเลี้ยงกองทัพเราระหว่างตี หรือจะเล่นสายการเมืองที่เน้นทำลายการ์ด/ปล้นการ์ดฝ่ายตรงข้าม หรือจะเน้นสายดวงเปิดการประลองขี่ม้า(ใช้ระบบเปิดการ์ดคล้ายๆ poker นิดนึง) หรือจะใช้วิธีตั้งป้อมแล้วส่งทูตไปหานักรบไวกิ้งมาบุกตีฝ่ายตรงข้ามแทนเราก็ได้ แต่ล่ะแบบเท่าที่ลองเล่นก็มีข้อดีข้อเสียที่คิดว่าค่อนข้างสมดุลย์ดี ขั้นตอนการตีมีเลเยอร์ของโชคอีกชั้นคือจะมีการเปิดการ์ดผลลัพธ์ว่าจะเป็นต่างฝ่ายต่างได้ทำความเสียหายหรือว่าเป็นแค่ฝ่ายใดฝ่ายหนึ่งได้ทำอยู่ฝ่ายเดียว (แบบตีฝ่ายเดียวมีจำนวนน้อยก็จริงแต่ก็มีผลเยอะเหมือนกัน)
+
+ระบบที่ผมยังคิดไม่ออกว่าดีหรือไม่ดีคือ NPC ที่เป็นนักรบไวกิ้งที่จะทำงานทุกๆตาที่ผู้เล่นทุกคนเล่นจบตา ในเกมจะมีถุงหนังที่ใส่หมากสีของผู้เล่นเอาไว้คนล่ะอันถ้าใครจั่วได้คนนั้นก็จะได้ควบคุมไวกิ้งไปตีฝ่ายตรงข้าม ระหว่างเกมสามารถส่งการ์ดเพื่อเพิ่มจำนวนหมากที่ว่าได้ แต่ว่าตัวเกมเท่าที่เล่นสองคนไวกิ้งนี้ค่อนข้างโจมตีแรงคือถ้าดวงดีได้ควบคุมไวกิ้งรัวๆแล้วก็แทบจะชนะเลย คิดว่าถ้าเล่นซัก 3-4 คนอาการนี้อาจจะหายไป หรือเกมอาจจะมีกลยุทธ์อีกหลายอย่างที่ผมยังทดลองไม่หมดก็ได้
+
+เป็นเกมที่ กติกาไม่ได้ซับซ้อนอะไร แต่กว่าจะสอนให้เข้าใจวิธีเล่นกันได้ค่อนข้างลำบากเพราะการ์ดมันไม่มีตัวหนังสือซักอัน แถมแต่ล่ะอันก็มีวิธีใช้หลายแบบ คือกว่าจะก้าวข้ามเรื่องกติกา ไปเจอความลึกของเกม ผมคิดว่าคนส่วนมากน่าจะถอดใจไปก่อนแล้ว แต่พอเล่นเป็นก็ถือว่าเพลินดี ดวงเยอะพอดู แต่ผมเข้าใจว่าอยู่ในระดับการ์ดเกมทั่วไป คือการจัดสำรับกับฝีมือก็มีผล แต่โชคก็ยังเป็นตัวละครที่มีส่วนในการเล่นเยอะอยู่ดี ความรู้สึกรวมๆเหมือนเล่น HeartStone (Desktop/Mobile) ในฉบับที่เล่นได้แค่ตาล่ะหนึ่งแอ๊คชั่น ที่น่าสนใจคือถึงแม้การ์ดจะน้อยชนิด แต่กลับสามารถรูปแบบการจัดสำรับได้เยอะมาก ส่วนหนึ่งก็มาจากจำนวนสัดส่วนการ์ดที่หลากหลายกับการที่การ์ดสามารถใช้ได้หลายแบบ
+
+ที่ไม่ชอบมากๆเลยคือการ์ดใส่ซองแล้วเก็บไม่ได้ แถมถาดไม้ที่ให้มาถ้าใส่การ์ดแล้วจะปิดฝาไม่ได้ทำให้ต้องรื้อการ์ดออกมาเก็บไว้ก่อนเอาใส่กล่อง คือกูงงมากออกแบบบ้าอะไร เป็นเกมที่บอกไม่ถูกว่าชอบไหม แต่ที่แน่ๆกดเล่นในคอมตอนไม่มีอะไรทำก็ถือว่าเพลินดี (แต่เล่นกับคนแล้วแอบมีหงุดหงิดเยอะเหมือนกันเวลาการ์ดไม่เข้ามือ) คือจริงๆถ้าเกมมันสอนง่ายกว่านี้ผมคิดว่าน่าจะได้กางบ่อยๆเล่นฆ่าเวลารอเกมอื่นได้ แต่พอดีเกมมันสอนยากไปหน่อยเพราะลูกเล่นมันเยอะแต่ดันไม่มีมีบอกตรงๆในการ์ด
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+With the 3-4 player expansion.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+That this game has a lot of layers and a long shelf-life is obvious after the first two or three plays (maybe the first play).  It's a deck-building game, or it's a pure strategy game with pre-built decks.  It's a head-to-head chess match, or it's a group battle royale, or it's a group diplomacy/alliance political war.  It's mostly talent and strategy but there's lots of luck, too.  It has an immersive theme that is deep and consistent and that pops up in the play and the rules as much as it obviously does in the art and design.  Really an awesome game.  Oh and it's an absolutely beautifully-constructed game.  My one complaint is that I wish the card holders were not made of such "high-quality" wood, which was almost certainly harvested from what should be a protected old-growth forest in China or Russia.  When I first opened the box I couldn't figure out why the box had to be so big considering that it's a card game, but then I realized the benefit of setting up your cards on those guilt-laden wood holders and sticking them back in the box all set-up, ready for your next play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+On my first play of this, there was a palpable depth and elegance to it that really called to me. It joins Codex in my "lifestyle game" pantheon.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Ortus Regni is a beautifully crafted game of medieval conflict. With no text on the cards, the game sacrifices player prompts for aesthetics - but has the added effect of increasing immersion and changing how players look at the field. There are only a limited number of cards to learn, yet many possibilities to combine them for varied strategies. Conquer your enemies with a combination of might, economy, diplomacy, politics, religion, or tournaments.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Won a copy as part of the Winter support drive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Interesting, but Treachery and Intrigue wreck the game for me (at least in 2-player), especially since you can have 6 of each in your deck. Deck design and the order in which cards appear is crucial.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+A deck building card game that feels bigger than it is and it has and probably will never need expansions. Watch my video review...
+
+https://youtu.be/b8kO9brnMWE
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Ok first thing this game has the most amazing support out there in terms of a fantastic online ap, free PnP files and strategy help for those who want it.  Then the physical version is just one of the nicest gaming artifacts you could have.  I am not a collector but with a bit more space and and a bigger gaming budget/disposable income I would own a copy even if I thought I would never play it.  As for the game itself it is a deck construction game with an interesting historical theme well integrated into the mechanics.  It is somewhat idiosyncratic in design , particularly with the aesthetics which avoid text on cards so you need to remember what they all do (its clear after a play or two and a player aid works fine).  The crux of the game is deck construction and then play in a confrontational form as people know from magic the gathering/ Android netrunner etc. but this gets the theme and replayability from well designed, integrated cards rather than anything else.  Currently like this more than magic or Android NR, probably more than Campaign manager but a good chunk behind LOTR card game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A gorgeous game, but it's tough to learn by the rulebook alone. You have to play a lot of quick games to see if a strategy works. Some games can drag on without the player having much control.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+:d10-2:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I got a chance to play this at Gencon.  On the plus side, it's a beautiful game, with excellent component quality and striking period artwork that sets the mood at the table very nicely.  In fact, aside from the "newbie" card sets, all the cards are PURE artwork -- no text whatsoever.
+
+As it turns out, the "no text" thing is pure affectation.  To me, that implied gameplay where card use is simple and straightforward once you get accustomed to what each card can do.  I was dead wrong.  Some of the cards actually have a variety of options, and can be thwarted by other very specific counter-cards.  This game isn't any better suited to text-free cards than Dominion.
+
+The actual gameplay was all right, but nothing special.  I concede that I missed out on what should be one of the most interesting aspects of the game; prior to the beginning of the game, you get to build your own deck from the cards available to you, and see what combination of politics and warfare you like best.  But honestly, I found the game to be very heavily luck driven.  Somebody plays a card; do you have the card in hand to thwart it?
+
+It's also player elimination, which is no big deal in the two-player game you can play out of the box, but is kind of a pisser in 3-4 player games.  My fiancee was pumped to play this and we waited close to an hour, and then once we finally sat down some bad luck knocked her out by her third turn or so.
+
+It's not a terrible game at all, and props for being a visually striking one.  If a friend were psyched to play it, I'd gladly give it another try.  But it's definitely not on my Must Own list.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Although it breaks a few rules that are accepted as standard in modern board gaming design and although it has it's flaws, Ortus Regni is a jewel of a game that has a place in my collection. It is unique in it's gameplay, has an incredible narrative arc and is unlike any other game that I have played. The labor of love from the designer is evident from it's lavish production values and from it's thematic mechanics.
+
+Ortus Regni is not for everyone, but those who enter it's world will be rewarded with a very eclectic, thematic and fun game. It's just a bit shy from being one of the classics.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+fresh gameplay, interesting game. Hard to master but, also, hard to put down ! :) 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is really chess in card game form. Sure there is some randomness to the battle system but once you know the odds and can play them to your favor and you really get a good solid strategy down things begin to get very interesting. Not to mention its gorgeous. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Bland and uninteresting to me.  I can see it's draw for others however.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+OT
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The learning curve on this game is the problem due to very little (read: no) help from the cards in reminding you what they do.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A beautiful game, the cards and components are fantastic quality with lovely artwork.  I've enjoyed playing the solo Rebellion variant with the physical game, and also 2 player using the free App which is an excellent way to learn and play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-3, 90
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Pedido a 4 dados. Pendiente de recibir. Pintaza. Ration previo tr/as comprobar componentes falta leer a fondo reglas y jugar.(2016/03/18) Recibido (28/04/2018)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This game is unbelievably beautiful. And, because of that, I want to like it more. But I'm pretty sure I don't like the two-player, which I find too random on at least three levels. It is a rock-paper-scissor game of who built the deck that beats the other deck. And if there is any other factor that might decide, it is the combat deck, or the draw of cards, or the vikings. The multiplayer is, at its best, player-balanced. But even that has an enormous amount of luck. I find that building a deck that can last seems to be the way to go. All that said, it is gorgeous, and, despite what I think are pretty significant flaws, it is fun to play. And it is gorgeous. Did I mention how absolutely good it looks?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+UPDATE 2/16: Really enjoying my experiments with this one vs the AI. That said, unsure of the long-term staying power. The critical pivot-point is game balance; I assume  that the game has been playtested enough that there isn't a single dominant strategy. A more interesting question w/r/t balance: if two skilled players sit down, one building Deck A and the second building Deck B, is the actual game simply a matter of finding out whether Deck A inevitably beats Deck B, rock-paper-scissors style, or is there sufficient tactical interest in the play of the cards for Deck B to overcome its natural disadvantages WITHOUT it being so dependent on the fall of the cards that there ceases to be much differentiation between different builds? (This concern is particularly acute because OR is designed to be a complete game in one box without a constant flow of expansions to provide variety not to mention patches for runaway success strategies.)
+
+Right now, the most I can say is that this is a diverting and beautiful game. If it actually delivers on its ambitions of being the rare card game that is a worthy challenge both strategically and tactically, it can be one of the greats. If not, it runs the risk of being a pointlessly pricey, albeit lovely, way to play rock-paper-scissors. That's a knife's edge that most designers intentionally don't put themselves on.
+
+But maybe they should.
+
+--
+
+If you've followed the career of Prince, you know this already, but: sometimes when you have a single person create a work of art without the constraints of the genre and/or without the restraining hand of the Suits over in Corporate, you get singular genius or at least breathtaking outsider art. And sometimes you get a spectacular, puzzling misfire.
+
+My initial impression is that Ortus Regni is more [i]Sign 'O' The Times[/i] than [i]Under The Cherry Moon[/i].
+
+To be sure, the major screwball innovation in Ortus Regni is one of style: primarily the fact that the cards do not have any explanatory text or icons indicating what they do. And this is a [i]bit[/i] of a pain. But you get over it -- hell, there's only 15 different cards to memorize, basically. And the upside is that the game is beautiful and strangely haunting, even experiencing it (as I was) as pixels on a screen.
+
+But then there's the game, which is a shiny penny. The bones of it is your basic kard kombat game, which probably feels fresher to me than it does to the 90% of gamers who have at least tried Magic The Gathering et al but it's certainly not a bad basis for a game.
+
+The strategic heart of the game is the deck-building, I expect. But the limitations on what you can do in a turn (play one, draw one, with a few minor exceptions), combined with the fact that the cards mostly have multiple uses, contribute to some surprisingly interesting tactical decisions, and even playing with a pre-constructed deck has some value.
+
+I plan to play this more, time allowing, and see if it gets better or worse; it's too soon to rate this with more finality than my bog-standard I-liked-this-at-first 7.5 rating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.3
+I'll give this a hopeful 8.7 after the first barrage of plays.
+
+Ortus is a fine deck-drafting game with a broad strategic dimension.  In a crowded thematic space (castles, etc), Ortus feels both old-fashioned and innovative. While the victory condition will be familiar to many (beat up everyone else) it's quite a unique design that seems so apart in influence and particular in its implementation that I can't imagine many of its ideas catch on.  It is truly like nothing I've ever played.  
+
+It's also got ample room for clever play.  Hands can be played two or three ways which puts the play of the game somewhere near Blue Moon in complexity and depth.  However the range of possible decks is much higher with a six card per type cap which extended the game's strategic dimensions far deeper than Blue Moon.  
+
+I'm really looking forward to exploring the game more.
+
+Much (much) more can be found in my review here: http://boardgamegeek.com/thread/1191677/an-illuminating-game    
+
+UPDATE:
+Well, it's been a few months since that frenzied weekend of play and review writing.  The initial comment was the product of about 15 plays, this comment is the product of nearly 30.  Ortus is a good game, a very good game.  I feel that my initial intuition has been largely borne out.  This is a game that a lot of folks will dislike.  Interaction is direct and player elimination is final. All but one arbitrary player will begin each match with the knowledge that they will loose in 24 turns if they do not act.  That's scary stuff; it is almost as scary as the turn of a jousting card or battle card which might determine the game.  Ortus can be a cruel, confusing experience, but oh what a fine game it is!  
+
+A lesser game would have already resolved itself into a handful of optimal decks.  Ortus simply doesn't boil down that easily.  There are a huge range of viable decks and the various matches produce some very interesting game spaces even when things might be stacked against a particular player.  The best way to play the game is to have a match (best of 3 or best of 5) and allow the players to adjust their decks between games.  Those hulking wood trays sure come in handy and save a lot of time and table space.  The bigger games can get a little hairy but, for a six player game with elimination, the pace moves briskly and it's easy enough for the players that get knocked out to just have a 1-on-1 match while the others finish.  The two- and three-player games are personal favorites if only because they can be played to completion in 30 minutes still manage a robust story arc. 
+
+Speaking of story arc, this game has narrative in spades.  In some ways the rule-set with all of its weird thematic edge cases reminds me of a hypothetical "minimalist" Eklund game.  Fans of Phil's work will immediately realize how strange that statement is, but I won't add any qualifications: Ortus is a strange, paradoxical game both mechanically and thematically.  The various cogs and flywheels of the design mesh with a driving and fluid motion.  Yet, they also sometimes smash against each other and strip their cog-teeth.  Though those moments can be frustrating it never seems like they are the product of bad design or fail to make a kind of thematic "sense" (ala Eklund).  They also spice up what is likely the most played-out theme in the hobby.  And yet, even the thematic space is also a little more intriguing than it first appears. For instance, take a look at the end of the rulebook where the designer suggests, in so many words, that Ortus is a game about a romanticized version of the early middle ages as created by the high middle ages.  So we are getting a version of history through another version of history. Cool.
+
+Ortus Regni has proven itself well-worth its place on my shelf and I can see myself easily playing it for years. It's not a game I can recommend to everyone, but if you like competitive deck drafting games like MtG or old school beat-em-ups like Titan, it's definitely worth a look.  
+
+(Aside: It's also a damn fine storytelling game.  Though some will be put off by the initial rules overhead, it can produce some great yarns)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+WIP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Brilliant in every way. Components. Design concept. Game play. Brilliant!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 1
+I actually rated OR three times, successively reducing the score as I reviewed the BGG ratings rubric. This game is quite interesting looking, and I was very interested in a kingdom building, deck construction game. But at its core, I believe that the 'game' is broken. As a toolbox, it may have potential, but even in that sense these are simply art cards packaged up and offered to medieval enthusiasts.
+
+1) Design: Each card is a complex glyph, devoid of extrinsic meaning (the picture on the card might have a tangential relationship to the name of the card, but you'd be hard pressed to describe that relationship). This makes OR an abstract game, which is not a problem in and of itself, but the card art is dense and confusingly similar across many different cards with wildly different functions. Chess is sometimes criticized for this barrier to entry, and it only has 6 different pieces. OR has dozens of different cards, each with complex functions and interactions, learnable solely through memorizing abstract artwork from the dark ages and matching it to esoteric rules variations.
+
+With chess, the size and complexity of the piece tends to translate into the potential value of it, offering a visual shorthand. Playing cards have four glyphs (jack, queen, king, ace) in four suits, which would be pretty complex if they hadn't been around for centuries. We learn the complexities of these games through rote tradition - Ortus Regni doesn't have the same excuse.
+
+2) Rules: In short, there are a lot, and they are needlessly complex for the amount of randomness inherent to the game. As it was a two player game, I only had my partner to bounce the information off, and he called it 'word spaghetti'. It is possible that understanding the difference between a vassal and a vassal lord might be intuitive to someone else (these are one card by the way, with a different combat function depending on where it originated from) but to the population as a whole this is gibberish.
+
+The core issue with the rule structure is simply that this boils down to a combat game where complicated combat rounds will often be punctuated by drawing a random card that either shows a "defender wins" or "attacker wins" image. This means you just... win. Or lose! Maybe you'll draw a "church decides" which just means if you built more cathedrals you win. Maybe, if you're lucky, you'll get a "normal battle" which means you get to actually play the game.
+
+Rules for jousting (you play a separate game of poker next to the actual game), rules for bequeathing land, rules for lords of all kinds, assassinations, a whole other faction of Vikings that uses sacks of cubes to determine its randomized, battle winning results. If you can imagine it, and it existed in the 12th century, it's here, and it's completely uncontrollable.
+
+3) Verdict: As it stands, by my personal definition of 'game', Ortus Regni is unplayable. It's an abstract game with a rules length exceeding Netrunner, simulating a granular kingdom that could be won or lost at any time due to a bad card draw or you simply forgetting that this bannered knight is a champion and not a mercenary. Put words, or numbers, or anything on the cards and it might become playable, but it still wouldn't be fun for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+DIGITAL PLAY:
+
+iPad Air
+CCG type game. Played a few times...did not hold my interest.
+Out of my collection.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is one of those games that requires a certain amount of study. It's fun to make a different deck each game and see how it plays out. The actual production is top notch. The box alone is like a piece of art. The cards are great and the rulebook is beefy. There are lots and lots of rules but learning the game had been intriguing. A complete and well thought out card game wrapped in a great production.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+6-Player Set w/2xLearning Decks & Several Play-Mat-Cheatsheets.
+
+Considering trades but motivation low.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I'm not sure this was fun...it plays logically, and it looks great, but it also seems very linear in strategic depth. The advantage for this game will be in customizing player decks and having asymmetrical contests.
+
+The rulebook seems overwrought, but every rule seems to be in a logical place. It might sucumb to luck of the draw, as a much needed card fails to appear.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I'm impressed with how only 15 unique cards provide enough strategic crossover among each of the games interlocking systems. Will there end up being only one dominant strategy after several plays, or do the deck-constraints and evolving metagame do enough to provide this game with true staying power? Either way, bring it on!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Una obra de arte. Juegazo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Con las siguientes expansiones:
+
+- Ortus Regni Expansion. (Jugadores verde y dorado).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I like to think of Ortus Regni as a closed-deck Magic the Gathering with no magic and no rare cards. The production value is out of this world; from the solid wood card holders to the leather bag, the counters with sanded edges, as well as the cards and super thick box. This game is just gorgeous. Because the gameplay is directly born out of the theme, it is very easy to teach and understand the rules. But, because there are a lot of small rules for different actions, multiple plays are needed for those rules to be committed to memory. Once a little time is invested into this game, it becomes a joy to strategize about building your deck and you can get lost in the art as you test your deck's ability against your opponents. There is a great balancing act that takes place with having to create defenses while trying to amass armies for war, all while trying to undermine your opponent's efforts to do the same...and then the wars come and you must rebuild again while continually trying to wear down your opponents. It is a ton of fun and will be one of my favorite games for a long time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This is gem of a game. It takes the deck construction aspect of many CCG and implements it into one game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A fantastic game that doesn't pander to the 'Cult of the New'. A solid, thoughtful but exiting and slightly unpredictable game that moves into the realms of classic games like backgammon or chess. After playing over 200 games I can safety say this is a classic, even if a relatively quite one. Download the game and play it now.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+4.5/3/3/2.5/3
+
+16/25
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Steam
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Hands down the best production of any game I've seen. The box alone is unbelievably thick, not to mention the amazing insert, the wooden card holders, the specialty wooden cubes, the cloth player aids, and the publisher-quality rulebook. At only $45, Jon must be losing money on every copy he sells. Truly a labor of love.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2014 acquisition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This game a bizarre artifact, a puzzle of an enigma. It shouldn't work--a card game with 15 different(!) multi-use (!) cards with no text whatsoever (!) that is premised on player-elimination.
+But it's great. Games are fast-moving, the deck-building offers many layers of nuanced strategies, and everything is beautiful and a joy to handle. The fact that the game is so criminally underpriced and supported by a marvelous free app is icing on the cake.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+2017-09-24
+
+Initial Rating: 5.0 (September 2017)
+
+I won Ortus Regni through BGG contests so I wasn’t sure what to expect. When the game arrived, it was a gorgeous big box so my interest to play it was very high. After playing it, I can say Ortus Regni has some great ideas on it, but the randomness kills it for me. 
+
+A friend tried to explain the rules to me but that was a mistake. He explained some rules at the beginning, but many cards have more than one use, so when he or I played them he would explain the new rules. I hate when people does this. I need to know all the rules from the very beginning to try to form a good plan, also, he made some big mistakes with the rules, so when I got home, I began reading the rules and playing the game on the iPad. The rules of the game aren’t hard to grasp, but there are many rules, so you can probably explain them under 20 minutes. 
+
+The art of the cards is great as are the production values of the game. The box is big and of high quality. The components are also very good.
+
+I like the theme.
+
+The idea of the game is to build your deck from a limited card pool and then try to defeat your opponent’s deck. There are only a few card to choose from, but you can choose many copies of each card. Some cards have many ways to use them and choosing the right time to play them is not obvious. The game has (or seem to have) a lot of deepness. 
+
+So far, I have loved every concept of the game, but I really dislike the randomness inherent in two facets of the game. First, most battles are resolved in a predictable way, but there are some battles that will be won by the defender, even though he doesn’t have any way to realistic win them, other times the church will decide, and other times the attacker will win no matter how many defenses has the defender. I get this is thematic, but this result depends on a random card and it can destroy your plans so I really dislike it. Second, and most annoying for me, I heavily dislike that the Vikings play as a 3 player. Luck decides which player will control the Vikings but this part doesn’t bother me much as there are ways to improve your chances putting more stones into the bag, however, what I really dislike is that the second player is at a huge disadvantage. This situation is very common, the Viking turn arrives and then, the first player take control of them and use them to attack the second player, then, immediately, the first player can attack the second player again which is totally unfair. The second player will receive two attacks in a row very often while the first player won´t. The Vikings should work differently. To summarize, I dislike the randomness of the battles and I feel the Vikings mechanism is very unfair toward the second player.
+
+Best with 2 players, I would hate to play a 3-4 player free for all game as it lends itself for king making situations. I would play 2 vs 2, but it is, definitively, best with 2 players.
+
+I have played the game a couple more times on the iPad. The app is very well done and I would paid money for it, but it is free. It doesn’t have asynch support (which is a shame) but you can play it in real time. I hope the app survives the update of iOS 11.
+ 
+Bottom line, Ortus Regni is a great design for a first time designer, you can tell it is a labor of love. It has many great ideas on it, but I dislike the randomness of the battles and the Vikings and I heavily dislike how the Vikings work. I feel it is unfair toward the second player. Due to this, I will sell my copy of the game but I could play again if requested. I hope to continue to play in the app. Ortus Regni has great production values. It is an unique game.
+
+Current Rating: 5.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4 player.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A deck building game that only allows an early constructiong of the deck. There is a high press your luck in combat and just resolution. It is a two players game, badly implemented for four because there is a stupid king making factor. Also ruin the game that must be played agressively for avoid plays get too long in time.
+
+For four players yo can be involved in a party game for 2 or 3 hours, just reminding the infamous munchkin.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Haven't played yet
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+This is the perfect game to me. Infinitely replay-able. It plays well with 2-6. Beautiful design.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 Player
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ios
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Youtube guy loves this game for some reason, want to understand why.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+iPad
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Purchased at Gen Con 2015.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.7
+Ortus Regni is a great deck-building game. I've played through it multiple times with a variety of different strategies and players. Although the learning curve is a little to get over, many of the rules become intuitive over a bit of time and by my second game I knew all of the basic rules and basic game play. Occasionally I still have to look up more obscure rules from scenarios that do not occur often, but they're spelled out in the full rulebook.
+This games does have the problem of being a little cut-throat (you try and murder your opponents), but it's normally fast enough that even if you die in the first game, you can get revenge in the following one. Some strategies do make the game a bit long and tedious, but only occasionally and that is up to the players.
+I like that there is no 'winning' strategy and it depends on how the player plays as well as the deck they built and what their opponents built. The slightly random element built into both the battle deck and the joust deck, as well as not-determined starting hand and vikings add a nice element of chance to an otherwise completely strategy based game.
+This game is not as simple as a game such as Settlers of Catan, it's nice for a 'mid-level' gamer to a 'hard-core' gamer. Not sure I would recommend this it to 'casuals'
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+player elimination and ganging up make this serious and beautiful game a cautious buy for me.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Played about 20 times in free online application.
+
+Pros
+-Fast
+-Great art
+-For being that quick it is very tematic
+-Good deck building mechanism
+
+Cons
+-Caotic
+-Too random, victory depends a lot on uncontrolled factors such as the battle cards and the vikings.
+
+I do not recommend this game for 3 or 4 players
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A bit daunting to learn being textless but an interesting concept. In the few games I didn't really see anything interesting though so not really looking to play more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I've managed to play this a few times on Steam and I have to say that despite the very awkward rules of the game, it works very well.
+
+The problem is the physical copy is overproduced for a card game and with the American prices on their website, there is no way I would ever purchase the physical copy since the game in Canadian would easily be over $100.  That's way too much for this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Played digital version:
+Rarely have I tried such an atrocious tutorial for a game. I get that from a thematic and aesthetic point of view, you would want to have the cards be ONLY art, but... No, I don't get that. From looking at the cards, I have to REMEMBER what they do or right click them to get the information. And in the tutorial, I'm not allowed to right click, so I have to remember everything. To make things worse, that means I only know what a card does in the particular situation it is presented to me, but not what else I can use it for. The tutorial keeps throwing stuff like "Alas, you could do this or that, but we will instead do a third thing" and then expects you to remember all these things. It tries to go through the mechanics step by step, but everything is so random, from the art to the interactions of the cards. Every time the game asks you to play a card, you trigger a bunch of stuff out of your control or understanding, and you end up just blindly doing what the game tells you, and you remember nothing, cause you're busy trying to remember the names and types of the cards, because IT'S NOT ON THE CARDS! No, I did not get past the tutorial...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I tried the digital version, and although it took several plays before it clicked, I became obsessed with it. It's a fairly complicated card game with lots of theme and huge replayability. The physical components are terrific. I hope this game eventually gets the love it deserves. A work of art. Steep learning curve for a card game makes it difficult to find opponents.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Wow. Love the art and design and packaging. Nice cards with full-bleed art and no instructions or words to junk it up. Pretty convoluted rules and learning experience - but once you get over the hump and realize how it all works, it's amazing -- I could play this game every day.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Cursory rating of 8.5 based on 2-player vs AI only.  About 25 rounds played.  
+
+This game feels very promising.  Basically what I want from a LCG sort of game without feeling like I'm missing out on something by not buying more.
+
+UPDATE:  Have played a bunch against humans now (15ish rounds) and while I feel like my initial rating was a bit ambitious, it stands.  Curious to see how it plays at a higher player count.  Curious and scared.  My assumption is that specialized decks will ultimately be a bit less effective and striking the right balance (though perhaps a bit too reliant on some good card pull and match up luck).
+
+UPDATE: 6 more rounds against an opponent who couldn't figure out my (single) deck design made me realize some of the limitations of this game on an experiential level. Still keeping it at a strong 8 where it certainly won't drop below. Its a really good game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Robert Burke made this one look attractive. Not sure it's my style though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nice system with only a few cards. Same problems as with magic/netrunner/etc where you commit to a strategy in the form of deck composition and hope your opponent isn't playing the counter-strategy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Traded
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Absolutely a labor of love.  Beautiful game with very components (including wooden card holders) that do a fine job recreating/feeling like a medieval game . . . about medieval times . . .
+
+Game Owned: #3000.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+amazing experience game! just so hard to teach and get to the table
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+How did this fly under my radar?  A friend introduced this to me and I was pleasantly surprised by what a good game this is.  The production is organic, beautiful and adds to the game's enjoyment.  There are a lot of strategies to try which makes the game very replayable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+lesson learned :
+all that glitters
+is not gold
+(
+in french, we say :
+" jeter de la poudre
+aux yeux "
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+I made the PnP training decks and downloaded the PC version. I have been playing this for a week now and oh boy!
+
+Some people are probably going to hate this game but I'm sure this game is going to be one of the great classics.
+It offers so much depth for a 24-card deck-builder. Theme works greatly. Art is perfect. Player interaction is high and it is so tense till the very and once you get the hang of it.
+
+Understanding the importance of deck building is crucial. If you are out of the game on round 3, don't cry "this game is broken" and think about what you did wrong. It is an unforgiving game. If you misread something on your turn be assured your opponents are waiting with grinning faces to punish that.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+IOS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Competitive
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2. Looks different. Difficult game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I had this game highly rated and found it absolutely fascinating... at first.  Lovely art and high production values for the most part (I had some severely chipped Vikings and damaged deck holders). 
+
+But playing it live can become a slog if no one attacks except the Vikings.  Then it is merely a war of attrition.  Furthermore, if an opponent has the right Politics deck, you can lose in literally three moves.  And it just seems mean-spirited and wholly un-fun.  There is something severely wrong with that.  
+
+Thus, I will not play online against live opponents whatsoever any more.  For me, it is either the computer AI or actual friends who want to play a thorough game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.75
+Great looking and smart deck planning game. Works pretty good with multiple players too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.9
+Still torn on this game. I have played many times versus the computer on the PC implementation, but can't get a feel for how deep the strategy is or if I really enjoy playing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+Tournament rules fix a problem of occasionally being unable to defend against player elimination after only taking one turn, against certain deck builds.  This game has a depth of strategy, but the player has to be comfortable with a 12.5% chance that an important combat turn will completely go against you.  A large part of the strategy is to mitigate against that risk.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+First off, let's put the discussion of the aesthetic choices (to have the cards be entirely textless) aside. 
+
+This game is a game where you build a 24 card deck from a pool of a number of card types, almost all of which have multiple functionalities. These multifunction cards more often than not are not so much useful in being able to do multiple things, but rather allow for different strategies by exclusively using them for one function or another. The basic game itself then is essentially a land and army card deployment game, with the end goal being your opponents destruction, leading to a number of deck strategies that involve building up armies to destroy chunks of your opponent. The manual includes 4 starter deck designs, of which two are combat focused, and the other two focused on other aspects/mechanics. These political strategies seem to be utterly incompatible from my plays, with the politics strategy being defenseless to the combat strategy, which is far less vulnerable to having a bad starting hand. As you can only do one action per turn and draw one card per turn, with the only other way to play more cards being to sacrifice their built in functions to serve as guardtowers. As such combos don't exist, forward planning isn't super useful, and once someone has the lead there is no real way to counter them, only to waste all your resources delaying your end. 
+
+One game I played lasted 3 turns, in which I accomplished nothing, and my opponent fielded a hefty army and devastated me, and if I had survived for more turns I would've accomplished nothing even if he didn't attack (the politics v total war decks setup). The decision to go with aesthetics 100% is a odd decision that at first masks the number of game design problems this game also has. The deck drafting mechanism can theoretically add complexity to this game's strategy, but in the end proves to be just as disengaging. Finally, the results of combat and jousts can backfire dramatically with the luck of the draw, and the time keeping mechanisms of approaching vikings and the deck running out (both things that can be sped up or slowed down using different mechanisms) don't really come into play when the game doesn't even go the bare minimum amount of turns where either would go into effect. If this game's nuances are lost on me due to some secret of the game's intended playstyle, I must put the fault on the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This game is a beautiful production and such a solid game.  You build your own deck out of these beautifully illustrated cards, but it's not a deck building game.  I just offers some variety in how you are looking conquer your opponent and be the only Earldom.  The cards have no text on them, but usually offer 4 different things you can do with them.   Try the free app on tablets or Steam!  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great looking game, excellent system, just love this!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+At first I thought the lack of text and iconography on the cards would be a problem, but it really isn't. It is a lot more intuitive than I initially expected it to be. With a little refresher before the game, you're good to go.
+
+My biggest problem, by far, is the combat deck. Picture this: you masterfully strategize your offense, rallying troops and nobles by your side. You're one step ahead from your opponent at every play, and you're finally ready for the final blow. You attack. Your opponent has a single army, which it desperately fields to protect at least some scrap of land from his Earldom. He knows he has no chance. You know he has no chance.
+
+You draw a combat card. It's a "Defense wins" card.
+
+Now not only will your attack be entirely negated - you will lose all your nobles unless *you* sacrifice *your* lands in ransom. Your opponent rejoices at his unexpected, newly reinforced army. 
+
+Now imagine this happens not to you, but to someone you're introducing the game to. Think he's going to want to play the game ever again?
+
+This is just way too swingy and random to be enjoyable. The game can (and will) often be decided literally by the flip of the card, throwing all the strategy you've put into the game through the window, and I don't really want to play a game like this.
+
+Minor quibbles: the game has a single path to victory (destroying opponent's earldom) and one, perhaps two, ways of doing this (amassing tropps and/or lords, maybe influencing the vikings if you can survive your opponent that long - none of our games came even close to that happening). This leads to a very narrow range of possible effective strategies, and some end up being clearly better than others (what's the point in using politics to steal lands/armies and do a little bit of damage through treachery if you can instead just build those armies yourself?). The "draw one, play one" nature of the game makes the strategic range even narrower. Not for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Custom rethemed version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Some interesting ideas in this game, but as a whole we didn't enjoy it.  Cards are pretty artwork, rather than with text, which is visually appealing but mildly frustrating having to use a reference sheet all the time to find out what they do.  The main thing that put me off in actual gameplay was the random nature of attacks from the Vikings, which swung the game dramatically in the favour of one side or the other, especially if they chose to attack the same player twice in a row.  We also maybe weren't aggressive enough players, but the game rapidly degenerated into a stall as neither side could quite manage to get enough control of the game to attack for the win, and we weren't keen on instigating lots of minor skirmishes with the risk of Viking attacks.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very interesting. Could be something really great, but will take some commitment.
+
+I've played two games now with the training decks and I'm liking what I see. I'm ready to start building.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Based on Digital (Steam) edition only, and playing only against AI: I will have to admit I was initially intimidated by the lack of card text, and am still unsure if it was a wise design choice not to include any - however with the help of a printed player aid I was able to get the hang of the game fairly quickly. It's a pretty interesting game, especially in that the inclusion of the Vikings means that turtling is not allowed for more than a few turns. I will add however that I have had a few games where the outcome seemed to be set from the beginning just from bad luck of the draw, which can be frustrating. Unfortunately I have my doubts as to if I'll ever get to play against humans both between the rarity of the game out in the gaming world, as well as apparently not many players looking to play online at any given time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Expansion 1 (Green and Gold)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Brand new sealed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+It's horrible to teach but once you're going it's quick and tense. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+playing PC version a lot
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP version
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+a game that will become as classic as chess. This game has such hidden depth yet is so quick and easy to play. I've played the digital version over and over again, good AI.
+I've just ordered a real copy of the game along with the 2 player expansion 1.
+
+it really captures the feel of medieval times but it also feels like the game could have been around since those times. It would readily transfer to another setting eg. that book we are not allowed to mention with the Sandworms and spicy stuff.
+
+having the flexibility to make your deck like a CCG or LCG in this type of game is brilliant, its like having chess set with new types of piece, ( like Sheldon's 3 sided chess set ). 
+
+this has gone straight into my top 5 games and I think it will stay there for a long time to come.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Won the game on the end of the year BGG drive
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A unique card game that incorporates outstanding production value with a really good, solid card game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Card game master piece that hits all the good vibes. It's visually stunning with awesome use of illustrations and great components. Gameplay is much more complex than I anticipated and it's a regular strategy game with a military, diplomacy, religion, battles and conquest and building your kingdom. I stay amazed by this game and can't wait to paly it more!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The presentation of this game is beautiful. The box and components are top notch. I found the game to play well and liked the concept, though I am not in love with it. I believe my average rating of this game to be based on my personal preference rather than any failing of the game. In summation, it just wasn't my cup of tea.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Deck design game (e.g. Magic), with an awesome form factor and politics/warfare theme.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+As defiant of tradition as it is enamored with the Middle Ages, Ortus Regni is one of the more peculiar artifacts of our hobby. Its emphasis on narrative play, dramatic reversals, and lavish production values set it apart from its peers. It's as harsh as it is gorgeous, and a testament to what can be accomplished in a game space by bucking the trend and embracing your vision. In this instance, its vision included jousts, Viking marauders, Latin legalese, religious gerrymandering, and courtly intrigue. Oh my.
+
+Read my review here: https://spacebiff.com/2017/11/21/ortus-regni/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Elegant system - a bit more abstract than my usual opponents can handle. The Android app is a good training partner.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Rating based on initial play.
+
+WOW.  This is a GREAT game and I really hope to bring my weekly group in on it.
+
+Super thematic adherence with very strong mechanics.  Feels like you're in a real life Game of Thrones, replete with armies, jousting, viking invaders, and court intrigue.
+
+Really interesting system of development, can not wait to play this again!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I've played the software version several hundred times or more by now, with maybe a quarter of those games against live opponents, and I also have a dozen or so in-person games under my belt as well.
+
+The physical version of the game is expensive but the components are top-notch; the production is obviously a labour of love but at the same time will be out of many peoples' price range as a result. However, a PnP version is available for those who want to try it out with live opponents at their FLGS and the software is FREE and well worth it. There are also an ever-increasing number of variants and a campaign version to mix up play if you buy (or make a copy of) the actual game. The people behind this game are very much into supporting it and making it more interesting and enjoyable.
+
+The lack of text on the cards and the (moderate) difficulty of the rules will present the most daunting barriers to learning. These problems are fairly painlessly overcome if you read through the full rules, download the (free) computer version (no complicated installation either) and then go through the 'Learn' page on the OR website. That and half a dozen or so quick games against the AI should give you a pretty good idea of how it works and flatten out the learnng curve considerably. There are some special cases that don't seem to be given enough prominence in the rules and which you might miss on your first few games (eg. dummy cards in jousts, effects of losing jousts, princes/vassals and capturing lands, vassals in political battles) but you'll pick them up as you play more. 
+
+Another concern for some people is that you are setting predesigned decks against each other, and one of you risks being badly steamrollered if your opponent chooses a significantly different strategy. This is mostly an issue in two-player duels because in games with more players nasty decks risk being ganged up on or having their effects diluted by distributed attacks. In any case, this mechanic hasn't stopped Magic: The Gathering from being a major success, and at least in OR your opponent doesn't have any cards that you don't either. The tournament play option ("two turns, two towers") helps to reduce early-game knock-outs.
+
+Some people might be put off by the randomness in the combat system - although it's usually quite deterministic, when it's not (about a third of the time), it's not. This can be mitigated (and even turned to your advantage) by careful play or simply by removing some of the special combat results cards. Being saved in your darkest hour by a fortunate win is always a possibility and sometimes allows the tide of the game to turn on a single battle. Control of the Vikings presents another factor one must take into account - they are a two-edged blade that can be used to weaken opponents while also acting as the implacable 'scourge of God'. In my opinion (though others may disagree) the random elements in OR help to maintain an element of uncertainty while not overwhelming gameplay.
+
+This game is heavy with theme, which is strongly reinforced by the quality components. It is an enjoyable exercise in deck design and in strategic and tactical play that succeeds in capturing the medieval feel the designer was obviously aiming for. If you are at all interested in Ortus Regni, I strongly urge you to make up a PnP deck or download the free software and send your Earls out to battle. Now if only I had a castle in which to play...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+
+Deep, immersive, and stunningly beautiful game.
+
+Player elimination, king making, random elements, bash the leader are all things I would usually avoid in games, but here they make perfect sense and help make for a very unique and exciting experience. Includes the best components I have ever seen in a board game, hands down. The best game that uses outdated mechanics in existance.
+
+Update: The free software has helped me dive into this game even more, and it's now one of my favorites. Up to a 9.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Components are obviously top notch.  The game itself is somewhere between Summoner Wars (one of my favorites) and Warhammer:Invasion (a solid game, but I only play it with the base set and the first big expansion and use preconstructed decks with a random draw of neutral cards)
+The point being that O.R. is a card game that requires no expansions to enjoy.
+
+It has deck building on the fly,which is only one of the unique aspects of this game. 
+
+It isn't that difficult to learn, but we're still playing by trial and error to grasp the strategies.  It is fun learning and should be in our regular rotation 
+
+Minor gripe: The boxes are difficult to open. The lids are tight and thick creating pressure.
+
+Only a few games in, I give it an 8. Unless someone comes up with the ultimate deck and perfect strategy or we tire of it, it will remain an 8 based on potential.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Este juego además de tener una producción impecable me da lo que necesito. Construcción de mazos asequible, aunque para algunos se quedará corto en posibilidades y confrontación directa con una buena profundidad no exenta de cierto azar que siempre le da un toque de epicidad a las partidas.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+en mecatol
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Labour of love game.  Very impressed with everything in the box.  You can tell this is a passion project for the developers.  
+
+Unfortunately not a game I could get to the table with my girlfriend and with limited shelf room the box took up too much space.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+WoW!  Just WoW!  As a collector, this is the type of game you love to own in a collection.  Top notch production value.  The beautiful imagery is just a bonus on top of a unique card game with cards that bear no writing or numbers, just pure imagery.  It takes a bit of effort to recognize the cards but the images are well chosen to make things easy (Earls, land/locations. armies, etc.).  The expansion boxes are equally beautiful and a necessity if you want to play with more than 2 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Gen Con 2014
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+iOS

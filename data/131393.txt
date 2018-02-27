@@ -1,0 +1,376 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Blocks in the West
+RANK: 4834
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Hi folks!
+Today I’m gonna talk about[b] “Blocks in the West”[/b], out on October 24th from [b]“Ventonuovo”[/b].
+
+First of all I’d like to tell you who I am: [i]I’m a boardagamer, not a wargamer.[/i]
+I own and I played a lot Twilight Struggle but it isn’t a wargame, at least in my humble opinion. I own [b]Third Reich[/b], I read the rulebook but actually I never found time to play it nor players ready for it. Same issue for [b]Rommel in the Desert[/b]: I only own it but I never played it.
+
+I’m used to “long” boardgames as [b]Twilight Imperium 3[/b]: I played a lot (30 times?) in 6 or 8 players with all the optional rules. I love[b] Starcraft the Boardgame[/b] and I played more than 50 times in 4 players.
+
+So I can survive ( :D ) to 10 hours playing without breaks and I like complex boardgames.
+
+Why did I try [b]“Blocks in the West”[/b]?
+It’s obvious: I always wanted to play a real wargame but I never had the time or the players to play with.
+
+I tried the shortest scenario of [b]“Blocks in the East”[/b] - “Road to Leningrad” - and I saw a huge match of the long scenario with all the pieces on board. Gigantic.
+Why didn’t I play more with Blocks in the East? It has a simple core rule set but too many pieces: I feared the complexity of the strategy and movement on the huge board.
+
+Here we are with [b]“Blocks in the West”[/b].
+I’m lucky to know a friend of the author, Emanuele Santandrea: we joined him for the BLOCKS IN THE WEST PREMIERE TOUR across Italy: a week of [b]Blocks in the West[/b] full time!
+
+I tried a draft copy of the game ‘cause well… the final version has to be printed yet!
+
+[i][u]-	First impression: A lot of scenarios and possibilities[/u][/i]
+Gothic line, Ardenne strike, Invasion of Italy, The Fall of France, Battle for England, D-Day and Run to Berlin. This is huge! Some scenarios are short, I mean 1 or 2 hours. Other ones are longer and they last for more than 8 hours. You can easily find the timing suitable for you.
+
+[u][i]-	Love for History[/i][/u]
+I’m a fan of the Second World War, like my father was.
+History is important to know who we are and why. Blocks in the West is only a game of course but it has been designed by someone who loves History. A lot of details, special rules and “what if” conditions let the player free to play without strong bonds but following the History.
+Of course this is an historic wargame so while in all the early war scenarios Germany is always on the edge, on the contrary in the late war scenarios Germany is dramatically short of oil.
+Italy can’t attack but try to defend better than they did and Allies have to cooperate and manage the logistic problems of supply.
+[u][i]
+-	Rules[/i][/u]
+It’s quite all already seen in Blocks in the East. The core is the same. Of course it’s a different game because of the maps and scenarios with the importance of amphibious and airborne landings and sea supply (mulberry is the new key feature to supply Allied landed troops). We have not a huge front like in Russia.
+Rails are even more important and generally it’s more effective a movement (to cut supply) than an attack.
+
+[u][i]-	Set up[/i][/u]
+It depends on the scenario by the way even with the hugest one (DownFall) the reference sheet is well done. At least with a little bit of patience none will have problems to set all the units on the map in less than 20 minutes (keep in mind that an expert player does it in 5 minutes)
+
+[u][i]-	Gameplay[/i][/u]
+The basic is simple: ground units (tanks, infantry and forts), ground support units (artillery and HQs: we have Hitler, Churchill, Mussolini and Eisenhower but also Doenitz, Harris and Goering i.e.), aircraft (fighters and bombers). The stacking is max 2 ground units per hex plus a ground support unit and an aircraft.
+Each piece has got an attacking strength, hit points, tech level and initiative.  Tanks may blitz, marines may sea land and paratroopers may be deployed behind the enemy lines.
+
+The economy is simple: manpower, aircraft points, tank points and of course oil.
+All units has to check supply: full supply, limited supply (if it is alone with no HQ in range) and out of supply.
+[i]The turn is:[/i]
+-	Production
+-	supply check
+-	strategic movement by rails (if available by activating Strategic HQ)
+-	recon (if available by activating Air HQ)
+-	movement (following the tech level of the unit and considering the terrain: clear, dirty, very dirty and closed. Weather too may impact movement)
+-	battles if needed and tank blitzing
+-	exploitation movement if needed
+-	supply check
+The HQ may perform special actions by discharging their power: you have to spend manpower and oil to recharge HQ during production phase.
+For example a tank in limited supply may move with 2 movement points but cannot attack. If it is in supply and commanded by a HQ it can move by 4 movement points and attack. A tank out of supply may attack at full movement, but only one tank, if a HQ orders a special attack spending command power. A HQ may even destroy itself by discharging totally to perform a special action.
+[i]
+Combat is easy:[/i]
+-	air battle, if needed till there is a winner over the skies
+-	anti air fire
+-	aircraft fire
+-	artillery fire
+-	tanks charge if available
+-	infantry fire
+A recon is needed to avoid penalties for the attacker in the very first round of indirect fire (aircraft and artillery).
+Weather impacts both recons and combats as well terrain type (for example crossing a river or a sea landing will result in a penalty for the first round of fire for the attacker).
+
+All the units have a Zone of Control (ZOC) of one hex. Zoc is very important to neglect supply chain and to manage retreats after a combat. Big cities and rivers neglect the ZOC: reading the map is critical, strategically speaking.
+
+Movements are not obvious nor the best solution a brutal attack without considering all the details and consequences of it.
+
+[u][i]-	Dice and luck[/i][/u]
+You roll a die for weather, for Strategic Warfare, for recons, for special political effects and of course for combat.
+A single infantry may hit, survive against a huge airstrike and retreat. It’s possible.
+Well Blocks in the West is an historical wargame not an abstract German game. Dice are needed, in my humble opinion, during a battle. Some results may be very lucky (or nasty depending on the side): it’s the price for realism.
+
+By the way there is no way: a good strategy and a long term plan will always defeat a poor player even if he is very lucky. It has to be like this ‘cause Block in the West (same thoughts for Blocks in the East) is not a filler and a scenario may last up to 10 hours.
+
+[u][i]-	Overall thoughts[/i][/u]
+The rulebook in comparison to Third Reich seems a teenager’s diary: I mean very easy and overall clear.
+The game flow, after a warm up, keeps going well.
+Special rules and “what if” are all in special faction cards as reference. You do not have to learn all the exceptions nor special scenarios features. Just put in play the cards you need and let’s start move your blocks. The cards are a new feature of Blocks in the West.
+
+Once again I like to underline the logistic problem is the key of all the game: supply chain and production “movement”. A single infantry’s ZOC may cut off a whole assaulting force’s supply and give the victory.
+Even after a victorious sea landing the invasion may not be good deal for the attacker if he can’t supply his forces without enough ports/mulberries.
+The reinforcements as well as the repairs of inland attacking forces are limited by the ports/mulberries capacity.
+Battles are not the only matter of Blocks in the West: position and movement are very important. In that there is no luck.
+Another key point is how to invest. It’s better to be pennywise and save oil today than throw away precious resources in useless attacks (why not wait?) or desperate defences (maybe it’s better retreat).
+
+In [b]Blocks in the East[/b] the front line is very huge with a first and second line’s management let’s say hard to understand for a rookie. So many blocks: I felt lost.
+In [b]Blocks in the West[/b] the game pieces are less but the game is not easier.
+
+
+[u][i]-	Conclusions[/i][/u]
+[b]Blocks in the West[/b] is not only an historical wargame: it’s an historical research full of details.
+Let’s take the units: their names, their position, when they were ready. It is a plus to play with the designer: you can learn a lot about the Second World War.
+
+The materials, even in the draft copy I tried, show the pursuit of high quality. The previous game has got a gigantic quantity of pieces all made in Italy: the new one will follow this path.
+
+The game has got quite simple core rules but it’s deep and strategic.
+It’s important to remember that…it’s a game and a game has to be funny. Blocks in the West amused me very much.
+You can really feel all the problems and challenges of a war. 
+
+I am not a wargamer nor I think I’ll begin now. It is not my genre that’s the reason why Third Reich and Rommel in the Desert are still unplayed in my bookcase.
+
+Honestly I have to say I enjoyed all the plays I did at Blocks in the West.
+I won’t become a pro player, I know for sure ‘cause I like too much other kind of boardgames.
+
+By the way for me, I underline I’m a boardgamer not a wargamer, [b]Blocks in the West[/b] will be always welcome over my table.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Mis opinión sobre el juego la tenéis en la vídeo reseña que he hecho del mismo.
+
+
+Saludos!!!.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kickstarter bundle
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+In less than 6 hours, three of us were able to read the rules, sticker the blocks, set the game up and complete a satisfying game.
+
+We played Scenario 3 using the basic rules. Though only two turns long it didn't feel like a training scenario - it was far more fulfilling than that.
+
+We did make two mistakes though - mistakes that could have been avoided with a little clearer information in the rules.
+
+1. We used the main two-section map. This meant that a lot of the playing surface was not used but, more importantly, it meant we didn't get the benefit of the larger hexes on the sub-section maps. Apparently the full map is only needed when linking with BitE; so, if that's not what you're doing I'd advise to use the smaller maps with the bigger hexes. It will make the game far less fraught - picking up and placing stacks on the main map is frightening!
+
+2. Pretty fundamental - we got the initial strengths wrong. The scenario booklet simply sates words to the effect that the blocks should be set up face-to-face. We misinterpreted what that meant. Having spoken to the designer here is my understanding of what it does mean:
+
+The initial strength of units at set up can be determined as follows:
+• Orientate the scenario book image so that each player is effectively sitting on their side of the board illustrated. 
+• For each player, the initial strength of the units is that shown on the ‘top’ of the block i.e. the block edge nearest their opponent.
+
+
+
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+blocks
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+The rules are a bit of a mess. I think it didn't help that the person who translated them didn't have English as their first language (sorry J. couldn't resist saying that). I like the way builds are handled and the combat works. A bit dice dependent but then so is life.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.9
+preliminary rating.
+from my comments for Blocks in the East:
+
+"Less is more - short rules, but a deep game. Buckets of dice that are giving it a high emotional impact while the intricate decisions about where and how to reinforce, move and attack are tactically and strategically demanding and rewarding.
+
+In three words: Fun, fun, fun! 
+
+This is an east front game that even non-grognards will love! It is the best block game (perhaps even the best wargame) that I own (and I own a bazillion of'em)!"
+
+I have no doubts that BitW is at least as good as BitE. Time will tell if my expectations are justified, but all informations indicate I won't be disappointed.
+
+I have to add that there was a hiccup with my order, but Emanuele solved it over night and I got my game including new print of the t-shirt in three days after I contacted him (including transport from Italy to Germany, which normally takes a week alone!) - a real miracle! That is custumer service as I would like to see from every game company!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+In collection since 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+A "Must have" wargame. Exceptional components and style of play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Essen, 2013
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Gorgeous components, great additions with the scenario setup journal and I really like the zoom maps!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nice block game, but only in combination with Blocks in Afrika and Blocks in the East.
+The complete game has a lot of issues, please see my Blocks in Afrika comments.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Limited edition. WOW.....
+
+This system is closing in on EastFront / WestFront as my favorite systems.
+
+Two big advantages:
+1) More blocks, more hexes = more tactical options compared to the above system;
+2) More blocks, more hexes = luck factor reduced compared to the above system
+
+Plus:
+-Very accessible and fun system
+-The quality of the components is stunning
+-Rules are excellent
+-Accessible system
+-Stickers are of excellent
+-Map graphics and coloring is great
+-Some nice chrome rules
+-Basic rules and advanced rules; advanced rules truly rock!!
+-Deluxe scenario booklet and maps are superb.
+
+Minus:
+Some tiny art nitpicks:
+-The V2 image looks like a Tin Tin rocket
+-The transporters images on the map are modern freighters
+
+Finally a Western Theatre of Operations that is playable; serious tactical options compared to WestFront and less cumbersome than Victory in the West.
+
+This system has so much to go for; never again Axis & Allies and I prefer this over WestFront.
+
+The Diplomatic rules make EuroFront unique and I prefer the '39 campaign over BITE / BITW but I like the latter system better for playing the '43 and later scenario's.
+
+A hihgly playable and expendable system.
+
+I have an extra copy for trade.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+LE+Goretex. wow... LOTs of extras here. A BIG step up from the LE of BitE.
+Scenario setup guide in large format print full color
+mini maps for shorter campaigns.
+(that link...) Sheesh.
+I want to give a 10... but I wont.
+ok, as of Dec 1st I have played twice with the designer face to face...The surroundings of the Rome Luttica convention were just icing on the cake. Great job!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Rating for system. Here is my comment for BitE
+
+we have found it to be boring and really od in comparison to EastFront II. For example strange AA rules where tank unit can wipe aircrafts from sky. I have read designers thought on this but do not agree.
+
+2 strength steps seems strange if you stack all your units with these steps your units are invincible as long as you get only one hit.
+
+Also strange hierarchy of HQs. Tanks and Air needs HQs infantry not. Why?
+
+From all of this EastFront and its system does provide better history, fun with less rules.
+
+Also due to stacking limits front hexes are always overcrowded which severely hampers gameplay.
+
+I would say this was one of my biggest dissapoitments especially when reading all enthusiastic comments.
+
+To add something positive I liked tech levels of units and somehow seemed interesting production system although it added another burden of management.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Rules: 8
+Gameplay: 8
+Design: 9
+Balance: Quite historica, tough nut to crack for the Germans
+Scripted: 8
+Complex: Mid-complex
+
+Just playing the west-front campaign from 1944 isnt that much of fun, it is difficult to change history. the other scenarios included are quite short, so there is not such big campaign as in blocks in the east.
+But the game itself is great, things are fluent.
+When combining with BIA, this front will be great for playing to, imagine playing the 1939 campaign......
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I great modern war game...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Storage
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+As usual for VNG: Great components, exciting scenarios, a massive amount of units, solid rules (version 3.0), nice and optional chrome elements, a brilliant customer service, and a kind and patient author.
+Keep up creating cool wargames!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+A fantastic game with a great historical research. The components are beautifull. You have great choices in different stategies. There is a basic game to learn the system but with the Advanced game and some optionnal rules, the game really shines! After 4 scenarios played and some of them 2 times, I can say this is a very addictive game. Thank you very much Emanuele for your job!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+This is the second installment in the series and the production quality is brilliant.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I played a few scenarios and I can say the game is very interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Not a bad game per se, not a great one either. 
+
+The childish comments of the designer on this site are quite annoying, and part of the reason I rate this game so low. 
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+I'm not a player wargame but this title really impressed me. 
+
+Unlike Blocks in the east here you will enjoy the mini map in scenarios with most 'small check, and then more' easy for novice players 
+
+the difference in Blocks in the east is the setup, it is now more 'fast thanks to the cards that indicate where each block must be deployed. 
+
+as the material always is of the highest quality. 
+
+Thank you for giving me emanuele involved in the playtest was a real pleasure.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The game looks and plays perfect. As I have followed the details for the setup and gameplay development, I can only say that it exceeded my expectations. The game does not contain a longer campaign like in BITE, but it makes good for all other aspects. 
+This is a completely different experiance as BITE and something.
+The strongest element is the playabillaty towards the real WW2 experience which is for me and other players in perfect balance. It has no 100 page rule book, so the rules are pretty easy to folow.  
+The game is for a wide audience as for newcomers the basic rules are pretty light (e.g advanced axis and allies) and easy to understand. 
+For the players which want to go even further with the advance and optional rules, the WW2 experience 
+is even more interesting. 
+This game is in my opinion an improvement in comparison to WestFront II.
+ 
+If you like WF II I would consider buying this game as it played more smooth and has very good scenario's. Fall Gelb is a hard nut to crack.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I still have to buy BITE but I didn't loose the opportunity to get BITW at Essen Spiel. The way they 
+represent the Mulberry function is simply ingenious.
+
+March 2014: I've bought my copy of BITE
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Excellent game. Lots of options and a very short rulebook. The support from the designer is amazing'
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Rating based on one game + quality of the material
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Vendido
+(xatira)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+"Own" as in paid for and awaiting!
+
+Looks really, really good!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I think this game has a good mix of features that make it both a simple or more complex depending on the setting and both a quick or more longer depending on the scenario, obviously with a well written rulebook and one of the best quality components I have ever seen that makes it really beautiful and fun for every kind of player.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Huge quality maps! Excellent strategy
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Blocks in the West (BITW) is a continuation of the magnificent Blocks in the East (BITE), where we are brought closer to the WW2 Western European Theatre of operations.
+Having already established the basis by its big brother, the result of all could not be another than a great wargame: attractive, deep (but not difficult) and, what is more important, entertaining.
+The map, divided into two sheets, shows Western Europe and part of the north of Afrika with the same graphic style as its predecesor, practical as well as beautiful, making as a whole with the BITE board a superb map of all the European Theatre.
+This is a very carefully made edition showing the efforts of VentoNuovo Games to keep on improving things. The units of blocks keep, as it should be, the same style as BITE, forming along with the map an spectacular whole. However the little plastic cylinders to show supply which were given with Blocks in the East are left far behind being substituted by little barrels so that becoming out of supply was never so pleasing.
+It has also been added a complete ilustrated A3 Journal which provides all the information needed to set up from short campaigns like La Gotica or Fall Gelb to more complex ones like Victory in the West or Downfall, which can also be played together with BITE.
+One of the advantages of BITW is that with that eagerness for improving the game, one new sheet that represent two sectors of the map which is on a broader scale has been added, making it easier to play certain scenarios since a smaller space is required. They are ideal for becoming familiar with the rules and spending some hours of entertainment before starting with the longer and more complex scenarios.
+The core rules are the same as those of BITE, with the distinction among basic, advanced and optional rules so that all who are already familiar with the first game could almost inmediately play BITW. Moreover, the existing great number of scenarios and the possibility of increasing the rules hardness makes it possible the game adapts to any difficulty level.
+The change of the operation stage is seen in the special rules belonging to the new factions, with the aparition of the Western Allies and the personal characteristics of the Western Front, where fortifications (Festung), amphibious landings, Mulberries ports, strategic bombing or the British Radar Chain are of vital importance. Summing up, all of which one expects finding in a wargame about WW2 is here.
+Despite all the changes, Blocks in the West still maintaings  the symbol of identity of the “Blocks” series, games which are easy to learn playing but due to the depth of their strategy one always wants to replay again in order to make it better.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.8
+LE version w/ gortex map
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+24 October 2013 - ESSEN SPIENL HALL 1 - BOOTH G140
+
+The second time is always affected by a sort of first hit syndrome, so we have been all ansious while the new baby was borning, but after seeing how much you all already love the second part of the story, I feel BLOCKS IN THE WEST has good chances to be at the same level, or maybe even better, than BLOCKS IN THE EAST.
+Even if now the company is more than 1 year old )lol... old), we still work with the same energy and the same enthusiasm as in the first days.
+
+GRAZIE
+
+FULL STEAM AHEAD
+
+emanuele
+Head of R&D, VentoNuovo Games
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent follow-up to BitE.  Same familiar rule mechanics with gorgeous maps and bits. As a BitE fan, this was a no-brainer purchase and does not disappoint.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Absolutely stunning, from maps to setup charts, additional maps for scenarios, etc. Support from the designer is first class. Waiting for my first play. 
+
+I think VNG has found a small niche of mini-monster block wargames that apparently we are willing to support, judging by the quantities sold.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+see my comments on Blocks in Africa.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Really a potentially awesome treatment of the ETO and may "retire" the Front series.
+
+While I think at the core the game is relatively straightforward, the rules layout is needlessly confusing.  The designer is AMAZING at answering rules questions here, but as the pages and pages of rules questions illustrates, there are a lot of questions about the game.  Key rules are also spread among the rule book the scenario book and the (optional) cards - for example the special rules for the German attack bonus in the Ardennes scenario only appear in microscopic card print on the set up page in the scenario book.  
+
+Once you get it down though, the game is a lot of fun.  I really want to play them all matched up, as the replays look impressive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Very poorly written rulebook makes the game very tedious to learn (despite the excellent responsiveness of the designer on BGG). IMO the designer did not find the good balance between "game" and "simulation" for this production.
+
+

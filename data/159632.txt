@@ -1,0 +1,642 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Strife: Legacy of the Eternals
+RANK: 2447
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+yep
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP demo black and white. Not played yet. pnp preview rules are bad and requires a lot of time to understand how to play correctly.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Try this experiment: shuffle your deck of champion cards and play them randomly.  You probably won't win, but you will annoy your opponent and you may be surprised by how close the game is.  
+
+I think there are several reasons for this.  The obvious one is that the two players hold exactly the same cards.  Added to that, the cards are well balanced; there are usually several good cards to play to a location and there are never any certain winners.  Add to that the combined effects of four different special powers in deciding the result of each combat.  You know what three of those powers are, but the fourth (on the card your opponent will play to this combat) can make a dramatic difference and is not predictable until the very end of each round.  This creates a degree of chaos that renders calculation beyond "my cards may give me a decent total strength" redundant.  So, to summarise, I believe I have found that the margin for skilful play in Strife is small.  That's a shame because there are a couple of nice ideas in this design - the tie losing dice that also grants vps and the last card you played having an enduring effect.
+
+Production quality of the cards is reasonable and the artwork is very nice. The rules are clear enough, but it strikes me that they don't cover all situations that may arise. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Nice head to head 2p game, similarities to BraveRats/Pico2 but requiring thinking a bit further out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Decent short game. Playing random cards is more enjoyable and very amusing with some of the combinations
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+perorder is part of Strife: Shadows & Steam kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+Really neat little card game with great artwork, it plays a little like Omen: Reign of War, but has a tighter design. You set up Champions to face off against one another in different locations, and then shift them over to a Legacy pile, sort of emulating a passage of time. The cards will have Legacy and Battle abilities that are resolved in different phases, but the sweet spot is that there is a d10 'Fatestone' which you pass off as a tie breaker, but also advances a tick each time, so it's sort of an added layer of strategy, who will get those extra victory points? Cool, portable, easy to teach.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sleeves: https://boardgamegeek.com/geeklist/164572/item/3509594#item3509594
+
+Sleeved with Mayday sleeve size: Dixit - Yellow (MDG-7104, 100/pack) - (80 x 120mm)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1 7.5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.9
+PnP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 player, cards, text requires learning characters for smooth play.  Not new player friendly.  Similar to Mage Wars. Nice production. Only $13.  http://www.boardgamegeek.com/video/71693/strife-legacy-eternals/dice-tower-reviews-strife
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+After the first round we tried that one player select the heroes randomly and the other not. The random player won with a big diference. That shows that card powers are stupid and that Strife it's a game that seems to have strategy but it really doesn't.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+This one really surprised me. Very interesting game play
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+2 player only
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+players will vie to win locations
+They have an identical set of cards with their opponents
+They choose a card to play and put on the discard pile face up
+Score card
+Round ends when each player have 1 champion left in the hand
+Each player has the same hands of 10 Champion cards
+deterministic game
+number from 0 to 10
+Battle ability
+Face up spend champion
+Next turn legacy ability comes into play
+Legacy ability is triggered from the discard pile
+Tie die - break the tie and give to the other player
+
+Location will give additional boost to the champion
+Or double the points earn
+Manipulating the discard deck
+
+Play one round just to get yourself familiar
+Play beginner mode
+Play without the champion battle ability??? Unless you are playing with experience card game players
+Location deck - green
+Fatestone - dice
+Player assign a champion to a location and the discard pile
+Reveal legacy champions and the one with the highest value get to take his or her turn first
+If tie reveal battle champion
+
+Assign Fatestone to the player with the lowest printed value
+If there is still a tie, each player roll the fatestone and determine who has the highest number
+
+In case of a tie, the player holding the fatestone loses
+Round ends when there is exactly one champion left to play or there are no location left to play
+Locations has either been won or discarded
+
+The last unplayed champion remain in hand AND automatically become the legacy champion in the next turn
+
+Select champion to be played at current location; different from W40KC
+
+Check of ability that triggers upon the reveal of the character
+Select champion
+Battle phase
+Legacy phase - the champion with the highest power trigger first
+Follow the power level sequence
+Combat phase - add up the total value - add up total power of battle champions
+Clean up- fill in empty location - one at a time
+
+At the end of the game, player calculate the value of the Fatestone
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kickstarter with  Strife Shadow and Stream
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+See my thoughts here: http://cardboardclover.com/strife-legacy-of-the-eternals-review/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+2
+60 minutes
+Best with 2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Kickstarted 2014
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Jonathan
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I backed the Kickstarter for this game and was happy to see all those stretch goals met.  The artwork is beautiful, and the tin box and "fatestone" (a d12) are of fine quality.  The cards themselves are slightly thinner than I had expected, but I was planning to sleeve this set, so it was not an issue for me.  The gameplay is smooth and fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Played for the first time tonight, both hubby and myself enjoyed the basic game. Simple to learn but so much flavor to keep things interesting. It's ridiculously well balanced .
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+No Box (Hard Plastic Case)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Essen 2014
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+M3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Donated by Christopher Hamm
+(Game Designer)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Add on to Strife: Shadows and Steam Kickstarter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Kickstarter!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a good two player filler game with some bluffing and strategy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Don't be fooled by short playing time and relatively low table footprint, this game is far frome being a filler. Surprisingly complex gameplay with simple rules.
+
+Recommended as an interesting alternative to the typical gateway games (meatier but not overwhelming). Also an excellent choice for the single game you take with you on your vacations (it's tightly packaged in a small tin box).
+
+If you like the game, consider also Vampire Empire - very different mechanics and style, but very similar format.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed on Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Good deduction, unfortunately a 2 players game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter, ETA: Apr. 2015
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Gaming experience: 6
+Mechanics: 7
+Theme: 8
+Artwork and components: 8
+Replayability: 7
+To get on the table: 6
+---
+Rounded total: 7
+---
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Metal tin
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS2014 via David
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.2
+Gaming: A cool 2-player card game with a nifty mechanisms with a power on the card that is used after it is discarded...requiring you to think one turn ahead at all times. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ya impreso.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+SHAME
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+have pnp version
+love this game, it has
+awesome great combos!! fun fun. it doesn't involve luck, i like that a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Two player Libertalia perfected.  Only downside is it takes a few plays to get a feel for the flow of the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Trzeba wyuczyć się wszystkich kart, co wymaga wielu rozgrywek. Nie mam na to najmniejszej ochoty.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Boîte : Métal Kickstarter
+
+Condition parfaite.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Much more comprehensible than its successor. For a game of this complexity of interaction, I prefer Battlecon; for a game that's purely about rock-paper-scissors, I still prefer R or Grimslingers. All that said, this is pretty enjoyable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+R/BraveRats on steroids. Lots of game in a small box. Takes a couple of games to get into.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Not bad but, I don't know why, I didn't like it much... It looked deeper strategywise before playing it than after playing it, the opposite as most strategy or card games I would say. Not the best option for a two-player card game. I rather play BattleCON.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+So tense,full of decisions,gains value from the experience of your opponent.The fact that you have access to all your cards from the beggining of the game adds a lot of analysis paralysis to the mix.
+Edit:After many plays rating increases to 10 as it is official one of the best Card guess outwit your opponent games i have ever played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+I can see if you spend the time to get into it where the strategy would come in, however, I find it boring and Representative. Every round it seems to be the same thing, and playing with new people is a chore to get them to learn it before you can get into the strategy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I find the game interesting with all the guessing and second guessing. The open information and same decks add to the game a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Simple game with card combinations that provide a great amount of depth.  The best two player game I've played recently, check this one out!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+At a quick glance it sounds somewhat similar to Engarde, Shazamm, Battlecon and/or Battleline
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed on Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Fun but repeated mechanics 
+Art is great!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Card chess. Perfect game of wits. Simple yet heavy. Brain fryer :P
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Best with 2 players
+Recommended with 2 players 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Not yet listed on geekmarket or ebay.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Fun little thinky card game with great art. Very portable. A tad bit long.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+2015-11-25 - This is a pretty fun game. It's a little like a more complex BraveRats. A bit more complicated, but also maybe a little more interesting.
+
+2017-11-06 - I think my initial rating for this was a little higher than it should have been. Correcting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Strife: Legacy of the Eternals offers a cat-and-mouse game of bluffing and outguessing your opponent. The card quality and artwork are phenomenal, and the gameplay itself is interesting. This is a novel game, but not one I'd play repeatedly.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+---------------------------------------
+[b]My thoughts on Strife: Legacy of the Eternals[/b]
+A perfect information strategy card game with cool mechanics and great artwork. Each player has 10 identical heroes in hand, each with a battlefield ability (which activates when played onto the battlefield area) and a legacy ability (which activates when the hero is on top op of the discard pile). These abilities can combo off each other, allowing a lot of tense moments of deep strategic thinking (and AP). Both players simultaneously select a hero from their hand and play them on the battlefield. After the cards have been played, the battles seem a bit anticlimactic, as it is just a matter of determining player order and executing the abilities on the heroes on the battlefield and in the discard pile. Also, during the course of the game, your cards get played and your options reduce. So choices in the beginning of the game greatly influence your options in the late game. I appreciate the design, but I don't really enjoy the game. This game is probably best when both players are really experienced with the game.
+
+[b]Star ranking[/b]
+Fun: :star::star::star::nostar::nostar:
+Satisfaction: :star::star::star::nostar::nostar:
+Esthetics: :star::star::star::star::star:
+Replayability: :star::star::star::star::star:
+[b]Verdict: Still exploring, might go at some point.[/b]
+---------------------------------------
+March 2015: Sold off
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This game has such a simple concept, but it has an amazing depth of strategy. I'm still learning the best strategies, but even new players can keep me on my toes.
+
+Drawbacks: only a two player game so I can't play it as often as I'd like. It's hard to introduce to new players because good play requires a good understanding of the cards.
+
+Interestingly, I've found that my brother and I often select the same cards. I'd love to learn more psychology to explain that.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter edition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted: 30 October 2014.
+
+Estimated delivery: April 2015.
+
+Arrived: 14 April 2015.
+
+Traded away: 26 July 2015
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I also have the steampunk version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Demoed and bought at GenCon 2014. 
+
+Great game with a lot of tough choices and deep thought. The art is also great.
+
+The game has some minor intricacies between character abilities that the rules don't clarify and it isn't clear how things are supposed to interact. I suspect this will be tidied up for the actual release and/or kickstarter. Clarifying these issues can easily push the game to a 9.
+
+Overall, one of the great unexpected finds for GenCon 2014. Looking forward to the kickstarter.
+
+
+Edit - 20140914 - I reached out to the developers about the rule issues I had encountered. They had already cleared up many of these and released a new PnP version. The game runs much smoother now.
+
+Pushed the score up to 9.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 only
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Simply one of the best, little two player games out there. Simple but challenging and interesting mechanics, minimum randomness, beautiful graphic design make it an awesome experience. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Takes the bluffing/outguessing mechanism of BraveRats and adds a new element in the form of your previous played card. Requires a lot of plays to truly be competent, but very good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fast and witty 2er card game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Look into more... 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 player deep and small games
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting two player duel of creating card combos each turn between characters played as "champions" and the "legacy" character card atop one's discard pile. Each player uses a similar hand of 10 cards, played one at a time in whatever order they wish over three rounds, to battle over locations worth between 1-4 points. A surprising amount of variety results from the interaction of just these ten characters, each one worth between 1 to 10 strength and having a unique ability to alter conditions in the head to head battles.
+
+The artwork on the oversized cards is gorgeous and helps to draw one into the game's theme. The inclusion of a d12 fate die is the most elegant solution to breaking ties I've seen in a game: the player in possession of the fate die may break a tie in their favor by passing it to their opponent who then increases its value by 1, and at the end of the game the player still in possession of the fate die adds that many points to their overall score.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I just don't get the hype. It's an ok game. I just don't see the depth that everyone attributes to it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+medium length, 2-player card game in which players play Champions at locations and compare strength for victory points; simple with strategic complexity for a "war" game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Opened but unplayed, Smoke Free Pet Free Home
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+FUN: even though you start out with the same cards, there are many different ways to play them and this game always offers a challenging puzzle.
+
+UNIQUE: adding legacy powers to the cards is brilliant as it forces you to think ahead and it opens so many possibilities.
+
+NEGATIVES: will take significantly  longer to play with people prone to analysis paralysis.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Similar concept as in "Cold War" but won't conquer it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+There's a staggering amount of variability and decision making packed into so few cards, all wrapped up in a clever and fundamentally simple core mechanic. Games can run long though as even the least AP prone players will struggle with picking a move in this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(V)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+The PERFECT two-player game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Angol
+3,000 ft
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2014
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Included with backing on Kickstarter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2014
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Players: 2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+$26 KS me (group pledge)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Great head to head mind game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Some of the best art ever. I'm not sure about the game though after one play. It felt slightly like Pecking Order to me with special powers. I really want to play the full version. Though I think perhaps that a 2 round game would be the best of this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Okayish, but better 2 player duelling games exist.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+[youtube=KsXjRKf0h2w]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Perfect two players card game. Awesome graphics, great mechanics. One day, eight plays and it becomes a favorite game for me and my wife
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Innovative 2 player card game that feels symmetrical at the beginning but quickly becomes asymmetrical. The combination of the card you play and the card you played last turn determines your strategy and from this simple interaction a chess like game in card form is born. comes in a small package and is well worth your money if you are into 2 player small box card games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted.
+Received: 04.08.15.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting symmetrical two player game. Seems to get deeper with more plays. Best when playing against the same opponent over time.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Imagine if R took forty-five minutes instead of forty-five seconds, and featured cards who have abilities that only trigger when they're on the top of the discard. Locations with varying VP values and game modifying abilities (in the base game, this consists solely of modifying the number value of different played cards), and events that can change how VP are earned or turns are won. After three rounds whoever has the most VP wins, and the cards used for tracking VP can go up to 69, which is very curious because it's a 2-player only game and even with me playing pretty toughly I only had 32 points. It's got the right layering of interactions where I can track what I need to do with the cards in my hand, but requires a smidge more because of the cards potentially in your opponents hand, and their interactions with the legacy cards. This game did everything for me that R did, but with so much more game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Amazingly done (artwork!), one of the best pocket games there are.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I'm really enjoying Strife, and I'm very glad I backed it.
+The level of polish on display here in terms of both production and design is simply masterful.
+
+To the uninitiated, Strife can seem daunting.  
+Each round, players simultaneously play a single card, who's effects chain with the effects of the card played in the previous round.
+The core of the game is in finding clever combinations of cards, and understanding what sequence to play them in. 
+This is a wonderful little puzzle, but does require that players read and understand the mechanics of every single card in their 10 card hand.
+
+That said, it's not as terribly complicated as it seems at first, and after a few rounds you'll get a good feeling some of the stronger card combinations and tricks.
+This is where the game is at it's strongest, as players begin the mindgame of predicting each-other's movements.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Beautiful to look at. VERY strategic. Not sure about replay value although the remnants etc... add some variety. In the end - I think it will appeal to a very specific crowd... just not sure that is my crowd.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2014
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+BERMUDA
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is fast becoming my fav 2p game. It's so smart and gets better with every play. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.9
+played at GenCon2014 and enjoyed the simple, sensible design purchased the kickstater edition.
+
+My only criticism with the final copy is that the specifics of how the game is played (the timing) is loose enough as to make some of the cards ambiguous for new players. It's remarkably daunting for a simple game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+15_04
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Possibly more fun than it should have been, as we decided to randomly draw characters rather than pick.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Awesome artwork.  The playmat is really nice.  A wide variety of choices and possibilities each turn.  Playing the same deck of cards blind against your opponents and seeing what they've played over time leads to interesting deductions but still leaves an element of chance/risk that I like.  The powers of the various character combo really well in some very cool ways.  The manual is not entirely clear on some of them but BGG has clear info on all the ones I was confused about.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very tactical, double guessing card game. maybe my favourite 2 player game: clever designed, exciting and surprisingly deep for just a deck of ten cards per player.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A second-guessing game of surprising depth given the simplicity of the rules. Quite the brain burner when trying to figure out the possible cards your opponent can play and how they will interact with the cards you have left to play. Attractive art work and good quality components also contribute to making Strife a winner. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Near mint condition with sleeved cards.  The only exception is that the insert was removed/modified to allow the tin to hold sleeved cards(I can't remember whether it was modified or removed but there is currently a cardboard spacer which keeps the cards and die from moving about.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+:) Nice big cards
+:) Cool simple gameplay mechanic
+:) Very low amount of luck
+
+:soblue: Can induce AP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Board Games Box 1 (Green writing)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+you know your opponent has the exact same cards as you. You stare into his/her eyes. look at your own. look at the cards on the table. look at your cards. look into his/her eyes. mmmmmmmmm what should i put down. What are they thinking. this game is smile and great. easy to teach and makes you try to get into the mind of the person opposite you. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Diciembre 2014
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Two-player deduction/bluffing card game with absolutely amazing art.  Goes a little long for what it is, but worth a try/buy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Easy to learn, moderately difficult to master. 
+This is one of the best and most brainwrecking two player games I played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.7
+2-er
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Beau. Assez stratégique. Jeu pour 2 joueurs. Fatestone. ^^
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 player strategy game of simultaneous action selection, hand management, and pattern building.
+
+Difficulty: Intermediate
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Tremendous disappointment. Advanced version of R/BraveRats: each player has a set of 10 cards, and each turn will play one face down. When revealed, the highest (subject to various modifiers) wins that confrontation. As in R, each card has a special battle ability that may affect the outcome; an extra complication here is that the card played the previous round also triggers its "legacy ability". Locations and random event cards provide additional modifiers.
+
+It's got lovely art, and the fatestone tie-breaking mechanism is a stroke of genius. I thought it was worth trying because I'm a big fan of R, but the charm of that game is that it's relatively simple to narrow your opponent's choice down to a few options -- the game is in the bluff and doublethink that ensues. Strife is much too much: too much to remember, too much to calculate, too much time.
+
+It's possible that it will reward extended play, i.e. perhaps memorizing all of the card powers will improve play. It's not going to get that here.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Polish edition. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a game that I really enjoy. The level of strategy and counter strategy involved is great. This is another game that I challenge students to beat me for a prize. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+An interesting game. I can see the strategy getting deeper after a few more plays, but it's not firing on all cylinders for me. The problem is, that if I'm looking to play a game kinda like this, I'd much rather play BattleCON. Also, it's a bit too long for what it is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.65
+The premise of Strife is a very simple one: play a card from your hand, resolve some abilities, score victory points. What's more, there are only 10 "Champions" in the game!  
+
+However, on top of this straightforward foundation, designer Christopher Hamm has built an incredibly strategic game of card combos and head games with much more depth than its small package suggests. With that said, the game's greatest strength (its strategic depth and complexity) is also its weakness in that the game requires a certain level of buy-in. 
+
+While the initial learning curve here is a bit high, if you're interested in this style of game and have a semi-regular gaming buddy who also digs these sorts of games, I think you'll find a lot to enjoy in Strife and something a bit different than a lot of other H2H battling card games on the market.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Fun game, just rarely hits the table due to competing with other popular two player games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Essen 2015. Not impressed after one play, need to play more to discover the hidden depths.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Essentially a straight blind-bidding game with several layers of special powers tacked on. Just not enough player choices or control to make this one interesting enough for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very smart card game with a simple yet intriguing twist with using different special abilities of cards while in play or graveyard. Not many cards and both players have same at their disposal but the number of combinations, bluffing and chance to outsmart your opponent is simply brilliant. Awesome art is just the extremely pleasant addition to what's already a great game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Kickstarter edition
+Sleeved in Tarot sleeves
+Played twice
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 player
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-Player
+
+Card Games
+
+
+Ordered with newer Strife game on Kickstarter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+For Sale - $10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Beautiful art but the game demands analysis paralysis until players know the cards really well (and even then it is  a real possibility).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Saját gyártmány
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Funnish.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A challenging game that can make mine (and probably yours)  head ache. Lovely art.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Kickstarted.
+
+Tarot card and great artwork. Feels it goes too long.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Kickstarter backed - received on 13 APR 2015.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+en mecatol
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+never played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+From Spiel'14
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Definitely not my kind of game. Too many texts to read and remember: you start your first game and you need to spend 10 minutes just reading cards, when you reach the last one you forgot (if you are anything like me) the first five.
+During the game 8 of these texts on 4 cards need to be read again.... i ended up basically playing randomly.
+Probably after a dozen games, when you know by heart all the powers, you start enjoying the game... but i dont feel the need to play a second game.
+The art is gorgeous and the cards are of the very good quality.
+The priority mechanism with the dice is quite nice and the idea of the "legacy" isn't bad at all... after all the game just works but it's an exercise in reading powers and this devoids it of fun, i am sorry.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An excellent two-person card duel, with lots of really neat interactions between the different cards.  I like the mind games that come into play when you face off against the other person, and the interactions of the current card and the legacy card are great.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I liked this game a lot. Very tactical and interesting at all time. I like the choices you have as the player. Only minus is the lands you battle for have somehow boring abilities, or at least repetitive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A game with almost no luck involved!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+combined with Strife: Shadows and Steam

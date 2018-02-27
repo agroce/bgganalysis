@@ -1,0 +1,235 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Mage Tower: A Tower Defense Card Game
+RANK: 4633
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I only played it solo. 
+The gameplay is about the same as "Castle panic" (hand management) with cards and a little deck building. It is also close to "Friday", less elegant but a lot deeper.
+A really enjoyable solo game, with some solid challenge and incredible variety in this little box.
+Full review: http://boardgamegeek.com/article/15548672#15548672
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.885
+I've only played this solo, and I like it quite a bit for that purpose. It is a little limited since you are working with such a small card selection each game, but I really enjoy figuring out the best way to use my hand each turn. My only issues with the game are: 1) the limited card options (with all the unique cards in this game it seems crazy that I'm limited to such a small number each time I play), 2) the monsters can get a little repetitive since there isn't a huge variety, and 3) the components (including card quality) are definitely a little below average. Overall, It is fairly challenging and a great solo option for a 20-30 minute game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.6
+I'm really surprised how well designed this neat little game is: great card combos, every match is thrilling. Card art almost looks like old european paitings, beautiful! The best Magic/Dominion-Clone I know!
+Just not sure if it is really exiting other than solo which I only played so far...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very nice game, I like drafting mechanism a lot. The presentation is top notch.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+originally Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+More fun than a MtG draft, and much, much more affordable. I've been playing the online demo version, which has ~30 cards out of the full set, and even after 50+ plays I was still finding new synergies and reevaluating my pick orders. Backed this on Kickstarter, really cannot wait for the physical product to arrive.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This was surprisingly good in the solo games I played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I traded this away because the publishers used 100% public domain art, and when I saw it, it was obvious. It may have been a great game, but I couldn't get past the poor art that really took away from the theme. I wouldn't be surprised if this gets republished one day with all new custom art.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought at ToonCon 2017 for $10.  It looks really good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great game for Coop, endless playthrough possibilities
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A fun little game. Its best with 2. Four can become too long and drawn out especially for AP. Luck has some factor in it, but picking the right cards makes it interesting. Plus there are a lot of different cards. Want to play again with the advanced cards. Enjoyed the 3 times I've played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+It's a Tower Defense game using cards. Dice Tower has a paid review of it. Plenty of replay value.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+This game was better than expected, and while somewhat under-developed, I recognize the pluck and the work that has gone into the game. For that, kudos to Brett. The closest game to this one I can think of is Thunderstone Advance, though Mage Tower has its own unique identity and mechanics. It's also a leaner game.
+
+First, what worked well: 
+
+The huge variety of unique player cards (166 of them!) is exciting and will provide enormous replayability. It was very surprising that despite random draws (we didn't draft on our first game), the game was very balanced. I'm excited to play again just for this reason. I wish more games had such large numbers of unique cards.
+
+I was worried at first that the small rule booklet was poorly written--could a game with so many cards have such short rules?--but except for a couple of small issues, it was completely serviceable.
+
+What was interesting: 
+
+A deck-building game without deck-building during play (or actually, very limited deck-building with only 3 standard card types) is an interesting design choice. My group and I didn't think it would work, but given the uniqueness of the player cards, it was fine, and potentially means the game is faster. However, this design does limit player choice during the game (see below).
+
+The anger mechanic (monsters become "angry" after being in line to kill you for a turn, only after which they do damage) is an unusual way to give players a heads up about what's coming. The fact that some cards (like the Hell Hound) alter this mechanic is cool.
+
+I really wanted to be able to use the interactive mechanic with Defender cards (if no monsters are left, they can damage opponents), but there was basically no way to get rid of all monsters since 3-4 were added per turn.
+
+What didn't work: 
+
+In my opinion, the game is somewhat underdeveloped. Don't get me wrong--it hangs together, but there are some clear opportunities for improvement.
+
+The main downside in its current state is that there isn't a lot of player choice per turn. As a player, your main task is to optimize your killing of monsters, but beyond ordering your actions to do the most damage, there isn't much to do but try to kill as many monsters as possible. In addition, you generally don't have too many options, as you normally only draw 2 cards per turn (and even if you draw more, you generally don't have the energy to use them).
+
+I think the basic issue with the game is that the resource constraints are a bit too tight, leaving very little headroom for choice during a turn. There are several instances of this: 
+
+* Energy points are limited to 7 per turn, with very little opportunity to get more (unlike combos giving more actions in Dominion); 
+* You only get 2 cards per turn, and even if you draw more, you generally don't have the energy to use them; 
+* You add 10-12 points of monsters per turn, which means you have to spend everything you have just to kill those monsters before they turn hostile; 
+* You only have 20 hit points, but a large fraction of the monsters do 4 or 5 damage each, which means death quickly if you don't kill them; 
+* You get only 1 gold income per turn, but the additional cards you can buy cost 3 or 4 gold, meaning you'll only get a couple during the whole game
+
+If these constraints were loosened up a bit, I think the game would open up and breathe, and players would find themselves with more options of how to manage their turns. Here are some ideas:
+
+* Draw 3 or 4 cards per turn, but only add 2 to your hand
+* Make monsters more unique. The monsters are simply too generic, and it gets boring fighting the same 4 types over and over again.
+* Add some way to manage the number and strength of monsters that arrive per turn. For example, could it be a die roll, with the option of improving your odds over the game. (Thunderstone basically does this by having an alternative to fighting, and if you don't fight, you just fall behind your opponents who do. Here, monsters are so strong that opting not to fight is suicide.)
+* Start with more health, giving players the chance to take turns to prepare if they choose.
+* Find a use for excess energy. Many times, I had 2-3 extra energy leftover, and I would've liked to apply that to either cards with minor actions or perhaps to affect monster flow/anger.
+* Give rewards for killing monsters that would provide income and/or additional energy or cards. This alone would allow for interesting synergies and combos.
+* Give players a a way to choose which monsters to kill, and thus manage their resource expenditures and potential rewards. For example, could there be a way to channel monsters in some way.
+
+(Many of these could be tried as house rules, and if I do, I'll post interesting variants.)
+
+Let me note that there is nothing thematic about the name, Mage Tower. There are no mages, nor towers. And for some players, they might not agree that this game qualifies as tower defense. I get the reference, which is based on the idea that there is a line of monsters headed toward you, but there is no way to direct or channel them--except for a few cards that give you alternate powers, you simply attack the head of the line.
+
+Overall, the monster mechanic is very simple, and frankly it's functional but not terribly interesting. I feel this is the most important area in which the game could be better developed.
+
+Finally, a note on the art and graphic design. The overall design works pretty well, and the artwork seems to be taken entirely from the public domain or from Creative Commons-licensed works. This is pretty well done, except in a few cases. For example, the Hell Hound is very clearly a goat. Also, some of the artwork looks slightly muddy when printed, no doubt a side effect of reproduction and middling quality printing. None of these are deal breakers, and overall the game production is good, though on the cost-saving side.
+
+The one thing about the graphic design that totally doesn't work for me is the way attack/defense values are presented. When monsters get angry, the rules advise you to flip the card upside down. However, when you do, the attack and defense values are both upside down and in reversed order. It was a constant source of trip ups. Monster anger would be better managed with tokens, but if the production costs were too high to allow this, it would have been better to adjust the card design to make it easier on players. Again, the game is perfectly playable, but given that the main mechanic is monsters getting angry, it would have been nice to take this wart into account.
+
+In the end, I do plan to play Mage Tower again and think it's pretty good, especially from a first-time designer. I really look forward to the massive number of unique player cards, and playing with more than 2 players. I only hope that Brett can continue working on the game, polishing it to a high sheen and releasing an updated version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes "Ennoblement" card. Excellent condition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Josh Bies
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+pre-ordered from website
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I didn't really expect to like it, but once we got into it, it worked out well. It's rated 30 minutes and it took over 2 hours, so that seems problematic. It was a kickstarter, and it kind of feels like the rough edges are still there. Card balance is uneven. Pretty fun, even in PvP mode.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A solid 7. Could go up to an 8 easily.
+
+Played the computer version first. Incredible replay value with draft and random cards. Fun. Crashes every once in a while but this is a fun program.
+
+Ran out and got the hard copy game. Has all the cards, the computer program is up to 133. Has the co op monsters. Drafting is the way to go, but do not count out just throwing eight random cards with the starting cards. Games like that can lead to some exciting finishes. 
+
+You absolutely must sleeve your cards. The card stock is bad, period. Sleeve before you play. That way you can see some all the draft cards and read them and think about them.
+
+Another game to add to any deckbuilder collection, although this is not a typical deckbuilder. 
+
+Just a litte bit additive. Buy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+God awful art, but the game is pretty fun. The system has good potential and needs expansions (especially for the monster variety). Not sure how well this game will be supported given it is an indie project.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Bought for $10 on clearance and very surprised by home much fun it is.  Seems like a great concept, the variety of cards means I'll definitely get 10-20 plays out of it.  Quick and easy to play and learn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+note to self: playable as solitaire deck builder, seems better at 2 players for the competitive mode.
+
+After a video review: Looks a lot like magic the gathering with modding. I think the main modification is that the cards you summon does not stay into play. Else it's just about how you attack monster and how they fight back.
+
+Since there is only 13 cards in your deck, the "Deck construction" phase is done through drafting, which could be relatively fast since there is only 13 cards.
+
+Still besides the various cards combination, the stategy seem pretty much like kill the monsters waiting in line.
+
+There seems to be an app, but I cannot find it. Probably Ios only.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+130 PLN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1-4 players (I think it's meant for 2)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Have only played the PC implementation but its very enjoyable. Backed the PnP version on kickstarter. Will hopefully get around to printing soon. Find the artwork a bit off putting on some cards though. Might try to retheme as shop-owners trying to serve customers.
+Love the fact that every card is unique and you only draft 8 per game! Really hope for more games to be made like this. So much variability and replayability
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deck Building, 30 min, 1-4 p, 2.80 W
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Feels more like a deck builder than a tower defense game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Very fun and unique feeling game.  I love the draft and the feel of trying to survive against the game.  I hope a second edition comes out with better art and more cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Its certinaly not perfect, but its got some amazing ideas that play out very well and their is a near endless list of options with the draft.
+
+I am very excited for the pending expansion.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.25
+Nice little card game that plays well solo.  It could be further developed into something even better.  I'd like to see more monster variety and special abilities.  The variety of player cards is impressive.  Drafting cards at the beginning of the game is a must because with such a small hand of cards for your game it is important to pick cards that work well together.  I Kickstarter this game and I'm glad I did. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Print And Play version
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Need to try
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I usually play this as a solitaire game. I always enjoy the challenge of building a deck and trying to puzzle out how to stay alive each turn. There is a lot of variety in the box, meaning that it is rare for two games to be the same. I've lost many hours to this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+What I got when I bought Mage Tower was totally different than I thought it would be. Mage Tower is a fun game for two players, add any more and the game grows exponential in length. The game also is pretty unbalanced and the card quality is pretty low (Sleeves are recommended!!!). If you can pick up Mage Tower cheap and are looking for a solid 2 player game give it a shot, it's not a bad game, but if you are looking for something with balance and quality look somewhere else.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Sold - UK Games Expo 2014
+------------------------------------
+Kind of 'meh' on this one. Feels like it's missed the target of being a tabletop version of a tower defense game, with 'tower' positions not mattering and no gaining of towers over the course of a game (Starting instead with a random hand of..stuff, which may not even be 'towers').
+------------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+TABSCon XXXVI
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3/13 = missed KS campaign, seek out a play/copy, Tom Vassell video says 2p head to head = great, drafting cards = the way to go,lots of variety in cards (use 8 per player - 166 total availble), lots of exploring combos
+
+Bert?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+(yes, I kickstarted this twice, it's really good)
+
+Kickstarter
+DEFAULT LEVEL - You get 1 physical copy of Mage Tower (304 cards, 20 dice, 24 glass beads, 300 card sleeves, game box, rulebook) and the print-and-play PDF files. You also get the Kickstarter-only promo ability card "Ennoblement"!
+
+
+Kickstarter 
+SUPER BONUS WIZARD LEVEL - You'll be listed in the expansion rulebook as a "SUPER BONUS WIZARD Supporter", you'll get a "SUPER BONUS WIZARD" forum badge, and the first 30 backers at this level will get "Funded by THEIRNAME" on a random expansion card. You'll also receive a random signed mock-up card originally printed by Panda Games on glossy paper, as well as TWO 11" x 17" CARD STOCK MAGE TOWER GAME MATS. ______________________________ You get a physical copy of Mage Tower (339 cards, 20 dice, 24 acrylic gems, game box, rulebook), the print-and-play PDF files messaged to you within 24 hours, and access to the beta expansion forum when it goes up (with previews, card design polls, and design contests!)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Shit, shit, utter shit.
+
+(Two-player competitive)
+
+Absolutely no player interaction - none, nada, zilch, fuck all! Only if you overkill all your monsters then excess damage carries over to your opponent. It is not a "game". It is strictly a "puzzle" - and a shitty one at that.
+
+(Apparently, there are some "take that" cards adding a little bit of interaction, actually making it a "game" - though, I did not see any such cards).
+
+Braindead, deck building game with minimal decision making apart from the initial deck drafting as you only draw two cards each time and are further limited by 7 energy so you may often only have one playable card, if any at all.
+
+The true way to win this game, is to die quickly and end this joke of a "game".
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+BGG Rank on 18/01/2017:3922
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Jaw-dropping variety here.  Each game you put together 8 cards out of 15 on offer -- and those 15 are taken from a deck of 166 unique cards!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Only played the cooperative version, which is very enjoyable due to the deck of unique cards. Downside to this game is that a lot of cards seem to be designed with the pvp game in mind, which doesn't interest me at all. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Kickstarted
