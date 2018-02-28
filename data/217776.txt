@@ -1,0 +1,581 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Import / Export
+RANK: 2762
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Own the [boardgame=218703]Capital Expansion[/boardgame], [boardgame=234680]Jutaku Expansion[/boardgame], [boardgame=218702]Tokyo Expansion[/boardgame], [boardgame=234679]Kickstarter Expansion[/boardgame], [boardgame=239107]Captain Edition cards[/boardgame] promos.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+การ์ดเกมระดับกลางเบาที่จับเอาระบบการเล่นของ Glory to Rome มารวมกับแนวคิดแบบ Economic (ถึงใน KS จะโปรยว่าเอาแนวคิด economic มาจาก Container แต่ผมคิดว่าก็ไม่ได้มีอะไรคล้ายขนาดนั้นนะ) จุดเด่นคือการ์ดไม่ซ้ำความสามารถ และแต่ล่ะใบมีวิธีการใช้งานที่หลากหลายขึ้นอยู่กับว่า 'เสียบ' ไว้ตรงไหน
+
+
+ไอเดียหลักของเกมคือเราจะมีเรือขนสินค้าอยู่สองลำ เราจะต้องลงการ์ดสัญญาการซื้อขาย จากนั้นหาตู้สินค้าสีต้องการมาลงให้เต็ม จากนั้นก็ออกเรือเพื่อรับเงินและได้รับความสามารถพิเศษของการ์ดสัญญาการซื้อขายนั้นๆ (ซึ่งอย่างที่บอกว่ามีไม่ซ้ำกัน) เกมจะจบลงเมื่อผู้เล่นทุกคนมีเงินถึงจุดที่เกมกำหนดไว้ โดยการ์ดทุกใบในเกมจะทำทุกฟังชั่นคือ เป็นทั้งสัญญาซื้อขาย / ตู้สินค้า / แอ๊คชั่น / สินค้า (เป็นเงื่อนไขในการลงการสัญญาระดับสูงขึ้น)
+
+
+ในแต่ล่ะตาผู้เล่นที่ผลัดกันเป็นคนนำจะเลือกระหว่างจั่วการ์ดในครบห้าใบ หรือจะต้องทิ้งการ์ดหนึ่งใบเพื่อทำแอ๊คชั่นที่ต้องการ (ต้องทิ้งใบที่ถูกต้องตามแอ๊คชั่นนั้น) ถ้าเลือกทำแอ๊คชั่น ผู้เล่นคนอื่นในวงก็ต้องเลือกว่าจะทิ้งไพ่หมวดเดียวกันตามเพื่อขอร่วมทำแอ๊คชั่นด้วยหรือว่าจะจั่วเติมมือก็ได้ ถ้าผู้เล่นมีการ์ดแอ๊คชั่นตรงกันเสียบอยู่ที่บอร์ดตัวเองก็จะได้ทำท่านั้นๆซ้ำเพิ่ม รวมๆก็ไม่มีอะไรซับซ้อน ส่วนที่ทำให้เกมยุ่งยากคือความเกี่ยวเนื่องและหลากหลายของที่เลือกที่สามารถทำได้ระหว่างเล่น
+
+
+การหาเงินของเราจะมาจากการที่เราทำสัญญาส่งของและหาตู้สินค้าในจำนวนที่กำหนดไว้ (ซึ่งต้องการชนิดและจำนวนไม่เหมือนกัน) สิ่งที่ทำให้เกมนี้ขับเคลื่อนไปได้ก็คือการหาตู้มาลงเรือของเรา โดยมีทั้งลงจากมือเอง หรือจะใช้วิธีปล้นจากเรือที่ออกทะเลไปแล้วเอามาดื้อๆเลยก็ได้ เรือกลางทะเลที่ตู้สินค้าหายไปหมดแล้วก็จะกลับมาหาเจ้าของ ตรงนี้สำคัญมากเพราะเรือของเรามีจำนวนน้อย ทำให้เราต้องรีบส่งออก แล้วก็รีบหาทางทำให้เรือเราว่างเร็วที่สุดเพื่อเอามาใช้ต่อ (หลายครั้งก็ปล้นเรือตัวเองเนี่ยแหละ ตรงนี้ในแง่ธีมออกจะตลกๆอยู่เหมือนกัน แต่เอาจริงๆเกมนี้ไม่ได้เน้นธีมอยู่แล้ว) ตัวการ์ดถ้าเอามาทำฟั่งชั่นทำสัญญาซื้อขายแต่ล่ะใบจะมีความสามารถไม่ซ้ำกัน มีตั้งแต่พื้นๆอย่างได้เงินเพิ่ม หรือแบบอยู่ดีๆชนะเลยก็มี (แต่ต้องเรียงท่ามาก่อนนะ) ทำให้วิธีการเล่นของเราในแต่ล่ะเกมจะเปลี่ยนไปเรื่อยๆ
+
+
+รวมๆถ้าชอบเล่น Glory to Rome อยู่แล้วเกมนี้ก็ถือเป็นอีกบรรยากาศที่เพลินดี (หาง่ายกว่าด้วยเพราะ GtR มัน OOP ไปนานล่ะ อีกเรื่องคือผมเกลียดงานอาร์ทของ GtR และ GtR Black Box โคตรๆเลยรู้สึกไม่ถูกชะตามากๆ แต่เกมสนุกนะ) แต่ถ้าไม่คุ้นก็จะเป็นเกมที่ใช้ learning curve สูงพอควร คือต้องเล่นซักสองรอบถึงจะเริ่มเข้าถึงในความสนุกของเกม คือ flow มันไม่ได้ยากอะไร แต่กว่าจะเชื่อมโยงได้ว่าแอ๊คชั่นไหนมันทำไปเพื่ออะไรก็อาจจะต้องใช้เวลาซักพัก เพราะทุกแบบมันเกิดจากการ์ดใบเดียว ที่ไม่ชอบคือตัวเกมไม่ได้ซับซ้อนอะไรมากมายแต่รูลเขียนได้บัดซบมาก วิธีเรียงลำดับการนำเสนอข้อมูลนี้ต้องพลิกกลับไปกลับมารัวๆ 
+
+-----------------------------------------
+???? [กบโอเค] -- เป็นเกมกลางๆกางเพลินๆแบบกึ่งๆจะฆ่าเวลาที่สนุกดี ท่าในการเล่นก็ไหลไปตามแต่การ์ดในมือ ลูกเล่นหนึ่งการ์ดใช้ได้หลายด้านถ้าไม่ติดว่าเห็นมาตั้งแต่ Glory to Rome แล้วก็ถือว่า 'ว้าว' มาก ข้อเสียอันร้ายกาจคือ learning curve เวลาสอนคนใหม่กว่ามันจะเก็ทจนเริ่มทำคอมโบสนุกๆมาเล่นด้วยกันต้องใช้เวลานานหน่อย แต่ถ้าเป็นแล้วก็คุ้มค่าดี ถ้าชอบ Race for the Galaxy ก็น่าจะชอบเกมนี้มั้ง (ในแง่เกมทำ engine ท่าจากการ์ดไม่ซ้ำใบ)
+-----------------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+My mate says this is very close to Glory to Rome which I have no idea because I didn't play that before. But this game is good and smooth.
+
+One card has few function and you need to cycle your hand deck at your soonest to explore more combos and possibilities.
+
+2p game took about 20-30min only. Fast and meaty.
+
+Would love to play again
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Then game took forever for what it is.  No thanks...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I actually like it more than Glory to Rome. The constraints make the game feel tight and makes the interactivity a little more tactical feeling.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I was unsure of what to expect with this game, it was an undoubtedly ambitious project (glory to rome meets Container) from a first time designer, but after a 5p game I can definitely say that it has potential, and that it does have flashes of both games. Mechanically it is very similar to glory to rome, but the flow of cards is altered somewhat. There isn't as much player-player interaction as there is in container, at least without any expansions. Excited to play again at this point though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Copy w/ Plastic Ships
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PNP version. Self printed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+I am so sad to say that I don't enjoy this - but I've played it twice now, and I want to like it. Just feels like it has so much potential that just doesn't work for me (or those I've played it with) .... It feels like it stalls out so quickly and just becomes completely unfun. The card distribution feels off. I LOVE games w/ multiple uses for the cards - and so wanted to love this one, but ---- nope.
+***Update after the third play***
+SO - first I must say, there are some very great points to this game. The cards themselves are fun. - ie the contracts that you're fulfilling - more than one bring out a lot of levity. 
+Second the designer has great communication and follow through - pointed out a rule we got wrong (two cards of same color can always be used for any action) - which does definitely improve it from a grind to a game that isn't awful. Unfortunately, in the end, it is still not something that is for my group. I want it to be more of an engine builder than it is I think. - the idea that the goods you import and contracts you fill to give you better actions and tech don't impact the play enough to make it a true engine builder in my opinion.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes 15 kickstarter promo cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+June 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Really liked after first play. This will hit the table lots with my group.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-6 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes Capital, Tokyo, and Kickstarter Expansions
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spieleschmiede excl.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This is an excellent game in the style of Carl Chudyk's multi-use card games such as Glory to Rome and Mottainai. It takes this basic foundation and adds a few very intriguing concepts such as (1) cards used to "build a building" go into a central area where they can be collected again (2) A blind bid auction for containers in the central area (3) All cards have unique powers (4) An economy of credits that helps trigger game end (4) Tech levels that dictates the things you can construct and (5) A dynamic balance between available ships to load and sending them out to sea.
+
+The results is a beautiful hybrid of the multi-use card play of Glory to Rome with the player driven economy of Container. I also find this game to feel a bit more balanced when compare to Glory to Rome as our final scores typically end up closer together. I LOVE the addition of the credits and I think the blind bidding adds a wonderful element of tension since players are bidding VPs.
+
+This game is highly recommended if you are a fan of multiuse card games. After several plays I think this is my favorite of the bunch.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Even though I am not much of a board game player, I enjoyed my first playthrough of this game. I look forward to getting my hands on the expansions and getting deeper into the mechanics. A clever game for a newbies and veterans alike!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+#Kickstarter 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+So thematic; I really felt the rush of the hi-stakes business of international trade . . . not.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Really fun, streamlined version of Glory to Rome. I like the theme and graphic design of this far more than any version of GtR, and this was much easier to understand and teach. There is still a little crazy swinginess in the random card draws and special powers, but overall this seemed more balanced. 
+
+We have found the game can stall for a bit if all players have unloaded their ships and there is nothing left to take on Supply Island: we've had five or six turns go by that end up feeling like "Go fish." I'm hoping that's not too common of an occurrence, but it does prevent me from rating this higher.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Scott owns
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting mash-up between between the multi-use cards of Glory to Rome and the Container theme. Players slowly build their engines by loading containers on their ships to fulfill contracts, and importing goods to gain extra abilities and end-game points. The theme is not very exciting but, as a fan of multi-use cards, the gameplay was really good. I love the special powers that you acquire by completing contracts that really make replayable. My biggest complaint was the fact that only specific contracts can be completed at the beginning of the game and that introduces a bit too much luck for my taste in the first few card draws. Definitely recommended for fans of card-driven Euro games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS - PnP Edition.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+M5 R1712
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter - June 2017 - delivered September 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Ordered via Dark Flight website Oct 26. Shipping Nov 3 via USPS (Essen delay). Arrived Nov 8. Looking forward to this!
+
+New. Comments and rating later. Our second game, two-player score was 102-99, with one wrong rule ... regardless of the number of Supply actions a player takes, only one (1) card can be sold on that turn by a player.
+
+[b]I own the following expansion(s) for the game:[/b]
+
+5 x Kickstarter expansion cards
+5 x Kickstarter stretch goal cards
+5 x Bonus cards (the $40K/60K/70K KS cards)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Kickstarter!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+[11 Feb 2018] - 6.5 (2 plays)
+Not sure how I feel about the game. It one hand, it's an interesting concept of running a shipping business of loading exports and importing things. Players need to be aware of what's loaded on their ships, what's being imported and time all of that to prevent stalling out the export side. The multi-use cards are a bit to grok at first and players who have played another game of similar nature will pick it up quicker than new players. On the flip side, each contact is unique making it hard to really pick a good set of abilities to chase without knowing the whole deck. The rule book is well laid out but left a lot of questions. Those are answered in various BGG posts but they come up frequently enough that some revised text on the cards and rule book would help.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+SO-SS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Don`t like Glory for Rome but this is a keeper much more theme
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great little big game. One of the few Kickstarters that did not emphasis style over substance.
+Not for every group as the sheer number of possibilities can be overwhelming.
+
+Might be a 9 or even 10 with more plays. But after a few games it seems that some of the cards are simply better then others.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sleeved in Player's Choice clear + SWN-504
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes model ships and exclusive cards (Exotic Fish, Exclusive Cards, Dark Flight Games)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Reminded me of Race for the Galaxy, but much more approachable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Glory to Rome revised
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Pretty easy to learn having played GTR (and Container)
+(Also taught a few times and we were playing within 15m.
+Made a ref card for each action that paralleled the rulebk for new players)
+Rating up after multiple plays and looking fwd to next play!
+Well done all around.
+A container-like ship with loadable containers would be a great expansion.
+KS 2.15.17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ESSEN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Print and Play version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2017 1/3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Would rather play Innovation or Container. Not as random as Glory to Rome but needs more development.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A dry take on Glory to Rome. Doesn't click as well thematically in comparison. The graphic design is nice and sparse, but that only adds to how dry the game is for me. Also, it's hard to read the greyed-out iconography on the cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+?KS 2020. Remind me of Glory to Rome
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+one play. think it will get better with more plays
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Glory to Rome is looming large over this game...but even for all that, this feels very different, with an entirely different flow. The rules were very hard to get through, and there are several ambiguities (or places where the rules were not explained well), but I'm pretty impressed with this in a way that I haven't been by Carl Chudyk's follow-ups. If one can't have Glory to Rome, this is a pretty darn good alternative.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Plays: 8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Captain Edition Essen 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+via Spieleschmiede
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Project http://kck.st/2jGyzNm
+- Backed: 01/20/2017
+- Funded: 02/20/2017
+- Pledge Level: Pledge $50 or more: "24h Only - Import / Export + Both Ex
+24 hours only! One copy of Import / Export, the Kickstarter exclusive expansion, the Tokyo Expansion, the Capital expansion, and all unlocked stretch goals ($65 value)
+
+INCLUDES:
+Import / Export Base Game
+Kickstarter Exclusive Expansion
+Tokyo Expansion
+Capital Expansion
+All Unlocked Stretch Goals"
+- Payment: $60 + $25 upgrade to models
+- Survey: 
+- Projected Delivery: 06/2017
+- Shipped: 
+
+
+Status: DELIVERED
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This game is so similar to Glory to Rome that I feel like I'm essentially playing the same game. The theme makes more sense than GtR. Unfortunately the game is very restricted and dependent on other player's actions. Your ship might be stuck in the open sea after delivery for a long time unless you force the import on your ship. The import bidding mechanic also doesn't work well in a tableau building game like this since you could potentially be losing all bids. And the worst is the 2 and 10 credits that means if you're tied for end game you're screwed even more. Rather play Glory to Rome or Mottainai over this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Yes, it may very well be glory to Rome each container but it is so much more.
+
+This started out as a 9 and I don't see it falling. Time will tell if it has potential to be a 10 for me
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Cool card game. The general utility/swinginess of the cards is really interesting. Some are sort of generic but useful while others have wild effects that only trigger if you correctly guess the next card flip or a coin flip lands in your favor, etc. Overall, I think the core game is solid, and the import auctions with end game scoring for imported goods adds a good bit to the game.
+
+Regarding the rules, I like a lot what is there, but some of the card descriptions could be a bit more thorough. With 100 unique cards, I suppose one should expect some lingering questions. It just seems strange that each card has a description in the rules that is no more helpful than the card text itself in many instances. 
+
+Overall, this is a good game that I want to play more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+been compared to Glory to Rome or other Chudyks
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+This was very ok.  I may try playing with a different group.  Seriously 2 of the people in this game turns easily two or three times longer than they probably needed to.  Also the game seems to stall out if you ship to quickly if you are unable to get 2 cards or an Import card to get a ship back.  Another gripe on the import is if someone has multiple Imports to do on one turn it can stall out the game.  
+
+Had a few people come up and ask if I was ready to start another game yet or how this was, I told them on more than one occasion we had maybe 10 minutes left and it was kinda fun, then it was ok, then I wished the game would die in a fire.  Took us 90 minutes, I felt it should be 45 minutes and maybe it is normally if it isn't avoid this now.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+For those who have expressed concern and feedback about getting a quick start to the game, having more options to contract cards, and/or retrieving your ships at sea easier, I have released an Official Beginners Variant rule document that covers 3 optional rulings that can be implemented to address these issues.
+
+You can download the PDF variation rules here: http://www.darkflightgames.com/s/Official-Beginners-Variant-Rules.pdf
+
+The original rules released with the game still stand as the official standard ruleset, and in my personal opinion they are the most strategic and balanced ruling, however, I highly encourage everyone to look at these official variations and try them out if they take issue with any of the issues mentioned above.
+ 
+Thanks!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I appreciate the moving parts it adds to the Glory to Rome engine.  Fun.  Want to play more.
+
+This would probably be a bear to learn if you didn't already know Glory to Rome.  
+
+A few nitpicks:
+The font should be bolder and easier to read.
+The equivalent of clients in Glory to Rome, which give you extra actions, should be called "assistants" or some other sort of person, rather than "imports" which makes no sense for how they are used.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+investigate
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This is exactly what I was hoping it would be. It sings at two-players. I love the alteration of action and drawing making sure you maximize each of your turns and your opponent's turns. the cycle of getting cards out of your hand, onto your ships, out into the middle and then back into your play area is exquisite. There is a synergy to this game that clicks for me. I could play it 5 times back-to-back without question.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spiel '17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+4P(2-6)
+45-90M
+3.29/5
+WAF : 0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+FIRST IMPRESSION:
+
+There is a fair bit of Glory to Rome in play here although Import/Export is definitely its own game. Took a while to grok how the actions work and interact. Just like GtR, the cards can be overpowered and whomever manages this best will likely win. One of the actions involves a blind bid which actually feels like it works pretty well here. I wasn't sure that I was having fun for a while but I did find it interesting - reminds me of my first play of GtR which was more work than fun trying to figure out how everything works. I'd do a lot of things differently next time. :-)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+We found this in the Hot Games section at BGGcon. It was a random grab, and I really enjoyed it with both 2 and 5 players (though only finished a full game with 2 due to needing to go to the puzzle hunt). It's a really fantastic use of multi-use cards and hand management.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Charlotte
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+PnP version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+10/2017 Impressed after first incomplete game.  There are several similar card games, though this feels very well implemented.  Mechanics are well tuned and purified with no additional fluff or bloating, and the theme fits well.  A good game - looking forward to further play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2860->change
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(I also have the Kickstarter expansion.)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Playing the game isn't hard, but it can be difficult to explain some of the concepts. Definitely needs several plays to really get a handle on the nuances.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I have the print and play version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+NEW
+Still Sealed
+Make/100 Kickstarter Edition w/ 14 Limited Edition model ships + (Make/100) Alternate Artwork & First Player Yellow Buoy + 5 Kickstarter Expansion Cards + 3 Special Goods Cards with Alternate Win Conditions + 10 Card Expansion originally released with the Jutaku Kickstarter
+
+Also: Capital Expansion + Tokyo Expansion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+NEW
+Still Sealed
+For Trade or Sale
+
+Make/100 Kickstarter Edition w/ 14 Limited Edition model ships + (Make/100) Alternate Artwork & First Player Yellow Buoy + 5 Kickstarter Expansion Cards + 3 Special Goods Cards with Alternate Win Conditions + 10 Card Expansion originally released with the Jutaku Kickstarter
+
+Also: Capital Expansion + Tokyo Expansion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Captain Edition w/all expansions + miniature cargo ships.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Not what I thought it would be.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+P&P
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I've played this game over and over – no beginner's rules or anything. 
+
+Going through the game, you have to balance actions, contracts and imports/goods. Actions and goods allow you to use your cards, contracts allow you to bend the rules and imports ensure you have an advantage – even when you're not in charge.
+Overall, you have to accumulate points in the form of active credits (the cubes) and passive credits (your goods and bonuses).
+
+I haven't actually played a game that lasted less than an hour. However, while the rulebook doesn't make it easy to grasp, the rules are rather simple. Once you get the hang of it, there's an endless amount of strategy in this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Although Import Export is clearly an homage to its structural predecessor (Glory to Rome), it takes the basic template of that classic into some interesting new directions. Of most interest is the circular economy. Using credits (money) as points, and linking the use of credits to the import action is an ingenious new mechanism, providing a wonderful level of tension and interactivity. Completing shipping contracts and then making the goods available to other players means that every move you make will impact your opponents. Similar to the GIPF series of abstract games, very often with Import Export you have to decide how much your advantage benefits your opponents. Goods move back and forth with great rapidity and your challenge is knowing how and when to seize the advantage. I also appreciate how every suit (commodity) has two wild cards that allow more flexibility in fulfilling contracts. 
+
+The card names (pants, candy, cannabis) don't really correspond to the actions, but they add a light touch to a heavy game. Import export is heavily abstracted but I think it's an appropriate way to describe the ever-changing flow and circular economy of goods. The package is beautifully designed—from the pastel colors to the readable and elegant fonts. The minimal graphics are appealing and attractive. Also, Import Export sets up very quickly.
+
+After six plays, I find this is superior to Glory to Rome as a two player game. The back and forth dynamic, the closed fist auction, the ability to closely track what your opponent is doing, and the rapid flow of play are enticing. If you are familiar with GTR or Mottainai, this will be very easy for you to learn.
+
+You could take some points off for originality, but I'd rather conceive Jordan Draper's use of the GTR template as "the highest form of flattery." Indeed, he demonstrates that the system is resilient, flexible, and capable of new and intriguing designs. When all is said and done this is a great card game. There are five suits (commodities), five action types, and several ways to score points. 
+
+If you are a GTR fan I highly recommend Import Export. If you haven't been able to acquire GTR, this will give you a similar (and even improved, especially for two players) conceptual gaming experience. I have not yet tried the expansions but they seem to add compelling features. There is enough in the main set to keep you very busy but clearly this is a game system that improves with familiarity and provides the players with room for skill development and variety. I'm very pleased that I took the plunge and gave this a try. I'm sure it will be in the rotation for a very long time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+captains edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed on KS. Game arrived 2017-09-26.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Described as Glory to Rome meets Container
+
+Kickstarter 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Import/Export isn’t a bad game, once you know how to play it, but getting there is a difficult process. Other than applying Contracts to a ship, and the Loading and launching of the vessel, most of the gameplay is very abstract.
+
+Now that I understand how to play I/E, I’d play it again, but learning it was such a chore that I would never want to have to teach it, so owning it is out of the question.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Essen2017 - lot's of depth (once you've worked it out)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Glory to Rome wannabee, not nearly as good but probably plays better with 4 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Copies: 1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+For me, this is a Glory-to-Rome killer, because it eliminates the attack cards. There is blind bidding (but not all-pay). The game doesn't look as smooth (or attractive) as Mottainai, but again Motainai has more attack cards than I would prefer. 
+
+Small box (yay) but an odd shape (boo). Pricey ($30) for 100 cards plus some cubes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I'm undecided on how I feel about this game. It's like it took almost everything from Glory to Rome and splashed container into it. The problem is, it tweaked both games and didn't realize it needed to keep certain aspects to keep the game moving. The bidding should have gone to the winner (unless you triggered the auction) to keep more and more cash in the game, the individual bonus actions should have been free card draws if not used. I really wasn't a fan of how if both your ships were out at sea, there wasn't an easy way to get them back. It often left a lot of your cards in hand feeling dead. Contract being the most useless action. I really think it needed a secondary thing to it as an "or" option.
+
+It hits so close to being good, but I'm worried it'll continue to stall in the middle of each play. I fear this one might continue to lower in rating unless the rules are redone.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Pre-Order from Dark Flight Games.  Pre-paid
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I have the deluxe version which includes all the (separately listed) mini-expansions and plastic ships.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Reminds me of a Carl Chudyk game. Multi-use cards and unique powers. Looking to fulfill shipments and score points. Some close fist auctions and pirating to get the goods you might want. Very enjoyable game and one that I would like to play again sometime. I do think 5 players is too many so possibly 4 players is the best count. I like that you can follow the actions other people are taking. It is a cool mechanic.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS + Captain edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+X
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Alleged Glory to Rome killer
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PnP KS Backed
+Read the rulebook once and can't understand a damm thing.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Try before buy
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Interesting multi-use cardplay, but ultimately pretty boring. The abilities on the completed contracts require a lot of reading but not all that interesting and you're only likely to get 3 or 4 completed before someone gets to $50, so you can't really get much of an engine going.  I don't see why I would ever choose this over better follow-action games like Puerto Rico and Race/Roll for the Galaxy.  The theme is really bland - there's all these unique names to try to add flavor, but they don't mean anything.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+한글화
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Tried it in Essen 2017 and completely caught my eye. Amazing design and great gameplay!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lost the game, but liked the thinking involved. it's really thinky. 
+
+It's not exactly the prettiest game I have though, but the graphics are clear. Also, the credit chits comes in somewhat un-intuitive numbers; the white are worth 2, the reds worth 10. Makes it really easy to mis-trade the credits when cashing in 10 whites for a red or vice versa. 
+
+One of the more surprising bits of the game is the box and insert; it works surprisingly well considering the amount of stuff in it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2player,main
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter backed February 2017. $45 Received 9/9/2017.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+Import/Export is a love letter to Glory to Rome – except that the letter explicitly states that something should be done about GtR’s tendencies to snowball out of control. Which is an understandable concern really, but the constraints introduced in I/E slow the game down a bit too much. For instance, it takes twice as much effort to load shipments, and tougher restrictions on accumulating imports means that there’s a lot less copying of actions. Even subtle differences, like the lack of Jacks also makes players more reliant on luck of the draw.
+
+On the bright side, this isn’t a simple Glory to Rome knockoff as there are a few interesting concepts in here – like having tiers on cards, for instance. A few mechanisms from Container are splashed in for decent effect, like attempting to get ships to return to harbour. But the nice parts are overshadowed by the various constraints, and the game feels like you’re doing too little for too long.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great game if you like multi use cards, Great Glory To Rome replacement and some
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Radar.
+
+Glory to Rome meets Container?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Jumped in on the KS. This looks great and definitely love the comparison to Glory to Rome. Haven't played Container but will look into that next. The designer has KS experience and history so this should be a smooth process.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Kickstarter
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Container meets Glory to Rome!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Captain Edition - Full Extensions bundle during Essen '17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A really intriguing game, for all that my first play was highlighted by my complete failure to grasp a good strategy. Or a basic one. Nonetheless, it was very clever and involved tons of interesting decisions. Definitely want to play this again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Notes to self: read rules to decide whether to back KS.
+
+Page says it's like Glory to Rome meets Container, but it's very, very light on the Container side of that. There are superficial similarities (load ships, stuff goes to central island, bid on other players' cargo) but there isn't really an economy, it's just Container-themed options for collecting multi-purpose cards. It's Glory to Rome with light Container theming.
+
+Lots of Chudyk-style unique cards, many with "broken" powers, some with sort of take-that options, so clearly lots of different potential strategies. But I'm skeptical that this one is as well-balanced as a GtR, Innovation etc. Graphic design going for "minimalist" but comes off "cheap", which is unfortunate because the game itself is extremely expensive, esp. with international shipping. Expansions are particularly overpriced (e.g. $10 for 15 cards with no artwork). Would like to try, but won't pay that much for the opportunity.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Need to play it more! If I didn't have Glory to Rome this would certainly fulfill that need. The really great thing about this game that it does do well over GtR is the artwork. The cards have much more design on them, the box looks like a shipping container, the player boards are all unique. It looks so good on the shelf even it if is a weird size.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+"Glory to Rome meets Container" really means mostly Glory to Rome with a splash of Container tossed in.
+
+I'm concerned about starting and then overall balance, will require more plays to determine.
+
+Plays smooth and is generally fun, so I liked it (but not overwhelmingly so). Looking forward to what the expansions add.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I didn't like this game after my first couple plays; after approx. 30 games I think it is quite good.  Despite all of the mechanical elements it shares with Glory to Rome, Import/Export is a much different game.  If you're expecting a functional reprint of GtR then you may be disappointed.  The card powers/bonuses are generally less splashy than those in GtR, and the fact that there's only one of a given card in the game makes digging for a specific card combo a risky proposition, at best.  
+
+That being said, the game is intricately balanced and very "thinky."  The winner will be the player who best makes use of the roles, timing them to gain small advantages wherever possible.  New players of Import/Export, even if familiar with GtR, will likely struggle in their first few games with experienced players.  
+
+Bottom line: this is a game that started off feeling a little underwhelming but got MUCH better with repeated plays, as its subtleties became evident.  Not one I would recommend for casual filler/light gaming. 
+
+My brain hurts so good after every game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Very similar to MottanaI but somehow even worse. Massive downtime. Lots of forced inaction. Not much going on..sometimes you wait for a card like rummy. Quite bad actually.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fell in love with this game. It's quite difficult, IMO more difficult than GtR. You need to play it a lot in order to discover its strengths and charm. Even though it borrows a lot from GtR, it's an independent game. The only thing I don't like is the default end game condition at 50 bucks. Building most engines takes time, and you can always try to screw the others up by only selling the cards after you finished 2 10-bucks' contracts. We usually set the trigger much higher. I/E would make a great digital game. There are so many possible achievements to unlock. I wanna win by improbability!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Glory to Rome descendent that nerfs a lot of the gamebreaking tendencies by putting frustrating constraints on players. It's especially tough when only one of each card exists in the deck, making mining for a useful strategic path far more difficult.
+
+It's very tough to get things moving and flowing, and you can get caught in bad positions very easily. If you're lucky enough to get one of the cards that lets you load any color onto it's type, then you have a major leg up in getting your shipping flowing, which feels unfair given how few of them there are. 
+
+While this game has GtR all over it, it was pitched as "Glory to Rome meets Container." In truth, this game has  as much in common with Container as Ticket to Ride has with 18xx.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Recently played the P&P version of the game. Even though the marketing headline for the game is "Glory to Rome meets Container", it feels like a different game than Glory to Rome. I have not played Container yet as it's hard to find a decent (priced) copy of that game. It uses the same basic mechanic of splaying cards on player board (i.e. Harbor) from Glory to Rome. The theme and mechanic integrate well with the game. It truly feels like you are contracting your ship and ship the containers out to earn credits (i.e. victory points in the game). Each of the cards in the deck is unique so there is no duplicate ability and strategy. There is also no discard pile in the game where people can draw from. 
+
+I really like it and will definitely support the Kickstarter campaign. To add to this, the creator, Jordan Draper is an awesome communicator. He responds to message promptly and takes in inputs/suggestions from the backers. I know it's hard to satisfy the mass, but in my opinion, he handles it well. Kudos to him! :)
+
+As for a few downside from the game, it plays quite long. We played it with 3 players and it takes 3 - 3.5 hours to finish. This might be because it's our first time playing. Also, there is some confusion on the terms used in the original copy of the P&P, e.g. use of the term Import for both action and harbor location. I believe he is reevaluating and updating some of the terms. 
+
+I definitely look forward to the final copy of the game and in the meanwhile will play more of it to explore some of the possibility of the game. I hope this information is useful as there isn't much review, as of now yet.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+German version via Spieleschmiede.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Pushes the Chudyk multi-use-card-power thing into exciting new directions, especially with the expansions thrown in.  Yes, this really is "Glory to Rome meets Container; however, those looking for exact mechanics lifted from Container are missing the point: it's the player-driven economy (which was the overarching sum of Container's parts) that Import / Export takes inspiration from.  And it does so really, really well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Promo: Buoy First Player Marker.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+I have played this game. I enjoy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter 100
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+en mecatol
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+R
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Small box, big game.  Dry but crunchy with flavor.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3PL container shipping card game driven with multi-use cards, silent auctions, and follow actions--including present day piracy.  A lot going on in this, with bluffing and some mathing.  Interesting interactive play including unloading other player's ships.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3.75
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solid thinky filler game.  Not the biggest fan of the "how badly do you want to import?" blind bidding aspect (feels like a guaranteed way to lose) but otherwise, an enjoyable way to spend an hour.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 1
+This game is awful. I'm careful to not hate on games while playing them but all 4 of us hated it and we just wanted it to end.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+It feels like a tuned down Glory to Rome with a bunch of additional restrictions on top. It may be better with the expansions, and especially the multi-colored cards. It feels slow, and with a lot of downtime. That said, I'll stay with the Carl Chudyk original instead.

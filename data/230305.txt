@@ -1,0 +1,301 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Unlock! The Tonipal's Treasure
+RANK: 2513
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+ERRATA MUY IMPORTANTE (sin spoilers) EN LA CARTA 90:
+Donde pone la información de "moler",
+-> pone: "una vez / Kg"
+-> debería poner: "una vez / 3Kg"
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+While I like the theme of this one and some of the puzzles, this continues to rely too heavily upon Unlock!'s obsession with their hidden number system and some puzzles that feel like too much of a stretch. I feel like I'm done with the Unlock! series after playing this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Good difficulty (we needed extra time since we got really stuck on one puzzle).  In retrospect we should have used a few hints to get past it.  Overall, I enjoy the thematic integration of the Unlock puzzles more than other board versions of escape games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Pretty good, didn't love this one, but it wasn't bad. By far the best out of batch 2.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+My first introduction to the Unlock! series after coming from all the EXIT games. I really enjoyed the theme and the system of combining numbers and such works pretty well. Some of the puzzles here were obscure but overall was really fun. The last puzzle was easily the best. The score is mostly held back from more than one puzzle having opaque solutions. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Brett
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Some of the puzzles were difficult only because of the fonts used, and the hints in the app didn't give much guidance.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1/3 games that will be given at 2017 Christmas to myself, Mike, and the family. We will probably play them all right away, ha!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.78
+:!block: [b]IMPORTANT NOTE:[/b] This rating is completely spoiler free.
+Also, since this game is a "one and done" game, this review is more subjective of the overall experience comparatively to other games in the series and in this genre.
+
+****************************************************************************************************
+[b]
+Game Played: 2018/01/27
+Player Count: 2 players
+Time Used: 91:15
+Bad Combinaison Penalties: 2x for 6 min.
+Bad Machine Penalties: 2x for 2 min.
+Bad Code Penalties: 0x for 0 min.
+Hints Used: 1 hints
+Final Score:  :star::star::star::nostar::nostar: :)
+[/b]
+****************************************************************************************************
+[b]
+:STAR: COMPLETE RATING:
+[/b]
+[c]
+[b]SCORE  CRITERIA       WEIGHTING       ------- STAR RATING SCALE -------[/b]
+
+(9.0) FUN             (x15):         BORING :star::star::star::star::star::star::star::star::star::nostar: REALLY FUN
+(9.5) THEME            (x3):   UNATTRACTIVE :star::star::star::star::star::star::star::star::star::halfstar: ATTRACTIVE
+(8.0) MECHANICS        (x5):         FIDDLY :star::star::star::star::star::star::star::star::nostar::nostar: SMOOTH
+(8.0) AESTHETICS       (x2):           UGLY :star::star::star::star::star::star::star::star::nostar::nostar: GORGEOUS
+
+[/c]
+[b]TOTAL = 219.5/25 = 8.78[/b]
+
+
+:thumbsup: [b]POSITIVE POINTS FOR THE 2017 UNLOCK MYSTERY ADVENTURES SERIES:[/b]
+
+++ As Unlock Escape Adventures: A more visual version of Escape Room games where you really need to check the cards for hidden informations (feel different than the EXIT series).
+++ As Unlock Escape Adventures: Good sense of exploration that remembered me some memories of old "point and click" adventure PC games.
+++ As Unlock Escape Adventures: Non-destructible, so the game can be passed along when done (so it's a better value in the end).
+++ As Unlock Escape Adventures: It uses an App for the timer, the hint system, some code validation, and now it is used for the Machine card, which is a nice additon. It can add so much possibilities to the game system (but right now, not much of these possibilities are used unfortunately).
+++ As Unlock Escape Adventures: The App also feature some music that add to the theme and feel when playing the game, which is also nice.
+++ As Unlock Escape Adventures: Relatively easy to pick up and learn (but still easy to forget how some card types work, which can lead to some time lost).
+++ As Unlock Escape Adventures: Good artwork.
+++ The flow of these new games is better. Players solve puzzles at a more even rates, which keep them more motivated to continue forward.
+++ Now, we we play a recording, the music stop so it's easier to hear the recording correctly.
+
+
+:thumbsdown: [b]NEGATIVE POINTS FOR THE 2017 UNLOCK MYSTERY ADVENTURES SERIES:[/b]
+
+-- As Unlock Escape Adventures: It's hard for everyone to see correctly the cards when spread out on the table so I suggest that you pass along the cards for everyone to meticulously check them, especially for the hidden numbers. Also, be in a well lit room (skip trying to put ambiance by dimming the lights!).
+-- As Unlock Escape Adventures: Hidden numbers are frustrating: I know it tries emulate the players searching for clues in the room, but in a real escape room, every player has a good chance at seeing the room correctly and here, in practice, we are looking at 3.5" high by 2.5" wide cards (see the point above about  the difficulty to easily see the cards).
+-- As Unlock Escape Adventures: The hint system is not great. When you are stuck, you may have to ask for several hints to know in which direction you should go. Also, some hints are worthless to you, as you already know this information when asking for hints and these hints still count against your final score (in a real Escape Room, the game master will check where you are at before giving you a hint, so they are usually all good). The hint system should probably be done something like this instead: 1) Player ask for help, 2) the App ask some numbers of the last few puzzles that were solved and check the last code entered successfully, 3)then the App give a hint about a numbered card but that is useful at this time for the players (the same way that real game master ask check the progress of the players before giving a hint). This way, the hint would always be useful to, at least redirect the players on the right path (to know where they should focus) and players would not waste time on hints about a card that should not be worked on at the moment.
+-- As Unlock Escape Adventures: Using a bad code or a bad combinaison should not give you a 3 minutes penalty (it's kind of harsh, especially if you just make a mistake when entering the numbers). You already lost time trying stuff instead of thinking about the puzzle. In a real Escape Room, if you decide to use this "technique" of trying out stuff instead of thinking, you just lose the time you took trying out stuff, not more.
+-- As Unlock Escape Adventures: It's a one-and-done game. But hey, every escape room game are (board games or the real deal).
+-- Although the App is now use for Machine, the possibilities of the App are still underused in this game series IMO.
+
+
+**************************************************
+
+
+:thumbsup: [b]POSITIVE POINTS FOR THIS SPECIFIC GAME:[/b]
+
+++ Some interesting puzzles (5 or 6), and right on the difficulty level we like so this one was a fun challenge .
+++ Really good theme in this one, which was better implemented in the gameplay.
+++ The progression was great in this game, and the good flow kept us motivated all the was through the end.
+++ There is one puzzle that is branched into two possible choices and we like this "Choose your own adventure" feel to this one puzzle. This is something that should be done more often in this series.
+++ The final puzzle was great although I thought of this possibility as soon as I opened the box and saw the cards.
+++ A nice use of the App possibilities with this one (Hearing recordings).
+++ It's the best of the 2017 Unlock Mystery Adventures series.
+
+:thumbsup: [b]NEGATIVE POINTS FOR THIS SPECIFIC GAME:[/b]
+
+-- One "puzzle" was just plainly useless and thus this is not fun, although I get that the designer just wanted to recreated loosing time on useless stuff in a real escape room.
+
+
+:arrowE: [b]OTHER GAME INFO:[/b]
+[b]
+Game Weight = Approx. 2.0/5
+Release Date = 2017
+Number of Player = 1-6
+2-player length = Approx. 45-75 min.
+Player Count Preference = Best at 2, great at 3, not really recommended over 4! :thumbsup::thumbsup:
+[/b]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Full review: https://www.miniaturemarket.com/reviewcorner/unlock-the-second-wave-review
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+FallCon Gaming Library Copy - donated by Darren Bezzant
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Poor translation (and apparently no playtesting for the english edition) led to a faulty puzzle where the information on a card did not line up with the app. The final puzzle of the game was a huge mess that slowed the game to a halt and extended the game by an extra 20 unnecessary minutes. There were some very clever ideas in this one, but unfortunately it was thoroughly flawed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Traded for this game, haven't received yet.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+La más floja de las aventuras. No por difícil, sino porque en realidad es la menos temática, artificial y forzada de todas. Erratas penosas en la edición española que te impiden completar sin pistas. Mal rematada en general.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I’m a sucker for pirate theme’s, and the puzzles were well integrated. I especially enjoyed the final puzzle. Would like to see more of that in the future.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1 - 6 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+After The Nautilus' Traps, I was ready to give up on this series. But The Tonipal's Treasure is the best one so far. It has better storytelling elements, the puzzles are tough but fair, and the final puzzle is one of the best I've seen in a tabletop escape room. Fun and satisfying.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.8
+Wow, this one was hard.  I liked everything in it A LOT, except one mechanism: the meta use of one card that befuddled us completely.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+From Secret Santa 2017.  Thanks, Santa!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Overall, pretty good. Nice art and good music. But, yet again, it suffers from a few puzzles that do not make %100 sense, and thus, is a total buzzkill.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Best Unlock! scenario to date. Good variation of puzzles and difficulties of puzzle. Nothing that really brakes the theme too much. There were a few puzzles that didn't feel logical, but they were among the easier ones.
+I don't understand why it has a difficulty rating of 3/3 though. We didn't think it was among the harder ones.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Alrick's - prev owned
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2017-11-28
+
+Initial Rating: 7.5 (November 2017)
+
+I love the Unlock! series of games. In general, I have a play system that tells me which games to play and I’m very strict with it, but when the Unlock! games arrive, I always want to play them first and forget all other games :D.
+
+We decided to play Unlock! The Tonipal's Treasure because we were 3 players and on the app, it says it is the hardest of the bunch. I was expecting puzzles as hard as Unlock! The Island of Doctor Goorse, but they were a lot easier. Still, I had lots of fun.
+
+In general, I prefer to play the game with only my SO, but if the game is hard, I could add a couple of friends. If the game is too easy, I’m disappointed as four or more people can breeze through it. I always finish these adventures without using any hint, even if it takes us hours. That’s part of the fun for me.
+
+[o]
+Pirate themes are not among my favorites, but, I really like it here. The adventure was very fun. We had some issues with the language as English is not my first language and it isn’t very clear from the app (it was slurred as a Pirate should talk I guess), but we managed to finish it without using any hint. The puzzles weren’t very hard and I really liked how they used the back of the cards to form a map.
+
+The music was very cool.
+[/o]
+
+Bottom line, Unlock! The Tonipal's Treasure is one of the best (if not the best) Unlock adventure I have played (I still have to play the other two adventures in the second release of the game). Its rating would be higher if it had some replayability. I already sold my copy of the game. I cannot wait to play more Unlock games, thanks to them, I visited a real escape room, and, to my surprise, I had a similar feeling that when I play these games. Good stuff.
+
+Current Rating: 8.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Played this on new years eve with some friends. And I have to say. This was for me the best scenario ever played in an" Unlock" game. We used 87 minutes, 10 hints and only 3 errors in the machines. Not even ONE penalty!! In my opinion the difficulty rating is not correct. 2 locks would be better while "The Nautilus Trap" would have been a 3 lock difficulty because  of the puzzles are "deeper" hahahaha :-) But even the fact that we didn't lost that much time we used too much. So I'm wondering it will be possible to do it in 60 minutes....
+The box "Mysterie Adventures" is much better than the "Escape Adventures".  Both "The Nautilus Trap" as "The Tonipal's Treasure" are boosting this Unlock serie to the top. Thanks Fabrice, Billy and Sebastien for giving me this great time.
+It was the last game we played in 2017. And what a great firework!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+2 3 4 5 6
+escape room
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This was my favorite of the series so far (of what's released). Nearly perfect gameplay and story. Loved it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fun, challenging, and thematic.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+AWESOMER. Fun puzzles with well-integrated theme. This totally beats the first three titles of Exit: The Game for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Have not played yet. Will review once played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Still Sealed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Best of Unlock! so far. Personally I like this better than Doctor Goorse, as it’s more exploratory and with a non-linear feel. I’m not convinced the machine cards are necessary though, and the last puzzle is not as spectacular as it could have been (seriously, looking for hidden numbers as the final boss battle?)....
+I see the same structure between the 2 series of Unlock!, and I look forward to the 3rd instalment of the next series!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Completed, Boxtopped and gave to the Spoelhof’s 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very thematic and the puzzles made sense. Looking forward to the same kind of puzzles for the next Unlock! games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+From 4 Unlock! games and 1 Exit games that I’ve played, this is the best of the lot so far. The puzzles are clever and integrated into the theme and story quite well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Definitely worth the price.  I have mixed feelings about it being app-driven.  Definitely should have tried one of the easier ones of this series before diving right into this - got stuck for longer than I would have liked.  
+I do like that the game is reusable, but it wouldn't have replay value for years.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+not for game night
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A little overly convoluted on some cards, but still an enjoyable escape room game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+See Unlock!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Best Unlock game yet, but... How can you release a game that crashes the app through a normal playthrough. This needs to be fixed ASAP!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bob bought it
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This is by far my favourite unlock scenario. It might be long and difficult but it was interesting through whole gameplay.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Definitely better than the Nautilus' Traps. I would say, easier than that one, too. Probably the same level of difficulty as the House on the Hill. 
+
+Overall, we enjoyed it, but still to my taste it's not polished enough, since, for instance, we were able to solve the final puzzle without the clue and then were sitting around thinking there was more to it. A couple of illogical puzzles here and there, but nothing that would frustrate you like in the Nautilus. 
+
+The app was glitching like crazy, too. Machines getting stuck, clues interfering with some storylines etc... (that's with the latest update for iOS).
+
+Still, it's pretty good overall and has some fun new ideas. I would recommend it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Just as in 'Unlock! The Island of Doctor Goorse' there was one puzzle that really blocked us for 20 minutes and the hints didn't help us at all. 
+Thematically this is however a strong puzzle.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Fabelhaftes Ende- alles davor ist pure Quälerei. Ultra langweilig und vorhersehbar.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+This was my first experience with the Unlock series of games, and it was a bad one. I thought the puzzles were way too difficult, especially the one involving rum. At different points, we were lost, even with the hints and the solutions don't do a good job as to explaining why. I have a hard time believing anyone can solve everything plus the final puzzle in 60 minutes. Also, the sound clips were terrible and hard to hear. Overall, not impressed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Punishing, very difficult challenge that is only really for those who are experts.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Need to try
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is a great addition to the Unlock series. If you enjoy Mystery Room-Type activities, this is perfect. 
+
+I've played a couple other table mystery room games, and I enjoy the mystery room interactions themselves as well. From my experience, this series is much better than the other table games of its kind. There's still no replay value, but I consider these games worth the price. Not to mention, easy clean up, and no mess, which you'll experience in some of the board game versions of this genre.
+
+In particular, this addition, The Tonipal's Treasure, was a bit more difficult than the other few I've played before it. That was expected, considering it's rated the full 3 difficulty. I played with my brother and a friend of ours, which has been part of the typical group that I play these with. This one took us a whopping (embarrassingly) 2 hrs & 5 mins to complete. Not what we expected. Most of our mistakes were stupid ones, like putting a card back that we thought we were done with, then realized later that it was required for use. However, much like the others I've played, everything is linear and part of the game for a reason. It's rare that Unlock places something on the card for no reason and expects you to magically figure it out on your own with no context. This one required some interpretive thinking, but the clues were there, and they made sense.
+
+If you prefer something easier, and not to draw a lot of conclusions on your own, then this might not be your speed. I rated this one 8 stars due to the difficulty, which provided us some extra play. But the intricacies, and creativity, of the puzzles in The Tonpial's Treasure were a lot of fun. It challenged us to think outside of the box, while maintaining the integrity of the mystery room style.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+These are all fun little one hour games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This one is really cool and all the puzzles made sense. We still needed a few hints course.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A very solid entry. Despite the fact that it has 3 locks, it's not terribly hard, it's just much longer than the target time (I can't believe some people are able to make it in an hour given the time it takes to solve (and indeed to setup) one specific puzzle... I only have a complaint about the audio tracks which are very difficult to understand.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I love the revamped machine system. There were a couple points we got stuck on and one of them wasn’t even something we understood when we just went for the answer.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Excellent scenario with heavy use of the app to play audio clips. Very good puzzles, and the last one in particular is a great twist. There's only one that I thought was really problematic, and that primarily because of the kerning (or should I say keming) on the handwritten-style typeface.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+my favorite of the 3 Mystery Adventures... so much fun.
+Only issue is being able to decipher cL and 1L on the rum card ... wasn't clear enough IMO
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Wow! First time playing escape room games and it was a blast! We probably should've started with an easy one but we dove right in the deep end. It was quite difficult but we manage to complete it. The 1 hour time frame is misleading as it took us awhile. The game makes you feel awesome when you solve a clue but the shame meter starts boiling when you don't.
+
+I love how the cards are connected to each other and don't damage the game. Can be passed on for other gamers to experience. We even turned a non-boardgamer to play this and he's hooked! Highly recommended as a series!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+z - requires sleeves
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+January 2nd, 2018.

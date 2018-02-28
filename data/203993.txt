@@ -1,0 +1,2222 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Lorenzo il Magnifico
+RANK: 182
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+A six round game of dice limited worker placement where you are trying to get resources, cards (of 4 different colors/types) and church influence in an effort to score the most points.                                                                    
+
+The game scales very well from 2-4 players and definitely has 
+Own the [boardgame=229123]Houses of the Renaissance[/boardgame]
+ expansion, [boardgame=211904]New Leaders[/boardgame], the [boardgame=238890]New Leaders 2[/boardgame],  and the [boardgame=211907]Bonus card[/boardgame] promos.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A dice mechanism that actually doesn't unbalance the players options - just what I need! Love dice, hate luck dependence....
+...but, man... this game is enfuriatingly tight!!! There's always someone messing with "my cards"... Even if there's only 2P!...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lorenzo il Magnifico เกม worker placement ระดับกลางธีมว่าด้วยการสร้างอำนาจและความมั่นคั่งของตระกูลในยุคเรเนซองส์ ผลงานจากทีมนักออกแบบเดียวกับ Grand Austria Hotel 
+
+
+เกมนี้บอกตามตรงว่าตอนที่มันเปิดตัวตั้งแต่ตอน Essen 16 ผมไม่ได้สนใจมากเท่าไร เพราะพออ่านกติกาจบแล้ว (กติกาค่อนข้างคลีนอ่านง่าย) รู้สึกว่าเกมมัน 'ตามขนบ' ไปหน่อยคือจากเท่าที่อ่านมันดูเป็นยูโรเอาคนงานไปลงช่องทำงานเก็บของธรรมดาไม่มีอะไรหวือหว่า แต่พอมาตอนนี้ลองเล่นดูพบว่าเกมมันสนุกกว่าที่คิดไว้เยอะมาก (เกือบพลาดไปล่ะ)
+
+
+แกนเกมเป็นระบบ worker placement ที่ผู้เล่นแต่ล่ะคนจะมีคนงานคนล่ะ 4 ตัว ผลัดกันวางคนล่ะตัว 6 รอบจบ จุดสำคัญที่แตกต่างจากเกมอื่นคือคนงานของเราแต่ล่ะตัวจะมีสติกเกอร์แปะเป็นหมวกบอก 'สี' ของแต่ล่ะตัวไม่เหมือนกัน ในแต่ล่ะรอบจะมีการทอยเต๋าส่วนกลางสามลูกเพื่อบอก 'พลัง' ของคนงานแต่ล่ะสี (ผู้เล่นแต่ล่ะคนมีคนงานสาม 'สี' เหมือนกันและได้รับผลกระทบแบบเดียวกันทุกคน) ทีนี้เวลาเราจะเอาคนงานไปเล่นช่องไหนมันก็จะมีความต้องการ 'พลัง' ขึ้นต่ำอยู่ ตรงนี้ผู้เล่นก็ต้องวางแผนหน้างานกันไป แต่ตัวเกมมีระบบเสริมลดดวงที่สามารถทิ้งหมากคนรับใช้เพื่อบูสพลังได้ ตัวคนรับใช้หาเพิ่มไม่ยากไม่ง่ายแล้วแต่จังหวะ แต่ถ้าเต๋าไม่เข้าทางมากๆก็จะมีแอบเสียจังหวะนิดหน่อย (จริงๆมองเต๋าพลังเป็น event กลางจะเห็นภาพง่ายกว่า เพราะเราไม่ได้โดนคนเดียว) จังหวะการเอาคนงานไปทำงานในเกมนี้ก็มีอะไรให้คิดหลายอย่างเพราะถ้าเราไม่ใช้คนแรกที่เข้าไปใช้งานในหมวดนั้น เราต้องจ่ายเงินเพิ่มด้วยซึ่งหาได้ไม่ง่ายเท่าไร
+
+
+ส่วนที่เป็น 'เกม' คือระบบการสร้าง engine/combo ทำคะแนน หลักๆแล้วเราจะสะสมทรัพยากรไปซื้อการ์ดสี่แบบในเกม มีการ์ด 'ที่ดิน' ที่ต้องไปสะสมแต้มทหารเพื่อจะได้หยิบได้เยอะ การ์ด'ตึก' ที่ต้องเอาทรัพยากรหลายอย่างไปซื้อมา สองหมวดนี้สามารถผลิตของให้เราเพิ่มทีหลังได้โดยการเอาคนงานของเราไปลงช่อง'สั่งผลิต' (ซึ่งต้องไปตบตีกับคนอื่นประมาณนึงเพราะใครๆก็อยากผลิตของเหมือนกัน) มีการ์ค 'คน' ที่จะช่วยเพิ่มความสามารถให้เรา (ส่วนมากจะช่วยบวกแต้มเต๋าเวลาทำแอ๊คชั่น) แล้วก็อันที่สี่จะเป็นการ์ด 'อุปถัมภ์' ที่จะให้ผลแบบครั้งเดียวกับเป็นแต้มตอนจบเกมเลย (ตรงนี้เล่นแล้วมีกลิ่น Bruxelles 1893 นิดนึง)
+
+
+สีสันอีกอันที่สำคัญสำหรับเกมนี้ก็คือแทรคศาสนา เกมนี้ในทุกๆสองรอบถ้าใครเดินแทรคนี้ไม่ถึงจุดที่กำหนดในแต่ล่ะรอบก็จะโดนบทลงโทษ โดยจะมีผลกับทั้งเกมที่เหลืออยู่ของเรา (อย่างเช่นลดหน้าเต๋าหนึ่งแต้มทุกกรณี) ผู้เล่นบางคนอาจจะปรับแผนเล่นสายที่ถึงโดนลงโทษไปก็ไม่เป็นไร หรืออาจจะพยายามให้ตัวเองไม่โดนก็ได้ ไทล์บทลงโทษมีเยอะมากแต่เอาออกมาแค่เกมล่ะสามอัน ทำให้จังหวะแผนระยะยาวในแต่ล่ะเกมไม่ซ้ำซาก ส่วนการ์ดที่เราจะซื้อได้ในเกมนี้จะออกครบทุกใบ แต่เราจะไม่รู้ว่าจะออกมาตอนไหน กับออกมาที่ราคาเท่าไร ตรงนี้จะว่าต้องคิดล่วงหน้าก็ได้ ไม่ต้องคิดก็ได้ เพราะไม่ได้การันตีว่าออกมาแล้วเราจะมี 'พลัง' พอไปลงช่องหยิบ 
+
+
+รวมๆผมชอบเกมนี้นะระบบราคาสินค้ามันจะซ้อนทับกันเล็กๆ โดยส่วนมากเราจะเลือกสายหนึ่งเป็นหลักแล้วเลือกสายรองมาซักอันสองอันแล้วพา engine นี้ไปด้วยกันตัวเกมจะค่อนข้างเน้นให้เราลงไปเป็นสายๆเพราะยิ่งมีการ์ดซ้ำชนิดกันก็ยิ่งได้ แต้ม/ผลของการ์ดดีขึ้น ตัวเสริม(ก็เกมเต็มนั้นแหละ)ที่มาในกล่องจะมีการ์ดผู้นำที่จะเพิ่มความสามารถให้กับเรา แต่ว่าต้องเคลียร์เงื่อนไขการลงด้วยการมีทรัพยากร/การ์ดตามชนิดที่ระบุไว้ ก็ทำให้เกมมีความหลากหลายขึ้น 
+
+
+ถ้าเทียบกับ Grand Austria Hotel เกมก่อนหน้าของนักออกแบบเดียวกัน ก็ยังมีกลิ่นของนักออกแบบติดมาอยู่บ้าง (แต่ผมยังชี้ชัดไม่ได้ว่าตรงไหน ) แต่ส่วนตัวผมชอบเกมนี้มากกว่าเยอะเลย คือ GAH สนุกดีแต่ติดอยู่เรื่องเดียวที่ทำให้ไม่ค่อยอยากเล่นคือระบบ turn order ที่แม่งรอโคตรรรรรนาน แต่ LiM นี้ทำออกมาดีเลยจังหวะรอ จังหวะแผนระยะใกล้ กลาง ไกล ทำสัดส่วนออกมาพอดีๆกับ weight เกม ส่วนตัวผมยกให้อยู่ใน slot เวลาเดียวกับ The Castel of Burgundy ในแง่ 'นึกอะไรไม่ออกอยากกางซักเกม คิดเยอะพอกำลังตึงๆ แต่ไม่อยากเล่นนานมาก' เพราะเวลากับ weight กำลังดี มีหน้าใหม่โผล่มาก็สอนกติกาได้ง่าย
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+BGB fev 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Seems like a very interesting game with the aspect of the Italian Renaissance!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+5.5 plays / 2,3,4 players
+
+LIKE: A very tense, resource optimization game. The engine building is nice, too. The dice add a fun round-to-round twist that all the players have to cope with, and this can keep each round feeling fresh. I like the big turn opportunities, combining with special powers, quite satisfying.
+
+DISLIKE: Turn order can really shut a player out. The two player game can can be a bit vicious as there are only two spots available for running the engine-cards. Two player becomes a fight for first in turn-- not fun. With the special power cards, I'm not sure they are equally balanced, but that is why drafting is done for the cards. The game is pretty themeless.
+
+OVERALL: Great game. Played a major rule wrong on our first play, but I enjoyed it. Second play had much more tension in it because the religion track, which adds penalties, played a bigger role. The biggest drawback is that this game is the common medieval resource-conversion engine that is seen often in euro-gaming. It is done well, and the sum of the whole of these parts is a great, tight game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Wonderfully streamlined game with several clever mechanics. Deliciously tight resource balance (infuriating in a good way?) might invite analysis paralysis, but the silky smooth design also has safety nets aplenty to help out poor planning (you more or less lose a step when you miscalculate). I love the worker placement concepts here - fighting over first move in various columns comes up *just* enough to encourage careful planning, but tactical reactions if you wait a turn too long. Very nice and would like to play it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+An interesting engine building / worker placement game utilising dice in a nice way. At the start of every round the value of your workers is determined by dice roll. You use these workers to collect resources (wood, stone, money, military power, piousness and helpers to modify the value of workers) to buy victory points or cards that give you either an instant benefit or build up your production engine. Some cards grant you victory points at the game end, while others have to be “run” for you to benefit from them. Rules are fairly straightforward and quite intuitive. The meat in the game is to choose a strategy and stick to it because most likely you won’t be able achieve everything. Here the leader cards will help with choosing the engine you want to build.
+
+From the design point of view there is one thing that is not the most elegant solution. This is the setup for the next round, or more precisely the amount of information given to players at the start of every round. All 16 cards in the market are replaced with new ones and this basically halts the game for a while when everyone is trying to analyse the new offering. This was not overly detrimental for the experience but it was a bit exhausting to soak and process that much new data dumped at you multiple times during a game. However, I was pleasantly surprised that you can actually finish the game within the play time indicated on the box (60-120min). But I must note that the play time increases linearly with the number of players because everyone has the same number of workers regardless of the number of players.
+
+The final word is that Lorenzo is a good game in my book.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A great worker placement, engine-building game.  I like how the pieces come together as you play.  The church/faith points provide a nice carrot/stick.  Definitely my kind of game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+These guys make so many of my favorite games. This one is way up there, quick game with set turns, lots of decisions and always tough choices
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.1
+Very enjoyable. The dice create tension that is universal but can be mitigated in different ways (via goal cards, individual engines, etc). A bit concerned that all cards are used in each game, and wonder how different it will play out each time, but very enjoyable in play #1 at 3p
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Uno de los mejores euro de gestión de dados junto al Grand Austria Hotel.
+
+Escala perfectamente a cualquier número de jugadores. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+MagnoGato 2017 - Italian Master
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Enjoyed it more than I thought I would considering it is just another engine building/resource management euro.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Enjoyable euro and about the right weight for us. Plays well with two.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Scoperta: 4 punti.
+Vittoria: 10 punti.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Tema_Renacimiento Italiano
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A distinctive worker placement game wherein the abilities of everyone's workers can be limited by the roll of dice at the beginning of each round.  The general abilities of your workers include: the acquisition of cards, of varying cost, which can give you immediate benefits and/or later benefits when those cards are "activated" at a later time by another worker, the acquisition of resources, activating a color group of your previously acquired cards in order to trigger their effects, or securing favorable turn order for the next round.
+
+The overall feel of the game is one of several rounds of "shopping for cards" and their associated card effects, in order to put together a favorable card effects engine, which can then be activated at key moments to generate needed resources and/or victory points.  
+
+The game begins with the drafting of "possible asymmetric ability" cards which are only activated for the player when certain conditions (specified on the card) are satisfied.  Additionally, a distinctive and variable punishment mechanic track comes into play if players fail to reach certain points on the "church track" by certain rounds.
+
+What this adds up to is an interesting, if not entirely amazing, worker placement game wherein you spend a lot of time chasing cards, and resources in order to purchase cards, all the while maximizing your conversion of cards and resources into victory points, while also casting a wary eye at the punishment track.  Assuredly, this sort of thing is appealing to euro gamers, and this game certainly takes you deep into cards, resources, and cascading resource conversion puzzles.  
+
+Unfortunately, for my tastes, this game is woefully lacking in theme, though the art is certainly nice.  As such, for me, this game is best thought of as a euro mechanics bonanza (hurray) without much of a theme (darn).  Previous games by these designers, Grand Austria and Tzolkin managed to deliver both, and I consider both to be euro classics.  I wish they had spent a little more time on theming this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Excellent euro with lots of player interaction and variability. Lovely illustrated by Klemens Franz.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A fun worker placement game where the strength of everyone's workers is determined by the dice at the start of each round. This can really change your strategy from round-to-round. The same 12 cards come out for each age of the game which makes it feel a little stale after a few plays; I'd like to see this become a little more unpredictable with the upcoming expansion. The personnel cards, while interesting, have some absolutely insane requirements and hardly seem worth pursuing because of their often pitiful reward, though some are far more powerful than others. They seem like they're only worth claiming if your goals happen to line up with the card.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Five
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun worker placement game with some great mechanics. Meeting the church requirement, especially by the end of the second round can be very very hard. Replayability may be limited given that every card is seen during each game.  Lastly, player order may be too strong for the first players. The last player only gets a few gold extra but is much more severely limited in options given that it costs 3 gold to visit a tower which is already occupied.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Slight box indention
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Rating May 2017: 8.0
+Rating November 2017: 4.0
+
+Placed for trade/Sale.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+In Lorenzo il Magnifico, each player takes the role of a head of a noble family in a city during the Italian renaissance. You try to accumulate prestige and fame to gain more victory points (VP) than the others. To do so, you send your family members to different areas of town, where they can obtain many achievements.  At the beginning of each round, you roll three dice to determine the family members' value. You must carefully choose where to send your family members with a higher value.
+You can gain VP several ways, and you must also pay attention to your relations with the Church. The game is divided into three periods, each formed by two rounds; at the end of each period, players must show their faith, and whoever hasn't prayed enough will suffer hard penalties.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Excellent game!  Hits all of my mechanisms - card play, worker placement, set collection.  Love it.
+
+Edit.  Kicking this up to a 10. Personally, I like to keep my ratings at 10, 10s and Lorenzo is in it.  I love, love, love this game and will play it at any chance.  I simply cannot wait for the expansion for more variability in gameplay.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+another great worker placement game into the rotation! Very comparable in weight  to Lords of Waterdeep.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+New Leaders
+New Leaders #2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Jorge
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Magnifico!
++promo "Niccolo Macchiavelli and Raffaello Sanzio"
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.8
+2️⃣ tie for second favorite game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 - 4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+played October 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Quite dry thematically, interesting in terms of mechanisms, euro-game. Nothing quite ground-breaking or revolutionary to make me go for more games of this over other 'better' euros out there..
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ME.HO.K
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I love this game for both its complex and clear rules, interesting excommunication mechanics which can punish players in various ways throughout the game, many paths of making points and fantastic chain combos via cards. 
+That is Lorenzo il Magnifico :)
+Plus, works great with 2 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3 110.3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+DUBLIN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[Labeled]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+good iconography, bests Grand Austria Hotel, scales well 2-4, 60-90min.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Es un juegazo como la copa de un pino. Sencillo de reglas pero estruja cerebros. Imprescindible para cualquier eurogamer que se precie.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+WP met goede symboliek, waardoor het makkelijk uit te leggen is aan newbies.
+Met 2: zeer leuk en geen downtime.  Met 3: al een stuk lastiger omdat er nauwelijks meer keuzes zijn.
+Graag opnieuw spelen, doch is geen uniek spel om in collectie te hebben, aangezien vrienden dit reeds bezitten.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great Worker Placement Eurogame with some clever mechanics. Similar to Marco Polo or Grand Austria Hotel but harder, and for me, more rewarding. Not so difficult to catch but as the game goes by things got each time more interesting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1 moved up to 3 from game pit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Not played yet
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+In shrink for now.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes Houses of Renaissance
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes Houses of Renaissance
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Lab
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Would love to try this at a meetup or convention.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+http://www.for2players.pl/2017/12/lorenzo-il-magnifico-recenzja-gry.html
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.71
+Euro, but a little life.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-4!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Tight game.  I like the decision process.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Lok: BHKJ030301
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nice engine building / resource conversion / optimization puzzle, although I can't really stand the CF artwork any longer.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.1
+Seems impossible to get anything done the first time you play.  Play with the special characters right away because they offer ways to get more resources at critical times.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Magnifico!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A worker placement game where the value of each worker is determined by a dice roll. What's interesting is that everyone at the table has the same value for all of their workers, so the dice are either helping or hurting everyone at the table. It can be a punishing game, especially on those turns when the worker values rolled are 1-1-2 or something similar (and we had several of those). Turn order is certainly important. It has tons of tension and difficult decisions. Players must demonstrate that their faith meets the church's expectations every two rounds or they incur big penalties. There are costs to everything. The game is fiddly and if you are okay with a Euro game that will make it feel like work in that way, then Lorenzo may be for you. I've played it 3 times and like the variety in options available, but wonder if it could be hurt by having the same cards in every game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+2-player game is far tighter than the 3-4 player version.  It's an engine builder where you barely run your engine since there is only one space per card row.  If someone else goes there, too bad.  So, like many worker placement games, it becomes a "chase first player" exercise (and hope the dice roll for the next round is favorable). Otherwise, you may not run your engine and with very few ways to get resources, precious few rounds, and limited-to-no alternate paths, that is not a situation you can afford very often. 
+
+The 3-4 player game, on the other hand, allows you to run your engine using another spot, albeit at a diminished capacity (that can be mitigated with stewards).  I was still unimpressed with the game but it is definitely better at 3 and 4.
+
+Add a dull, largely non-existant theme and you've got an okay game I have no desire to own.  I'll play Grand Austria Hotel or Marco Polo any day over this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A typical worker placement game but with the twist of using dice to set the powers for the turn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Clever mechanics, satisfying engine building and lovely graphics. Really liked it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+The next game from the designers that brought us Tzolkin, Marco Polo, and Grand Austria Hotel. Very interested in checking this out!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.3
+遊玩人數：2-4
+出版商(或代理商)：新天鵝堡
+玩過？：o
+開過？：o
+語言版本：繁體中文
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Sleeved
+Deckbox x1
+
+// I like the opportunity for engine-building in this one.
+The dice usage is fun and an improvement on its sibling 
+game, Grand Austria Hotel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played at Essen 2016 with 3 players. It's worker placement paired with card combo engine building. I really looked forward to this game, but I found it a bit bland. Also, it didn't feel very balanced. That's hard to gauge with just one play, but I didn't like the dice mechanics. I guess the dice are added for varying the levels of decision making but it seemed to hit one player harder than another. I don't have anything against dice; I think it works great in Signorie, but not here.
+
+There's a lot to like, but I passed on this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Bought a copy via Jonsey who vacationed in Italy over Xmas.  Italian version, thank goodness for BGG and english rulebook uploads.
+
+First plays have been 4 player and definitely will be playing this more.  The dice mechanic had a nice twist where everyone plays off the same dice (at least this mechanic is a nice twist for me, it may be used in other games but none I have played).  Resources are always tight and make choices even more difficult.  Lots of paths to victory make this a different experience each time you play it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Quite curious.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Umm so this isn't your favorite Euro but it has many, many, many of the same parts, mechanics, themes.  It's well made but it sure does feel like I played many other games just like it before.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Puerto Rico - Caylus - Troyes - Tzolkin - Lorenzo!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The team keeps changing slightly (I don't believe any of the three designers were involved in all of my prior favorites - Egizia, Voyages of Marco Polo, and Grand Austria), but it's a very strong team -- and makes me slightly sad that I got rid of Egizia.
+
+Lorenzo reminds me most of Grand Austria Hotel -- it feels more tactical than VMP, but there's definitely a strong strategic aspect.  Players start with a drafted hand of 4 special power cards.  Getting them played early is very strong and corresponds to the game end bonuses of GAH.  So, unlike GAH, players strategies diverge based on the cards they have (more cards would be better and hopefully more will be added with the expansion).  
+
+There's also the periodic benefit/pain of GAH.  Unlike GAH, the pain is always permanent.  There's no benefit other than avoiding the pain and the cost of avoiding the pain is potentially limiting late game VPs.  However, the pain is fairly significant and accepting it needs to be part of a player's game plan from the beginning.  
+
+The one criticism of Lorenzo is that all the cards (other than the hand cards the players start with) come out every game.  There's no variability.  While somewhat true, the flip side is that once people have played it enough, they can plan their strategy knowing that the cards will be available.  They don't know exactly when they'll show up (one of two rounds) or how much they'll cost or even if they'll be early enough in player order to get them, but they do know they'll be there.  I like it.  It is different from the variability of VMP and even GAH with only 2 players, but I like the increased ability to plan.
+
+GAH is a 9.  VMP is a 7.  Right now Lorenzo is also a 7, but it's got potential to move up.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Juego de colocación de trabajadores... con tableros individuales y opciones para conseguir cartas que situas en tu tablero personal y otras opciones que hacen que esas cartas produzcan recursos y/o dinero. 
+
+Es un juego de construcción de motor. Tiene bastantes cosillas y es sencillo de jugar, aunque dificil de controlar bien.
+
+Entretenido y perfectamente válido para jugones. A un no iniciado, quizás le pueda costar un poco más.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Juego de colocación de trabajadores. Los jugadores tienen cuatro peones que colocar. Tres están asociados a unos dados y un tercero no tiene color y tiene valor 0. Los valores de los peones se pueden alterar utilizando unos asistentes.
+El valor del dado (modificado con el asistente) permitirá poner el peón en determinadas zonas. LA zona principal es una zona en la que hay cuatro torres y en la que cada turno se pueden adquirir cartas.
+También se puede invertir en puntos de fe, para contentar la iglesia (si no la contentas con un balance periódico te pueden penalizar), en una zona de maquinar o recolección, en un mercado y en una zona de favores.
+
+El juego va "in crecendo". Se juegan tres epocas, con dos rondas cada época. En total, que toda la partida haces 24 acciones, así que tienes que escoger bien. 
+
+Hay mucha interacción en cuanto a robo de acciones, al menos jugando a cuatro, que es lo suyo.
+
+El juego salió en kickstarter, pero es un poco caro para el material y la experiencia que ofrece.
+
+Está bastante bien. Satisfactorio para jugones y apto para no jugones. Fácil de jugar, complicado de dominar.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
++ Renaissance
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Worker placement mechanics. Every player has a different colour worker, which dice determine how effective each worker is. But since every player has the same three colour workers, the dice affect every player equally. And the three colours all do the same actions. Essentially, all players have all the same three workers that have variable strengths from round to round. So some rounds the sixes are efficient and other rounds the ones are less efficient. There is no real meaningful impact on game design. So that is the only "twist". Nothing new at all otherwise. Very straight forward game play.
+
+Not sure how "balanced" the card combos are. The personality/leader cards seem to be either larks, or in combination with the building cards can be very beneficial.
+
+By the authors of Marco Polo, Grand Austria Hotel and Egizia. Lorenzo is not better than any of those three other titles. While it is decent, there is nothing original that you haven't seen elsewhere dozens of times. Grabbing wood, grabbing stone, grabbing gold, convert to VPs, maneuver for turn order. How many times have euro players done that before?
+
+Questionable long term replayability...the verdict is out.
+
+Update Feb 2018. With the expansion, the base game gets bumped to a 8 (from a 6 for the base game after 2 plays).
+
+Makes it so much more dynamic and replayable. This has all the flavour of Grand Austria Hotel (leaders vs hotel employees), and Marco Polo (crazy asymmetric 'house' powers).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+48.07 nov 17 amazon
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2-4
+60-120 minutes
+Best with 4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[06/01/2018] Regalo Vero y Sergio
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Escala bien 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+5/26/17 - FLGS pick up
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Excellent. Lots of interesting decisions, many different routes to victory, and some interesting, unexpected card combos. The "dice worker" mechanic is very cleverly implemented, making each round different but still leveling the playing field among players. 
+
+It's hard for me to avoid feeling that the endgame VPs awarded for blue and green cards are a little high, especially considering those cards provide constant benefits throughout the game (blue without activation), whereas the other tracks require actions to use. Still, I have to play a little more to explore other strategies to see how the VPs are distributed across the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.25
+7/17/17: I play this game quite poorly,  and still enjoy playing it.  Very tight game play where one mistake can do you in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Scott owns
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Might be my favourite in the dice manipulation genre from these designers. I felt that there was less luck/randomness than Voyages of Marco Polo because everyone is using the same dice though there are concerns over replayability (due to all the cards being used) and the drafting of the cards. Wouldn't mind more plays though I'm not sure I'll request for it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+FF Sleeves
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 16 buzz, sold out, waiting..
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Another in the long line of games that gives you a bunch of ways to score points, and you pick 2 or 3 of those ways to ultra-specialize in. Often in these games, I feel like I made my decisions in the first round, deciding which directions I want to go, and then it's just auto-piloting that strategy, hammering on those couple options to maximize points. Diversification is a losing recipe, so you just go all-in on whatever you choose.
+
+Once neat twist here was the introduction of an every-other-round threshold for one of the options. If you didn't meet the minimum requirement, the game kneecaps you with a penalty, hobbling you for the rest of the game. So, you choose whether to just ignore it and deal with the consequences, just focusing on point-scoring, or work to avoid the penalty.
+
+I enjoyed building the engine I built, and hammering it out into a point producing machine. However, I feel like I saw what there was to see here in my first game, and don't think it would be nearly as fun to play again. It didn't leave me thinking "oh man, I'd really like to try this other thing" the next play in the way some other engine-building-type games do. So, fun for a play, but not that excited to play it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting Euro in which each of the players' workers have a "strength" determined by a dice roll. This mechanism ensures that no 2 games will be the same yet it offers ways to mitigate low values so that players can still run their economic engine. Not much of a theme, which is a bit of a disappointment after the excellent Grand Austria Hotel from the same designers and which shares a few mechanisms with Lorenzo. I also wish there was more cards in each deck so that not all cards come out every game. Nevertheless, it's a very solid game that I would like to play again when the expansion comes out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.2
+1-4 players. Heavy. Worker placmt/ Engine Build. 90 min.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.6
+未開已玩 Home
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.75
+Looking at my collection of 550+ games and I immediately want to put this in my top 10 after only one play, I enjoyed it that much. Hitting on great card combos and feeling the synergy of  your engine build over the rounds is so satisfying.  The mark of a great game for me is immediately wanting to dive right back in for another play. A fantastic experience which stuck with me long after the final cylinder was placed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I am lumping this in with other smooth playing contemporary Euro games like Concordia or Orleans. I feel like it is a refreshing return to simpler rule sets that allow you to concentrate on play, rather than on just trying to follow the rules and fight the game. I liked having to manage a bunch of different objectives (faith, leaders, engine) within a very limited set of possible actions. I felt like I was constantly looking at other players boards to see what they could afford and what they were likely to do. That's great! The interaction is limited to stuff like that but substantial enough that I was OK with it. -- It could be that I am just softening to games like this since it is the dominant type of game these days and I have given in a little. 
+
+Others have commented on how having the same cards will lead to a lack of replayability but I disagree. Once people know the good combos and strategies, you can make things more expensive for them, or grab cards or spaces that would help them. And you can craft strategies knowing what scoring cards are coming at the end. I think it will enrich the game. I am thinking of games like Age of Empires or Puerto Rico where the same buildings are available every game, so they shape strategy and improve the game enormously over time - at least for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I love everything about this game. Lorenzo il Magnifico is such a Magnificent game! (visualize & gameplay) The game flows so smooth all the mechanic integrated so well, love the dice that indicated the power of the workers and the church track that push you on a pressure.Moreover, the engine-building elements after you accumulates a set of card is so darn fun. This game will probably crack into my top ten game of all time.   
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Good game. Gets a bit samey fast. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+*9* (Initial plays)
+Great game. Very difficult and tense decisions, all are impactful. The weight of the game feels like Grand Austria Hotel. There are many ways to score points and there seems to be many viable strategies. One of the better worker placement games I have played. It is AP inducing and may run a little long but it is enjoyable and well worth it. Looking forward to more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Enjoyed my single play of this at Origins - it doesn't do anything fully original, but I enjoyed the dice activation element that applied to nearly every aspect of the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A resource conversion engine building game that just clicked for me. There are 4 types of cards represented by each of the 4 towers. 1 type gives you permanent game effects typically making actions cheaper, 1 focuses on end game points, and the other 2 types let you build your engine. The engine building cards give you an instant effect and a later effect for when you run your engine. Each round you have 4 workers and their efficiency is based on a die value which can be boosted using servants. The dice give it that bit of randomness just to make sure you can't execute the same strategy each round. After every 2 rounds there is also a check to see if you suffer any penalties for the rest of the game, but in our play they were for the most part easily avoided. There are some fiddly rules with placing workers due to the die and color restrictions, but otherwise a great engine building game and for 3p we knocked it out in a little over 90 minutes with rules explanation. Can't wait to try this with the advanced leaders variant and the expansion.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+De Rubén.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Magnus
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Solider Euro mit gutem Workerplacement und Druckelement mit der Exkommunikation.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Resources are so tight. Maybe too tight to be enjoyable. Will the expansion help? 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Poorly written rules.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+best of worker placement
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+***
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Buen juego pero no llega al nivel de Grand Austria hotel o Tzolkin.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I love this game so much. I was worried at first because it is one of those games where every one is quiet with their heads down during play. Further play has become addictive and has shown that game silence to be engagement.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Completely forgettable game about getting stuff, converting stuff, and getting points. Yawn. Worse than yawn, as you turn requires adding (typical example): 1 wood, 2 rocks, 1 money, 1 worker, 1 more wood, 1 faith, 1 more money, 1 military, 1 more rock, 2 more money, 1 more worker. Ugh. And that's if you go axes. If instead you go gears, you do similar, but with four conversions mixed in there. Feels very laborious.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Christmas 2017 family
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+10+ years of worker placement games leads to this design... which, if you leave out the engine building, is on par with veritable Stone Age. Seriously. It speaks volumes about the state of the gaming population that this game in fact created a little stir of sorts when it was released to the public during Spiel 2016, complete with people bidding idiotic amounts of money for a copy after the fair was done. And even if you factor in the engine building... it still doesn't amount to much.
+
+The questions asked by this game are extremely derivative. The mechanisms are extremely derivative. The randomness in the action dice and the cards leads to very swingy, tactical play with planned activations not going through because, well, the dice and the resources you built up just weren't sufficient; adding insult to injury there is often such a dearth of interesting moves (because the other players are looking just as hard as you for neat tidbits, and will often find them, too) that you're limited to plan B-type actions. The game attempts to make matters 'interesting' by burdening you with an annoying church track which penalises you if you don't spend too many actions here, or giving you a dollop of points to compensate that you ignore the hypocrite institution that it is. It's the boringly familiar and shameless trade-off we all know and 'love'. 
+
+There was a time once where I might be more appreciative of designs such as this, but that is already quite a while ago. These days I just... wonder what people see in this stuff. But apparently a publisher needs games like these to boost sales figures. It's sad, really.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This game is a huge surprise in a positive meaning. I expected just another euro game but this has so many combinations and Italy background for me is a great plus. What is also important, game forgives mistakes and you can change strategy anytime. Can't wait to play again!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+4 Player (2-4)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Después de los juegazos Marco Polo y Grand Austria Hotel, no podía dejar escapar este Lorenzo il Magnifico... el tercer juego de la 'trilogía' de estos italianos.
+Euro de colocación de trabajadores en el cual cada trabajador (familiar) tendrá el valor correspondiente al resultado de tres dados en cada ronda. 16 cartas diferentes en cada una de las rondas, ideal para el AP. Demasiado donde elegir. Esto hace que el juego pierda ritmo y se haga demasiado leeento.
+El juego es muy bueno y entretenido, pero el hecho de que haya tanta carta hace que no fluya. Supongo que con más partidas la cosa mejorará. Si no fuera por eso, este juego sería de sobresaliente. Pero de momento, se lleva un notable alto... que está muy bien!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4
+4
+2-4
+P:0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+From reviews it appears to play similar to that of Grand Austria Hotel, but according to some, better, more stream-lined.  I have high hopes for this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Really like the idea of shared dice values for workers. The game feels extremely tight, you're always short or money, resources or servants. You want to do way more then the 4 actions let you do. Perfect balance between strategy of focusing on one or two particular towers, and tactics of reacting to opponent's moves.
+My only complaint would be the replay ability, hopefully the expansion will fix that.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+think [gameid=182874] is better from the same author
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+My first play left me somewhat disappointed. It incorporates several mechanisms that I like and pleasantly run like clockwork, plus a clever twist on dice-influenced workers, but even if the pieces are well designed the game fails at fitting them together to form a consistent picture. As a result, you're just trying to find the optimal sequence of play to score higher than your opponents, but more in an abstract way than developing a particular game plan.
+
+I think that my rating could go up a bit with subsequent plays, but overall I find The Voyages of Marco Polo to be a more enjoyable, thematic and well-rounded game.
+
+★★★✰✰ Depth
+★✰✰✰✰ Interaction
+★✰✰✰✰ Luck
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Box 6 - Not Sleeved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Basisspel
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The engine building in this game is interesting and the rules are easy to learn. What I didn't like: downtime, low on player interaction, paying for the church goals and the 0 value worker.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.1
+This is a good worker placement game but it is somewhat restricting what you can do in this game and feels like hard work. This was one of my favourite games played in 2017 based off of one play and look forward to playing this some more to see how this game plays with multiple plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The action selection mechanic is interesting, with some differing strategies to appeal to.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Wow! This one has really impressed me even though I played only once. I don't know exactly why but I had a blast during the game. Despite the fact that is is medium-heavy euro mechanics are quite elegant and everything was clear from the beginning. Rules-wise Lorenzo is easy to grasp, it's just the amount of choices you have to take and things to consider. Because really, there's not that much actions to take, only 24 for the whole game, and there's ALWAYS something lacking - if I had one more gold, one more wood, stone... You want to get absolute maximum from every action you perform because you don't have too many of them! The game is dense, there's blocking spots and if someone took a card and you want to take another one from the same row you have to pay additional gold. Therefore it is easy to see that this game can be harsh and frustrating and I can absolutely understand why some people may not like it. It appeals to me because I like the fact that I have to fight my way in order to get the thing that I want. It's definitely not "sandboxy" game where you can do whatever you want and no one can stop you. 
+
+The presence of dice in Lorenzo il Magnifico may lead some to confusion that is is a dice placement game, but it's not at all. There are only three dice which determine the power of possible actions for EVERY player. I have to admit is is a quite original rule and something that make this game shine and stand out amongst countless similar worker placement games. Here, if numbers on dice are low it means it is going to be a weak round(in terms of action-strength) for all of us. So it is pretty fair and you can't blame on randomness. Another thing I like is supporting the church and penalties you receive if you don't do that. Every two rounds you have to show how faithful you are and if you prayed enough. If you don't, you get excommunicated - church simply punishes you. It may affect your future actions or even final scoring! So don't underestimate the church, they wan't you to suffer certainly.
+
+The rest of the game is standard worker placement, but thanks to the restrictions I've mentioned before there is somewhat race for the best spots, blocking others and this is where the turn order may become important. Thankfully you can change it by placing your family member on appropriate place, receiving a minor bonus as well. There's also engine building - you buy territories and buildings and then you may activate them all at once, so the more of them you have the bigger benefit you get by placing just one worker on a production/harvest action. There are four types of cards and each works in a original way. I'm sure there are a lot of paths to victory.  At the moment I am not worried of the replayability. Sure, you see the same cards every game, but the order that they come in varies and so does the spot they appear in(because the higher on a tower they are the harder it is to get them). Each game means different excommunication penalties. Hell, even dice outcomes make every round exciting. I am yet to play an advanved game with leaders and I already had much fun. Definitely looking forward for more. I don't want to rate such complex game too high just after one play, but it has a potential to become a 9.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+1 play.  Good Euro, but not truly great.  I  could be wrong, lots of engine building. Clever worker placement with your workers being of different and varying strengths.  Many people might rate this higher, but for me this game is one where I am playing the system more than the other players. I like getting in peoples heads, and I think it would be rare (other than perhaps trying to anticipate the tower people might want for the next round).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Saw it at Spiel 2016, not sure yet about this one, try before you buy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Very well done euro. Nice dice incorporation with excellent engine building. Multiple paths to victory as well. Great game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+$47 Amazon
+Card Drafting
+Dice Rolling
+Variable Player Powers
+Worker Placement
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+142J
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.75
+[11 Apr 2017] - 6.75 (1 play)
+It's a good worker placement game with lots of decisions that need to be made and balancing costs of using the generic "0" worker. The theme doesn't come through at all other than pretty pictures to look at. 
+
+It felt a lot like Grand Austria Hotel - every 3/5/7 rounds you get punished unless you do this thing, you need to draft cards that come out at random, figure out the pipeline of resources for efficiency. It also has the Marco Polo aspects too - some worker slots aren't blocked but cost more, resources can be converted. At the end of the day, it didn't do anything new, unique or interesting that I haven't seen from this design team before. I'll play it if you pull it out but I'm not going to suggest it or buy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Really good game. I wish there were more cards because you see each one every game, but I'm sure there is a reason the designers decided to keep it that way. I just haven't played it enough to know what the reasoning is. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Enjoyed it, but messed up my (lack of) strategy. Would like another go sometime. Bit longer and heavier than my usual fare.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Light and short. Highly enjoyable if lacking in significant interaction other than the angst of basic worker placement blocking - "you went to the spot I wanted to go to". 
+
+Game is quite restrictive at 2 and long at 4. Replayability is a big concern in the base game as some cards are better than others.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+one of the best worker placer games I've played 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+ST
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lucca 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Despite that Simone Luciani (who has become one of my favorites) has only a "with" design credit, this game gives me a very similar vibe to Grand Austria Hotel.  However, I don't think it's as good, and I think that it may be because it feels like there is one step too many between doing the things and making the points.  Also, the thing I have come to enjoy most about Luciani games is that even though the designs are very tight, they also give you room to figure out some clever way to do what you want to do.  Grand Austria Hotel, Marco Polo, and Tzolkin all have this characteristic.  This game has shades of it, but it somewhat hindered by the random appearance of cards.  You are often still stuck with no good option or way out.  So the game is solid, but not among the best games I've played with Luciani's name on it (but then again, it appears he was not a primary designer either).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Brutal.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lorenzo is from the makers of Grand Austria Hotel and the hallmarks of that design are evident here. The game involves each player having 4 workers who have a common power in each round determined by the roll of the collective dice. So in a round each player’s red worker may be worth 3 if the red dice shows a 3.
+
+The workers go out to various parts of the board collecting cards and resources. The game repays some degree of specialisation in the way the points ramp up for some sets of cards. Or you can go down a resource conversion route with Building Cards. Doing a bit of everything is not the way to go though.
+
+I am not sure how much replayability there is in the game as, apart from the penalty cards, the same cards are used in every game.
+
+All in all this is a very clever Euro and really satisfying to play. There is much to think about, though sometimes too much and AP may be a problem, particularly in the later stages of the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+So much fun!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+itt bővebben:
+https://www.boardgamegeek.com/listitem/4985276?commentid=6690288#comment6690288
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+*Missing Age III Yellow Building Card
+
+Feels like a modified version of Nations.  It's not love at first play as Nations was, but my rating will probably go up with more plays.
+
+Klemens Franz is still knocking it out of the park though.
+
+Second play - loving it.
+
+I really like how this group of designers implements theme into their games.  There's always a key resource that draws the theme to the surface: corn, camels, guest rooms, and in Lorenzo's case faith.  I think that's why their euros stick out in my mind while others just fade into point grabbing obscurity.  I only hope that their best is yet to come.
+
+It's hard to believe I'm about to write this, but i think I would have preferred cubes instead of custom resource tokens.  I feel a little crusty typing that.  I guess I'm just getting older.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[b]Miniature Market Review:[/b] https://www.miniaturemarket.com/reviewcorner/lorenzo-il-magnifico-review/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Need to review.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2016-10-31 : Very well-designed pure engine builder game with multiple paths to victory and where correctly guessing what your opponents are going to do matters a lot. The dice add some variability so your plans have to flexible, but there is clearly a possibility to execute a long term strategy with this game. Clear layout and graphics make the rules of the game disappear in the background, so you can focus on your tactical and strategic level play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I enjoy how tight this game is. Well designed and seems well balanced.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Upgraded to an 8. I enjoy plaing this game and get the engine running.
+
+Another worker placement with variable worker power. The excommunication tiles let you develop a strategy wich is nice, but the same for everyone.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lorenzo il Magnifico is a dice euro. This is a worker placement game where each player has one worker associated with one of the 3 different colored dice and a 'colourless' 0-value worker. Each round, the dice are rolled and this determines the value of each workers for the round. Different worker placement spots require different valued workers. Also, some kinds of cards can be activated and the value of your worker will determine how many of your cards will be activated. So, players are somewhat equally happy or dismayed by the results. I say somewhat, because if most of my cards require high values to activate compared to my opponents, then I'm more out of luck. There is ways to increase the value of your workers however.
+
+The game mainly revolves around acquiring cards in 4 varieties. You need these for VP, special abilities, and usually some bonus resource acquisition. Each of the varieties have a unique flavor:
+ 
+Green: these cards cost no resources but require a threshold on the military track. These cards are harvest activated and usually provide resources. 
+
+Blue: these cards cost money rather than resources. They usually provide a special ability or a powerful one-time action upon acquisition.
+
+Yellow: these cards cost resources to take. These cards are production activated. They usually convert something into something else... typically VP. Unlike the other 3 kinds of cards, they give you up front VP, which could be useful for fulfilling in-game objectives.
+
+Purple: These have a variety of different costs to acquire. Some of which will reduce your military. They typically give more VP than other kinds of cards. 
+
+One of it's designers also helped with the design of Marco Polo, Grand Austria Hotel, and Tzolk'in. It kind of feels like a cross between Marco Polo and Grand Austria Hotel. It kind of feels like Grand Austria Hotel due to the religious track being almost a straight rip off GAH's emperor's track. It kind of feels like Marco Polo because the value of the worker that's placed matters and you can alter it with resources. In addition, you can't go to places you've already been unless you use colorless workers, kind of like Marco Polo and using the black dice to go where you've already been.
+
+The game comes with an advanced variant that allows people to have a slightly asymmetric resource generation. It also allows players to draft character cards. If you meet objectives you can play these cards for special abilities or scoring opportunities. You can alternatively discard the card for a variety of resources. I'd highly recommend playing with this variant. If you like Grand Austria Hotel or Marco Polo, I think there is a good chance you will like this game. I enjoy it quite a bit.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This is my kind of game with dynamic variables, engine building, and multiple point scoring avenues. It is not entirely new, but it does come together well.
+
+It is a tight game with very few worker placement turns (24), so you can't afford to waste any. To this end, my one main gripe is the importance of turn order. Two of the worker placement spots on the board are required to run your engine. If you are the last player, you are often required to go an alternate expensive version of these spots, but they cost you an additional worker in assistant fees (one worker action can net you 4 assistants and the cost for these spots is an additional 3 assistants), so you quickly lose traction to those fortunate enough to go before you. There is nothing wrong with having a premium and average version of an action spot, but to make one too had to access when it is key to earning points in the game is a bad idea. Rather the average spot should be just as easy to access but produce less of an effect, so at least you can get something from running your engine for the turn.
+
+I also wish they made more room for the artwork on the cards, since it gets swallowed up in the border frame.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A bit fiddly.  Beautiful game in all respects except that the card art is bland.  Weak about theme integration - some rules don't seem to make sense in the context of the game's concept.  Traded.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Lorenzo il Magnifico pushes the boundary of how tight board games can be. Each player has a mere 24 actions at their disposal, and they each must be dispatched with expert timing and cunning in order to fulfill the various goals of the game. Players must attend to the Pope to avoid severe game-long penalties, acquire territories to exploit for future resources, establish production chains to generate prestige, schmooze the elite to gain favor and privilege, and exercise military prowess for something that is thematically unclear. There are never enough resources, action spaces, or time, to do all of those thing effectively, but that is the beauty of this game. Every action and resource is crucial, and though mistakes are unforgiving, the game is wonderfully balanced and consistently delivers tense finishes. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+What a delightful surprise this game turned out to be!  A dazzling euro-game with unique twists and so many brain-burningly interacting parts which make each choice incredibly meaningful given the multiple ripple effects entailed.
+
+And there's a quite good solo-bot available here in the "Files" section, which is the "icing on the cake."  Now I'm looking forward to adding in the expansion...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Race amongst players who work to determine the marginal benefit of each action.
+Limited so better w 3 and best with 4.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Custom insert
+Sleeved
+20 ex. 56x87mm (Ultra PRO Standard American)
+96 ex. 44x68mm (Arcane Tinmen Small)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Me encanta la mecanica de este juego.. colocación de trabajadores con los dados... un juegazo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Initial rating was an 8.5 but after more plays...it's a solid 9...whatever these guys design, I will buy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+First play was really solid. What a brutal worker placement! I'm glad I got this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Meeple Realty Insert
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
++ Cool theme
+
+- Nothing original
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+not sure yet
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Gaming: I love this game more than Grand Austria Hotel (which I like a lot). There are a few directions to choose to go in... with meaty decisions on whether to give into the religious track or not (depends on the damage those tiles will cause).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very tight resource management with extremely tough decisions. Enjoyed it a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Gift from my lovely and extremely altruistic GF  ❤️
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+$100 Game Selected
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+#areaprenotazione
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2016-10-17:
+Got bits and pieces of Grand Austria Hotel. (the church-track is like the Emperor-track). Also a lot of cards is a similarity.
+I think this flowed a bit better with less downtime.
+Not amazing though. So was MarcoPolo and Tzolkin all the really good goods they could deliver?
+Inital rating: 7
+
+2017-08-07:  The first time I played this I didn't like it that much. I felt it was to complicated with to much 'steering' (you have to go to church) and to hard to get things done.
+
+On later plays I've changed my opinion quite a bit to the better.
+I now like how tight it is.
+I like that you CAN ignore the church if you have steered your strategy another way.
+I REALLY like the hard decisions of throwing a leader-card for resources and thus giving up any chance of getting it played.
+The game has a lot of similarities to Grand Austria Hotel, but this feels WAY less fiddly and building the engine in this is a lot more fun than playing Staff in GAH.
+
+What I am a worried about is the replayability though since the decks are always the same. I guess that gives an edge to those who has played a lot so that might be ok. There is actually quite a lot of variation in the church and leaders at least.
+
+Current rating: 8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+DB
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A nothing-new worker-placement tableau-builder euro that somehow blends all the mechanics together into something that is familiar and yet very enjoyable. You will use wood, stone, and cash to gain faith and military and VPs (yawn!) but will have to do all this while juggling workers whose effectiveness varies from round to round.
+
+My first play was so enjoyable that I am giving this a 10, but keep in mind that I love Klemens Franz art to an irrational degree, and I also admit that this style of game is right up my alley, so it doesn't need to be mind-blowing for me to enjoy it. It reminds me of the spirit of Grand Austria Hotel and other dice-driven tableau builders, with a dash of Ora & Labora thrown in there.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+Analysis paralysis certainly occurs with most players on occasion, especially near the end or when the roll of dice is bad.
+
+Lots of ways to make points--I was half way behind everyone till final scoring when I caught up with all the end game points.  Even though this is definitely worker placement (which I love),  it felt more to me like an energetic race game for points.
+
+I assume, and hope, the expansions offer more cards for continued playability.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Règles VF OK.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Another magnificent game by some of the designers of Grand Austria Hotel. I love how in these games all the resources are pretty tight and yet on a single turn you can chain certain things an achieve great things. This makes for some of the most exciting turns in board gaming I have had.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+CSI
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.6
+Superb; One play and straight into the top 20.
+
+Every bit as good as Grand Austria Hotel which it outwardly resembles.  Love the servant mechanism borrowed from Lancaster (Squires).
+
+My only initial (early) concern is about long term replay-ability due to the limited tower cards.  With everything in play every game and the order locked to the three ages, it should be relatively easy to work out the best combinations and when they might be purchased.
+
+Purchased Nov'17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Essen 2016: Impression after 1st game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Malaysia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Valahogy ez a szerző mindig olyan játékokat csinál, amiknél nincs igazán semmi konkrét, amibe bele lehetne kötni, de olyan szinten kellemetlen őket játszani, hogy csak na. Nem tudom hogy csinálja, hogy minden játéka tök más és tényleg csak az közi őket össze, hogy szórakozásra alkalmatlanok.
+Jól illik ebbe a sorba a Lorenzo is. Jól összerakott, érezhetően jól kiegyensúlyozz mechanikák. De olyan szűkös és durván büntető játékmenet, hogy fogalmad sincs, hogy miért játszol.
+6
+----- 
+Másodjára némileg szórakoztatóbb volt. Ehhez hozzájárult, hogy betettük a kezdőkártyákat is amiket rejtély, hogy miért csak a haladó játékhoz ajánlanak, holott csak könnyít az amúgy nagyon szűkös  játékon.
+7
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+one play, really complex to get momentum going your way. Second play this will likely be much better. cannot wait.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The design team appears to be set on exploring all possible "action selection with dice" schemes. Lorenzo is a worker placement game with variable-strength workers and (naturally) action spots that require a certain strength to use them. The vagaries of the dice lend Lorenzo a strongly tactical focus, and turn order is quite important since there are often few really good spots. Due to the placement requirements, players often need to dedicate valuable actions to simply collecting the resources they need to choose the action they actually want to use. I'd like this "dead action ratio" to be a bit lower than it appears to be here.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+LORENZO ist der dritte Teil einer von mir selbst in meiner kindlichen Begeisterung erdachten Hurrah-Trilogie mit GRAND AUSTRIA HOTEL und KONZIL DER VIER. Deutliche Anleihen aus beiden Pfundsspielen finden sich auch in LORENZO, das meiner Spielerseele auf den manifesten Leib geschnitten ist. Die Kaiserleiste aus GAH wird bei den Medici zum Besuch des Vatikans und Kombi King Karl aus KONZIL DER VIER erfährt im Bau einer Kartenauslage zur Ausschüttungskette ihre helle Renaissance aus dem dunklen Mittelalter. Die Italiener von LORENZO spielen wieder mit ihren Lieblings-Mechanismen, die sie am besten können. Für jene, die das geil finden, ist das ziemlich MAGNIFICO, wer aber schon im KONZIL oder im HOTEL nicht zu Hause ist, macht um die toskanischen Geschlechtertürme am besten auch einen toskanischen Torbogen. Gestaltung von Packung, Brett und Karten durch Klemens Franz ist herausragend: im Kanon der frühchristlichen Kunst aus Parallelperspektive, ohne räumliche Verjüngung und mit flachen Figuren entspricht die Art Direction dem Geist der Zeit, den das prächtige Spiel zumindest namentlich zu Ehren versucht. Der Vatikan Report schreibt eine Lobeshymne.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spiel 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Rahdo run through
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+In Box #31
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Worker placement, engine builder but suffers from very samey play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+missing one third age purple card. CMON is shipping it to me
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.75
+Good game, but it invites analysis paralysis, and I find generally that church-track buildings are overpowered, since it can be quite hard to get them, the penalty for not getting up the track is high, and the upside to running up the full track is very high. Nothing elegant or innovative, but plays well if not with AP players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Engine building worker placement with a refined and well developed feel.  Fun to run your personally designed engine.  Quick enough turns and playtime.  My only concern is that all the cards come out each time but for now there seems to be enough ways to mix and match that it won't be an issue in the short term.  An expansion of more cards only would be fantastic!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+3/3/4.5/4/4.5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The pedigree of Lorenzo shines through (Marco Polo & Grand Austria Hotel). Very enjoyable but vicious and a little overwhelming. Really like this one
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Although engine building games are not my favourite, there is so much innovation and challenge here that I rate this a 9.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ordered original printing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.75
+
+Bought it in Italy 2016.
+
+Very tight and engaging.  Every time someone made a move, half the table would groan in pain.  Love it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+4-1. Mid-high Level
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+2-4 giocatori
+60-120 minuti
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Need some more plays to really get a good feel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Love it, although a bit slow for some people, who prefers it with 3 player.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+羅倫佐的油，中型遊戲，配合牌卡可以增加許多變化。固定回合要獻上自己的信仰忠誠度，玩過一次覺得非常有趣！
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Acquired in trade on FB/BGG 10/17
+
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.8
+My rating continues to go up after each play. This game seems so well balanced between the four card strategies. There have been times when I feel that green cards are weak or maybe yellow cards and then I see someone using that strategy to great effect. There is just enough resource scarcity at the beginning of the game to be very limiting in your choices, especially with the $3 tower penalty if someone goes there before you. But by the end of the game if you have built a good enough engine, resources shouldn't be a problem anymore and the game becomes more tactical. Player turn order becomes more critical at this juncture, so you may have to burn a turn to get better positioned, which may cause you to risk losing a card critical to your strategy. The fact that you have to balance other factors (military track, faith track) just to execute your preferred strategy is also interesting. Starting to really like this one and my wife actually prefers it to Grand Austria Hotel, which is a family favorite.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Solid worker placement game with the twist that the result of a dice roll determines the value of the workers (for all players the same). Turn angst. Being first player is important.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Played one 3 player game. Easy to tell it is from the designers who created Grand Austrian Hotel. All felt rather familiar. June 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I enjoyed my play of it but I can see this one needed a couple of plays to get a good feel for it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+So brutal, and it felt (maybe I'm wrong) less open-ended than Grand Austria Hotel. In GAH you can ruin your day at any moment but also any game system can be the key to victory. Some actions in Lorenzo just didn't seem as valuable as others.
+
+Possibly I underestimate this because I was dazed when playing, or possibly this was hard enough to put me in a daze. Who knows?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Solid euro worker placement game that requires good planning but also good tactical play in trying to adjust to the shrinking options each turn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Excellent engine builder! The 16 cards makes it quite prone to AP though, but I think it's a wonderfully-designed game. You have to do a little of everything but a lot of one thing to win, and the finite spaces makes the interaction quite interesting indeed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Mechanizm pomiędzy dice a worker placement'em. Wspólne kości sprawiają jakby każdy wyrzucał te same wyniki a następnie używał ich do wykonania akcji. Ciekawy pomysł. Gra z bardzo krótką kołderką, wiele chciałoby się zrobić, a brakuje akcji i zasobów. Dla mnie akuratnie wyważona między strategią (postaci, skupienie się na którymś rodzaju kart) a taktyką (rzut kośćmi, działania przeciwników). Podoba mi się, choć wolę Grand Austria Hotel, z którą ma kilka podobieństw (zwłaszcza tor ekskomuniki).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.3
+a pretty good euro.  LOTS to keep track of, plays in 2 rounds each for 3 ages.  Iconography not terribly well explained.  Took the first two ages just to figure out how badly I had bungled.  Would play again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ + Promo Essen 2016 Leader Card
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bnis
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+DE Heidelberger
+2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Really solid optimization Euro. Nothing really new, but the decisions are fairly meaty.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Essen'16
+Opinió després de una lectura de regles: col·locació de treballadors, es tracta de comprar cartes de un mercat central de diferents tipus i que et donen més accions on posar treballadors o bonificacions. Massa euro,
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Demoed at GenCon. Preliminary rating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Mario (x2), Pierre
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+In ZRH-EURA (locked)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I know I'm not doing the game justice, but I got so tired of the typical 201x worker placement game. 
+
+This one is solid, beautiful, everything works as intended, the AP factor is almost okay. But then it's yet another resource conversion here, block some people here, roll some dice for a tiny bit of tactical randomness. Really, it's a fine game, but (for me, in early 2017) it lacks any cleverness in design, and any excitement or fun.
+
+I'm all for mechanism over theme, but here the lack of theme does bother me. Worker-placements games can be done with a working theme: Carson City, Viticulture, Stone Age. Lorenzo is as mechanical (solid, again, I'll give it that!) as Splendor — but Splendor is a 30min affair, while here I'm looking at color-coded card combos for 2h.
+
+Annoyingly dull.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Damaged back box
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.9
+Another worker placement game. Nice dice mechanism to determine the values of the workers. 24 actions per player. Count ressounrces and convert them to VP.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Brilliant!!
+
+—-
+
+After my initial love for this game I’m starting to question the viability of alternative strategies. The way to go seems to be to get green asap, supplement with blue... then hammer the purples as hard as possible.
+
+Yellow just doesn’t seem to work. You need resources to buy the yellows, then you need them again to run the yellows and without having greens you have no way of getting resources reliably.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+17-026
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+ワーカープレイスメントの先取りの面白さがゲームの中心で、ユーロゲームらしい間接的なインタラクションを存分に楽しめる。出てくるアクションマスが序盤中盤終盤で決まっているので、先を見据えて計画が練られる一方で毎回そのコストはランダムであり、リプレイ性を煩雑になることなく担保している。ノルマを達成するかどうか選べるのも面白い。リスクを背負えるデザインになっている。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Solid! Tight! Fun! Maybe it’s seem just another worker placement style of game, whcih there’s nothing new. However, I really do love how the game flows. Always feels good when I activated the sets of card. Always a joy to play. Magnifico!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I had no idea about this game at all until recently when I saw a playthrough of it. After that I was hooked and I really want to get this game. I absolutely love Marco Polo and I really enjoyed my one play of Grand Austria Hotel as well. I guess I'm a big fan of these designers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+With: new leaders 1 & 2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Muevecubos: sencillo de jugar , mas que Austria hotel. Bueno
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Dad vs daughter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great tableau style, engine building game.  Mechanics are easy to understand and interesting.  Lots of stressful decisions because players have so few actions, but somehow need to accomplish so much.  I do wish that there were more cards so that every card didn't come out every game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Great game, exactly my kind of game. Tense, great interaction, very good choices, original system with the "0" character. Different paths to score.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+First impression, could be an 8.5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+#areaprenotazione
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+boardgameslv: Переходим к самому стоящему. Lorenzo оказалась отличным евро на размещение рабочих и развитие собственного планшета. Правда, игра почему-то обделена вниманием. И, на мой взгляд, незаслуженно. Помимо годного костяка она предлагает множество интересных идей: «нестабильных» рабочих, продуктивность которых зависит от значений, выпавших на кубиках; активацию целых цепочек карт; церковный трек со штрафами. Время партии тоже умеренное. Короче, советую присмотреться.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2 - 4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+One of the best Workerplacement Games!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Dirk's Game. Sold
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+50 no plays
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Lots of choices which gives some head ache but over all interesting game with a neat mechanic of common dice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The Magnificent Larry
+
+Early game: Purchase blue cards that enable building or running your yellow/green(optimal) engine easier. 
+
+Mid game: Assemble your engine, and use it to develop resources(chocolate Pacmans!)
+
+Late game: Use resources to buy blue(optimal) and/or purple point cards.
+
+Meta game: Roll well when you need it, and poorly when your opponents do :devil: Know and draft the appropriate leaders for the strategy you want to employ. Know when you need to be first player and when to simply be ahead of the person who's most likely to snipe your action spaces. If you don't care about turn order(foolish), make sure you're rich.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Euro total, muy sesudo. Mola un huevo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Nathan
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+I just didn't really see anything here to distinguish this from any other engine building worker placement. I like the idea on paper, and the way the four different kinds of cards all work differently is pretty cool. But in practice what you need to be doing is fairly straightforward. The closest thing to a twist is the fact that everything is so tight, especially early, but all that really does is have the effect of making the game feel slow paced and incremental as you build up enough stuff to get the one or two good cards you need this turn. There's a right way to do tight euro and this isn't it. Just not very exciting.
+
+UPDATE: I still think it's pretty stock standard engine building and I'd still want it to have something more for me to really love it, but I do enjoy myself when I play it more than a 7 would indicate, so it goes up to 7.5. I think one thing that would make me feel a bit better about it would be if you could take your bonuses in any order and use them right away. This would presumably loosen the game a bit, but I don't think by much, but more importantly it would give some more nice combo/chaining opportunities and let you be a bit more clever about getting around costs. Because it's the kind of game where you'll often be one dollar or one assistant or whatever short of the perfect thing, and so any opportunities to see that and then be able to figure out a more clever, efficient way to get what you want now rather than wasting a guy just getting stuff is welcome.
+
+I also think that I really like the leader cards, which I didn't use in my first game. They give you a bit more direction which is fine, but most importantly they give you more opportunities to just get that one thing you're short on. I think once I've decided which cards I'm throwing away I end up throwing them away pretty early to get that one last thing I need, which always feels good.
+
+I also like how like in GAH you can ignore some of the church demands as long as you plan around the penalties. In most games with upkeep the penalties are so large that you really have to follow them, and so by giving you the option to plan around them there's a bit more strategic leeway which is nice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Clever interactions and great use of a roll of three dice to determine the extent to which things can get done in a turn.  A more solitaire experience than I would normally go for.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Absolutely middle of the road. I have no problems at all with the game, but it's just doesn't grab me. Replayability strikes me as very low. Gorgeous art, but the CMoN production is a bit lower quality that I've come to expect from them. 
+
+Worth giving it a try, but nothing to write home about. Also, I'm astonished that people are calling it a "heavy" game. It takes about 3 minutes to teach to gamers. Maybe the AP it invokes means heavy to some people. Not sure.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+2017-08-27
+
+Initial Rating: 7.0 (August 2017)
+
+I think I have liked every Simone Luciani game I have played so I had to play Lorenzo il Magnifico. After playing it I can say I really like it. It is a good game.
+
+The rules of the game aren’t complex, they are rather standard and easy to explain. You can do it under 12 minutes. Playtime is around 2 hours. 
+
+Lorenzo il Magnifico is a cool worker placement game.
+
+The theme is ok but you don’t feel it through the game.
+
+The game´s components are ok as is the art. I expected better from CMON but it is good enough. The expectation was high due to the quality they always have in their games. Sadly, my copy of the game came with a warped board and with some missing cubes. I will contact customer service.
+
+Each turn, a player rolls the dice and they affect everyone the same way, so the luck factor is very low, besides you have servants that allow you to modify the number of the die for your turn. The game´s decisions aren’t obvious. You can use a family member to get new cards of four different kinds, to activate a kind of card, to get resources and money and to fight for turn order. In most instances, an action is better or cheaper if you are the first player to execute it.
+
+I really like how excommunication works, it works like a source of tension as the negative effects of being excommunicated can be severe. It feels like a thing Feld would add to his games and it makes the game so much better. There are lost of excommunication tiles so each game will be different. 
+
+We played the basic version of the game (without leaders) but I will play with them soon.
+
+Bottom line, Lorenzo il Magnifico is a good Euro game with interesting decisions (my kind of game) and easy rules. The luck factor is low because it affect the same way all the players and you can mitigate it with servants. I would have liked it to be a bit heavier but I will try it with the leaders variant to see if that improves the game for me. I will keep it among my game collection and I want to play it again soon.
+
+Current Rating: 7.5
+
+[b]Jgoyes´ Awards: [/b]
+
+[imageid=3812560inline]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+I do prefer Grand Austria Hotel... Even thou i like the mechanic with the big common dice
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Authors of Grand Austria Hotel
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not as interesting as expected, especially compared with Marco Polo.  But lots of cards make the game to be more repayable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+- I'm a little torn on this one, and may revise this in the future.
+- I love the mechanisms in this game: 
+- - building the green and yellow engines, 
+- - the dice placement (where everyone is equal unlike Marco Polo), 
+- - the blue cards that give you special powers, 
+- - the purple cards that give you end-game points, 
+- - even the church thing that can be brutally punishing. 
+- These all come together (in theory) to make a game rich in strategic and tactical decisions.
+- But, and it's not a big Minaj-like butt, but it is a but nonetheless, it hasn't yet come together all that magnificently for me, YET. 
+- I've only played this a couple of times; both times I wasn't really able to successfully implement a strategy. Perhaps because I've only played with 4 players, which makes it much harder to plan your round and obtain the cards you want.
+- It has moments, particularly near the end of the game, where it can be brutal. Things like "If I only had one more purple-dude, or one more dollar, or one more stone, I'd be able to do this and this and...". 
+- Someone can take a spot you needed that prevents you from being able to do not just one thing, but heaps of things... 
+- This is not a game where all the spots are awesome and you're happy to just pick something else. You typically have a plan to do A, then B or C, then C or B, then D.
+- Perhaps I just try a little too hard to optimise my play. I don't know, but I'm definitely going to try to achieve less next time I play this. 2 or 3 players may also be quite a different experience.
+- Don't let me put you off though, because it IS a great Euro. My struggle may also contribute to why I like this game, as I haven't been able to thoroughly milk this cow for points yet..
+- Art, graphic design and components are all good.
+- Not too hard to teach, though some of the symbology will likely have you referring to the rule book or player aid more than you'd like.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Vasel says “must play”!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I think I like it, but I need to play a couple more times.
+
+I don't like it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2017-08-29 - First impression: I really like this worker placement, engine building game. The rumors of limited replayability are, I think, exaggerated. The worker placement is tense and the game is very satisfying to play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Plus two bonus leadercards
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Fairly interesting game with lots of levers to pull. I think it might be a bit more restrictive than I prefer for this style of game. I would definitely play again but do not necessarily feel the need to anytime soon. Selling/trading away. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Quite many variants, high replayability, interactive
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+nothing new here (worker placement game) but it does have variability and interesting strategies to explore
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Game in which the turn order is key. Many options, good growth curve (that makes this game much better than Grand Austria Hotel). I liked it, but some people say that it's broken due to the character cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I had high hopes for this and its slightly under performed. Its funny I complain about designers like Vital Lacerada having too much going on in their games and that I think they need streamlining. This is the first game I have ever felt the other way about, it needs more going on.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[*** Sapphire (100/pack 50% thicker) 57.5x89mm,
+Fantasy Flight sleeve size: Mini European - Red (FFS02, 50/pack) - (1-11/16” x 2-5/8" - 44 x 68mm)***]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Compnents in good condition. Came to me shipped with small 1/4 box split in one of the corners.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
++ Houses of Resaissance
++ New leaders #1
++ New leaders #2
+@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I was pleasantly surprised by this game. I haven't been a huge fan of the stuff coming out of [company=10768]Cranio Creations[/company] but this game is deserving of praise. In fact on the medium-heavy side I would say this was my favourite from Essen 2016. 
+
+This is worker placement at its best. There are agonizing choices as to where to go and turn order is very important. Knowing when to forego other placements for turn order in the following round is key. There are 4 types of cards in the game and for 3 of those types there are strong incentives to acquire more of the same type. However, the game makes specializing difficult through the restrictions on worker placement. 
+
+There is also a resource that if not acquired in sufficient quantity every other round will cause you to suffer a permanent penalty. These penalties are on display from the start and can vary game play quite a bit as you try to decide which ones you may be able to suffer and tailor your play around. I adore games that have significant penalties like this that can be suffered as part of a winning strategy. Notre Dame, Stone Age, and In the Year of the Dragon are my typical examples of this sort of thing. Lorenzo makes this even more interesting by having a lot of variability in which penalties you see in a given game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Lorenzo il Magnifico is a dice-powered worker placement engine builder. Building up resource production first is a must. Beyond this, various paths are possible. Earn VPs from a gold engine, adventuring, nobility or religious deeds. Turn order can be of utmost importance with only one non-handicapped placement available for production.
+
+It's competently designed, satisfying for those into engine-building and completely devoid of innovation which isn't necessarily a bad thing. The most excellent part of the game is the box cover. Nonetheless, I would play a few more times to see if the Saint Petersburg effect sets in for me or not.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+BEST: 4p
+Recommended: 3p
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+The game balance is not good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1250 --> 二手
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Like the theme of Grand Austria Hotel much better, but this is more forgiving.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A very fun game. It was.much tighter and more challenging than i expected. More on the heavier side end of "mid-weight".
+
+This is a game that I think needs a lot of familiarity. After a first play, there was a total informational overload, and I fear this could bog down the game tremendously, but could change with familiarity.
+
+With that said, I really like the way the engines with the yellow and green cards worked and would love a game that really expanded on that functionality of it. Very fullfilling to get an assortment of cards, run the engine, and churn out tons of goodies.
+
+The one thing I didn't really like is the now, all too common "track of doom", like the Emperor's Track in Grand Austria Hotel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Newest game to my collection, I easily becoming a new favorite. I enjoy all the combined mechanics and how well the game plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+DMZ Games
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not great fun with 2P. Not sure how I feel about the limited engine running either.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.75
+I love this kind of game. Very Euro-y and tight and agonizing. I really enjoy the look and feel of Lorenzo. Surely better with 3 or 4.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Nel cellophane
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Thoroughly enjoyed the first play - Rosy won by a single point and we followed very different strategies. Love how tight it is, and surprisingly quite a brain-burner. Has the same efficiency maximisation puzzle as the designer's other efforts, Marco Polo and Grand Austria Hotel, which I love. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Signed by artist
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Worker placement where each worker have a power equal to a communal dice roll. Seems like a tactical-puzzle and it kind it is, because the cards refreshes every round and the dice are rolled every round as well. I enjoyed the game, but expected more... It felt long and more tactical than strategic (maybe knowing the cards helps with that).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Plays like a dream. Grand Austria Hotel is just a little bit better.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Mechanics very similar to Grand Austria Hotel, hence the game is very good.
+I played it once and I won, I am not sure that all card types are useful.
+Anyway there are several good ideas and strategies to win.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Another fun worker placement game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Luciani (Grand Austria)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Played
+Rating after 1 game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+偉大的羅倫佐 (2~4人 Best:4人)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+I need to play this more, I really enjoy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Designed by Flaminia Brasini, Virginio Gigli and Simone Luciani (2-4 players).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Buen euro, pero en principio me ha parecido más sosete que los antecesores de estos autores.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KEEPER
+Worker dice-placement - my favourite type of euro by the designer of Grand Austria Hotel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good worker-placement strategy game. Different ways to build your victory points generating engine. Seemed rather dull and uninspiring after the rules explanation, but really enjoyed my first game. Like to explore more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+This game is very smooth. and the symbols make it easier to understand.  It's Fun to struggle when the dice rolls are bad :p
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+07-11-2017 - Not bad, I was engaged throughout, but there are other games that do the same kind of things that I'm already familiar with, own, know, and love.  6 I guess, I'll generally pass on this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+3 players. A good game with lots of strategy options however so many options can cause high AP.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+solid worker placement engine building game.
+variability is present due to the use of dice.
+Could do with a few more resources added to the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A marvelous worker placement with a very witty and innovative dice influence.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I love the mechanics of this game and it comes together very nicely.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Giocato una sola volta. Le meccaniche funzionano ma non l'ho trovato innovativo. Semplicemente non mi ha colpito. Da riprovare!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+FIRST IMPRESSION:
+
+We played with the leaders out of the gate but some of them feel quite strong - perhaps due to the dice rolling that was poor for much of the game - but it also freed me from having to worry about being excommunicated twice as it helped mitigate the negative effect. This is another fairly straightforward worker placement game with a couple of twists. The towers each cost an extra $3 once the first worker has been placed and provide special cards to build your tableau and enhance your harvest, production, end game points, etc engine. There is one free spot for everyone to produce and harvest and then another common space for all but you start at a -3 pips to the die value which can be painful. Thankfully, servants are available to be used to increase the value of the die for your personal use. The faith track can be tricky but I'm not thinking that it is necessarily fatal to be excommunicated as I did well despite being excommunicated twice. Being excommunicated does result in either making a certain part of the game more difficult to obtain OR eliminates a certain end game scoring aspect from your score. Money can be tight and timing plays a significant role.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+not as great as Marco Polo, more complex, maybe a little too long with 4 players (?), but i love it
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+18/08/17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+One of my favorite games ever
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sleeves
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+This was a big let down for me as a huge fan of Grand Austria Hotel. The gameplay was dull in comparison and the two player experience was quite lackluster. Rounds can be completely nullified by bad dice rolls and the lack of diversity in cards hurts it's replayability.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I really liked the way that dice worked this game, though I think there's some potential for an underwhelming game across the board if low dice are rolled a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Francesco (a Utrecht)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a good game, it just did not click for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+On your turn you are trying to claim different locations on different tracks.  Each has a different color which does different things.  One is a production track, another is related to points, another provide production improvement another can generate points at the end of the game.  At the start of the turn, you roll some dice and these are the dice numbers available to everyone.  There is much more to the game.  
+
+I love the mechanic where you are trying to "run" your production or points engine.  This is so much fun.  
+
+This was the best game of my local convention and I found it very fun.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ars Technica Best of 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+S/G
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I'd like to play this 2-player, if possible.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Adriano
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Played once. Decent euro-game with engine-building and worker placement, but doesn't really stand out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A serious Euro from CMON?? It was fairly deep in tactics and strategy as I got trounced in my first game against some experienced players. Using the drafted leaders was very interesting and was important in some people's strategies. After a few plays, I like the game, but it seems like a game of so much PAIN. Very very tight on money and resources and actions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Exciting  heavy euro game that is more about mechanism and counting then theme and play fun. 
+
+Minus = 2 - 5 - 9
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Good game, very much like Grand Austria Hotel
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Lorenzo ist ein fantastisches Spiel! Schwierig zu meistern und ziemlich denklastig zwar, aber die Mechanismen greifen fantastisch ineinander. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3.3 - EUR50 Essen 2016.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Very addictive! My best of 2017!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+thin-themed worker placement euro that plays nicely
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Wunderschöner Worker Placer mit wieder mal einer wunderbaren Art und Weise von Luciani & Co, Würfel auf eine besonder Art in ein Spiel zu integrieren. Viele Wege führen nach Rom in diesem Spiel. Strategischer Leckerbissen.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+(4)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+13000 2017jul
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+18
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Pros:
+-A different take on engine building
+
+Cons:
+-Learning Curve with Iconography
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016. Luciani
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This game is an interesting and heavy brain burner. I like the variation of the cards and the different ways to score points. It is a bit tight on the worker placement part, though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Nice worker placement game, especially in 2 player. More players makes the game a little slow.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+in: Febbraio 2017 N (37)
+out: Settembre 2017 MT (Yedo)
+[epp 37]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Tight. Vicious. Wonderful.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Please look over my trade list and see if there is anything that might interest you for this game. 
+Thanks
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+An excellent game at all player counts. Another masterpiece from the designers of Egizia, Council of 4, and The Voyages of Marco Polo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.9
+One if the first heavy euros I got my wife to play. She loved it and hated it as she thought about it for the next two days
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Getting more into euros, and this one is thoroughly enjoyable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Rating:
+4/5
+Production value:
+3/4
+Is the game in my collection?
+1/1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Moves quickly with experienced players. Interesting choices and better play is rewarded.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Two-player game didn't do much for me.  I don't like how there is only one space for each of the "running your town" actions (activating the green and yellow cards).  It seems like the three-player game will be better with the additional space to trigger those (-3 pip locations).  Not a bad game, just not memorable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Update: brainburning, yet not much planning possible, so more tactical than strategic. Nevertheless I enjoy the challenge to play this game well, a lot. It is tough and you can get stuck if you don't get your engine running. All in all this is the most challenging game of 2016, therefore the one I like the best of the year. 
+
+WP game, but workers have different colours. The value of the colour depends on the dice roll each turn. Otherwise nothing really new, but nevertheless an interesting game. It plays smooth and quite quickly. Plenty of options, plenty of choices to be made. Solid game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Engaging mechanisms
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+This game is good! Unique take on worker placement and solid choices to make throughout. 2p is cutthroat; one potential amendment is to open up the production lines like in 3/4p. Other than that I am happy with the game and can’t wait to play it with my wife. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Wow
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+48/17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+3-2 Daren
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Disappointing. Leader cards are unbalanced and make the game very swingy. Not what I want from a 2 hour game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.6
+played only 2p, need to play it 4p.
+great design, less stressful than Grand Austria Hotel and with a lot of interesting choices.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.75
+A very smoothly functioning Euro, but that may be my problem: it is another smoothly functioning Euro. Nothing really makes it stand out and the theme in non-existant again. The Pope track is nice, but it should be harder, I think. And in making things fair to everyone with the dice mechanism, it kind of makes it pointless: we all have the same numbers and the same problems, so we tend to approach the turn in the same way. Another game where you need to time the switch from collecting resources to scoring points.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A cool worker placement engine-builder. Really fun powers that you build up and just as it's getting overpowered, the game ends.
+
+The unique cards drafted in the beginning seem a bit unbalanced, but they are quite good. Would love to draft more cards and not see all of them each game.
+
+Please add 200 more cards!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3.22
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Tactical Cube-Churner . Marco Polo is the better game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+
+Stored in bitbox small. Original box stored in Box #X at Dad's.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Cool dice placement system where everyone has the same roll. Turn order is critical and resources are tight. When your engine is humming, you are steamrolling. When it's not, you are not. Intriguing and fun but inferior to Grand Austria Hotel and Voyages of Marco Polo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Par l'auteur de Marco Polo, autre excellent jeu que je lui préfere d'ailleur légèrement. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Origins
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.2
+A very bland euro, with all theme stripped away. The mechanics work fine, so if that's your thing, sure, this will be great for you, but it just doesn't do anything for me.
+
+Ironically these are games I'm good at...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+2-4
+Oh my! What a crazy fun game! It is so hard! This game is amazingly compelling. Even while making such HARD BRAIN CRUNCHING CHOICES you have a great time. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Tight game. Zillion options, although you can afford only a few. What's more, those few are still too many and you don't know what to choose. First impression - interesting. 
+
+Edit: 
+After another try, in the advanced mode, the game showed its entire beauty. Easy to learn and play, however difficult to decide what is the best option. An extremely short blanket. Something I like the most. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+There's unofficial solo variant which is made by a Spanish game designer. 
+It seems excellent. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I'm very enthusiastic about Lorenzo il Magnifico. Once you have played a few games, you understand the arc and flow and you can better assess what cards matter for your purposes. But you also have to keep an eye out for your opponents. This is not a solo point salad. It's a tight game as you are often pressed to get the card you really want. But there's almost always an interesting alternative. Also, even if you fall behind midway through the game, the cards in Phase Three are so powerful that you can launch amazing combo comebacks. The replayability is enhanced by the skill factor and the leader cards. It's tense, smooth, and very interesting. Brilliantly done!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I had no fun playing this game; in my opinion, rajas of the ganges is much better
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Nice game!!!!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I'm shocked by how boring is this game! It's a tableau builder - like Race for the Galaxy or 7-Wonders - but rather than facilitating tableau building, the games constantly gets in your way! The rules prevent you from doing what might be the fun thing: building a tableau and running your engine. There are too few actions, too few rounds, too few cards, too few worker-placement spots, there's just too little to do in this game to make it fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Comprato a seguito del ComiCon di Napoli pochi giorni fa. Ero assolutamente contrario a quella grafica vista nelle recensioni. Invece, non appena ho aperto il pacco ed iniziato la defustellazione... mi sono reso conto di avere davanti un German di tutto rispetto. Eccellente il gioco.. gira davvero bene, dicono in 4, ma in due è un puro divertimento e funziona benissimo.. sopratutto quale allenamento per sfide in 3 o 4 giocatori.
+Consigliatissimo... sia a neofiti sia ad eaperti.
+Insomma, la Cranio mi ha sbalordito.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.6
+Preordered at 401 with Mike
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+2017 juin
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+There aren't enough actions in the game to overcome the randomness.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+BFB 2400 2017/07/27 3pm
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
++exp
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+Very unforgiving engine building euro, but/and a solid one. I like the ostensible simplicity of it: you place one worker and that's your turn. Plus I tend to love dice-placement as a mechanic, even though here you don't place the dice per se; you place your workers based on the value of the dice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Solid Euro using worker placement mechanism, just not one I care to own.  If I was going to acquire another Euro with a boring theme that uses dice to limit what you can access, it would be Grand Austria Hotel.  At the end of the day, a rather forgettable title in my book.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KEEP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Solid game. Intense blocking. Be warned though that your first play will be more or less spent learning the cards. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Got it from APEK 2017-06-15 for 529 sek. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+interesting system, good looking elements, some adaptive strategy to develop. a solid 8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.3
+Very interesting game with influences from the designers other games seemingly strong throughout the game (Marco Polo & Grand Austria Hotel).
+
+Extremely tight worker placement with 4 players with difficult decisions throughout the game on where you should go with which worker to get the most benefit.
+
+Almost always felt that you had spots "taken" from you by your opponents and a constant struggle to get the resources you needed to build your "engine" and run it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A very euro-y euro game. I wasn’t very excited about it. I’d play it again, but probably won’t seek it out. It felt like all player interaction was accidental and not because you were trying to stop someone.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I’ve been avoiding this one for the better part of a year now for two reasons: I heard the math is brutal, and I heard it’s a bit of a point salad.  Both of these statements are... kiiiinda true.  But the pain of the math only makes your decision more meaningful, and the point salad isn’t as blatant or as freeform — you’ll need to excel in about three of about five categories in order to truly succeed.
+
+It’s a game where you truly feel the weight of play.  And I really can’t recommend it enough.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.1
+Gioco ruffiano perché alla fine è anche bello e lascia la voglia di riprovarlo. La gestione dei dadi ha elementi in comune con Marco Polo e il gioco non spicca per originalità ma rimane comunque gradevole. Consiglio di giocare da subito con i leader e il draft. Insalatone di punti finale. Gioco solido con forte interazione e una componente aleatoria abbastanza bassa. Promosso ma non con il massimo dei voti, infatti dopo poco l'ho rivenduto.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Guia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+[b]Lorenzo il Magnifico[/b] 
+
+[COLOR=#FF0000]Initial thoughts and rating (8):[/COLOR]
+
+[i]I enjoyed my play of Lorenzo, the twist to the dice drafting mechanic works quite well and ended up being really tough to manage. 
+
+When playing Lorenzo, instead of each player rolling dice and drafting tiles/cards (like Castles of Burgundy) there is a common pool of dice rolled and players have pawns that correspond to each die color. This removes any player discrepancy between dice rolls, meaning everyone is going to be fighting over the same spaces using the same dice. Because of this, there is an increased importance into watching what your opponents are doing and having to decide how long you think a particular action or card will be there.
+
+Outside of that mechanic it is a straight forward engine building Euro, collect resources then run your engine. However; the game is relatively quick, you will only have 24 actions all game making the decision of when to start running your engine important. There are also straight VP cards you can get which is actually how I won, I focused on getting money and buying cards that generated points directly versus building an engine. This offers some needed variety in how you can play the game. 
+
+The dice drafting mechanic is enough for me to recommend trying Lorenzo. It drives how the entire game plays out and introduces a lot of player interaction. The question I'm left with is whether or not Lorenzo would see a lot of play in the long term or if seeing the same cards each game would end up limiting how often I'd want to play. For now I am content to play friends' copies when the opportunity presents itself; still it's a fun game I'm looking forward to playing again.[/i]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+規則:
+*將發展卡照顏色分類並照牌背數字也分類疊起洗勻I在上III在下，懲罰標記照背面數字三個時代的各抽一個放在圖板左下，剩下移除，大的資源一個代表五個，根據人數把不使用的地點蓋掉
+*每個玩家拿一個個人圖板，跟一個獎勵版塊(使用同一基礎面)，拿同一顏色的四個工人柱(有一個柱體白色但是頂端同色)，跟三個方塊，圓片標記放在分數0，軍力點數0，信仰軌0跟順位軌，再拿起始2木2石3僕人，隨機順位放順位軌，照順位拿5/6/7/8元
+*遊戲進行六輪，每兩輪一個時代，一輪有三個階段，偶數輪有額外的階段
+A.輪設置  抽四張對應顏色的發展牌放到對應顏色的圖版柱上，總共放12張，起始玩家丟三顆骰放到骰子區
+B.行動階段 玩家輪流行動，一次放一個工人並啟動上面能力，放置時工人的骰值跟對應顏色的骰值相同，要大於等於行動格骰點才能放在該空格，白色柱視為0點，每支付一個僕人增加一點，如果要放置的該塔已經有其他工人則要支付三元，同顏色塔不能有同顏色的玩家柱子(白色不算)，每種腳色上限6
+1.拿塔上發展卡，放置工人拿對應層的發展卡，有四種類，該格上如果有獎勵直接拿，卡片中間是馬上獎勵，下面是永久效果
+>領土(綠色)  要放在個人圖版下方列最右方空格，且目前軍力點數要大於放置位置上的標示，上限6張
+>建築(黃色) 支付左上資源放在圖板上方列最右邊空格
+>腳色(藍色) 支付左上金額放置在個人圖版右下旁邊
+>冒險 要花資源或是有對應軍力軌，放在圖版右上旁邊
+*獎勵有 提升對應軌，馬上拿對應骰點位置的對應顏色卡，不用放工人(可用僕人增加骰點，額外金額也要出)
+*永久效果有 執行對應行動時獲得資源或是資源轉換，執行特定行動時加骰值或少花資源
+2.收成或生產  大格區放工人數不限制(骰點-3)，放置時啟動自己所有對應符號的卡，骰點小於啟動的骰的都可啟動一次，同顏色工人不能出現小格跟大格(可用白色柱)
+*使用資源轉換效果時，資源必須在一開始就有，不能再當時獲得再轉換
+3.市場 每個一個人放，放完拿上面獎勵
+4.會議皇宮  無工人數量限制，放的時候照順序擺工人，拿一個卷軸獎勵跟一元
+C.梵諦岡報告(偶數輪) 根據目前時代，如果玩家的信仰值大於目前時代需求，可選擇支付全部換分數，否則就要放一個方塊在目前時代的懲罰標記上面，最後一輪不管有沒有滿足都換成分數
+D. 輪結束階段 棄掉所有圖板上發展卡，根據會議皇宮的順位調整順位軌，沒放的相對順位不變
+*第六輪結束遊戲結束，領土那最右邊格最上面分數，人物根據張數拿對應表分數，冒險拿卡片上面分數，軍力軌照名次拿5/2分，第一名平手都5分沒第二，第二平手都兩分，所有剩下資源五個換一分，平手比順位
+***進階規則****
+*起始個人獎勵版塊翻面放置，反序選取，領袖卡每人發四張，輪抽到每人拿完四張
+*領袖卡當符合上方需求時可打出(無限制次數)，每輪可以使用一次下方功能，使用完蓋掉，依舊要放工人，手上的可以棄掉來換一個卷軸獎勵，每輪結束使用過的再翻回
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Good and deep game. Lot's of options to score points. Dice mechanism is interesting but doesn't really add a lot of value or differentiation. Gameplay could be better, a bit too much AP for some players. Good game though that I wouldn't mind to play more often.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A gratifying Victory point-driven Euro, Lorenzo is one of my favorites to play with Paulo. Even for two players, there is much to contemplate and leads to some AP which can detract from the full enjoyment of this game. There are multiple tracks, multiple towers, and many variations on powers, benefits and ways to score VP. I have yet to beat Paulo at this game and I think it comes from my obsession with being first every round or from dominating in every type of card in the game when that's not really the point. Set collection, resource management and worker placement mix together to make a fun, if a bit dizzying, experience. Great game, but I doubt I'll get this to a table of four people. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Copies: 1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+Brain burner. Too much import on turn order, for my liking.
+
+Do enjoy the interwoven card strategies and how they play off one another, and the amount of standard moves in case cards are not an option. 
+
+Would play it again and heavily focus on efficiency of actions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+The game is based mainly on the worker placement mechanic, but this placement is regulated by the value of dice common to all players, variuos strategies can be pursued, balancing wealth, farming, production, military power, building, recruiting important characters of the periods and pursuing endeavours, paying attention to the power of the Vatican, that rules the faith of the people and demands its toll.
+During the game, in six turn of play, the gamers will interact deeply, having many choices each turn to accomplish their goals.
+I like very much the context of the game and the logic adaptation of each element to the storic period, also the balancing between variuos strategies has been well thinked, avoiding well know winning strategies so hated, but letting an high re-playability, trying new strategies to win; very clear also the symbols on the cards and board.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Liked this a bit more than Grand Austria Hotel. Icons easier to understand. Nice selection of rotating cards to to choose from, quick turns, and enough decisions to keep it interesting. Good combos abound and always enjoy dice used for worker values. Blocking works well. 6 rounds is enough. Managed to buy 8 ventures in last game and get three leaders out. (Score 109) Works very well two player and plays in 60-90 minutes. No ridiculous 4 hour playtimes like great western trail or terraforming mars. This hits the sweet spot for us. Medium weight, easy to learn, fast play, easy set up.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Shares designers with The Voyages of Marco Polo and especially Grand Austria Hotel. The worker placement from Marco Polo doesn't work for me paired with the scoring penalties from Grand Austria Hotel, both of which I prefer to Lorenzo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Rumor has it that this game is extremely lacking in variability and replayability.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Lorenzo il Magnifico is a dice worker-placement game in which everyone gets the same value dice--three colored dice are rolled every turn, and players have pawns of those colors that are considered to have that many pips. The dice are mostly used to draft cards from the board, with some cards occupying spots that require more pips. There are four types of cards, but mostly they have a cost, an immediate bonus, and then have text that can contribute to an engine you're building. The game felt very tight to me, there were a ton of different strategies to pursue, and I loved the engine building aspect.
+
+(5+ plays)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Must Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
++ Houses of the Renaissance
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Euro
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Not too difficult, not too fiddly when you have learned the game. There are indeed different strategies to explore, and the Vatikan report is a nice thematic twist to handle. Very good and strategic euro game with a fantastic look!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Category:
+
+Renaissance
+
+Mechanisms:
+
+Card Drafting 
+Dice Rolling 
+Variable Player Powers 
+Worker Placement 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+At first glance this game might be similar to GAH. An earlier game by Simone Luciani. I am happy to report that this plays and feels different. This definitely has much more interaction and I feel a lot more open with meatier decisions to be made. A lot more harder to work out your chain of combo compared to GAH. Great game and had lots of fun each time. Even a friend who usually likes Ameritrash games has taken a liking to this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This had some good comments and I can confirm them (but I don't think it's 11/10, like Ellen's rating): this is a solid design where you have to find a balance between production of goods, money and workers to manipulate dice and scoring points. But I'm wondering how replayability is, as it are always the same cards that come into play in a cycle of 2 rounds. This game probably needs an expansion with extra cards to keep it interesting over a longer period of time. But for now, it deserves it's 8/10 :-)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+seems like an interesting game based on reviews.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Fantastic!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Not my favorite of this designer, but a great game nonetheless. I can't fathom playing without the advanced version, because the goal cards can be returned for a minor favor which in a game this tight is a strong feature.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+So very, very good! First time I played it, it left me a little confused and even wondering if the game was out of balance. Every time I've played since has proved to me what a truly terrific game and how beautifully balanced it is. Lots of great combinations to discover in the quest for victory, the dice mechanic is very clever, the Church mechanism provides some excruciating decisions, and the leaders are the cherry on the cake. Fabulous design.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Too rigid and unforgiving for my tastes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+New Euro hotness! It is definitely a top game hot from Essen. lots of great decisions. I love that everyone gets to use the same dice roll and make it work. Had a major rule error in the first play so I definitely look forward to getting it back to the table with the correct rules. Card drafting for tableau and engine building. Very cool and some randomness with the dice but can be mitigated by extra workers. Lots of paths to take and is super cool. Solid game and will be on my shelf for a while!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+In this game, three dice are rolled. Each player has one worker with a matching icon on the top. These workers then take on the strength of the corresponding die allowing them the ability to take action spots on the game board that don't exceed their strength requirement. The game has four colors of cards available for you to choose. Each card color has it's own sort of specialization path. In a single game, your goal is to more or less max out one path, and grab as many extra points as possible from the other paths, while trying to not be punished by the event that happens every other turn. Despite the presence of dice, this game is very low luck. The die value can be amplified for your action by spending one of the resources, so the only real luck in the game is the order of cards that come out. There's a lot of player blocking as the form of interaction as the game is extremely tight and very rewarding of being the first player to place into an action area. I very much enjoyed trying to get cards that worked together, while predicting my opponent's next moves to try and get the most efficiency out of my resources. I found this game to be very compelling.
+
+:star: Art, Iconography and components functional
+:star: Clever or interesting mechanisms
+:star: Reasonably low downtime between turns with mildly AP players
+:star: Multiple plays stay interesting
+:star: Low or mitigatable luck elements
+:star::star::star::star::star: Raw enjoyment
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Need more "tower" cards to prevent people from predicting what is coming. Otherwise, excellent.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Tolles Spiel mit Würfeleinsatz. Viele Möglichkeiten. Gefällt mir weit besser als Marco Polo, wo ja auch Würfel die Aktionen steuern. Excellent
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent Euro-game, played a 2 players game with my wife and we both enjoy it so much, the theme is spot on with mechanics that is well suited for the theme. Work placement and mechanics interlocks are really interesting. The game is a bit heavy euro but once you get used to it, it is easy and make sense. The only complaint I have is some minor rules are not clear in the rule book and generally is not well written, but you can find the answers and clarification you need in the forum or the FAQ file.  
+The game after that works really well and I can say it is a really tight game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very addictive engine building worker placement game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+We got a test run played out.  We were missing a blue level 3 card and we didn't know what we were doing at first, but it looks like a fun game.  Will watch a few how to play videos and wait for the blue card to be replaced and then play again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Good game, feels a bit like Grand Austria Hotel, being from the same designer. Worker placement, with different die strengths for each worker in every round. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Played at: Jonathan's
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2–4 Players. Playing Time: 60–120 Min. Age: 12+. Weight: 3.21 / 5.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Birthday gift 2017 - Rafael - thks CP :)
+
+Combo eurogame with the same "feeling" of Grand Austria Hotel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Includes the New Leaders promos, both #1 and #2.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Tablerum
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This is one of the best game from 2016! 
+
+As usual from Simone Luciani, the gameplay is very thight, you only have 6 rounds to do everything, and the economy of the game is usually very scarce. 
+There are some aspects of this worker placement game, that make it stand out among its kind:
+- the variable (but equal to all player) worker power level, which is determined at the beginning of every round. 
+- the unique production/harvest mechanics, and the combos you can build around it.
+- the different one-off and repeatable powers, the different development cards can grant you.
+
+In some aspects the game is similar to another game in Simone's library, Grand Austria Hotel (Vatican report = Emperor track, luck mitigation, etc) but IMHO this is the better game. It offers a more strategic approach, while Grand Austria Hotel was more about opportunistic tactical manouvers. 
+
+It definately replaces GAH in my collection. 
+
+This is the first truly eurogame from CMON, but the production quality is topnotch (on a eurogame level - you won't find the miniature of Leonardo da Vinci in the box :)).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This could end up among my favourite games. Need to play it a little more with all player counts.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Too much going on with limited ability to influence it. One of those games where sometimes it feels you are the whole time praying that the players before you don't put their workers on that specific space because it will ruin your only good move. And it feels like work!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+di VIC
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spiel ? check out- Tzolkin makers
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2017.07.24
+Fantasywelt.de
+35,96
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Always use the leader cards. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.151
+I had my ups and down about this game while waiting for its release. Thankfully I was on an "up" when it came out and snagged a copy before it went out of stock. It combines two of my favorite components in worker placement and engine building. It's a clever game with good choices. I saw several viable paths to victory. Also, the "church track" was implemented in a fantastic way. Use your progress to avoid the penalty the rest of the game, but go back to 0 in the process and have to work yourself back up. Also, you can base your strategy on the penalties and just never care about the consequences in order to free yourself up to work on other things. Bravo! 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Um euro bem saladão de pontos, muito bem feito, engaja, mas não consigo escapar de sentir uma coisa meio genérica nele.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Krat: 11
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Solid game. Sessoms taught me this one while we were at Origins 2017. I bought it there immediately. Love the game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Donald owns
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.75
+Not sure about replayability as the same cards will always come out each game.  Otherwise a solid game, although the mechanics are nothing extraordinary.  You use your workers to get cards, build up an engine and grind out resources and points.  Not as complicated as it seems and fairly easy to learn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Still wrapping my head around this - we love Grand Austria and Marco Polo, and I like this, but we don't connect with it like we do those two.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I didn't dislike this game, but I was incredibly frustrated by it - never seeming to have enough actions, or resources, or money to do what I actually wanted to do.  There were some nice ideas in it, and I'd play again, to see if it's less frustrating on a second play!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Played a 4 player game. The rule seems complicated at first but it is actually quite simple. You have 4 workers and you can assign your worker to different places depends on how you want to build your engine. There are many strategies you can try and it really comes down to how well you plan your engine. The weight of this game is perfect for me. There is enough depth in this game and I don't feel overwhelmed. Great one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It's an OK worker placement game.  Very unforgiving to new players.  Lacked replayability as you see all the cards just in different order.  Solid mechanically, but just not fun enough to be worth keeping.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Interested in this, but will wait for (hopefully) second printing, for all the printing issues to be sorted out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+THIS MESSAGE IS YOUR PREORDE CONFIMATION.
+PRINT IT AND CARRY IT TO OUR BOOTH A-118 HALL 1
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+Another euro worker placement game.  While many of these are starting to feel similar, I like this game nonetheless.  You can never get all the things you need to make the most out of your turns and your opponents will constantly block what you want to do next.  But that's what makes the game challenging.  Don't ignore the faith track like I did!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Lorenzo is a really tight dice placement game where everyone has access to the same dice. There are some similarities to their other games, such as the faith track resembling the emperor's favor track in Grand Austria Hotel. The leaders you draft and the order the cards come out can push you down very different strategic paths.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+12
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+:) Unique worker placement
+:) Good engine building choices
+:) Wiked pope mechanic that is pretty interesting
+
+:soblue: Generic scoring
+:soblue: Boring scoring
+:soblue: Dry
+:soblue: No round marker
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+5/22 Cardhaus $47.99. Arrived 7/29/2017.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Plays well with 2 players, a game where you feel that you have be careful not to over reach yourself and decide whether risking ex-communication is worth a better gain elsewhere. Money always seem short, and interaction guaranteed for harvest/production spaces.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played once with 4P. Lorenzo's complexity lies somewhere between Voyages of Marco Polo and Grand Austria Hotel. Its twist on the dice-driven Euro is that players' workers now follow the value determined by a common pool of dice, which helps mitigate the complaint of being personally screwed over by a poor roll. 
+
+Apart from that, Lorenzo follows the broad outlines of a generic Euro – players are pulled in several directions trying to fulfill in-game objectives and dodge penalties, yet focusing on any of the four card types is rewarded as their VP payout becomes more efficient the more you collect them. While the game provides a challenge, it plays a little too safe in terms of design and doesn't offer anything really unique in terms of decision space.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Played this for the first time last night and it was a blast. Very impressed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great Game!!!! A little better than Grand Austrian Hotel!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nothing particularly fresh about this one but it hangs together well.  Lots of tough decisions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.9
+[b]Upgrades[/b]:
+-Insert (Meeple Realty)
+-Metal coins (Artana - Renaissance)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+It's a more straightforward less dynamic version of Grand Austria Hotel. Too much effort is spent fighting the friction of the design. The intent seems to be that the system prohibits you from efficiency so rather than enjoying all the fun engines that you create. Instead, you waste time and energy feeding the dull church track or getting more workers so that you can afford to actually take the turn you want to take. Worker placement doldrums at their most typical.
+
+Obviously these designers are fans of delayed gratification, as demonstrated by their standing in line on wheels game. I just prefer to get to the meat of the game without piddling around doing other upkeep. My life is already filled with domestic upkeep, I don't want to waste game time on it as well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Rahdo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+No language dependence
+Cranio Creations (1-A118) 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A LOT going on!  And very long.  I love the designers and I know it's a solid game, but I don't need to play again.  I'll give them a pass for now.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.2
+------------------------------------
+------------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+On a par with Stone Age, Kingsburg, or Lords of Waterdeep, just newer, that's all.  I do my best to avoid worker placement games, so I'm far from a connosseur, yet even I was unable to identify any new ideas in Lorenzo.  Games like this are not competitive or interesting enough for me anymore.  "Magnifico", indeed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Originality (1.0/1.0)
+   Theme (0.25/0.5)
+Pure Fun (0.75/1.0)
+Replayability (0.75/1.0)
+   Strategy/Luck Ratio (0.5/0.5)
+   Scalability (0.5/0.5)
+   Parity (0.25/0.5)
+
+Overall 4.0/5.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+1) Theme & Thematic Integration: 4
+2) Presentation / Aesthetics: 7
+3) Replayability: 8
+4) Game Length: 8
+5) Depth: 7
+6) Streamlined gameplay / Elegance: 7
+7) Tilt: 7
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I like T'ZOLKIN and Marco Polo very much. And Lorenzo is good but not as good as these. Most elements feel like good all friends, that - in this combination - are a perfect team. The church-component is a nice new idea. Like the mechanism with the 3 dices. 
+
+But: It's economy of scarcity »at its best« - probably too much. The lack of resources fells like it is in Agricola - not charming. There could be a better feeling by playing, if there would have been not such hard restrictions. For me it's much. The basic action e.g. should be possible with the neutral zero-marker. Otherwise you loose one action, if you have not saved one servant. That is frustrating. And it should had been possible to construct production lines with the yellow cards. That's what makes fun for players. And the challange would stay as well with these relieves.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+(T$)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting new elements to a worker-placement game, with values constantly shifting on where to assign those workers.  I love the idea of having servants that can increase the power of the placed workers.  I just wish that each color of pawn (black, white, orange) had an additional gameplay element that would make each dice outcome even more eventful.  Other than that, I love the card towers, the empire-building, and how tight the board is for resource collecting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+This is one of my new favorites. I just can't wait to play it again and again. So smooth and delightful to play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Too many cards to read.  We don't need half this complicated a system.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+One of the best games I've played in a long time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Super dry. When people say "I hate brown games" this is what they're referring to.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+
+Incredibly tight but very fun and exciting resource management and tableau building game. Playing it you get a sense of progression and on later turns it is very rewarding to activate your harvest or production chain. Multiple paths to victory together with semi-random card distribution and many different church punishment setups give Lorenzo a good amount of replay value.
+
+All cards will be available each game at different stages and you benefit greatly from having knowledge of their effects and cost range. Therefore I would say that the game is best experienced from your second game and onwards.
+
+Try to make sure you start each round with enough resources to be able to take cards that fit your strategy. The penalty for coming second to a tower is steep. 
+
+In the early game you want to specialize in 1-2 areas and activate 1-2 leaders. In the last age you run your engine and take whatever you need for the most points.
+
+I recommend to play with the leaders as they have fun effects and gives you both strategic and tactical flexibility.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.7
+Typcial Italian school of game design - pretty much reminds me of Grand Austria Hotel. But contratry to the latter Lorenzo does not work as well. Production and Harvest strategies are obvious and very powerful. Money management is tough and I am not sure that the different resources have been balanced in their use regarding each other.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Like it's name, this game is magnificent! Somewhat similar, but even better, than Grand Austria Hotel (a fine game in its own right).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Quick and short and to the point. Definitely has a lot of weighty decisions involved and some other interesting combos going on.
+
+My biggest complaint about the game is how short and tight it is. A single wrong move can cost you the game and there can be situations where some kingmaking could come about. Plus, some of the randomness can be hugely swingy for players considering how impactful each move is. Still fun and something that I'd play again, but I'd also like to see the expansion as the base game seems pretty limited in variety.
+
+EDIT: Rating down slightly due to the repetitive nature of the game. You see every card every time and it leads to some stale game play once you know all the cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Q2 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+170 zł
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+one of the best games of 2016.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+tl;dr: solid euro
+
+This game introduces a new novel mechanism I don't remember seeing this before: dice in 3 colors are rolled. These determine the value of the 3 workers in corresponding colors for each player. And, this being a worker placement game, influences what workers can be used where, as different locations require different minimum values of workers. Of course there are ways to mitigate the luck involved. Pretty cool.
+But one cool mechanism does not make a great game (there are noticeable exceptions of course). But on top of that, there is a very solid though pretty standard engine building game.
+So all in all this is a solid offering. The biggest knock I have on it is that the artwork won't be to everyone's taste, and that the price is pretty high of the box contents, especially in the US reprint.
+
+Initial rating: 7.3/10
+BGG scale: 7/10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Good mix of action action, engine builder, card drafting.  The faith track is reminiscent of the emperor track in Grand Austria, but much much more punishing.  Some good combos are possible with the right mix of cards. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Vin d'jeu: french review & video of Lorenzo il Magnifico http://www.vindjeu.eu/2017/06/26/lorenzo-il-magnifico-video/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Medium weight, really stylish,
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Despite the fact that it's your run-of-the-mill themeless resource conversion engine builder, I really like this game.
+
+Prefer this to Voyages of Marco Polo (which is very similar) primarily because it's not as frustrating, and the shared dice worker placement is a better variable than MP's gobs and gobs of city cards.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Collecting four classes of cards with four meeples (well, posts) over six rounds, you try to earn points several ways. A lot of green or blue cards generate points in a roughly triangular pattern; yellow cards generate points from actions (which are very precious); purple cards generate points at end of game. You can also generate points with faith, and suffer various penalties if you don't sacrifice that faith in certain rounds.
+
+Second play: Still like it more than the designer(s?)' Austrian Hotel, but it's almost like In the Year of the Dragon: juggling too many requirements with too few resources--not a fun feeling for me. Lorenzo seems to be on the side of tension not disgust, but I still feel I'm fighting the game too much.
+
+Blocks off actions to play with fewer than four. Not my favorite method. Feels like an afterthought.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Brilliant game, with a lot of interaction and clever use of dice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.2
+Buona la prima impressione: molte le strategie perseguibili ma il tema non traspare per niente. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I didn't really like it at 2 player but man its fantastic  at 3-4 players.  Love the art and general vibe. A excellent worker placement game that is beautifully tight, deep and yet smooth and easy to play in a perfectly reasonable amount of time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ema&Nico
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.9
+Just a really solid, engine building, worker placement game. I've played it with multiple player counts and oddly I find that with two and four players is where you have the most 'mean' version of the game, and great tension, while three player is slightly more relaxed.
+
+I wanted this game so badly for quite awhile because the engine building looked so damn good, but I happily found that all of the other mechanics work really well also. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Nothing new, but good and fun mechanic.
+Have some AP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Com Carlos VIII e mais alguem
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A worker-placement game with the twist that the workers have different values each turn via the roll of dice (although the different values are the same for all players). There's quite a bit going on in Lorenzo Il Magnifico, but usually not so much that the proceedings bog down. I'm  not sure much of the theme shines through the mechanics, but the game is challenging and player choices are interesting. Need to play this more to see how much replay value it has, but enjoying it quite a bit in the early going.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Solid, tight worker placement game.
+
+A couple of small concerns: If you consistently get low die rolls, it seems like the game could get a little boring. Higher dice values give you access to more placement spaces, so if you got statistically unlikely low dice rolls it seems like you could have a game where players are all pretty limited. This didn't happen in my game so it may prove to be unfounded. Also, as Rahdo pointed out in his video, the game wouldn't be very good with two players. Because the game is so tight, it would be pretty easy to crush someone's plans if they're pursuing certain strategies. With more players you have slightly more wiggle room.
+
+Other than that, it's a perfectly fine euro game. The leader cards are nice as they give you something to work toward, but at a certain point it may hinder you too much to try to pursue one.
+
+Rating could go up or down with more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This blends worker placement with the variety of dice rolls from round to round. What this does differently from other dice-driven, action-based Euros is that the dice are not your action markers. Instead, the dice just change the value of each of the three different colored worker pawns each player has every round. So, you're essentially all dealt the same, random challenges. In the end, I think it creates a game where the person who creates the best engine for all possibilities will get more opportunities to pull ahead.
+
+I like it and I'm excited to try it more. Initial rating is an 8.
+
+::UPDATE 1/31/18::
+
+It's now ranked #3 on my all-time list. It's just that good and it keeps delivering a great combination of challenging and satisfying. This is just medium-heavy blissfull game play. I highly recommend it. My wife even went so far as to say she likes it more than Troyes. That's really saying something. Troyes has been on a pedestal for a very long time for her.
+
+So happy to have it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+H6
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Fantastic, elegant game. Quickly becoming my favorite designers!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.4
+3.24
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+great game played it a couple of times with mero ' on disco
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Super solid euro.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Lorenzo was a game I really wanted to try. I'd heard good things, but hadn't investigated enough to know what it was about.
+
+Every player has 4 workers. What these workers can do is determined by how many action points they have. For three of these workers you roll a die to determine how many action points they have. The same roll sets the value for all players (each player has an orange, black and white worker and your roll those colored dice). The fourth worker never has any action points and you have to spend extra worker tokens to make it have any action at all.
+
+There are four rows of cards (blue, yellow, green and purple). Each color decks is divided into 4 ages and each age will last 2 turns (the game is 8 rounds). The later cards get more powerful and more expensive. On your turn you can place a worker in the card row to take a card... but every card spot requires an increasingly higher action cost the further out you take a card from (but also give you a bonus thingy for going there). As the cards come out randomly there's nothing that makes the more expensive action point spots necessarily better than the lower ones. If you take a card, you must pay the cost on the card (and 3 bucks for every other worker in that card row). You get some immediate bonus (usually) and some ongoing ability or points.
+
+Other uses for workers are to determine turn order, "operate" your green or yellow cards, or take some bonus goody spots. There's different action spots to run your green cards and your yellow cards. When you run a color, all the cards of that color on your tableau will potentially be run. It depends if the number of action points that the worker you send to run the cards equals or exceeds the value needed to operate the card. Also, the first person to run a color does so without a penalty. All subsequent workers do so at a negative three action point penalty.
+
+Green cards mostly get you resources and yellow cards mostly get you money and points. Blue cards typically give you some ongoing ability... and there's a set collection thing for blue cards where having more and more of them gets you more and more points at the end of the game. Purple cards usually give you end of game points.
+
+There's a defense track which gives dinky points at the end of the game for the first and second place players on them. Many of the Purple cards have a discount where you can pay in defense instead of in resources. There's also a Faith track that you can advance on during the game. The further out you get on that track the more the points increase for every advance... but there's a reason you probably won't go very far on it. On the second, fourth and sixth round, your faith will be tested. You have to either reset your faith track to zero (taking whatever points you had gotten to) or be excommunicated, which is just a fancy way of saying you take the penalty on the relevant banner. These are randomly chosen at the beginning of every game.
+
+I enjoyed this game. All the cards come out every game, just in a different order. There's a lot to think about. I definitely want to play this one again. I enjoyed my first play quite a bit.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Mit der Erweiterung:
+
+Houses of Renaissance
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Surprised how much I liked it. Not much of a worker placement fan, but this ones as comfortable. Ways are available to counteracting boxed in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Sour-faced euro.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.3
+Playtested many times.
+
+I recently played the final published version: this game is a masterpiece among the worker placement games.
+
+The top features of the games:
+1) Full information for all players
+2) Zero alea, but a LOT of variability turn by turn (common dice roll) and games by games (excommunication tiles and card position)
+3) A LOT of drafting interaction with high tension over the whole game
+4) Lot of different strategies to be adapted to the particular game scenario (cards / leader)
+5) Great engine feeling (two engines on your personal board and a lot of "combos") 
+
+In my view, the most intersting design feature is the simply, but cleaver idea that cards have two cost components: a fixed one (printed on the card itself) and a variable one (depending on the position of the card in the tower and opponent drafting to be paid with servants and money). Therefore each card gets a different total cost during each game, maximizing the interest on choices, since you have to evaluate "just in time" cost/benefit of any new card purchased according to your actual strategy line.
+
+The second one great feature is that cards are very specialized by kind (territories for resources / charathers for bonus and extra actions / buildings to convert resources / ventures to victory points or strong rewards). This is very important to organize the board analysis since you have to evaluate 16 new available cards each round.
+
+The third one is that all the cards of the game are available along the game. This allows experienced player to organize deep and long term strategies from the first round. But you have to organize your resources and actions in order to adapt your steps to the specific game condition (dice / card position / leader / opponent draft).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Luke
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Rating is for the advanced game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+played solo variant rule only
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Base game rating 8, added houses of renaissance XP rating 8.5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+60-120 minutes
+2-4 players (best for 4)
+Weight 3.23
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+pretty standard Euro, but super fun! I love the designer and thing this is easily his most coherent and fun game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+It is good for two players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.9
+2016 Cranio
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.8
+I have played this game. I enjoy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+en mecatol
+
+sin enfundar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+French
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Played this once; never again. It was a long drawn-out worker placement game about getting victory points. I still really don't understand the theme, or how it fits in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Wasn't bowled over after all the hype but not a bad game. Not sure about replayability as the cards are sorted by age but I hear an expansion is in the works. Feels similar to Grand Austria in that you have to chain things but here there is more of a production chaining engine you can build and also no real dice drafting like in Austria. I'd say this is WP, engine building, and efficiency maximization. I think I like Grand Austria more as an experience because the theme is great and the synergies feel more fun. This game suffers a little from the dry Euro problem of get stuff to get other stuff to get VPs. Probably the most interesting part of the game is planning out worker placement with the die values rolled each round. 
+
+Edit: having played it twice, I really don't see the need to play it again. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Good worker placement where dice determine the worker strength for all players. Actions are limited, so players are forced to choose where to focus.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+For a pedestrian worker placement I really like the speed and options to this game. There is enough of a puzzle to make it interesting, and enough engine building to give you satisfaction.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Basically everything I like about Grand Austria Hotel is somehow turned into something boring or bad here. For example the kaiser track gave you bonuses, here the faith track only gives you punishments. That's just a less interesting and enjoyable version of the same thing really.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very involving game with a ton of tactical options. It blends a few tried-and-tested mechanics taken from other euros and offers some new clever twists that glue everything together in a fresh and interesting way (I would describe it as a mix between the Voyages of Marco Polo, elements taken from Stefan Feld designs and a tiny bit of Caylus-like offensive playstyle). It's not a groundbreaking game by any means, but I had a blast playing it. If you are a fan of worker placement euros definitely check this one out. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.2
+Get your starting hand of leaders, evaluate the board for 1st round, hope to remember other cards that will come out for each of the 6 rounds, stick to your strategy, because it will feel like you can't do much tactically. The play consists of looking at the available cards, figuring out which ones you can afford this turn, most you won't be able to, and when you can, they will be gone next turn. It feels like I wasn't directing the gameplay, but rather only managing what I randomly was able to afford out of the new cards that came out that turn. 
+If you like a game where you mostly get your 3rd best choice, because you had no way of knowing the upcoming cost of the cards, unless you played many times before, and not being able to get enough resources before the cards are wiped for the next round, then this game is for you. A puzzle, but not a Fun one. I much prefer Grand Austria Hotel to this game or to Voyages of Marco Polo.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very good worker-placement game where the effectiveness of each worker is determined by a (collective) die roll. This makes for a strategic game that includes highly tactical decisions; i.e. you need to adapt or die.
+So yes, it's all about acquiring resources and converting them into points, but the way it's done is quite original and exciting.
+(If you like Grand Austria Hotel, you're pretty much bound to like this one as well.)
+Oh, and make sure you play with the advanced rules! (Especially the leaders.)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+too complicated for my tastes. many things to choose from, many things to do, many cards to look at... everything is too much or not enough here.
+Religion is a constant nuisance and is NOT funny, it's just "oh, i can't to that, i have got to think about religion".
+I was unlucky but also the characters cards for me were only a stupid waste of time: got Luigi il Moro and after that only 5 and 6s were thrown, basically screwing my game.
+I ended up 3rd out of 4.
+Another Complexity through Complication but with no depth.
+
+As a comparison, Egizia from the same authors is such an incomparable masterwork: complex, but everything fits together soooo nicely!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+#areaprenotazione
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Euro Renaissance economic worker placement.  Has an interesting and engaging puzzle finding the solution between adding development cards to player boards, planning and timing the collection and conversion of resources, and how to activate and leverage the abilities of your drafted leader cards.  The center of the action lies in the placement of variable powered workers (including a zero power worker) bolstered with meeple assistants to buy development cards from the towers.  The dice strength of the workers and a couple of placement and cost rules do add more to the game challenge even if they don't seem particularly relevant to the theme.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Eesen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ken
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Great first experience. Seems to be multiple paths to victory, with high player interaction. With leaders there is improved gameplay.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+A learning game under my belt and all I can say is WOW!  What a great game!  It was recommended to me after I put the names of my 3 favorite games into a website  board game recommender thingy.  And they were right!  A lot of fun things going on, and we didn't even play with the leader cards.  I can see those adding even more fun to the mix and easily move this game into my top 10 (and honestly, it might be there already just after one play, and I didn't even win).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.4
+Disclaimer: to start with, the rulebook is really, really bad. Try searching for BGG guides and FAQ's before you start playing so your first game would not be like mine was.
+
+Lorenzo il Magnifico is a tight, dice/worker placement game that feels like a hybrid between Voyages of Marco Polo and Stone Age. My first 4p game was not the best since we had to really dig through the rulebook absurdly often. Even though the first game wasn't the greatest I still got the feeling that I'll enjoy the game with more playthroughs but there's a lot to be improved in the design such as clearer symbols on the board and cards, bigger text on the cards and so forth. It's not perfect by any means but with a little polish and a clear rulebook this could easily be a 9/10.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+After repeated plays, I find I only enjoy this at 3P and only without the leaders cards (including the drafting variant). Thus far, everyone I’ve played with seems to really enjoy playing it this way. When playing 2P or 4P, reviews are very mixed. At 3P with no lesders, it’s consistently a hit.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A good game, or rather a good collection of mechanics.
+Still very dry, but solid. Not really memorable for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Excellent concept of sharing the same dice with four different types of goals to achieve.  Solid and fun game.
+
+Moved up to 9.5 after 3 plays.  Gets better with the use of Leader cards.  Like my buddy says quoting Breaking Bad while we play, "Tight... Tight, tight, tight..."
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Out of shrink, but un-punched and unplayed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+RENAISSANCE
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Includes:
+2016: New Leaders Promo
+2016: Bonus Card Expansion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Alain
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+60 x 92 : 20
+45 x 70 : 96
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Excellent workerplacement with a twist, multiple strategies and variables set up, always should be played with the leaders otherwise is an ok game.
+
+Feels like the purple and military strategy is the optimal path to victory need to play this more...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Wonderful worker placement. Many choices, never enough ressources and variable worker's strenght create a truly great game for hardcore gamers who accept a significant random part in gameplay.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+GAME
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Same designer as Grand Austria Hotel and one of Marco Polo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
++ New leaders.
+
+Un euro muy combero que se juega en una hora y que deja gran sabor de boca, muchas ganas de repetir, dudo que la rejugabilidad sea un problema.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Analysis paralysis strikes again.  No thanks.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+--
+Expansions:
+New Leaders 1 (2 card promo)
+New Leaders 2 (2 card promo)
+Houses of Renaissance (PO BGB)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Gran juego, por sensaciones de primera partida, por encima del Marco Polo y del Austria, una gran compra.
+Muy recomendable, sin entreturnos. A dos fluye muy bien.
+Despues de varias partidas, no es mejor que el Marco Polo pero te deja las sensaciones del Austria
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Bello come da Play 2017 confermo il parere positivo anche solo dopo una partita. Non vediamo l'ora di rigiocarlo. Qualche difficoltà visiva una volta piazzato il tabellone per via delle carte piccole delle torri. Gioco molto bello.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+not played yet 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Boxed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Really enjoy this game.

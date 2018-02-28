@@ -1,0 +1,582 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Mini Rails
+RANK: 1894
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+A beautifully distilled design. Pretty much perfection in terms of what it sets out to do. There is a certain amount of fragility here - it's perfectly possible for everyone to end on zero, or for someone to be put in a kingmaking situation. But it's quick, and I think the real testament to this game's excellence is that I've found people request an immediate re-match when one of these things happens.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+เกมนี้จัดเป็นหนึ่งใน 'filler' คั่นเวลาที่ผมชอบอีกเกมหนึ่ง โดยเกมจะสกัดและย่นย่อระบบซื้อขายหุ้นและวางรางของเกมต่อรถไฟมาให้คุณในเวลาเพียงแค่ 30 นาที (ช่วงนี้น่าจะเขียนเกี่ยวกับเกมจากไต้หวันเยอะหน่อยพอดีเพื่อนไปเที่ยวมาแล้วหิ้วมาหลายเกม)
+
+
+เป้าหมายของเกมคือการที่เรามีมูลค่าหุ้นรวมสูงสุด เกมนี้เล่นกัน 6 รอบโดยแต่ล่ะรอบจะรอบจะมีการจั่วเบี้ยสีของแต่ล่ะบริษัทออกมาวางเรียงไว้จำนวนหนึ่ง ผู้เล่นจะผลัดกันทำแอ๊คชั่นโดยจะถูกบังคับให้ทำสองอย่างคือ ซื้อหุ้น/วางราง เท่านั้นโดยบังคับทำอย่างล่ะอัน (หมายความว่าแต่ล่ะคนจะได้ทำ 6 ซื้อ 6 วางรางทั้งเกม) 
+
+
+ซื้อหุ้น: เอาเบี้ยมาเก็บไว้เป็นหุ้น โดยวางราคาไว้ที่ 0 (มีหุ้นซ้ำกันได้)
+
+วางราง: เอาเบี้ยไปวางต่อจากอันที่มีอยู่แล้วในแผนที่ ถ้าตรงที่วางมีจุดสีขาวก็ให้ทุกคนที่มีหุ้นบริษัทนั้นเพิ่มมูลค่าหุ้น ถ้าเป็นสีแดงก็ลดมูลค่าหุ้น
+
+พอได้ทำแอ๊คชั่นกันครบทุกคนก็จะจั่วเบี้ยชุดใหม่มาจากในถุงจากนั้นก็เล่นกันไปเรื่อยๆ เกมนี้ผู้เล่นไม่ใช่เจ้าของบริษัทเป็นแค่นักลงทุนจะหยิบเบี้ยสีไหนก็ได้ จะเอาสีคนอื่นไปเดินรางวางให้มันลบก็ได้
+
+
+มาถึงตรงนี้ยังง่ายๆธรรมดาๆ ที่สนุกคือพอทุกคนทำครบทุกแอ๊คชั่นครบแล้วมันจะเหลือเบี้ยเม็ดหนึ่งเสมอ (คือจั่วมามากกว่าจำนวนผู้เล่นสองเท่าแล้ว+1) เบี้ยนี้จะโดนย้ายไปอยู่ช่องที่บอกว่าจ่ายภาษีแล้ว สาระคือตอนจบเกมบริษัทไหนไม่จ่ายภาษีจะถือว่าแต้มบวกที่ทำมานั้นไม่มีให้นับแต่แต้มลบ ในทางกลับกันถ้าจ่ายภาษีแล้วแต้มลบไม่นับให้นับแต่แต้มบวก ตรงนี้มันเลยสนุกมากๆ เพราะเกมนี้ทุกคนรู้แน่นอนว่าจำนวนเบี้ยที่เหลืออยู่ในถุงมีเท่าไร ถ้าบริษัทไหนทำผลงานดีคนจะแย่งกันหยิบเบี้ย แต่ถ้าไม่เหลือเบี้ยไว้จนไหลไปอยู่ที่ช่องจ่ายภาษีก็จะหลายเป็นหุ้นบริษัทนั้นไม่ทำเงินในตอนจบ หรือบางบริษัทที่หุ้นเหลือไปลงช่องภาษีแต่แรกก็จะหลายเป็นบริษัทที่ทุกคนจ้องแต่จะซื้อหุ้นจนไม่ยอมเดินให้บริษัทมันมีมูลค่าเพิ่มขึ้นมา กลายเป็นเงินน้อยซะงั้ง รวมๆสัดส่วนของโชคและความยุ่งเหยิงก็เยอะพอควรเพราะเราไม่รู้เลยว่ารอบต่อไปอะไรจะออกบ้าง ตัวแผนที่เป็นแบบสองหน้าสามารถวางสลับๆกันได้ทำให้เกมแต่ล่ะรอบไม่เหมือนกัน (ตอนเล่นกันเองหลายรอบมากไม่มีใครทัก พอเอาไปเล่นร้านเกมมีคนบอกแผนที่ยังกะ Catan ผมก็เออตัวล๊อกกับไทล์ก็คล้ายอยู่)
+
+
+เป็นเกมของนักออกแบบฝรั่งแต่ดันไปออกเกมกับค่ายไต้หวัน ตัวเกมออกมาซักพักล่ะในประเทศผู้ผลิต (เพื่อนผมก็ซื้อมาตอนไปเที่ยวไต้หวัน) เกมกำลังเปิดตัวที่ Essen สำหรับโซนยุโรป ยังไม่เห็นร้านไหนเอาเข้ามาแต่เข้าใจว่าสั่งตรงจากผู้ผลิตได้เลย https://www.wix.moaideas.net/ (Tulip Bubble ว่าจะเขียนถึงวันจันทร์) ราคาไม่รวมส่งประมาณ 1200 บาท
+
+-----------------------------------------
+
+???? [กบชอบ] -- ชอบเกมนี้ในฐานะที่มันเป็นเกมคั่นเวลาแบบใช้หัวคิดประมาณนึง ปฎิสัมพันธ์พูดคุยชี้โบ้ชี้เบ๊ประมาณนึง ด้วยความที่เกมมันไม่นานมันเลยมีความเฮฮาแบบแปลกๆดี ทั้งๆที่ตัวเกมค่อนข้าง cutthroat มากๆ อีกอย่างคืออธิบายกติกาโคตรง่าย ตัวเกมทำน้อยแต่ได้เยอะ คือสนุกมากในกรอบของกติกาและเวลาที่ใช้ (คือถึงจะบอกว่าชอบก็ไม่ได้อยากจะเล่นตลอดนะ แต่เป็นตัวเลือกที่สนุกดีสำหรับเกมคั่นเวลา)
+
+-----------------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I very much enjoyed my first play of Mini Rails. It completely satisfies as an elegant, tight route and stock manipulation game. Very smooth, compact, plays fast with minimal rules and actions. Interaction is high as you benefit or harm opponents with plausible deniability. Deftly done. I like it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+An interesting design out of a very simple rule set, but ultimately feels like it peters out into a whimper in the last round (with 5p at least)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+A straightforward, easy to explain game which ties together decisions on turn order, stock ownership, stock appreciation and depreciation, moderate spatial challenge, and selective positive end game scoring.  I admire the simplicity and elegance of the design, reminiscent of a good Knizia design; yet, for me, this game does not quite rise to the level of a must play.  
+
+On the other hand, with the right gamer group, willing to play a game quickly, this game could serve as a very worthy filler, particularly for those gamers who love rail and stock games (you know who you are), hence, undoubtedly, the name:  Mini Rails.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Dictionary definition of elegant design. Plays crazy fast, not nearly the 40m-60m estimate with what I would consider to be reasonable players. Kingdomino-style drafting of things which result in your turn order on the next turn. Two simple actions, buying stock and laying track. And the tax-paying mechanism is pure brilliance. This is a gem of a gamer filler, even if I don't adore it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The game purports to distill train games down to the core.  It is a very slick and compact design.  Game play is fast and super easy.  The outcome is very dependent on the players actions.  Fun little game and well worth it for a 45-60 min train feel game.  It's a tad more than filler, but not into a brain-burner.  Good clean design.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+4,5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The ease and clarity of the rules vs the effects of the decisions ratio is a little larger than many other games that I've played, and that's part of the appeal. The generic setting is functional and inoffensive, and it adds to an overall abstracted appearance. Turn order doesn't feel as important as maybe it could be, but I suppose that will change with repeated plays/familiarity. Rating could increase.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Hoping the game might be better than first impressions.  Played three-player and ended up the odd man out as share buying saw the other two players with very similar portfolios, and completely different to mine.  Not a good gaming experience.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The game feels almost too pared back. But when you have a session where you successfully manipulate the board so that an opponent has no choice but to give you the game or you successfully tank another player's shares to give you the game, you realize that they've left just enough of its beefier brethren. The turn order and taxing mechanisms really help move the game along at a quick pace. It's a pretty great light rail game that plays at 40-ish minutes. 
+
+Still, the first half of the game feels a bit chaotic at times, and for a good portion of the final round, you know who's going to win. That means if there is a portion of the game where the market feels mature, it is quite short. As of now, what it might lose due to its chaos, it gains back from its playtime and accessibility.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Entertaining filler game with a lot of negative player interaction. Needs 4 or 5 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Lab
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Two plays on the bounce. Not sure if luck lays a bigger part than stealth. Sold Dec 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+This is my "Game of the Year - 2017”.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Quick to teach and learn. We played it with 5 players but it would likely be better with 3 to allow for more direct interaction between players. Two actions per round, you buy a stock on one and place a train on the other in whichever order you choose. The train placement will impact the stock value.  But you need to make sure your stock color is the one left on the board in order to score its value. Turn order is determined by your selection on the board. Simple, tight, stock game with trains.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+An ok, light, gamers filler with a pure stock market mechanic and a train theme. Rather like a faster, lighter version of Hab & Gut.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.63
+I like that it simplifies / trivializes / mocks the 18xx railroad games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+First play was 3p. Such a good thinky filler. Never overstayed its welcome and all 3 at the table loved it so much that the other two are considering getting their own copies. Rating likely to go up.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A very nice, simple stock-holding game where everything is done in a very simple and clever manner.
+
+Each turn, players will select from a row of chips twice, with one chip they choose being kept as a share of stock in the company of the color of chip they chose, and the other chip placed as rail for the company matching the color of chip they chose (affecting that company's value wither positively or negatively depending on where it's placed on the board). After each selection, the player moves their pawn to the space in the row of chips that they just removed the chip from, which will determine where they are in turn order for the following round.
+
+After a set number of rounds, players simply see whose shares are worth the most. Just really well done for the simplicity of the design. If you enjoy stock market games like I do, go for it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+An improvement on Paris Connection. Faster to set-up, a little more complicated to explain, but easier to "get". It asks the same questions, more or less though. Which companies to invest in? Which companies to expand positively, which ones negatively? The variable set-up also means that you need to evaluate the board at the beginning as some companies have greater potential than others. It also seems to last just long enough that I can get personally invested in the outcome. Many short games are too short for me, in that I don't have time to really care about the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Excellent little stock market game that is clean and simple but has mind-wrecking decisions. The turn order is tricky, and the collusion can be delightfully nasty, even for those colluding. The way the tax mechanism plays out is fascinating, and the random setups and draws will keep the game fresh indefinitely. Really good!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+What a great train game distilled down to 2 simple actions. Buy shares or build tracks. As you build tracks share value changes for all players of course, but it still may not score unless that color disc is ignored in 1 of the 6 rounds. All the discs for each round are laid out and depending on the disc you take will also determine turn order for the next round. Simple to explain, but agonizing decisions and there is the ability to build temporary alliances throughout. There aren't many games in my collection that start with 3 players, but this one is a definite keeper.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Enjoyable little train game reminiscent of SNCF (Paris Connection) in that the discs are either shares or track. However, players are considerably more constrained in Mini Rails, and there is no hidden information.
+
+A row of discs is set out totally (n*2)+1 where n is the number of players. Then play proceeds with players moving their tokens to replace the discs and choosing whether the disc will be a share or a piece of track. Each round, only one disc can fulfill each purpose, so once you've got your share, the next disc will be track - or vice versa. Your pawn becomes your turn order for the next round. The odd disc gets added to a row at the bottom of the display. More about that in a moment.
+
+When shares get taken, they start on the 0 for that player. When track gets built thereafter, it goes up or down, depending on whether the track lay has net positive or negative stock impact.
+
+At the end of the game, players score 0 or their positive score (whichever is greater) for every company that has paid taxes and 0 or their negative score (whichever is less) for every company that hasn't paid taxes.
+
+Overall, the game is  quite trixy and amusing. The board layout is going to mean that some companies have a lot of potential. Some not so much. But companies with potential often have their discs eaten up in stock such that taxes are hard to pay (especially with the other players trying to make sure they don't pay). Scores can get pretty low amongst vicious players.
+
+Managing turn order is a bit rough. Maybe a house rule that allows you to see what is coming in the next round...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A lovely amount of thinking packed into a 20 minute game that takes 2 minutes to teach. This is probably my favorite filler. 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Minimalistic, clever, streamlined, surprisingly quick, makes your head hurt to contemplate the various paths and alliances which are formed and broken alongside your own VP outlook. Turn order manipulation is as much a weapon as is clever postioning, perhaps even more so. I wasn't sure whether it was worth the price when I bought it at Spiel 2017... but I Am A Believer now. 
+
+Mini Rails is to train games what King of Siam is to majority games, perhaps even more so than Paris Connection / SNCF. The difference is that in Mini Rails you really cannot take many actions (12, no more, no less) so they'd better count. The Winsome game offers more time in which to develop your strategies.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Short, simple area-control, price manipulation game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4.5
+Although I only played once, I felt it was fairly boring.  A bunch of analysis to determine your best move.  I found it took to long waiting for my turn for little enjoyment while playing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+If you like rail routing and share purchasing games but don't have the time or energy to play one of the big ones, this small, short game might entertain you.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+$70 BGG
+3-5 players w/ 2 player option 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.3
+Great for what it is. Very tight, steamlined filler, with some meat.
+
+Loses a little for me at 3p, but 4+ is excellent.
+
+The simplicity opens this up to be a great family/gateway game that has enough to keep attention of more avid gamers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Highlight: 2017 (November 2017)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Exciting little filler, delightfully clever.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Simple little rail "build and invest" game, where players get to acquire six shares in up to six rail companies, and get to build those six rail companies six times, changing their share value.  Cute, well produced, and quite thinky.  Reminded me a lot of Knizia's Spectaculum, without the flexibility to sell off "stock".  I was expecting a little more - this one is so pared back that it feels a little too dry.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Add a train and pick a stock.  Do that a few times.  Game over.  Might be too "mini" for its own good, despite the solitary clever mechanism that the entire game hinges upon.   I think the replay ceiling on this is very, very low.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ESSEN 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Initial impression (1 play):
+Plays very quick, simple rules, meaningful decisions...a great short game. 
+
+I like the turn order mechanic and how its tied to what stocks pay out and what don't harm you when stocks are in the red. The board is modular and matters, so it pays to pay attention to each companies potential.
+
+There wasn't anything i particularly disliked. I think future plays will reveal more depth to the game too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Winsome, without being Winsome.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Shipped MID-LATER NOV
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Filler type of game. Plays quickly.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+So much fun - went right out and purchased a copy
+Select colors to influence and those selections determine turn order
+Simple but not easy - lots to consider which helps make this game so good
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+(Rating after one play)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Gaming:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+VERY abstract game with a supposed "train" theme. Wasn't bad but didn't knock my socks off.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Simple et subtil. Rapide et efficace ! Un tout bon filler.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+DB
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.4
+I am impressed with this delightful game.  Colorful, strategic, quick, easy to learn, compact, and has unique scoring and turn order.  --Even has some "take that"!  
+
+There are only 2 different actions in the game.  Everyone must play those 2 actions each of 6 rounds--your only choice is the order in which played.  Sounds so limited, but it is so clever.
+
+I like the way turn order is established because there is not time wasted nor a separate action used to determine it.  Turn order is automatically combined with your two placement actions per round
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+great think little game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+November 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Pleasantly surprised by this game.  It's both quick and has some decent decisions.  The modular board really help replayability. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Lean design, great depth, mean game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+One of the rare fillers that rewards you in the same manner as a big box game. Very thoughtful, always considering what your opponents choose. Easy to teach, as you can only invest or build rails. Once engaged, important decisions pop up each turn. I have enjoyed all my plays of Mini Rails. An excellent 20-30 minute choice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Another train game from Mark Gerrits
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I love this game! Minimal rules, but a head that is bursting!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.6
+minimalistic rain game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+簡單的機制卻讓遊戲過程不簡單！是個有創意跟巧思的好遊戲！
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[2018-11]
+мини-игра про поезда: покупаем акции и прокладываем пути
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Brian's top game for 2017. Want to try!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.6
+Very simple set-up and even simpler rules.  It seem almost to easy at first but there aren't many decisions in the first round. As the game goes on the decisions get tougher and tougher which I love. Lot so of meta gaming in a very short game. I highly recommend it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I really like this game. Pretty easy to run through a game in no time, but after repeated plays, it has kind of fallen by the wayside.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Works well enough, but is so short and streamlined, it ends up feeling a little bland.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Neat track-laying stock market game slightly reminiscent of Paris Collection
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1ターンに株の購入と線路引きを1回ずつ行う。チップを残した株だけが決算対象に。
+コンパクト＆シンプルでサクッと遊べる。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Wonderful game, unfortunate that it doesn't play 2, as it's hard to get 3 or more players to play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Brilliant and really fast! You have 12 total decisions that are really simple in one sense but incredibly difficult in another. I would gladly play this anytime! Right up there with Trick of the Rails for deep games that are fast enough to be considered fillers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Simple 'move and place' mechanism, hold the stock or place the rail for the stock increase or decrease, the selection of stock/rail is affected the turn orders, totally 6 turns around 30-45mins could complete the game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+A great filler game.  Plays fast, simple rules, but still plenty to think about with your limited two actions a turn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Mini Rails fits firmly into the "Super Filler" or "Thinky Filler" category of games. It is share investment game with the thin cladding of a railroad game, but I would argue it is not a railroad game at all. There are six colors that players can invest in. A board is randomly set up from a number of double-sided tiles for variety from game to game. The colors expand out from different corners of the six-sided board onto spaces that are worth in a range from -3 to +3. Every turn, players will take two actions, they will invest in a color and expand a color. Color disks are randomly drawn (2 for each player +1) and laid out in the order drawn. In order of the previous turns' selections, players will move their pawns to claim a disk, either for adding to their shares board or to the play board. Whichever they choose with their first action, they will need to do the other with their second action. Shares always start at zero and all shares of a color adjust in the -3 to +3 range when a matching color is placed on the board. At the end of each turn, one disk is leftover and marks the round completed. Only colors used to mark completed turns will score positive points at the end of the game. After six rounds, the player with the highest value in shares wins.
+
+This is usually my kind of game! However, in our second play, I went last and, with no chance of winning myself, got to choose who won between two other players based on the last color I picked. This is not how I like my games to end! With a fair number of players, I suspect this not all that uncommon a situation, which really disappoints me. I would certainly play the game as the decisions are deliciously devious, but the very real king-making issue has led me to decide not to own it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sat and saw it played. Intriguing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Offers a very smooth and quick playing rail building / stock acquiring experience. Reminds me a bit of Spectaculum and Paris Connection, but I think I like this one better.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spiel '17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+FIRST IMPRESSION:
+
+Really enjoyed this quick playing and simple game which feels like a bit of knife fight in a phone booth or two. Twelve actions all game where each round you choose a stock to keep and another to build track (which moves the value of that stock). There's a bit of twist in that if the disc color doesn't get skipped once to mark the round, then the best that stock will score is 0.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Well done filler. Meaningful decisions in a small package.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Plays 3 to 5. Interested based on Heavy Cardboard playthrough. (Blame Boydell and Morten.)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Nettes, kleines Spiel.
+Nach einer durch Marker vorgegebenen Reihenfolge wird die Spielerreihenfolge festgelegt. Wer an der Reihe ist, nimmt sich ein Chip und legt diesen Entweder als Wert 0 auf sein Tabloe oder er legt ihn auf die Landschaft und beeinflusst damit alle gleichfarbigen Marker aller Spieler (von +5 bis -3).
+Jeder Spieler ist pro Runde zweimal dran und muss zwingend beide Aktionen je einmal ausführen.
+Mir hat das Spiel von der Erklärung gefallen, habe es auf der Messe aber leider verpasst, so dass ich es mir nachgebaut habe. Leider entging uns dadurch eine hübsche Grafik und die Marker haben nicht so super gepasst, aber ein Gefühl fürs Spiel konnte ich erlangen, was mein Ansehehn war...
+Es ist nett, aber es ist kein Spiel das ich braucht. Ein Mitspieler und ich sind irgendwie mit den Aktionen durcheinander gekomen und hatten am Ende zu wenig Scheiben auf dem Tabloe... Zu viert war es auch sehr chaotisch, dadurch dass zwischen einem selbst 3 Spieler rumgefummelt haben.
+Man konnte schon eine Strategie verfolgen, diese wurde aber durch so viele gegnerische Einflüsse beeinflusst, dass es mehr Zufall war, als kluge Entscheidungen.
+Schade eigentlich!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+If given the choice I would always play Paris Connection instead.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Short game - too much info that easily leads to AP.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Charlotte
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Quick fast fun game. Plays well with five.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Oct 2017 - Ordered direct from Moaideas
+Arrived Nov 28 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+London
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Bare essentials of af stock/track game. Cutthroat. Bit boring but in the end asking to be played again
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+This is an excellent light stock game with all the delight of trying to manipulate your opponents into doing stuff which is good for themselves but also for you.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Radar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I liked this game quite a bit and I enjoyed the core tension between pumping a company, timing your entry into a company, and trying to make sure that company does or doesn't score at the end of the game.  The randomness in company draw is done in a more generally palatable way than German Railways since all the pieces will come out of the bag by the end of the game and turn order is self-selected based on available options.  Combined with the random map it was a lot of fun.
+
+However, as the "distillation of Winsome principles" it gets lauded as I can't say I prefer it over Northern Pacific.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I get what the game is trying to do .. its clever but after 5 plays this game is just a gigantic kingmaking game. This game seems to always be decided in the last round based on who the players decide to kingmake
+
+There is also a huge problem with the last round of the game. If u pick stocks as ur last action it is almost always a 0 stock that wont move .  Whats the point ? Just play with the single action last round variant we made up. It slashes 15min and changes nothing
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Everything is smartly connected and it all matters. The simplicity of rules combined with the richness of meaningful decisions makes this a textbook example of a well designed game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Short and quick, not much control over your destiny. Nice compact production.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Zzzzzzzzzzzzzzzzzzzz.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Incredible amount of stress in a tiny bit of time and space.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 Luke H and Bod
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Pretty good distillation of rail games with an interesting share price dynamic, in that they all start at zero, so you don't jump in at some higher value level.  Encourages players to collude.  Last cplayer chooses which shares will be valued and which will be trash.  Nice to have variable board.  Last turn essentially damage control, though.  Plays fast, some nice choices, but I'm not sure I would play enough to get it myself.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2.5
+A quick and interesting stock market filler game where you buy a share and lay railroad track each round and after 6 rounds you are done.
+I have a few doubts about the first player always being able to remain as first player in all future rounds which seems very powerful. I need to play it again.
+I have now played it again and by pure chance I was the first player - and I took the opportunity to tell everyone what I was intending to do - grab first player in all future rounds. Despite the others doing their best to attack the shares I bought, I still won.
+My concerns over the first player being able to remain as first player mean that I’ve downgraded my rating and I do not want to play this game again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.4
+Mini Rails is a hilarious game in which you try your best to screw over your opponents in the tiniest ways possible while also simultaneously trying to squeeze out enough points to score for yourself.
+
+For a ridiculously simple game that boils down to 1 of 2 actions each turn it is incredibly thinky. I think the simplicity allows you to really take in the board state and plan an optimal move. 
+
+It's not the condensed 18XX I was hoping for, but I'd rather play a couple sessions of this to get my train game fix instead of getting into an 1830 slog. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Heavy Cardboard 5*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.4
+After one play, I have some slight ideas about how to effectively play Mini Rails, yet I have no clue if they'd actually pan out. This gives you only 12 moves to make your fortune, and most of your moves will likely impact your opponents at least as much as you, so you must be careful and try to anticipate every move... The big issue here seems to be the strategic obliqueness of the design. There's no clear way to set yourself up for victory, because you can only have so much control over which companies will be eligible for positive points at the game's end. Definitely a curio, at the very least.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Simple and good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Hugely enjoyable distillation of bigger stockmarket games but with no apparent loss of decision-making. Plenty of screwage, strategy and turn order shenanigans, and deriving from just a choice of two actions, this is quite remarkable. Perhaps a tad uncontrollable with more players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A lot of game in a small footprint. Fast, yet full of interesting decisions. A "Super-Filler".
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+[b]Mini Rails[/b]
+
+[COLOR=#FF0000]Initial thoughts and rating (4/6):[/COLOR]
+
+[i]I only played Mini Rails once and wasn't wowed, but since it moved along fairly quickly I'd give it another go. I question how much control you actually have over your fate; I feel like the game was paired down too much and what you're left with is a shell of a game. I played with four and the game was decided before we began playing the last round which was quite disappointing since 2 out of our 12 actions were totally useless. Maybe a second play will reveal more than there is more strategy than I thought, but I'm not in a hurry to play again.[/i]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+規則:
+*外框拼好，將中央是大城市的(5點)放中間，其他版塊任意放置拼湊，根據玩家人數放起始公司圓片到圖板對應公司邊的版塊上(3人3，其他1)，3/4/5人也放各種顏色圓片7/9/11塊到袋中
+*所有玩家拿一個顏色配件，決定起始後，照順位放工人到順位軌上層，在反順位放一次
+*遊戲總共進行六輪，每輪有三個階段
+1.抽圓片階段  3/4/5人抽7/9/11個圓片放到順位軌的另外一邊，每個玩家把兩個行動版塊放在個人圖板上
+2.行動階段 玩家照順位軌順位移動工人到另外一個順位軌的圓片格取走圓片放工人上去，並選擇圓片要做什麼行動移除對應的行動版塊，每個行動每輪做一次
+1.買股票 將拿到的圓片放在自己個人圖板的股票格0位置
+2.蓋鐵路 將拿到的圓片放到中央圖版跟之前圓片相鄰的版塊格(如果沒位置放就放到對應邊)，根據該格上面狀況所有玩家對應該顏色的個人圖板圓片前進或移動幾格(白點前進一格，紅點退後一格)，放到對應邊則對後一格，多個圓片則分別都移動對應格，上限到正負10
+3.收稅階段 所有玩家行動換後剩下的圓片移動到順位軌下方的收稅軌最左方格，只要還有空格就繼續下一輪
+*遊戲在六輪後結束，每個有再收稅區出現的顏色，如果玩家有對應顏色圓片在負分區則移除，沒出現的顏色如果在正分區則移除，最後加總所有圓片上數字，分數高獲勝，平手比數字最高的圓片，在平手比次高
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Copies: 1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+[youtube=N7Urk_spaAo]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+A very simple train game which is a nice change as I play so many complex ones, but this really did not do it for me. There is almost no control as you only have 2 actions per turn, one to lay track and one to buy a share. As the board is also predetermined, your track laying is very simple and cannot be used to block off or guide a path. At the end you need to ensure that your company has paid its taxes which is the main scoring mechanic, this is where you can have some effect on others over the turns but even that is pretty much out of your control unless you are last to play in a round (and even then).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Mini Rails is a light stock game win which players expand a rail company's territory or take a rail company's stock.  In fact, during each turn, players must do exactly one of each of those things.  Expanding a rail company either benefits or hurts the company, depending on the terrain being expanded to, and players holding stock in that company adjust their shares up or down accordingly.  Taking a stock gives a player a new share in that company, starting at $0.  The companies that are available to be interacted with are random, and at the end of each round, one company that no one chose will pay their taxes.  Only companies that paid their taxes at some point in the game are eligible to score positive points, and only those that didn't can score negative points.  I'm not generally the biggest stock game fan in the world, but this game impressed me with its simplicity and ease of play.  It's kind of like the TransAmerica of stock games.
+
+(1 play)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Essen 2017 Moaideas Game Design (7-F100)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Interesting game but too constrained with the only two actions each round rule. I feel that I have too little control about my investments, and it's too easy to tank another player's investments. Not my cup of tea.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Strecken bauen oder Anteile erwerben
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Gen Con 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Difficult to judge on one play. It plays quickly, but there is so much screw you involved. It didn't sit well for me. Might be better with less people. Probably better after one play so I know what to expect. Just felt I was getting picked on for the sake of getting picked on.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This game is pretty intense, but mostly RUTHLESS!  LOTS of strategy for a tiny game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+This is a similar game to Paris Connection and Chicago Express, except it has a much more limited feeling. The gist is there is a line of disks. Each disk can be taken as either a stock of that color, or as a rail of that color. If you take it as a rail, you put it on an empty space of the board and then adjust all previously taken stocks of that color up or down in value depending on the pips in the spot taken. The tricky part of it is, there is always one more token than number of player actions in a round, so one marker drops at the end, and it's only markers that have dropped down that are ever actually worth positive points. Essentially, this gives the game a real lack of control that I found unpleasant. It's nice that it's fast, but there just isn't anything to be excited about in this game.
+
+:star: Art, Iconography and components functional
+:nostar: Clever or interesting mechanisms
+:star: Reasonably low downtime between turns with mildly AP players
+:nostar: Multiple plays stay interesting
+:nostar: Low or mitigatable luck elements
+:star::star::nostar::nostar::nostar: Raw enjoyment
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+So einfache Mechanismen und trotzdem so eine tolle Spieltiefe. Hat mich noch weit nach der Spielrunde über meine Taktik nachdenken lassen.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+~
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a surprisingly thinky game for how simple the rules are for it. The decision space is deep and complex, which can make turns take a little while as players ponder all the various interactions going on. There's very much a Chicago Express feel to this for me--with players inadvertently setting up alliances and partnerships, and constantly needing to manage the state of the game so that they're benefiting the most from everyone else's choices. A really interesting quick game. I do worry that at higher players counts the game drags a little long as it gets increasingly tricky to analyze the resulting position that will occur from all of your possible moves.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Wonderful game, just don't waste your time playing with 3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I really, really like how the stock market works in this game.
+
+But the game is *really* chaotic. And the luck factor is HUGE! And I'm not a fan of drafting games.
+
+At least it's fast.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+owned, looking for a chance to play. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very elegant game that gets tactical after a very random first half.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Oh please don’t make me play this game again! This is soooooooo boring!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Try before buy
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+A very fast playing abstract game that plays best I think with more players, up to 5. It reminds me of Niue Hiemut, but plays a lot faster. The final turn can bog down if players are calculating exactly what everyone’s score will be depending on which discs are chosen - better to just take what’s best for you and move on. Still the game could have been made in a box a quarter the size for under $10, so I don’t think it’s worth it. I prefer light stock taking games like American Rails.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+--Sep2017-- It's both quite clever, and quite chaotic.  A lovely Winsome-inspired thing, in a very lush not-very-Winsome package.  I'd be delighted to play a bit more; and am quite interested to discover if our skills with it improve.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I'm not sure I'd call the game deep, but it's at least harder to make decisions than it first appears in this game.
+
+It's really easy to get hosed in this game. You could have a round where you go for a certain color stock and another person as well, and then for every round after that the other two players can just make sure they eliminate all of that color each round so there's no way it'll be taxed, and thus you're guaranteed not to score any positive points for it at the end of the game.
+
+Meanwhile anyone who has had their colors paid taxes a single time can freely grab as much as they want of that color without worrying about it for the entire game. It lead to an intense consistent disadvantage compared to the other players, so much so  that I'm not sure I like that the taxes part is even in the game at all. Including it just seems to distract people from making smart purchases and train placements, I believe.
+
+That being said, except for that, I enjoyed the game a good amount. I did really like how choosing a token determined the turn order for the following round in particular, and the stock changes being directly tied to where you place tokens on the board.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Easily on the suggest pile for a quick filler.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
++ simple and fast
+- too chaotic with 5 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+1 play, 4er
+
+Very clever game that boils down 18xx style train games to near bare essentials. Companies expand on the board, with their stocks gaining or losing relative value. Players acquire shares and must work with other co-owners to increase share value. The company selection process is cool, like Kingdomino: there's a random line of tokens and a line of player pawns (2 each); in pawn order, you choose the company token to use (either to add a share, or expand the rail network); that also sets your turn order for next round. And there's a cool twist: the company line has one extra piece, unchosen, which marks end of round. It also indicates that that company paid taxes. At game end, companies that paid taxes have all negative shares wiped out! And companies that didn't pay taxes have all positive shares wiped out! 
+
+The game does a really good job capturing the collusion that has to happen in share style games, and the stock/operating round feel, all in less than one hour!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Thinky Filler, best with 3. Player screwage?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Had high hopes for this and it is actually not a bad game at all but when I played a game and the last move was a kingmaker move by somebody who had no chance of winning, I decided not to keep it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A thinky filler that plays in about 45-60 mins depending on player count. There a nice density and balance to the choices made on each turn
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+tl;dr: nifty stuff
+
+Each turn you either take a share (that starts at value 0) or place a disk. The value of the shares of all players of the color of that disk go up or down depending on the location the disk was placed upon. At the end of the game you only score positive points for shares in the positive range, if there was a round in which that color was the left over disk. You only score negative points for shares in the negative range if that color was never the left over disk.
+This leads to a lot of little, nifty choices one must make. Because if you increase a share value too much, other people will make sure it doesn't score positive, or they'll crash the value. And at the same time they're trying to make their stuff valuable or making sure it doesn't score negative.
+On top of that the disks you take determine the next rounds turn order, and that can be very important.
+Yes, lots of hard choices in a small box that plays well.
+
+Initial rating: 7/10
+BGG scale: 7/10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Plays much quicker than I expected.  Light, but some good choices to make.  Super filler with Trains!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Vin d'jeu: french review of Mini Rails http://www.vindjeu.eu/2017/10/23/mini-rail/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Mini in game size, not so much in play, though it's easy to play. Before you think, "Not another train and stock game," this one has a modular map and a very clever and easy to use variable player order system. Kind of back-stabby because you can route a train to an area that hurts its stock price, and even box a train company in.
+
+While the game has a unique map board and stock play board, the bits are standard discs, cubes, and pawns. The discs are maybe not the best choice since most of the game involves moving them; we had one hit the floor and roll about ten feet away!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Simple mechanisms with very interesting decisions. I really like this. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+GENCON2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+The essential route assessment and stock manipulation feel of 18XX in about 1/16 the time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+boring in 3 players game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Provisional rating, one play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+perfect thinky filler
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Quick playing economics game. I enjoyed the mechanics and would surely play it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Gotta say this is  one of the best fillers I've ever played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Shipped 10/08/2017 - Moaideas
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Speed 18xx for speed-dating fans.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+As a stock and train game this rates about a 3.
+
+As an abstract, puzzle, points chaser it rates a solid 7, maybe 8.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Abstract railroad stock holding and route building draft on a random modular hex terrain board.  Fast games with simple and non-typical rules lead to interesting and new thinking and strategy.  Draft a colored disk to expand a company's network and effect its share price (up or down!, this game has a nasty edge), or to invest in that company's stock on personal player boards.  I like how stock changes effect all players and how it simulates buy-low/sell high where players owning a stock from the beginning may experience a totally different return (better or worse) than those investing late in the game.  The other unusual factor is only undrafted companies are in the money for game end scoring.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+##
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It’s ok. There can be some crunchy decisions, but it’s too streamlined for my tastes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Preordered for Gen Con pickup. Picked up at Gen Con.

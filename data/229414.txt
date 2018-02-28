@@ -1,0 +1,298 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Tulip Bubble
+RANK: 2787
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Leverage interest-free! This was fun and the chance:skill ratio was just about right to represent the actual market. And the art- utterly gorgeous.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+It's very pretty and I started out with high hopes of enjoying it.
+
+The predictable market value changes are alright but the random swings/crashes tended to spoil the fun a bit.  So far not too bad,
+
+But the last three rounds really killed the fun because the end of game event card is randomly one of the last three cards.  This means you don't know when the game will end which is dire because if you buy a load of tulips and then the game ends, you don't get to do one final sale so the tulips you just bought have 0 value.
+
+In our 4 player game in the round immediately before the last 3 rounds one player made enough money that they had a decent lead.  So his choice now was should he buy more flowers - which could mean he loses if the game ends - or just pass and do nothing, sit on the winning pile of money and hope the game ends.
+
+If he buys we'd all pass - and if he passes, we all buy.
+
+He passed, everyone else bought tulips and the game didn't end.  This now resulted in 2 other players thinking they might have enough cash to win so now we had 3 players all passing and doing nothing on the next round - which didn't end the game either.  And with the end of game card certain to be drawn at the nominal start of the final round there was no point in the last remaining player buying any tulips either so now all 4 players did nothing and just waited for the final round to end the game.
+
+This is a really unsatisfying petering out and it would be better if the final round, whenever it occurred, allowed you to sell all your tulips at the market rate before tallying your money.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+เป็นเกมประมูลเบาๆที่จำลองสถานการณ์ 'ตื่นดอกทิวลิป' อันเป็นเหตุการณ์จริงที่เกิดขึ้นในช่วงศตวรรษที่ 16 ที่เนเธอร์แลนด์ ในช่วงผู้คนต่างก็ตื่นตัวกับราคาที่พุ่งขึ้นอย่างไม่หยุดยั้งของหัวดอกทิวลิปขนาดขายบ้านขายรถ(...อ่ะตอนนั้นยังไม่มีรถ แต่ขายบ้านขายที่ดินจนหมดตัวนี่เรื่องจริง) เพื่อมาเก็งกำไรกัน เราก็จะเล่นเป็นหนึ่งในคนกลุ่มนี้แหละที่เป้าหมายคือตอนที่ฟองสบู่แตกเราจะต้องเป็นคนที่รวยที่สุด 
+
+
+ตัวเกมจะมีการ์ดดอกทิวลิปอยู่สามสี แต่ล่ะสีก็จะแบ่งเป็นเกรด A/B/C ตัวเกมจะให้ตารางบอกราคาตลาดมาว่าถ้าสีไหนอยู่ตรงไหนเกรด A/B/C ของสีนั้นจะราคาเท่าไร ในแต่ล่ะตาผู้เล่นก็จะผลัดกันเอามาร์คเกอร์ของตัวเองไปวางไว้บนการ์ดดอกไม้ที่เราสนใจ พอทุกคนวางหมดถ้าไม่มีใครมาแข่งเราก็จะต้องซื้อดอกไม้ที่ราคาตลาด แต่ถ้ามีคนในวงก็ต้องผลัดกันประมูลโดยอาจจะสูงหรือต่ำกว่าราคาตลาดก็ได้ แต่ถ้าสูงกว่าราคาตลาดผู้เล่นคนอื่นที่ไม่ได้รวมประมูลก็อาจจะได้เงินฟรีๆจากกองกลางตามจำนวนเงินที่เกินมา กิมมิคที่น่าสนใจของเกมนี้คือเงินไม่พอไม่เป็นไร หยิบการ์ดมาก่อนได้แต่ว่าจะต้องวางเงินจากธนาคารเอาไว้เป็นหลักประกันว่าเราจะต้องซื้อคืนในราคาที่เราได้การ์ดมา ซึ่งตอนที่ขายอาจจะถูกหรือแพงกว่าราคาที่กู้มาก็ได้
+
+
+ดอกไม้ที่ซื้อมาทำได้สองอย่าง อย่างแรกคือขายเข้าตลาดกับอีกแบบคือขายให้กับการ์ดคนที่มารอรับซื้อ โดยคนที่รอซื้อก็จะมีความต้องการแน่นอนว่าต้องการดอกไม้เกรดไหน เบอร์อะไร (เกรด B/C จะมีเบอร์ย่อยกำกับเพิ่มด้วย) บางคนก็รับทุกสี บางคนก็ต้องสีเดียวเท่านั้น ถ้าขายให้คนจะได้โบนัสเพิ่มด้วย ตรงคนซื้อก็ดวงนิดนึงเพราะแต่ล่ะคนรับซื้อแค่รอบเดียวถ้าขายไม่ทันคนใหม่ที่มาแทนจะรับซื้อแบบไหนก็ไม่รู้ ส่วนการขายเข้าตลาดดอกไม้จะไม่ได้เอาออกจากเกมแต่จะวนกลับเข้าตลาดกลางให้คนมาร่วมประมูลกัน
+
+
+ราคาดอกไม้ในเกมจะเพิ่มได้สองทางคือ event ตอนต้นเกมที่จะปรับราคาดอกไม้บางชนิดขึ้น (และบางชนิดลง) และอีกแบบคือในตอนจบแต่ล่ะรอบ ดอกไม้ที่มีล้นตลาด(เกิดจากคนขายเข้าตลาด/ไม่มีคนซื้อ)ราคาจะตก และดอกไม้ที่เหลือน้อยราคาก็จะเพิ่มขึ้น โดยเกมนี้จะจบลงเมื่อมีผู้เล่นซื้อดอกทิวลิปสีดำอันเป็นการ์ดจบเกม หรือจนกว่าการ์ดเหตุการณ์ฟองสบู่แตกถูกเปิดขึ้นมา (ถูกสุ่มใส่ไว้ใน event ใบท้ายๆ)
+
+
+รวมๆก็เป็นเกมประมูลที่เล่นไม่ยาก อุปกรณ์สวย แต่ว่าดวง event น่าจะเยอะเกินไปหน่อยสำหรับผู้เล่นสายคำนวน เกมเลยเหมาะกับผู้เล่นสายลุ้นมากกว่า เกมนี้จากค่ายในไต้หวันเจ้าเดียวกับ Mini Rails ยังไม่เห็นร้านไหนขายแต่สั่งตรงจากผู้ผลิตได้
+
+-----------------------------------------
+???? [กบเฉย] -- คิดว่าในตลาดแมสเกมนี้น่าจะเจ๋งดี อิงจากที่เห็นเกมซื้อถูกขายแพงแบบดวงเยอะๆที่เล่นกันตามร้านเกม เกมนี้อุปกรณ์สวยน่าจะจับกลุ่มแมสไม่ยาก แต่ส่วนตัวคิดว่าราคาตลาดมันเหวี่ยงง่ายไปหน่อย ไอ้แนวคิดซื้อถูกขายแพงเลยออกจะดวงพอดู ทำให้ไม่ตรงจริตผมเท่าไร กางออกมาชื่นชมความงามของอุปกรณ์แล้วทอยเต๋าหาคนชนะได้เลย 
+-----------------------------------------
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+BGB fev 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[u]First solo impressions[/u]: The need to skip over occupied spaces when moving a tulip's value on the price level track creates a lot of unpredictable market volatility. Maybe that's the point? But the wide swings in valuation that are possible when you combine the supply-and-demand-driven changes in market value in Phase 4 with the random market event card -- which occurs immediately following, during the next round's Phase 1 -- makes even turn-to-turn strategizing very difficult, if not impossible. Still, I like the ideas behind the game, and its streamlined implementation (seemingly intended for light-weight players), and its reported fast playing time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun, but not mindblowing after one 5p play. Being able to hop into an auction to just make a little money and make it more expensive for those who really want it is fun, and something you really need to keep an eye on, especially if you think someone is closing in on the $120 insta-game end purchase. I like how you can cleverly attempt to manipulate the market, but this depends a lot on other people as well on most turns. Ultimately, this really made me wish I was playing Ponzi Scheme, but not every game can be as great as that one is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This game is a tough one to rate.  On the one hand, the market mechanic is quite good, and felt original enough to elicit fresh enjoyable gaming analysis, and nice after game thought.  And yes, wild swings are built into the market design, but considering the theme, I felt these swings were quite appropriate, and dare I say, fun to experience.  I found them fun (for the first hour).
+
+On the downside, the game would greatly benefit from a MUCH shorter game time.  In particular, this game features auctions (or buying outright) and selling, repeated over and over again, all in effort to make money and finish the game with the most money.  Fair enough.  Enjoyable enough.  
+
+However, after about an hour of doing this same mechanic (with no spatial board, for example, to study and manipulate, and/or a complete absence of alternative paths to victory to consider), I seriously had enough.   There were no intermediate scores to tally, or things to look, at other than buying and selling cards.  In our four player game, there was far too much downtime for the players not involved in the many auctions.
+
+I think the game length could easily be remedied by pulling cards out of the deck, but then again, would that handicap the ability to buy low in the first round, and sell high in the last.  I don't think so, but I am not sure.  I would be willing to play it again to try to create a 45 minute to 1 hour session.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 205.3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Lab
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Gorgeous art and I love the bidding mechanic
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+beautiful card artwork. auction guided by set collection.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It's hard for me not to enjoy a good old buy low sell high stock market game, and this one fits the bill. This one has a couple fun little twists, chiefly:
+
+The addition of special orders, which give you bonuses for selling certain sets of things. It's fun trying to collect the sets, while also trying to time the sale of that whole set with good market prices. The money is tight in this one, and the market can swing quickly, so it's hard to just sit on things to complete a set rather than sell them when the market is good. The special orders also tend to make players interested in similar things, which dovetails nicely into...
+
+The way auctions are handled. If multiple players wish to buy the same thing, they hold a simple auction. The cool catch is that whatever the winning player pays over current market value, that difference is paid to the player(s) who lost in the auction. So, losing an auction is sometimes preferable depending on what the bidding gets to!
+
+Overall, a very nice, simple, stock market game with some nice little twists.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.8
+A bidding game set against the background of the Dutch tulip bubble. There are white, yellow and red tulips, of qualities A, B and C in a 3X6 tableau. Row 1 of the tableau shows the tulips which will be up for sale in the next round. Row 2 shows the new tulips for sale. Row 3 contains the tulips that have been sold by the players, and which are up for sale once more.
+Every round the price of the colour least in the market rises, while the colour of which most cards are in the tableau after buying and selling has taken place falls. Furthermore, at the start of each round an event takes place which influences the price. The bubble burst event card is among the last 3 cards, and as soon as this event is triggered, the game ends and money is counted.
+Each round the players can place 3 tokens on tulips for sale in rows 2 and 3 of the tableau. When several players have put a token on the same tulip, they have to bid for the card, starting with a bid equal to the current price plus 1. The players who lose the bid share an amount of money equal to the difference between the bid price and the market price (rounded down).
+After all bids have been resolved the market is cleaned and prices are adjusted. Then players can decide to sell to the market or to collectors. These collectors pay more than the market price, but they always want a particular combination of tulips.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+amazing game, very deep despite the simplicity. very elegant design. top notch components.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ESSEN 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+After 1 play: A market speculation game where players bid up to three tokens on tulips which come in three colors and three varieties each, and with different numerical designations (Red A, Yellow B2, White C1, etc). After chips are placed to show intent to buy, players buy or auction off contested flowers. Then the Market adjusts, which for me was the real fun in the game. You can see the next shipment of flowers coming in, and those flowers along with whatevers left over on the offering/just sold board are tallied. The color with the most flowers left goes down on the stock track, the flower with the least amount on the board goes up one on the stock track. Then a random card is drawn that adjusts either a specific color, the highest color, or the lowest color. Finally the game will end with the bubble bursting in one of the final three rounds.
+
+It felt like it played in just the right amount of time, each round I was doing quick math trying to figure out which flowers to invest in and when to sell off the flowers i already had. At the end of our game I took a loss on grouping of white flowers, but ended up winning because some other players were betting on the market not crashing in the first of three end rounds, which it did, and they were sitting on a lot of unsold cards.
+
+Relatively quick, nice components, interesting game play, just enough luck...but also enough control over the market to satisfy a wide range of players. My wife played an economic game and liked it! 
+
+I may look for this when it hits US market
+
+After 5 plays:
+
+After 10 plays:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Shipped from tiawan
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Auction stye game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+the game is too long
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not the usual auction game.  Interesting how even 
+when a player loses a bid, they can still win 
+(the difference between the market price and the bid).
+Also interesting is the movement of market prices and,
+in keeping with the theme, the ability to leverage 
+purchases and then (subject to timing)
+sell at a profit to keep the difference.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ESSEN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 pp under an hr; auction, set collec, drafting, markets
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun game simulating a speculative market.   I like the small elements of predictable with the chaos the random market cards plus the varied timing of the ending.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Quick played stock marked game with a consequent end. Beautiful material.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+立意是策略遊戲，事件卡卻打亂了所有規劃，運氣值高到爆表
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Every turn a new set of tulips becomes available for purchase and players can additionally sell tulips. When players sell tulips, they can sell them individually - putting them back into the market - or they can sell them as part of a set to a face up buyer card who requires a specific combination of three cards in order to get a bonus. Cards sold to buyers do not go back into the market. Players can put their markers on up to three tulips they are interested in buying. Unchallenged tulips can be purchased at market price while tulips wanted by more than one person are auctioned off. The dangerous aspect of the auctions is that a player can bid more than they have and put the tulip in hock until they can pay for it. This also removes a bid marker until the tulip is paid for. This allows players to easily overpay for flowers, and knowing how to avoid doing that the primary decision in the game. Tulip values are adjusted by what is left (more left = decrease in value) and a market adjustment card is drawn at the beginning of each turn to add a slight uncertainty. First to $120 or when the "Bubble Bust" card is drawn (shuffled with the last three cards on the market deck) ends the game.
+
+This is a real pleasant game reminiscent of Modern Art. The difference is that in MA the players auction cards from their hands and act as auctioneers while in this game cards are auctioned from an impartial market. Also the set targets of the buyers make for some specific set targeting that in Modern Art is more relative. This is a fun game, but not as compelling as MA because there is less player control and manipulation. For a light investment game that plays in about an hour, I'd recommend this. It is definitely the better of the two Moaideas games to come out this season (the other being the charming, but flawed Mini Rails).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Amazing market fluctuation and bidding compensation mechanisms, add in the theme and perfect artwork, a new classic for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Tulip Bubble ends up in a very uncomfortable spot. The player-controllable portion of the market is painfully predictable. After the future market row has been dealt out, it's almost always completely clear which order the tulips will end up ranking in. It'd just require totally infeasible amounts of collusion between players to change that.
+
+On the other hand the random market swings are absurdly large, so any decision you make has a 50% chance of catastrophically failing just due to random chance.
+
+I don't understand the thinking behind this design at all.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Christmas 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Auction game with a unique theme, the game revolves around buying and selling tulips before the market crashes and they are worth nothing. It's a very volitile market and you have to expect going into it that prices will fluxuate pretty wildly. Pretty quick play time and I think it's best with more players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spiel '17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ggl
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+nur mit dt. Anleitung
+bisher nur englisch
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+London
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+2017-12-23 1x 3p impression:
+Quite chaotic between the player bids and random market cards to manipulate the market. Plays reasonably quickly for a filler. But would have to remember to play with the attitude like that for 6 nimmt and accept the chaos. Not a big fan of set collection buyers as players will have to try to remember what others are going for. Otherwise the collection effort will be wasted. Quality components: tulip tokens, beautiful art, extraordinarily thick cardboard.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.75
+Fun speculation game. The random end between turn 7-9 however is disappointing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Playtime is a lie, at least if you have serious players.  Nice economic game with think, double think, bidding, corrcting market where timing is key.  Not sure it is wide open enough to allow a lot of plays, but had some really nice elements including set collection and market manipulation options, as well as buying on credit (something that both saved and sunk me).  Nice production.  May consider getting a copy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Fun and quirky game about stock trading, with a theme that's palatable to almost everybody. A bit too chaotic for most 'serious' gamers, a bit too 'math-y' for casual players? Yet a metric ton of fun in a small box.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I really like the market mechanism. Some information is known, some hidden, so it's kind of realistic.
+Some people don't like the End-game. I find it Ok. In some way it reflects reality;  everybody knows that the market is close to a burst, you just don't know when exactly it is going to happen.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.3
+Some neato auction stuff.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Styczeń 2018 - 7.16
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Gorgeous art, obvious choices.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Copies: 1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+[youtube=yLQaaInlBhg]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
++1 point for beautiful components.
+A bit too long (2h?) for a game with such a swingy, punishing market.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Best commodity speculation game I have ever play. Very elegant design.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Nov 2017: I have taught a couple of times and it is a good game. Early it seems very difficult and then the understanding kicks in.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Initial rating after one play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is really cool. I've never seen a game that represents the economy in such a thoughtful way before. I think you have to be really on board with kind of slow, nichey games to get into this, but with the right group this is a real winner. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Krat: 15
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The game has some nice mechanics, but is unfortunately way too long (1.5-2hrs). The sudden end is also not really my style, especially not in a game with so few rounds. Although I can understand some people may like that.
+
+I don't see myself playing this game again any time soon. There are just too many better auction games with the same number of decisions in a shorter timeframe.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+This was an elegant game. Beautifully designed and well mixed mechanics made this one to one of my positive surprises at SPIEL '17. I played a few rounds and was intrigued by the gameplay. Unfortunately it was sold out very quickly. I can recommend this economic game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+High praise, shorter game 1hr+.  Check into more.  Same publisher as Mini rails
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2017/08/25
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ESSEN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+tl;dr: quite chaotic
+
+Not to be confused with [thing=33732][/thing]. That's a very strange game that I always wanted to like but couldn't. This game has the same them, and the theme leads the game to also be a stock market game. That just makes sense. So you want to buy low, sell high.
+The rules are quite straightforward. The selling mechanism is quite tricky as you want to make sure to dump whatever the other players are dumping as it will probably crash in value.
+My problem with this game from the event cards. Those can lead to huge price hikes or crashes that can't be predicted. And every time I decided to invest big with an almost certain good outcome, one of those cards came up, decimating my pile of cash and stopping me from having any chance at all. You have to take these chances in the game to stand a chance, and to have that taken away by dumb luck just doesn't work for me. I can see how some would enjoy the tension this brings, but for me it killed the game.
+
+Initial rating: 5.5/10
+BGG scale: 4/10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It's cute, but got old kind of fast.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+GENCON2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Since I thought I could sell tulips I bought on borrowed money, I screwed my game from first turn on and it cost me lots of effort to get over that mistake. But boy, this is a great bidding game that suddenly ends; you have to keep that in mind. 
+Very much looking forward to a rematch. I didn’t buy it because I mainly play with two, but a friend has it. Lucky me.
+
+NB: the visual design is very clear and graphic, yet the simplicity of the esthetics is very appealing. It looks fantastic.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Provisional rating, one play. I just can't feel engaged by stock market games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Wow. I'm not normally a huge fan of games where a large component is an auction mechanic, but this one blew me away. I would be happy to play this at any time.
+
+I probably wouldn't want to do less than 3 players, though. I like the market chaos that more players bring.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+en mecatol
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ordered 10/10/2017, Moaideas (direct)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Fun auction game. I think it is bet at five. The more the merrier and it makes the auctions more fun. 
+
+The dividend for people who lose auctions is a nice and also sneaky way to make income by just being in an auction. The market change mechanic is good as well. It definitely affects when to sell. Financing tulips is a not a bad idea although it can tie up your auction markers.  Financing is good when one looks to the future. 
+
+The game is punishing if you make errors though. Be careful what you go for. It can be lost to another player although there is always the market. 
+
+The game should include more collector cards and more market cards with more variability. I do not see why they should be limited. In a five player game the collector cards went fairly quickly. Having more keeps the game going. someone can sell to the market or a collector. People who financed cannot sell to a collector so the just sold market will always be there. Also there should be more market event cards included. While I realize that the limited the number of market cards serves as a timer for the game (unless someone buys the black tulip), having market cards with more variability would increase the replay value. In other words, why not have a market card that affects two tulips or three tulips rather than just one. Add a couple of cards like that into the market deck and the games dynamics become more intense. If more market cards were included one could decide the level of intensity by customizing the deck market cards
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+benelux math trade: wordt verzonden
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+"So what happens if I can't afford to pay off my financed tulip?"
+"Exactly!"
+This economic game has players speculating and taking giant risks to sell tulips at a profit. The auctions and price tracker create incredibly interesting player interactions that are on-theme for this game about the first recorded economic bubble.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Preordered for Gen Con pickup. Picked up at Gen Con

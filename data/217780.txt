@@ -1,0 +1,944 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Gentes
+RANK: 1396
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[IMG]https://cf.geekdo-static.com/mbs/mb_17587_1.png[/IMG] KICKSTARTER
+
+Gentes : Deluxified™ English
+Estimated delivery: Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Gentes เกมยูโรระดับกลาง-หนัก ธีมหลวมๆว่าด้วยการพัฒนาอารยธรรมยุคโบราณ ผลงานล่าสุดจาก Stefan Risthaus นักออกแบบเกม economic หนักๆอย่าง Arkwright
+ 
+ 
+ไอเดียหลักของเกมคือการทำแต้มผ่านการ์ดอารยธรรม โดยที่การ์ดแต่ล่ะใบจะต้องใช้อาชีพของประชากรในจำนวนที่แตกต่างกัน (มี 6 อาชีพแต่ล่ะอันไม่มีอะไรต่างกันนอกจากชื่อ ตรงนี้จะมองเป็น set collection แบบหนึ่งก็ได้) แอ๊คชั่นอื่นๆในเกมก็จะเป็นการเพิ่มประชากรในอาชีพนั้น กับการ ซื้อ/เล่น การ์ดอารยธรรม 
+ 
+ 
+ระบบการเล่นหลักของไม่ซับซ้อนและไม่มีภาษาในตัวเกม แต่ล่ะตาผู้เล่นจะผลัดกันเลือกหยิบไทล์แอ๊คชั่นในหมวดที่ต้องการ โดยแต่ล่ะไทล์จะมีค่าใช้จ่ายอยู่สองแบบคือ 'เงิน' และ 'เวลา' จุดเด่นของระบบเวลาก็คือเราจะต้องหยิบไทล์เวลามาวางไว้ที่กระดานของเราจำนวนไทล์เวลาที่หยิบจะขึ้นอยู่กับแอ๊คชั่นนั้นๆโดยที่แอ๊คชั่นเดียวกันก็มีหลายราคาและเวลา พื้นวางไทล์เวลาหน้าเรามีจำนวนจำกัด ตรงนี้เราจะเลือกได้ว่าจะวางไทล์เวลาแบบกระจายจำนวนแต่พื้นที่เต็มเร็วทำให้ต้องผ่านไว หรือจะบีบเวลาให้ใช้ช่องน้อยลงทำในรอบนี้ทำแอ๊คชั่นได้มากขึ้น แต่ว่าในรอบหน้าไทล์เวลาจะยังค้างอยู่หนึ่งตาทำให้เราใช้แอ๊คชั่นได้น้อยลง (จริงๆก็คือระบบ action point แบบที่กู้เวลาตาหน้ามาเล่นได้นั้นแหละ)
+ 
+ 
+ข้อดีคือกติกาตัวเกมเข้าใจง่ายมาก (ง่ายระดับคนในวงสอนรอบเดียวพร้อมเอาไปสอนคนอื่นต่อได้ทันทีแบบแทบไม่ต้องเปิดคู่มือ) แต่จำนวนแอ๊คชั่นที่ทำได้ไม่เยอะทำให้ตัวเกมมีน้ำหนักการตัดสินใจที่เยอะพอควร จำนวนไทล์แอ๊คชั่นจะมีราคาและเวลาที่ใช้แตกต่างกันทำให้ต้องเลือกตลอดเวลาว่าจะทำอะไรก่อนหลังดี รวมไปถึงเลือกได้แล้วก็ยังต้องคิดอีกว่าจะใช้เวลาในรูปแบบไหนถึงจะดีที่สุด คือวิธีคิดมันไม่ซับซ้อนแต่ผลออกมาดีตรงนี้ค่อนข้างชอบ
+ 
+ 
+จุดที่รู้สึกไม่ค่อยคลิกเท่าไรคืออาชีพของคนงานในตัวเกมเราไม่มีความหมายอะไร เป็นแค่ทรัพยากรชนิดหนึ่งที่เราต้องขยับไปมาเป็นเซ็ทเพื่อเอาไปซื้อการ์ดเท่านั้นเอง ตัวการ์ดเองนอกจากรูปแล้วก็ไม่มีความเกี่ยวโยงในเชิงธีมอะไร (เอาจริงๆก็มีแหละแต่มันบางไป) ความรู้สึกว่าเราได้พัฒนาอารยธรรมอะไรเลยไม่ค่อยมี พูดง่ายๆคือธีมมันบ๊างงง บาง.....ไปหน่อย คือเอาจริงๆมันก็เป็นปัญหาปกติของเกมสายยูโรจ๋าๆทั่วไปล่ะนะ แต่พอดีช่วงนี้ผมเล่นเกมยูโรที่ธีมมันเข้ากับระบบเกมเยอะกว่านี้เกมนี้เลยออกจะดู 'แห้ง' ไปหน่อย แต่ที่พูดมาไม่ใช่ปัญหาอะไร ยกมาเป็นข้อมูลเฉยๆ ตัวเกมสนุกดี 
+ 
+ 
+อย่างที่บอกคือจุดขายกับจุดด้อยมันเป็นเรื่องเดียวกัน นั้นก็คือความที่มันเป็นเกมใหม่ แต่ว่าทำออกมาเป็นเกมยูโรคลาสสิคแน่นๆ ถ้าผู้เล่นไม่ใช่สายเกมเมอร์หน่อยก็อาจจะไม่โดนมากเพราะ wow factor ต่ำ (ยิ่งในยุคเกม KS อุปกรณ์เว่อวังแบบสมัยนี้) แต่ส่วนตัวผมคิดว่าตัวเกมหนักแน่นดี กติกาอธิบายน้อย เข้าใจง่าย หยิบออกมากางง่าย แต่ได้เกมที่สนุกแล้วก็มีน้ำหนักการตัดสินใจที่ดี ในแง่ราคาก็อาจแพงไปหน่อยถ้าเทียบกับเกมประมาณนี้ในตลาด (ผม Pre-Order ไป 55 EUR รวมส่งตกถึงมือประมาณ 3000 บาท แต่ตอนนี้ OOP เรียบร้อย ใน BGG Market ขายราคาไม่รวมส่งที่ประมาณ 100 EUR) แต่ต้องอย่าลืมว่าค่ายที่ทำเกมนี้ออกมาเป็นค่ายแบบบูติกที่ผลิตงานออกมาจำนวนน้อย (1000 กล่อง) โดยรวมเหมาะกับผู้เล่นที่อยากเล่นอะไรที่ไม่ใช่เกมตลาด Mass ชอบแนวยูโรแบบคลาสสิคแล้วก็มีความเป็นสายสะสมประมาณนึง
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter backer
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+1 play / 3 players
+
+LIKE: Novel use of workers and time slots, it was a great way to plan out a player's turn. I liked the development cards and trying to match them up to score more points. Many paths to victory, maybe too many? The game plays quickly.
+
+DISLIKE: Low interaction, aside form the action selection and cards. Theme feels bland, dry, but this is a minor detail because the mechanisms are interesting. The whole game has a flat color, bare-bones art, some people may be turned off by that.
+
+OVERALL: Not sure what to think on my first play through. It's good, medium-weight, but it did not seem to click with me as much as I wanted. One thought is that because the game plays quickly, I may have wanted more player interaction. Needs more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS Deluxified edition.  Loved their treatment of Orleans.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rare game but I feel somehow it's purposely designed to increase the difficulties which... does not really blend in well.
+
+However it's a game that I would play again because it's kinda short.
+ 
+I like Calimala more! (Same artist)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Quite fun and tense. Card drafting and some mild area control. Pseudo worker placement with a time mechanism that is somewhat limiting (most actions take one time, some actions take more and limit you on future turns, and you can get extra spaces to put time on your player board to open up more options). You get that tight WP feeling where you want to do 6 things but you have time to do one. I wouldn't say that it feels a ton like you are building a civilization, because much of what transpires is pretty abstract, and the cards themselves don't really do anything that makes the theme come alive. Very enjoyable though, and an easy teach.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter deluxified version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A clever and original time mechanic makes this game worth playing a few times, but is it a particularly good or enduring euro?  Not sure after one play.  I am not a fan of the graphic design, particularly for the craftsmen, and I do have concerns about the lack of player interaction.  Nevertheless, I definitely want to play it a second time to play around with some of the other possible paths to victory.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+reglas en español
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(kickstarter)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2 - 4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Vorbestellt über Kickstarter-Förderung.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+DUBLIN
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS Deluxified Edition - november 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed the KS by TMG in Jan 2018. Should be shipping by Nov 2018.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Very typical of a Speilworxx game. Once you negotiate your way through the terrible structure and wording of the rule book, this is an excellent game. All the component parts contribute to an incredibly well balanced and diverse experience that leaves you wanting more by game end. Several unique and clever mechanisms make this a game worth buying and definitely a keeper.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The problem with this game is that it badly needed a ux-designer. The gameboard and icons are unesecary confusing. The game itself is not really a civ game. More a planning euro. Some mechanics are great, like the action selection. The worker requirement on the card is less so. I wish the designer had played through the ages, flow of history and understood that its fun when thech cards get stronger the more you dedicate to a stratetgy. Since the theme is nof fully realized and emerged in the mechanics the game feels abstract and disconnected. You end up doing little bit of eveything to score points and so is everyone else. So there is never a sensation of different nations, everyone plays the game symmetric and gets very small special powers from the thech cards. I wish spielwoorx could hire a new artist and a new ux-designer and give their games more playtesting time. As it is now i will stop buying games from them. Other german publisher like hans im gluck relese finished games with much higher overall quality.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Derek has this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A civ game by Stefan Risthaus. Something to keep an eye on.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter: November
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+First two plays were fun, but then it started to be a bit the same every time. Looking for the right cards and just keep buying the cards with matching symbols. Others could buy those cards as well of course to stop you, but usually the incentive just isn't big enough.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter - Due November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+TMG 11/18 KS Delivery
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Strong euro
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Probably the best lighter weight civ game that I’ve played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+New and unpunched!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Spielworxx version. Very fun, crunchy Euro that doesn't feel too heavy. Lots of powerful card combinations make for some really neat strategic decisions. The "time token" idea is clever and the game is just so mechanically smooth: iconography is easy to understand, and the game feels very intuitive (very much unlike Arkwright, by the same designer). The 2-player variant is a little lacking, as it would be cool to be able to exploit a 3-region income at the end of each turn, but the variant still works well as it is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Wondering if it is true that the set collection/card iconography element is necessary/OP. Need more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Gentes is actually a very simple game for a Spielworxx title. It's essentially a worker placement efficiency/optimization exercise, where you select from a limited pool of actions to train workers, select cards, fulfill whose cards with your pool of trained workers, and build buildings on the board. There really isn't any complexity beyond that, and it all works well.
+
+There's a nice twist in that actions take time, and you only have a finite amount of time to use, with some time use possibly carrying into future turns, limiting what you can do on a future turn. It's a bit of a puzzle trying to figure out how to best manage this.
+
+With Spielworxx, the rule book is always a concern. This one was fairly good for a Spielworxx game, but still under par for rulebooks. Some pitfalls of explaining things before you know what they're trying to explain, and explaining the exact same thing several times across multiple sections of the rule book make it more frustrating to learn than it should be. There were also a few things that were fairly unclear until we solved it with gamer intuition. Once the game is learned, you can probably teach this game in 10-15 minutes, though, which is very light for a Spielworxx title. Not a bad thing, but perhaps not what you might expect.
+
+I actually liked the game much better in the early rounds, but really disliked the end game, which turned into a scramble to claim a bunch of cards vs. the more balanced feel of the rest of the game. The game provides a way to score unplayed cards for half their value at the end of the game, which just seemed kind of odd in how important it was to end the game with several cards to score, as they're simply worth far more than other options you have.
+
+Overall, I thought it was pretty solid, other than the bothersome end game, but unspectacular, as nothing about the game wowed me, but I still enjoyed it well enough.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed the Gentes - Deluxified Edition Kickstarter project. In all honesty, the group would probably rather play games we already have (like Concordia) instead.
+
+Still, it looks *so* cool...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+Elegant, simple, and deep. A real masterpiece in game design and certainly worthy of the praise. (FOR TRADE - ONLY to K/S the Deluxified, very excited about this project. Thank You TMG, please pay attention to detail with the rulebook and its translation and listen to our opinions regarding the treasury issue).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+TMG Kickstarted Deluxe Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+coming Nov von TMG; wait for retail
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS-Deluxified
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+brilliant game; civilization themed euro with a fascinating timing mechanism. love the artwork - my new favorite atm.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.8
+It has very original mechanics.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+100 (novo)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed Deluxe Edition on Kickstarter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This game was just OK for my first play. Although I'd try again to see if I like it any better now that I have a better feel for it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kickstarter Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unknown Price
+Ancient Mediterranean
+Civilization
+Card Drafting
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Waiting on Kickstarter 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+[16 Jan 2018] - 8 (2 plays)
+A very enjoyable game with a unique method of selecting actions and limiting the number of moves a player can take in a round through filling the time track. It's very loosely a civ game in the sense that purchasing cards gives you points as well as unique abilities that impact how advanced you are - e.g. you can do more actions because you're actions take less time or you have more space on the time track. The way cards and training types of citizens is handled is a little difficult to grok from the rule book and icons on the board but have been clarified in the forums and easy to understand when it finally clicks. I personally find the artwork nice and fits the theme. 
+
+[2 Feb 2018] - 7.5 (3 plays)
+Lots of decisions to make about approaches to the game and balancing lots of different tracks on the board. It's dropped 1/2 a rating because the third play felt a lot like the other plays. The cards are different enough to need to prevent a static strategy from winning. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+TMG KS Deluxified Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+bestellt am 02.07.2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Highlight: 2017 (November 2017)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Nice Euro with a fun timing mechanism.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Preordered from Funagain.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Oct 18
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+2017-08-21 : First play. Very streamlined engine builder with an action selection mechanic that forces you to make hard choices each and every turn. Turns go pretty quickly and there are enough of them so you can work towards a particular strategy. Our game saw 3 different approaches with all 3 players ending up within a dozen points of each other, always an indication of a good game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed the Kickstarter by TMG in Jan 2018. Should be shipping by Nov 2018.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Card  driven civ building game with an interesting action selection system. Find the neat combos for the big points. The milestone awards add some planning and timing to the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Demo'd this one and added to buy list
+Awaiting TMG release (in std rectangle / Orléans-sized box hopefully)
+
+edit:  YAY!  KS  23 Jan 18  YAY!  TMG for perfect Box Size!
+and YAY to the designer for adding another of his games to our collection
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+TMG and Gamebrewer bringing a Spielworxx CIV title? Instaback for me. Solo pledge
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Consejo de Mario... no se nada sobre el.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter - TMG Gentes deluxe
+expected delivery: Aug 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed TMG Deluxe on KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified KS edition with upgraded "New Cities" expansion tiles included
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The first game left me quite underwhelmed (upon having bought it blind)
+The cards seem to be crucial - no chance to win when trying another approach. So it's just comes to trying to figure out the best card combos and making the most out of it.
+That's too little for me to keep the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Nothing really original, only one strategy: cards.
+Without infamy nor praise.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.7
+Very clever game with a fantastic temporal track. While I like the artwork in general (the cover, the figures), I find the gameboard itself somewhat functional.
+The decisions one can take during the game are very interesting and actions are never enough.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Excellent design. Great decisions packed into a short(er) civilization game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Solid game, but too much of an euro for my taste. Plays fast, but limited player interaction and feels more like VP collection instead of a civ building game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Highlight: 2017.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Not sure why this has such high ratings. Other commenters have noted that the end game scoring is totally messed up. The emphasis on cards and the crazy importance of turn order makes much of the previous gameplay moot. Not sure why those people who identified this weakness ranked this 6 or higher. It is a game breaker.
+
+Not sure if the "deluxified" version solves this gamebreaking issue. If not, this should be a hard pass.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+#ChooseAction
+
+
+[c]
+Theme:          :nostar::nostar::nostar::nostar::nostar: [size=7]No theme[/size]
+Gameplay:       :star::star::star::star::nostar: [size=7]Entertaining[/size]
+Interaction:    :star::nostar::nostar::nostar::nostar: [size=7]Almost no interaction[/size]
+Artwork:        :star::star::nostar::nostar::nostar: [size=7]Nothing special[/size]
+Luck:           :nostar::nostar::nostar::nostar::nostar: [size=7]I can't see it[/size]
+Strategy:       :star::star::star::star::star: [size=7]Yesss[/size]
+Components:     :star::star::nostar::nostar::nostar: [size=7]Nothing special, temples look like factories:/[/size]
+Play duration:  :star::star::star::star::nostar: [size=7]Very good for such a game[/size]
+Easy to teach:  :star::star::nostar::nostar::nostar: [size=7]Could take some time[/size]
+Setup time:     :star::star::star::nostar::nostar: [size=7]Quite fast[/size]
+No downtime:    :star::star::star::nostar::nostar: [size=7]Can be played with almost no downtime[/size]
+[/c]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Spreadsheet style game, very little interaction, very little innovation.  Disappointing enough to sell on.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+August 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.3
+1. STRATEGY -	10
+	
+2. DEPTH -	9
+	
+3. PLAYER INTERACTION - 	8
+	
+4. REPLAYABILITY - 	9
+	
+5. THEME INTEGRATION - 	8
+	
+6. LUCK INDEPENDENCY - 	10
+	
+7. ORIGINALITY - 	8
+	
+8. COMPONENTS QUALITY - 	7
+	
+9. RULES - 	6
+	
+10. FUN FACTOR - 	8
+	
+Total	8.3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Components: good quality in all components
+Complex: easy to learn
+Weight: medium
+Players: 4, but work with less
+Length: less than 90 mins
+Mechanics: set collection, manage time
+Decisions: a lot
+Opinion: this is a hit from Spielworxx, a game about civilization (well in an eurogame style) lasting less than 90 mins. This is one of those games for which I say... they offer a lot in so little time.
+In the game we start with a small civilization and will try to make it the greatest of all time, we will have to work with scribes, write some chronicles, do some navigation and educate our people.
+The game last for 6 rounds, being 2 of each to a different era. And, en each of the rounds you will have a heyday phase (doing actions) and a decline phase (a kind of upkeep).
+The heyday is the main phase, here you will have to do some actions, and each of them will consume time. This is a really neat mechanic here. You want to one action, you take the tile for that action and place it on your board, but that action takes some time, so you take also a time tile and place it in the same board. You have to think well how to manage this as the space you have is limited (actions taking more than 1 time can be placed with just a 2 tile or 2 one tiles).
+What you can do... take civilization cards, play civilization cards (cards are "things" you are building in your civilization and give you some nice abilities, while require specific population to work on them), get new population (you have a maximum of 18 population and 6 different classes, the nice point here is that they are opposed - noble vs artisan, religious vs politics, military vs merchant, and you can't have more than 6 in any of them, but, each merchant you have is one military less you can have), tax your people (receive income) or navigate to build some cities on the main board.
+Once no one can do anything (pass is not allowed) the decline phase comes, I will say that is a kind of upkeep but.... all time tiles with just 1 time are discarded, while double ones are flipped giving you less space for the next round (think that what you did in the past is not finished).
+This is the game in a nutshell, a game easy to explain, easy to understand, playable in less than 90 mins and offering you a lot of choices and a lot of tension. The interaction between players is not a strong point here, beside a race for bonuses, cards and places nothing else) but enough. A game I will play any time I have the opportunity.
+Love how the time management is implemented, how the cards work together, how the population is raised... love it
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kind of a worker placement.  You take action tiles that cost money and/or time.  You can free up spaces to take more actions, hire workers to be able to play cards for bonuses, build buildings to generate stuff.  Seems great!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Deluxe Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Really WANTED to like this one more. Loved the artwork, the theme and concept of the time mechanic. However it just played out as a slightly boring set collection / contract fulfillment exercise without many truly interesting decisions. A decent game, but I had higher expectations.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+mapa
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Good game, but not as polished as it could have been. Why do we get points for cards that we have in hand at the end of the game? This just kills the last round and it's also worth many points for no reason.
+
+The whole building spot where you get bonus actions could easily have been cut out without taking away from the game. It just adds even more to an already completely filled up game. It's not hurting, but unnecassary complicated.
+
+Anyway, the game has some great and innovative ideas (no doubt about that!), but it could've been much better with the appropriate polishing. As it is, it feels more heavy than it is or needs to and as mentioned above, the end game scoring really sucks hard. Everyone at the table was looking for a fix to this.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Estimated arrival November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Molt abstracte
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4 Players 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+同じアクションができる代わりにコストが嵩むワーカープレイスメントと言える。ゲーム内容としては人を雇って建物を建設する至極真っ当な安心して遊べるゲーム。独特なゲームエンジンながらとても遊びやすい。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Nov 2018 arrival.
+
+This game sound up my alley mid-weight euro, around 90mins playtime + deluxified TMG. A must have!!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Played at BGGCON 2017; interesting mechanics but art and graphic design is a turn-off
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter- November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+[url=http://misutmeeple.com/2017/09/resena-gentes/]Reseña de Gentes en Misut Meeple[/url]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed Kickstarter, expected Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+good euro
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is a great game. I can see Stefan Risthaus's touch when you are forced to pay for more than you can spend for the action (like in Arkwright). The game mechanics are very simple but combines very well. The unique time mechanics is just amazing since it puts you in a risk-reward situation. Surprisingly this game is quite light for a Spielworxx game. The rulebook again had quite a few errors in the examples (seems to be a Spielworxx hallmark) and needed some help from the FAQ section. Otherwise this is a stellar production and game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted the deluxe version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very light, for a Spielworxx game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Deluxe Edition, expected delivery November 2018
+
+Includes:
+[thing=234138][/thing]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Kickstarted TMG Deluxe 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Deluxe Edition. Estimated delivery Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+After a few games it turned out to be a really great game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+2018 Nov
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted Deluxified Version.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I backed the Kickstarter.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Investigate
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Para Noviembre 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It is a good game, but prone for AP.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ETA: NOV 2018
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.2
+Brainburner with great mechanisms, yet a bit too calculing to my liking.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+a very very good game !!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Expected November 2018.
+
+Gentes Deluxified Edition with all stretch goals.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Literally - time is money! You'll get a great impression of this concept in this title!
+
+FIRST IMPRESSION:
+
+I wouldn't really consider this a civilization game as there are no unique abilities between players, you aren't a specific country/tribe, there is no tech development, and the like. However, it is quite a smooth playing euro game where most of the pieces make sense. The two systems for gaining workers and cards take a little bit of time to wrap your brain around how to acquire, but is actually quite clever. While no one in my first game used hometowns, I can see their value in both saving money and time. 
+
+This is a game about managing time - and there is quite the neat little mechanic where you can take a two time tile to allow yourself to do more this round at the penalty of doing less the following round. Building cities allows for income generation in several different aspects and cards do at times as well but are primarily point generators. 
+
+I am slightly annoyed at the box dimensions as the box is a bit taller than usual. 
+
+Looking forward to exploring this one more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+good, solid design, not groundbreaking though
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Basically quite easy rules allow a challenging gaming experience with many different possible strategies, requiring tricky decisions. Easy to learn, hard to handle - a highlight of this year, at least.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+After my first play, I've kept thinking about it. The player board makes this game so tense...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Complexidade: 3.20
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Coming to Canada. November 2018. Deluxified Edition. Will include Gentes: New Cities.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+November
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS Feb 15, 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I like the game. All about the cards in the end which isnt a bad thing. My group didnt like it to much. Scales well and runs really nice and fast with two players.
+
+ Initial
+T 6
+Im 5
+Mi 7
+
+Second
+T 6
+Im 6
+Jan 5
+Mi 7
+
+Third
+T 7
+Mi 8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Beautiful looking game.  No theme, however.  Did not capture our interest at all.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter Deluxe, Est. Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Solid gamers' game. A typical euro without much interaction, only a bit indirect. But the puzzle of resource management and getting the right action for the least amount of money and time is challenging enough. The action selection systeem with the and the time it costs, is a special mechanism in this game. I would like to explore this game more.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+deutsch/englisch
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified with the New Cities Expsansion
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Genius action selection mechanism, at the center of a good-but-not-great game. I haven't mastered this one but still enjoy the play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+English only deluxified
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted through White Knight. Estimated arrival Nov. 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.75
+This game plays so smoothly... like everything about it... Stefan puts out another hit!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Estimated Arrival Date: Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed on KS.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Really good civ lite game that ISN'T a glorified arms race, with strong implementation of the classic Euro conundrum of never being able to do everything you want.  The game is set entirely in ancient times, rather than being a painfully abstracted multi-era sweep;  another reason it succeeds where other civ lite games have failed.  The primitive art style works really well with this.  There's no "take that" element to speak of, but that doesn't bother me in the slightest.  Highly recommended.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Styczeń 2018 - 7.72
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Another spreadsheety Euro-Civ game that runs slightly longer than its appeal merits. Not terrible, and I love Harald Lieske's artwork, but it's difficult to find a USP in this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter backed Deluxe TMG
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Estimated delivery Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Maybe Spielworxx´ best game yet. Plus outstanding art!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS version 2018.11
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS deluxified ML 69 $ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Gentes Deluxified™ limited edition with all unlocked stretch goals. 
+
+Foil-stamped Deluxified Box
+Deluxified Box Sleeve
+6 Oversized Meeples
+24 Normal-sized Meeples
+89 Metal Coins
+28 Wood Action Tokens
+21 Wood Look Tokens
+60 Wood Hourglas Tokens
+4 Dual-layered Player Boards
+4 Custom-shaped Score Tokens
+Folded Space Custom Insert
+New Cities Expansion
+1 Drawstring Bag
+1 Upgraded Round Token
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I really liked my first play. It's all very tense and it's one of those games where you wanna do 6 actions and you'll get 3 or 4, so you'll have to make some choices
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+a friend has it, so i will get to play it at some point.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Was expecting a light civ game. Not so much civ at all but set collection and action selection. I really enjoyed my play of this game. I look forward to more plays. Not pretty but has some nice mechanics.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Really nice, very smooth game once you get the hang of it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter 2018 Deluxified
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Pre-ordered on Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2–4 Players. Playing Time: 75–120 Min. Age: 12+. Weight: 3.18 / 5.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spielworxx edition only.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very fun and clever game, love the time mechanism, and so well balanced, it's always a joy to play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+Noviembre 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+Excellent game. Definitely my current favorite. A lot of replayability and various methods to achieve victory gives this a very high rating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed deluxified version on kickstarter - Delivery Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+really like the 3 tracks for 6 workers idea !! genius
+10/2 KS updated to include solo & 2 player rules - instaback !
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Score based on one single game which ended with a very strange end-game situation: did we accidentaly play 7 rounds in stead of 6? Depending on replays, this score might change significantly.
+
+[b]The good:[/b]
+(+) Some rather original mechanics: worker 'takement' system in which you have to invest money and a variable amount of time (action spaces) in order to obtain actions. Original system to obtain population (required to play certain action cards): you can't increase all types, having 6 mechants means you can't have any soldiers -this can make the game a little puzzly). Some engine building aspects in building cities and certain cards which offer money or points at the end of each round or which provide possibilities to power up certain actions. Also some minor engine building aspects going on with generating an increasing amount of points by combining certain symbols on action cards.
+
+(+) Rather short and elegant game. With only 6 rounds and only 3 - 5 actions to spend each round (depending on the time you need to spend your actions), the game progesses quickly and you are always short of actions.
+
+[b]The bad:[/b]
+(-) The game lacks thematic integration in its mechanics. This is a very 'mechanical' and 'abstracted' game.
+
+(-) We encountered a serious issue in the final round. All players had invested enough in their population so it was no problem for anybody to gather and play the high point scoring era III-action cards. Those cards ran out quickly in the final rounds, just like the action tiles needed in order to play the action cards. This created an unbalanced situation: player order became overly powerful in the final stage of the game and huge points swings occured due to simply having the opportunity to play *any* era II or era III card. Over 66% - 80% of the points generated by each player were obtained by playing cards, reducing other possible strategies to insignificance. At the end I snatched away the victory honestly only by mere luck because I was able to persue my card strategy while others who tried doing the same (and prepared equally good or even better for it) just fell out of the game at the end due to mere luck-based factors or an unbalanced game mechanic with player order. This was a game killer for me, but we wonder if we made a mistake while playing and played one round too many (7 rounds in stead of 6?). Will try again in the future. If the same situation occurs again, my rating will drop to < 5. Otherwise, it may rise to 8.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Stefan has assembled a truly impressive set of cohesive mechanisms here. Unsurprisingly so, I might add, having seen what he has achieved with Arkwright. Nothing feels excessive. Nothing feels out of place. Your options all work very well together. However, after numerous plays, it just feels like Gentes lacks depth. Each play has some form of set collection of cards once you meet their requirements, along with "first-to-something" bonus tiles, so it always boils down to a race. There are minimal opportunities present to be creative with card, building, and board abilities. The restrictive nature of the game (administrative fees and your own income preventing you from freely flexing your action-selection abilities) will lead to a sense of wishing you had more time to explore other options. Thus, there is some incentive here for multiple plays, but multiple unexplored, derivative options does not necessarily equate to depth. 
+
+The "how", or rather, the path forward, ultimately becomes well-defined in each game, once you assemble your cards and position your buildings. Deviating from this path, i.e. diversifying, will spell doom. The game lacks excitement: all changes of the game state are incremental; they create no wildly dynamic repercussions on other players' futures. Fully acknowledging that Stefan did not set out to create some sort of "Arkwright Jr." here, I wish to, for analogy's sake, show what Stefan is capable of: Take a situation in Arkwright where one or two players prior to you in turn order simply increase the appeal of a good sold [moving the price marker down on their goods a tick or two]. When your turn rolls around, suddenly you are left stymied at a profit loss from being unable to sell your own goods, and potentially left reeling from being unable to pay workers in your factories. If you had no contingency plan, your workers' salaries will eat into your profits. Lost profits may result in being forced to fire workers. Losing workers = less future production = less money available to use while striving for the most valuable portfolio. Ah, but wait, there are alternatives...yes! You still have a chance to ship your goods out. Sure, your exporting action will cause your share value to drop, as you begin to diverge from domestic trade and shareholders become critical, but you *can* sell them and make some profit. Furthermore, your share value dropping gives you the opportunity to purchase more shares at a cheaper price, and sell them back for a profit once you are able to bring their value up on later turns. The question then becomes not one of "if", but "how", and that uncertain prospect is tantalizing.
+
+In contrast, actions are more black and white in Gentes. "If" you are suddenly unable to do *this*, you are still able to do *that*, e.g. you either pay more money, or pay more time, to take an action; you either obtain cards from the display that you wanted, or you search for cards from the discard pile; you either build in *this location* for a bonus, or build at *that location* for the same bonus. Of course, these actions will not always be convenient, but the decisions which you must "wrestle" with are not really all that interesting. Even at full four player count, it did not feel as competitive as I would have liked, and this surprised me.
+
+Some people will appreciate the serenity in the game-play and clarity of the consequences of your actions. I prefer a bit more opacity in my games. Player interaction is very minimal, and that is what I dislike most. And as much as I would like to say it is about the "journey" in Gentes, where you can create resounding memories of seeing your civilization grow and flourish, I cannot. I personally do not find theme a deal breaker, but I would be lying if I said the theme shone through here--on the contrary, its as thin as the cards that attempt to convey civilization building. Each time I decided to lay a card down, I only cared to ensure that I met its requirements, that its bonuses were relevant to my plan, and that I scored it most efficiently. I paid closer attention to the symbols that scored the most points, rather than to what exactly it was that I was "chronicling" or whether it made coherent sense in the sequence of cards I laid prior to it. 
+
+Overall, Gentes is pleasant to play, possesses a few clever moments, but does not seem to strike the "fun" factor very consistently for me. Sad to say, I am disappointed.
+
+(+) Cleanly designed. The 'fat' has been cut. Every mechanism present seems like it is where it ought to be, and functions and interacts as it should.
+(+) Steady, terse gameplay. It does not drag, barring some mild AP exhibited by players who over-scrutinize the discard piles of cards from previous eras.
+(+) A unique time-track mechanism is present to throw a wrench in your choices. It averages out, though, but the sense of "time" required, and lack thereof, is an interesting meta-like way to create some tension and reward clever planning.
+
+(-) Game-play is repetitive. Much of what you do is the same each game. Collect cards, establish engine, scramble for high scoring cards mid to end game. Prioritize cards that remove cubes, always, because honestly, it does not ever hurt you to have more action spaces. If, by some fortune, a certain combination of buildings are not claimed, and you claim them, you can pursue an alternate *supplemental* scoring path, but there is no question the cards are where it's at.
+(-) Add to the above--repeated plays have shown little depth. What seems left to explore is searching for the best combination of cards from the discard pile and/or card display to maximize your score. Is this really strategic depth more than it is input variability?
+(-) Decision outcomes are often incremental and fail to make a significant impact, i.e. the game is not very exciting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Uniqueness brings this one a step up from the norm. With this and arkwright , the designer is one to look forward to seeing any future releases. So far, heavy is the way to describe this game, but easier to get into than Arkwright.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Try
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+--Feb2018-- Clever; reasonably clean in execution and play; could (quite plausibly) increase in my estimation with practice and familiarity.  And looking forward to a replay.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very fun euro where time is essentially a resource you manage. This is particularly interesting because you don't have to generate time, like you have to generate other cubes. You've just got a certain amount of time each round, and how are you going to use it? I also like that you can compress the time so you can squeeze more actions into one round if you desperately need it, at the expense of having less time in future rounds.
+
+I also appreciate that it isn't using the same method for time as Glen More, Patchwork, etc uses where whoever has used the least time takes their current turn (I like how they do it, but it's good to see other approaches to it as well). This manages to make time work while still having each person take turns in clockwise order.
+
+Other than that, taking the action spaces isn't too much different from placing workers on spaces, since other players can't take those actions, but I like that it's added to your time track. It does make the board look busier than it really is, and it does add a small amount of fiddlyness as everyone has to put their actions back each round, but they probably only took a few actions to begin with so it's not a ton they have to put back.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(55)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified Edition
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter TMG Deluxified Edition. November release.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+6/28/2017 Funagain pre-order $52.00. Arrived 10/3/2017.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Solid 9 even with the rules that give ample scope for misinterpretation! Playing with the  glossary to hand does alleviate some of poor descriptions in the rules. Good game for those who need a game that scales down 2 players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Deluxified
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A wonderful game with simple, elegant graphics (with one or two niggling graphic problems) and elegant game-play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Gentes is not so much a civilisation game as it is a civ-themed game, with players building up cities and technologies in lieu of engaging in direct conflict. What I especially like about this title is the coupling of actions with time costs, which is reflected in players taking tiles that fill up a personal time track. Once the track is full, the player is out for the round. For actions with high time costs, players can opt to condense the time into fewer tiles – meaning that the track fills up slower – but at the expense of having those tiles carry over to the following round. Players may also invest in unlocking more time-efficient actions for the future. While the concept of time as a cost isn’t new (see [thing=92319][/thing] and [thing=104006][/thing]), Gentes’ presents a sufficiently fresh spin on it.
+
+The rest of the game is equally abstract and fairly serviceable. Civ cards are clearly central to doing well, but the individual strategies subtly diverge as players chase after secondary points from cities and other bonuses. Slightly underwhelming is the push-and-pull mechanism of the worker track; despite being quite clever in its own way, it is underused and only matters in the third era.
+
+A strike against the game is that the icons are not quite clear – it is particularly difficult telling apart which icons imply passive effects and which constitute actions. I also found the display of the modular costs of training workers confusing at first, although I am less sure if that can be improved upon. Overall though, this is a solid (but not great) middle-weight design.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed the Deluxe on KS.
+
+Due in Nov 2018.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ETA: 11/2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Although may look a bit boring and abstract, it has a satisfying action selection mechanism and nice depth without being too complicated. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+From FLGS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+TMG Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter 23 Jan 18
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+[url=https://www.boardgamegeek.com/geeklist/232879/item/5778932#item5778932]1 play, 4er[/url]
+
+This is a not so complicated civ-themed action-selection game. You start with a small civ with only a few population and skills. Over 6 rounds, you conduct a variety of time-consuming actions (max time available gradually increases during the game). Action selection is done by choosing a token from the board, each type of action having several different combinations of time required (1+ turns) and action strength. Time is cleverly managed: if 2 time required, take hourglass token(s) which will remain on your time track at the end of the turn. Possible actions include increasing population (max 18), training your people (6 skills, but skills come in pairs; max for any pair = 6), taking cards (from a card row), playing cards (for VP, ongoing effects), build cities (either on the map or to gain some power), tax. Over the course of the game, you'll end up growing your civilization, building structures (requiring different pop/skills) for powers and points.
+
+Looking forward to playing this one again!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Not bad, has some interesting mechanics, but I did not like this as much as I thought--a little fiddly and not all that many different things you can do.  But part of that might be because it was at the end of a long day.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
++Gentes: new cities
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Very good game, with really nice mechanisms. The time of play is excellent and the complexity is on spot.
+
+The only thing I would prefer to have would be a bigger challenge for all the personal goals that the game presents. Players have personal challenges to accomplish and in our game all players did them with some easiness that I would prefer to get more difficult, sort of speak.
+
+(N)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+TMG DELUXIFIED IN WORKS. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarted Deluxe from TMG.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Backed "Deluxified" Edition on KS; expected shipping date November 2018.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Pretty straightforward planning game that masquerades as a Civ building exercise, with an interesting Time twist. The varied improvements/tech card decks (over 3 eras) is what gives the game its foundation (and make no mistake, these cards appear to be the clear path to victory, at least for newer players).
+
+Rules aren't the usually horrible Spielworxx fare, but still they are still confusing in too many areas (e.g., the Philosopher action, Hometowns, Scribe, etc.). It's obvious that Uli B. is unwilling to address this significant problem as this pattern keeps repeating over and over again. Get a native English reader/proofreader on board, for goodness sake!
+
+The play aids are a flimsy embarrassment. But overall, the graphics are great (evocative of the theme - good job).
+
+I had high hopes for this game as a medium weight title, and it delivered.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KICKSTARTER
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Jugamosotra
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rating after one play: A decent game that didn't do much for me. I don't find the timing mechanism that interesting. You will need to pay the time sooner or later. It's just a way to push some of the "price" into the next round. So merely another way to min/max your decisions. As I experienced the game, you _need_ to go deep into the cards. The rest of the games scoring options are merely a supplemental. Thats just not satisfactory. I may have missed something. (Or even a lot.) But from my first impressions, my rating stands. May go up after more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The timing mechanism really is fascinating, as is the population board. Great game! Unfortunately it's much longer than stated (180 minutes instead of 90) with four players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Preordered TMG's Deluxified edition from Kickstarter.  Funded on 2/17/18.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.3
+tl;dr: Spielworxx does what it does well
+
+This game has a nice, fresh take on both worker placement and the action point allowance system. The way it does this is that you select an action, but in stead of placing a worker, you take a tile associated with that action. You put that token on your time track together with time tokens. The amount of those depends on the action. If you have to place more than one you get a choice of multiple single ones or double ones. The double ones take up less time this turn, but stay on there for 2 turns. So do more now but less on the next turn. This creates lots of fun dilemmas.
+But it's not just that. These mechanisms are integrated into a tight albeit a slightly dry engine building game where you get resources to build buildings and acquire cards to expand your abilities.
+All in all: good stuff for the heavy euro lover.
+
+Initial rating: 7.3/10
+BGG scale: 7/10
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Vin d'jeu: french review & video of Gentes http://www.vindjeu.eu/2017/11/14/gentes/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter (Deluxified™ Edition, Backer 6,472 of 7,156)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(19) 【ボードゲーム レビュー】「Gentes」- ラ・グランハ等のメーカー「Spielworxx」の2017年新作 - YouTube : https://www.youtube.com/watch?v=qTL23VfXpjs&t=2s
+面白そうなんだけど多分重くて遊べないから入手は控える。不破さんが遊ばせてくれるかも。
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+GENCON2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Gentes is a civilization type game. It's a fairly abstract and somewhat light version of a civ game. There's a map and city building, but all cities do for you is trigger some bonus. You have six type of citizens representing the way your population can be trained. And there are technological advancement cards that you can build if you've trained your citizens to the appropriate levels.
+
+What really makes Gentes interesting is the time track system. Whenever you take an action you must take an action tile and put it on your time track. Additionally you must add the time required for an action on your time track as well. If the action takes two time periods you have the option of putting it on your time track as two single time tiles or one double time tile. At the end of the round, all the single time tiles will flush, but the double time tiles will turn into single time tiles and persist until the next round, leaving less space on your time track. When your time track is full you can't do anything else and must pass.
+
+This makes for interesting decisions about which actions to take. Some actions cost more money, but require less time. The same action might be available for no money, but require more time. There's also interesting decisions about whether to take time as singles or doubles. If you take singles you'll do less this round, while doubles will clog your time track for the next round.
+
+Technology cards score points, but also give you bonuses, like training bumps for your citizens, cities, money, or special abilities. In the early and middle ages technology cards will have symbols and each subsequent card with a symbol scores you points for all your matching symbols. Late age cards don't have symbols but typically have a lot of points.
+
+There's bonuses for placing all your cities, training all your citizens and building a bunch of technologies. The person who triggers each of these goals first gets a double bonus for doing so.
+
+I enjoyed my play of this game. It hit a lot of interesting notes in a fairly quick time period. It was enough of a civ game to scratch some of that itch, but without the time commitment of a regular civ game. It also didn't have any of the militaristic aspects of your typical civ game, which I can honestly do without anyway. The time track mechanism was interesting. I'm looking forward to more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Promo: New Cities.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter
+Delivered: November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Two/Group/Solo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Kickstarter 10.02.18 Deluxified Version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+sold, awaiting for the deluxified version
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ks deluxified
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kickstarter - november 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I have played this game. I enjoy it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+en mecatol
+
+sin enfundar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Always up for new takes on civilization building.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Ancient civ building over three eras of heyday and decline drafting from a choice of action selection tiles that have different amounts of cost and time. Add development cards by meeting pre-required combinations of workers. Interesting labor pool cycles workers to the back of the queue where they are more expensive. Clever two-time tiles allow spending time from a future round.  Also match symbols on development cards for bonus scoring. A lot of strategy brain work and trade off decicisons and math between money and time, anticipating what action tiles will be taken by other players that you need but aren’t yet ready!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Game
+Not yet played
+Kickstarter - Expected November 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+12th Kickstarter campaign
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+KS - Nov 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A solid Euro where instead of taking workers and placing them on the board to take actions you take tiles from the board and place them in front of you to take actions.  The way action points are represented as time units that can sometimes carry over from turn to turn was interesting and the push me pull you mechanics for collecting workers where getting one kind of worker reduced the maximum of another kind you could get was unique.  Still, it seemed like a lot of work just to create a tableau of point scoring cards with minor special abilities.  I don't know if some spatial considerations or more interesting cards might have put it over the top for me but Gentes is firmly in "would play again but no need to own" territory for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+—-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Kick Starter - TMG Deluxe
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+English Deluxified Kickstarter

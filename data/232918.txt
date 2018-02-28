@@ -1,0 +1,1441 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Fallout
+RANK: 981
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Rating based on solo game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bad rules but fun game. Seems to have lots of replay possibility.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Wonderful game!  More complex than my other favorites; Eclipse, terraria and caverna!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Unbalanced :-/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+and only because I love old Fallout setting. :(
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Since this was not labelled 'Starter Edition' or something similar to denote there will be more expansions/content in the future, this game is limited to replaying AND enjoying over a period of time. 
+
+You are limited to 5 characters each with fixed starting abilities and items. It is the same each time. 4 Scenarios 'sheets' - The same each time with the exception of the random tiles between fixed locations.
+
+The use of mini-sized cards in games that require lots of text on them is becoming more standard and will soon be even more annoying. Too bad more people don't step up and write about this issue. This is not a 'Tiny Epic' game, nor do we need to hold dozens of cards in our hands.
+
+At least the manuals are well written and organized. At least the Fallout universe was not ruined by FFG like the new Dr Who game from GF9.
+
+If you are not a Fallout game fan, skip this and maybe wait to see what direction it takes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+10 mutated thumbs up!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great story-driven game that reminded me why I like the Fallout video games so much.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Pretty incredible video game analog. More of these IP’s please! Can’t wait for expansions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I enjoyed the playing a board game so well built around the fallout themes and lore. But, I could have done with more encounter cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+This game is a nightmare. I've kind of spoiled my entire review at the start so let's step back a moment and talk about the good in the game—what little actually exists. 
+
+COMPONENTS:
+Quality is standard here for Fantasy Flight: you have good linen quality cards, you have good linen quality chits, and everything is thick and very nice overall. The miniatures are great (though the lack of female representation is pretty stupid in an adventure game). The player boards are very inventive they're fun to play with. They do their job better than a game without such dynamic play boards. 
+
+UI/UX:
+The art design ranges from pretty good and accurate for Fallout 1/2 to piss-poor and bland (something that reminds me of Castle Ravenloft). It seems like they went half-and-half old Fallout with new Fallout in-game posters. The UI/UX design of the cards is functional. The art is minimized to make way for the information on the cards. Everything you need is on the cards. The SPECIALs are easy to see and pick out on the each of the game components. The symbols makes sense—as soon as you learn them you should understand everything that they do in the game. There's nothing really bad to say about the overall user experience. 
+
+This is where things start to get really bad.
+
+THE RANT (AKA GAMEPLAY):
+In this game you get nothing and you do nothing. At the end of it you feel like you have completed nothing. It's a Co-petitive game which is a made-up word that means that you can cooperate with people but ultimately there can only be one winner in the game. This is better than Fantasy Flight's usual fare for adventure games were there needs to be an Overlord or Invader or some kind of antagonist player. However, in this game they shit it the fuck up as hard as they possibly could. It's supposed to be an adventure game but there's no adventure. The quests are bland. The exploration is bland an time consuming. Movement is atrociously sluggish. The encounters could be okay if they didn't force you to make all decisions blind (I know that's supposed to be a feature but they implemented it in a way that it's a bug).
+
+This is supposed to be some kind of RPG or adventure, yet all of the above hamstring your ability to hit the road and have some freedom (a concept intrinsic to Fallout games). You can't even loot in this game. All the loot does practically nothing. The better weapons often make you take a step back for every step forward, making them VERY frustrating to work with. In some cases, you're actually better off keeping a weaker weapon just to not take any detriments (it's the opposite with armor for some reason). But good luck actually getting any weapons—an item practically required to play the game, since they're incredibly rare and this game is such a slog you may never get one. 
+
+Everything good they add to this game comes with something terrible as well. The level up system is a great example: to level up, you must gain experience equal to the number of SPECIAL traits you have plus one.  This is intuitive and elegant...and gets pissed all over immediately when you level. What you do when you level: draw 2 SPECIAL tiles *at random*, choose one and keep it. If you already have the one you chose, you have to choose a Perk instead.
+
+The perks are pretty powerful (though only one-use) but since you don't make any level progress in the game with them and you gain no new SPECIALs with the perks they're essentially like a level that you have to skip. So the further in the game that you get a perk the worse off of you are because it means that you had to get more experience to get the same perk then you would have at an earlier time. And since it's more likely that you get perks the later you are in the game (due to so many repeat SPECIAL tile draws) it's more likely that you end up having to skip levels later in the game. That's incredibly frustrating, as it can mean you simply stall out and can't get any of the SPECIALs you need to wield your weapon (or make a specific quest skill check). You're just meandering around the board for several hours at a snail's pace, hoping whatever random junk is thrown your way can be used to give you the sweet release of death (I mean end of the game).
+
+I can understand forced level-skipping like this if there was any necessity for rubber-banding in this game but actually levels in this game are fairly unimportant. The only thing they do is allow you to make re-rolls for combat and skill checks. Since this game uses idiotic graphical dice, they chose not to have SPECIAL traits grant bonuses to the dice rolls. Instead, you just get re-rolls. FFG needs to hire someone with actual statistical knowledge because re-rolls don't do shit. If your chance mitigation system is that tepid, just don't even bother with it. The entire game is about this too. It's just an unending stream of hellish dice checks one after another until it mercifully ends. Your only lifeline is a re-roll at the exact same probability, which does DICK.
+
+And let's talk about those dice tests. This game uses VATS dice which is supposed to evoke the iconic VATS system of all the Fallout games. However, they are trash and they do absolutely no such thing. The Fallout designers decided that they should use a one roll system—roll all three of the dice and then all the information you need about that roll is contained on those dice. Monsters will have specific hit locations. Those locations will be on the dice you have to roll. In combat if you were to roll the dot-pips then you will take damage equal to the Monsters level times the number of pips (your armor reduces the pips shown). So armor is incredibly useful because it allows you to take significantly less damage. However you'll find with this game there are no ways to easily change those results. The chance mitigation is utter nonsense all you do is re-roll the dice according to some stuff that you might have. If you're in combat then it's the stats that you have as SPECIALs (only if those are present on your weapon as well). Therefore, you need 2 coinciding things in the game just to attempt a single re-roll (which doesn't meaningfully affect probability and in many cases can give worse results).
+
+The dice are so totally dogshit that I don't know how to explain them to someone who hasn't used them. I would say that it's typical Fantasy Flight fare to have terrible dice systems in the game with really weird probabilities or low probabilities that just make you want to pull your hair out and throw them across the room or flip the table. This crap is very common for Fantasy Flight games. But it would be disingenuous of me to characterize these dice as typical dogshit Fantasy Flight game dice because in fact they are by far the worst I've ever encountered. 
+
+Again, I have to go back to how the game only has re-rolls. This is strictly worse than a system where you roll xd6 drop lowest y (which is probably what you think the re-rolls do as you read this review). No. That is not how their system works. If your new result is WORSE, you are forced to keep it if you have no remaining re-rolls, which again, you can only obtain by having both the corresponding SPECIAL trait AND a weapon (or in the case of a skill check: just the SPECIAL trait). And if you remember from earlier, getting SPECIAL gets exponentially harder as the game progresses since you can only gain them AT RANDOM. Weapons are also insanely hard to obtain, if you'll recall, and most of them not only barely change anything for the better but also make some aspect worse for you. All of this just to get 1 or 2 re-rolls—a mechanic that infuriatingly, doesn't change your probability at all. And in many cases makes you fail harder.
+
+Victory points in this game are asinine. All of them are drawn randomly, because we don't already have enough shitty randomness involved. A third of them only give VP if the red faction is winning and a third only if the blue is winning. The remaining third are all unique but half of them are practically un-completable. FFG have a tendancy to VP-bubble (which as far as I know, most people find loses its novelty after the first time and becomes boring). Fallout isn't just exclusively VP-bubbling at the end, but actually *random* based on which faction is ahead. Not only that but the more quests you complete (which usually increase faction standing) the more you get secretly roped into one of them. Except that you might start with red faction and then draw ONLY blue faction for the next 3 cards. So now you've just sabotaged yourself out of VP because it was apparently fun to the designers to make your goals random and constantly change. So these agenda cards aren't so much something you DO as something that just happens and you watch.
+
+Most of the problems in this game could've been addressed by a proper objective playtesting group that won't ride Fantasy Flight's dick. Unfortunately, we didn't get these issues ironed out.
+
+CONCLUSION:
+This game RAW has zero redeeming qualities and barely functions as a game. Which is incredibly sad since it has a ton of potential. If most of its glaring flaws were house-ruled away, it could be a passable dice-chucking adventure game, which could make it tolerable but still barely playable. To make it playable, it would need a balance overhaul and dice system overhaul. I can't even recommend this one to brain-dead groups who don't care if a game is nothing but dice-chucking garbage, since all of its mechanics are disjointed, wins aren't really meaningfully shaped by player decisions, and you get so few actions per turn that the entire thing is a nightmarish slog to the end.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Played this with a couple friends on launch weekend and we were very disappointed. We loved the art, we loved the game references, and the player classes even seemed exciting – until we played. The influence mechanic is broken and combat is unexciting. Most wasteland encounters – which appear to be the most RPG piece of the game – seem to lead to shopping (which is not fun if, like us, you have no caps to spend). Were we doing something wrong? We didn't know because the rules were poorly written. I felt like an unpaid playtester. Worse, my friend paid $60 for the privilege.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Christmas present from Alex 2017. 
+A mix between arkham horror and Runebound 2nd edition. 
+
+Nice little stories that develop during the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sleeved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Its fun, but has low replayability. But i can see the possibilities of adding many expansions big and small.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Good Storytelling game, wish there was more player interaction, bit disappointed in the game components besides the mini's. Also a bit random who will win.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Missed the storyline while trying to find a way to make points in the game. Didn’t find any. So decided to make sure we all lost. Nice figures and tokens, but where is the game!?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I am a huge fallout fan, so I don't really care if this game is good or not. It's going to make it into the collection. :P
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Loving everything but the scoring/end game aspect. I go out of my way to explore as much story as possible each game. I am enjoying exploring different story aspects although some of them are so difficult to achieve. Usually end the game score wise about 2 points away from victory.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Solo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+At first I didn't like the game that much, but later on it grew on me. Played with various groups of various sizes, and every time the games were completely. To enjoy the game one should abandon the main quest after first mission and follow side quests, explore, and search for unique assets. The game has a lot flaws though: -anti-climating ending; -luck based win-conditions (agendas) and stats; - character balance (ghoul is very OP in some missions, while super-mutant is very weak overall); Despite all cons I keep getting a feeling that I want to play more and more. Really hope there will be some expansions to improve on the so-far really solid and enjoyable experience.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great game!
+Everything is so elegantly done, the monster mechanic, battle mechanic and encounters & quests mechanic is wonderful.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3 25.4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.25
+Purchased at GameStop for $47ish
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Brand new. Unopened.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+via coolstuff 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Interesting concepts, although doing things well feels very random.  It can take awhile to make progress on quests/plot, especially with larger player counts.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Lok: BHFE01
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+We tried  a couple of times to like this game. It's so beautiful but it lacks motivation.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I really like these type of Adventure games, and this one plays so smoothly, yet has good depth.  I think for a competitive adventure game, I like this one better than Runebound, but it will need expansions to keep it fresh.  Have never played fallout, but i found the theme to be cool.  One of the best of 2017 for sure, and looking forward to many more plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Co-op
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1-4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Enjoyable call back to the video game series
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Played one game so far, seems fun.  Only issue might be replayability, as if you play the same scenarios the same way you'll get the same options every game and not sure the variability of the tile placement will make enough of a difference.
+
+Also might be a slight disadvantage for those who haven't played a scenario yet vs someone who has, as someone who knows what certain quest rewards will be can use that knowledge to end a game early or prolong a game if needed.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+All the fun of fallout built into a board game. Fun to play alone or with others. Very creatively made. Each game is a random new set of fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+boardgame of single character exploration in Fallout world, nails the theme of the videogame, a lot of small text on cards and chits,
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Great components, fun story, quick and entertaining combat - all ruined by a very broken agenda scoring mechanism which renders all player decisions irrelevant from the first turn of the game depending on which faction agenda is drawn first.  Hopefully errata/variants/expansions will address this issue because it is a fun experience until you realize how broken it is.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+An amusing cross between Arkham Horror and Tales of the Arabian Nights - sorta.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This game is pretty neat.  The components are nice with excellent minis.  the Scenarios are interesting and follow Fallout 3 and Fallout 4 decently.  I'm a little disappointed in only having 4 scenarios come with the box.  The end game requirements don't align particularly well with the goals of the game and seem a little like an unfinished thought.  The idea of influence is good, but finishing on some arbitrary influence level seems odd, especially since you can't "use" that influence for anything in game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Got this for Christmas, looks fantastic and I've heard good things but haven't played it yet.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9.5
+1-4
+120-180 minutes
+Best with 3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+Great game but not without it’s issues. 
+
++ Narrative storytelling is a
++ Thematic of Fallout
++ Beautiful miniatures
++ Gameplay is fun and flowing once you learn it
++ SPECIAL Level up system is genius
++ Combat simple and keeps going flowing
++ Solo is FUN
+
+- End game is abrupt when a faction wins
+- Agenda point system is tedious
+- More tedious rules to remember than I’d like
+- Rulebook checking is more than I would like
+- Not a game you could sit down and play without fully re-reading Rulebook in six months
+- Lack of enemy variation, encounter variation and tile locations scream “expansion”.
+
+Fun game, but I doubt I’ll be buying future expansions.  Should you buy this game? If you’re a fan of Fallout, yes. But still check all reviews and see if it gets you hot and heavy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ENG
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A top tier adventure game that falls a bit short of overtaking Merchants and Marauders.
+
+All of the little Fallout flourishes are excellent - the VATS dice system which masks the math behind the roll, the SPECIAL skill system, the utilization of factions in the narrative.
+
+The backbone of the game is built upon the storylines and quests. These are wonderful with branching plots that produce drama in meaningful ways. It falls short of reaching its utmost potential, however, because the victory point system framed around agendas doesn't always interact with the narrative in satisfying ways. The agendas feel too luck dependent and can also force your hand in making story decisions, taking some of the oomph out of them. 
+
+Also, my biggest let-down is that the arc of play is somewhat weak. The winner will come out of nowhere and it will often be a victory with a bit of a whimper. Typically you will not have completed the main storylines in the scenario and it doesn't feel as if the pace hangs together too well.
+
+Despite these flaws, the narrative and story focus is excellent for the most part and really provides a strong hook.
+
+------------------------------------------------------
+Full review: https://arstechnica.com/gaming/2018/01/review-fallout-the-board-game/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I so wanted to love this game. I really love the video games and was excited to dive into the board game version and play out as a super mutant or ghoul.
+
+But the experience feels slightly broken. As a solo game working through the quests is great, but several times I hit a dead end in the game where I simply didn't have the right equipment to be effective against enemies it to reduce my rad level down. Finding or getting stuff is quite frustrating and spoils the experience of wandering the wastes.
+
+The game also really prioritises combat and really punishes you if don't fight everything on the map. This can get really frustrating if you can find a weapon or can't afford one.
+
+As a multiplayer game, the quests are spoilt as other players can suddenly step in and choose a different path, which ruins my experience of questing. 
+
+And to top it off, the agenda scoring system is confusing and forces you to play through the game picking quests and choices that aren't the most interesting or enjoyable for you.
+
+As I said, I was looking for a board game version of the video game experience and, to me, this falls quite short of that.  A shame really.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+First time around , not very happy with this game. Will give it another chance. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great solo or competitive/slightly cooperative game that is drenched in the theme of the video game series it comes from. Don't miss this one if you are a fan of solo/story games or enjoy the Fallout series.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+If they fix the scoring condition in the expansion, my rating of it might just go up.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+I am a total Fallout junkie. Love the art the story and the feel of exploring. Scoring needs work. Otherwise love the game. Might actually be better at 2 or solo. A great addition to my collection.
+Update:  Just run with the story, let it pull you win.  Play for the atmosphere, don't worry about winning.... it was such a wonderful experience.  You can just tweak the end game score and everyone comes out with a wonderful memory.  Best game of the year so far!  Easily top 5 games of all time...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I love Fallout. This game has been on my radar since they previewed it a Gencon. This is a game I will play with my son when he is around and with my gaming group when we meet. Having so many mission cards makes this one on my must get list. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fallout the board game is in my eyes Mage-knight-very-light with a strong story driven card mechanisms with a Fallout theme they really pull off. 
+
+I played solo first time and was expecting a great solo player experience with a vast story full of Rpg elements but instead i was met by a game that demands multiplayer with the dufferent agendas and it showed my it was actually a race for most points game. I enjoyed my experience but felt it needed more players.
+
+So i played with three and it was actually really fun with the race to get a certain faction to full power.
+
+Great game but dont expect a really full driven RPG game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+How on earth is this game so highly rated?! Have you even played it or did slap on a 10 because "it's Fallout"? Seriously, the ONLY good thing about this adaption are the Quest Cards and Encounter Cards. That's it. Nothing else works. A complete mess and a huge disappointment.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun but very fiddly, expect it will be better on repeat plays. Recommend for people looking for a post apocalyptic narrative game, but not anyone looking for a tight, strategic experience.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Obviously an appealing license. Early reports are not all promising though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Just finished my first impressions solo play through. I felt this really had the look and feel of the Fallout4 game. Most of the instructions were fairly clear and well written, but I had to look up a few things online to see if anyone else could clarify. Reading the quick start guide was clear and easy to read, I understood it all on the first read. Throughout game play I was referencing both the quick start guide and the extended guide, but I found 90% of my answers very quickly and had no issues navigating the game or it's instructions while playing it.   I think I won on the first play through, but maybe not since I missed an important end turn step for solo play during the entire game. I felt the sting of just starting out as with the video game, where you have nothing and are running away from enemies to find better gear. As it progressed, and I got better items and stats, I felt emboldened and went after enemies without fear. It had a nice ramping effect.   Since I didn't know when the game would actually end, I wasn't sure if I was doing good or not. Once I started seeing the end results coming on the horizon I started to better understand what and why I was doing things.   All in all, good game, I cant wait to bring it to my next game night as well as get my wife to play it with me. Having more than 1 player I can see will really change the strategy of what you're doing and add more interactions on the board. I got this on sale for $50 and felt for the few hours it took me to learn it, set it up, and stumble through it on the first play through, I felt I got my money's worth. There's a bit of story element too in the encounters that I feel are very true to the game and help keep things exciting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+M3 R1710
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3.49
+As a game, Fallout is a shambles, I ended up winning by passing on the majority of my turns because I luckily held 2 "Security" cards, I literally did next to nothing to win. The effort that has gone into the narrative is very impressive though and the components are really good. This is a case of all style and no substance. I think fans of the IP may be more forgiving, but from a neutral perspective the game itself has very few redeeming qualities. I'm really starting to struggle with Ameritrash games of this nature.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rating based on having played 1/3 of the game which was on demo @ Essen 2017.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Spiel 2017
+Asmodee, Fantasy Flight
+Milan: €59,50
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+A video game in a board game version if ever I saw one! Quests that branch.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Tells a great story, horrible game if playing to win.  Fun to enjoy the ride and see where the story goes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+HELD BGB.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+New in shrink 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Theme and mechanics are fun, and plays out like the video game (which is the target audience here) and if you like Fallout 3 or 4, you'll like how this plays. but, it is yet another "playing solitaire in a group" game. No interaction between players at all other than the available quests on the table.  Not a bad game if you like that, but not a good game if you like stuff to happen between players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+STATUS: To Play
+
+Designer: Andrew Fischer, Nathan I Hajek
+
+Publisher: Fantasy Flight Games
+
+Price:
+
+Player Count: 1-2 (best)
+
+Notes:
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Just bought this for my wife and my very first modern boardgame.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+If you are a fan of the video game, you will love this board game. It is just dripping with theme! The only thing holding me back from buying it is that my friend already owns it so I'm not sure how much use my copy would see. The production values are great (typical FFG quality) and the replay value is high. IIRC there are 4 main scenarios, each with branching quest chains and dozens of side quests.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+wasnt for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Extremely thematic.Fun to play. Great bits. A few rule issues but one of the best games in last 6 months -2017/8
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+might have gotten a slight boost because its Fallout but I really do like this game.  Learned it today and played it twice.  I'm looking forward to playing it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+It's a fantastic board game adaptation of Fallout. The encounter and quest cards are very thematic and many 'side quests' pulled directly from the later installments in the game series. While I've already played 4 games and plan to play more; my only complaint is that once you've played the game twice it seems like there is very little surprise left due to the repetition of 'side quests' and basic encounter cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+English
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+C
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Really enjoy this game solo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+X
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Painted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Wonky winning conditions, unthematic shopping and multiplayer global questing objectives, but the flavour of the video game is there, right from the first level up by killing molerats with fists via the VATS system to the twisting narrative. Wonderful if you play for the experience and not victory. Long term replayability appears non-existent once you start going thru the same encounter cards and mobs.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Tried 3 times. Games is broken.
+It's first game of those authors, and You can feel it. 
+This game should be about exploration, gearing up, fighting enemies, but You wont feel it. This game finish before You'll be able to do anything. Main quests lasts 3 cards (60 min) and gives most points. Side quests require to do main quest so there is not much to do. 
+Also 3 games has almost identical set of side quests so it always the same story, its DAMN BORING.
+There is more then 200 different cards with quests and encounters but You cant go further into game because it'll end due to main quest. 
+I really wanted to like this game, but its broken.
+
+Rule book is a trash. And rules are over complicated.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Oh. Yes. This is some tasty gaming right here.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+_
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Great game. Awesome quality. Really gives the same feel as the Fallout Games.
+After a few plays the stories can get familiar. Look like it could easily be expanded.
+The rule books and learning can be a bit of a fiddle to start with, but once ya get it, the game runs much quicker and smoother. 
+
+If you are a fan of the fall out franchise, this is a must have.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Acquired 12/2017
+I grabbed this for the license, because I love all the Fallout VG. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Curious about this, loved the game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I played the video games and found this to be a great adaptation of those. It has the various enemies to fight, watch out for the death claw! There's exploring, looting, and upgrading your character. I really enjoyed the quests and how they guided the story throughout the game. This could easily be expanded with more encounter cards and new scenerios.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 1
+Wasted time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+First play and I love it, so did my son (who I usually have to drag away from computer games to the table, so Fallout theme really helped there)!
+It's definitely met my expectations so far (only had the chance to play the recommended first scenario, which covers the base game of Fallout 4)... we both recognised events/elements from the computer games and I love the quest/encounter system.
+It should be easy enough to expand in future, so I do hope there will be more of everything added later (e.g. this box covers Fallout 4 base and one of it's DLC and Fallout 3 base and one of it's DLC - so there's lots of DLC and all of New Vegas to draw from for expansions).
+
+Second play, same scenario, with two others from my usual group, and they both agreed with my analysis.  And though playing through the same scenario, I did see new events and still enjoyed it all.
+
+Spotted one slight problem, that may be more important for those who get there enjoyment from wining - winner determination really is from the randomly drawn Agenda cards vs the difference in faction levels on the Faction Power Track (you can get Influence, i.e. VP, from other types of Agenda but not as much as those you get from the track)… so if you never get any more than one of the type that gives you more Influence based on Faction Power Track, it’ll be difficult for you…
+
+My recommendation to get the most out of the game, based on what I’ve seen from playing The Commonwealth scenario twice (other scenarios may be weighted differently) would be: encourage all to go for Agenda card reward quests before attempting any of the main quest line (the quests that increase faction power), otherwise the factions can win and/or you won’t get enough Agenda cards to generate Influence to take the win yourself.  Not declaring for a particular faction until later will help with this also.
+Feels like Agenda cards could be slightly easier to obtain and/or faction power should’ve been a little harder to move on and/or the power track could’ve been a space or two longer, but I appreciate that I’ve only played it twice.
+
+As it stands, a great game to play for the journey, not the destination.  Who knows what an expansion would bring to alter that...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+From my first few plays, which have been solo, it feels a bit like Talisman. I know, odd comparison but hear me out. You roam around a board, obtaining gear and equipment and resolving things with dice. Sure that sounds like many adventure games and perhaps there are some better comparisons than Talisman to Fallout. I guess where I see the biggest parallel is that the pleasure is seeing the world and game unfold in front of you. That the ride is more enjoyable than the end and with both games I feel that is the case. They aren't games of heavy decisions but rather a story and stories are often more enjoyable with other people to experience which is why I'm eager to play Fallout with some other bodies around so not only do I get to experience their story, but share mine as well. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Slightly fiddly with quests, but story makes up for that. combat is difficult, you end up avoiding combat frequently.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Any Fallout fan will LOVE this game. Definitely room for expansions.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+An awesome board game based off my favorite video game with the best choice based narrative mechanics I have played
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+SOLD IT! ($68)
+
+This was one of three games I ever paid retail for from a game store, so that is saying something about the hook of the theme. My disdain for all things Fantasy Flight was unable to overcome the impulse to relive a favorite video game memory. After 3 plays however, reality set in and thankfully I was able to recoup the money spent.
+
+The leveling system is very cool (though it would be better if the perks were not all one-shot uses), the flavor of the original game is certainly in the box, the choose-your-own-adventure story play is interesting at first, but becomes largely repeatable. The nail on the coffin is the horrible victory point system, it simply does not work. You go out to collect up to 4 cards that almost all award 1 or 2 VPs, yet to win the game, you might need 9,10, or 11 VPs?! You do the math here.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Xmas gift!  Love the world and video game - hope this also hits the right notes.  Tried single player and as usual was left flat - I'm just NOT a solo gamer I fear.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Quest system is really cool. Solo play is a lot quicker than I thought it was going to be. Need some more plays to see how I settle on it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1-4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Eh, not sure what FFG was going for here. Felt like a thematic, cooperative game that was shoehorned into a competitive framework with really wonky results. There’s so much randomness here with so little player agency to overcome it. The worst part being the agenda cards. Sure, you can try and make yours worth more points but I don't believe there's enough player agency to overcome a bad set.
+
+I never got one coin in three hours of play, never saw one piece of armor, and thus my Armorer S-perk was of no use – and had bad rolls. I just didn’t have the power arc my friends did. I limped along without a weapon, armor, or companion. Without an appreciation of the source material like my friends – Dog Meat! – I was left with just the game, and it hated my face. But still the fact that can happen reflects on the weakness of the design.
+
+Those criticisms out of the way, I did like the story system and how the cards led you to another location to continue the story. I think this game would actually be quite good for solo play for an adventure, combat game a la Runebound although with a more cohesive story structure.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+-Premium Sleeved Kaissa (Mayday) 56x87
+-Premium Sleeved Kaissa (Mayday) 41x63
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+sell?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+great game when you get a few games in. quick player turns and it is difficult to win so fun allround
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+I really like the choose-your-own adventure aspects of the game. The combat is quick and doesn't drag the game down. I just wish there was more in the box & the characters feel a bit imbalanced for specific scenarios. Expansions may increase my score.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Hardcore fan of the video game. Good job on this too!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Malaysia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+This is probably my second favourite adventure boardgame to date, first being Mage Knight. The questing system and encounters are brilliant, reminiscent of Castaways, but more fleshed out. Level up and gaining perks are also very well implemented. Love everything about the game, except the agendas. They are either too chaotic (the faction related ones) or boring (pretty much everything else) I get it, the mechanic is there to create a semi-coop experience but it's doesn't work that great in practice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I don't really know the Fallout IP but I love good adventure games, and stories. I love the mechanic which drives the story in this games, and also the XP solution, but have 3 big complaints:
+
+- With getting more XP, you don't feel your character is getting stronger or better, it has better chances by rolling but nothing more.
+- You can play and miss the whole game: It can easily happen not getting money, not getting weapons, not getting anything really useful, and you will feal you haven't really done in the whole game
+- The VP system is a crap. It's totally meaningless. I don't know how this mechanic solution could end up in a FFG game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Enjoy it as a single player game.  Hope to play in groups soon.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Not perfect, but it get the feelings and the look, i really like to have it in my collection. It is not a cooperative game tough, because you are racing for influence points, but you can have a shared victory, but not really cooperative
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I think Fallout handles storytelling in a very nice way. It very much reminded me of Space Pirate battles from Starfarers of Catan, but a much richer narrative. (Essentially, an opponent reads a card to you with options and you have to choose your course.) I haven't played the video game, but the board game definitely creates a sense of discovery and exploration. I like that as you explore, cards get added to the exploration decks that link back to things you've done before, giving continuity to the story. Also, the combat system works well (though it's a little wonky going through it the first time around). Only rolling three dice for combat was a brilliant way to streamline battles, as you can focus on re-rolls and weapons/armour in your inventory to take care of things instead of "adding more dice" (as is usually the case in dice combat). The combat system feels very much like it was designed for this game and wasn't simply lifted from a different game (which FFG could have easily allowed). What keeps this from an '8' is that there is a healthy dose of "luck" in the storytelling where you don't know what is around the corner and you might just have to accept what happens if turning the corner doesn't go your way. Fortunately, there is enough of the story that can be affected by your character, or traits, or things you've collected or done along the way. The other detractor is this game is storytelling-driven and once you've played through the several scenarios a couple of times, it's going to get stale. This is a perfect game for expansions... a little too perfect. It feels very much like FFG thought hard about how to put an expiry date on Fallout to encourage players to invest more later on in it. That being said, I don't play one game ever enough to feel tired of it. (I'm sure there are some gamers who only own a few games and would want to play it over and over again and it will get stale for them quickly.)  If there is also another sticky point is that it is a 3-hour game (even with 2 players) and it feels a little long. You really do have to keep up with the story and also stay focused on the two enemy factions in the game. These are the things that drive the game and if you spend too much time going for other things, it's going to drive up the length of the game considerably.  But as it stands now, as long as you know what you're getting into (more story and theme than strategy gaming) Fallout is very solidly designed and quite enjoyable. I can understand why it rates best with 2 players.  I don't know if I'd want to ever play with more, as it would just bog down the game. Overall, there are going to be gamers who hate this and expect more from Fantasy Flight. And Fallout (the board game) could have been something strategy based, scenario driven, with interesting battle systems and character building (just as they did in Star Wars: IA in such a great way). Instead, Fallout is a game that care way more about the journey than the destination (you can easily win or lose without trying as VP objectives can be earned/lost without that much input from players). If you can accept and enjoy this - than you might enjoy Fallout. Maybe there is even something refreshing about Fallout not being just another "dudes on a map" game but one that tries to do storytelling more than anything else we'd typically expect.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Such a great game really enjoined everything about it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Purchased for Chad Christmas 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Very addicting gameplay, but the influence system and victory conditions are odd.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Now, this was the first board game I had purchased that's not just Monopoly or the Game of Life. This decision was a bit of a mistake, as this game is rather complicated as someone budding into their board gaming life. The decision to purchase this game, however, was not one I regretted. Even in the few initial botched games that me and my friends played because we didn't follow the rules correctly were enjoyable. The game comes with two manuals that really help you get started with the game, a quick start manual, and an in game manual. I don't think they planned it as such, but it's also great as two people can be reading up on what to do at the same time when figuring out the game.
+The games overall quality was VERY nice, cards feel tough, the character miniatures feel and look so good. The VATS dice look and feel so good and is probably my favorite thing about the game. The Botherhood Outcast miniature in particular feels so heavy, robust, and is a joy to pick up. The game comes with multiple scenarios with randomized maps, so each game feels quite different than the last, even if the scenario is the same. Because of the role play prompts that often times can actually change the outcome of the story, this game feels more like a Fallout game than Fallout 4 (if you're into the classics such as 1, 2, or even 3 or NV). Classic weapons show up in the shops and as loot, special weapons actually FEEL special with crazy bonus effects.
+Playing the game makes you feel like you're in the wastes, blindly flailing your hands in front of you as you're blinded by the 'fog of war', only to each out and feel the hard, cold horn of a deathclaw. All players are working against each other, but multiple players can win, and players can't directly attack each other.
+
+However, the game has a lot of issues that don't really turn it into a classic. There are a lot of finicky little rules are are easy to get wrong, and there's no real way to know you did wrong until you found it by accident in the manual when you were trying to look something else up, which causes you to slowly open your eyes very widely and stare at the board with all of the mistakes you made, while your friends all look at you with that 'oh, no. Don't say it' face. Enemies can easily be avoided, but that causes a problem, as the enemies, while chasing someone down, tend to cluster all into one area, causing a death zone, or an annoying Benny Hill situation spanning the entire game. That being said, no one has actually died in all 7 games I've played, which is very odd. Monsters can be easily avoided, but are simply annoying to avoid, and no one wants to be the one to deal with the death claw that's stacked on top of two bandits next to a supermutant with a gun who all have somehow all joined forces to chase the closest player. Really?
+The role play prompt cards get tedious as well. Some quests are added and shuffled into the pile of random events, leading players to camp in towns and spam events until they got it. This got to a point where I could an pick one of the prompts before the player reading it to me could finish the first sentence.
+The balance between all of the unique characters seems very poorly designed as well. it goes from useless characters, such as the wanderer who doesn't really get anything other than a lead pipe, to very useful like the ghoul who gains health instead of cutting it when he takes radiation damage, to the stupidly broken vault dweller who starts with the most useful SPECIAL perk in the game, and gets the only piece of armor in the game that lets him reroll endurance checks (basically like starting off with TWO SPECIAL perks) AND it allows another piece of armor to stack on top of it, so you have TWO pieces of armor on. Really? We had to house rule it so that you couldn't stack armor on top of the vault dwellers starting armor, and even then he's still way more useful.
+
+Overall it's a great game. If you love the Fallout setting, thought Fallout 4 was a disappointment, and can get this game at a decent price, I'd go for it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+1 - 4 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fallout works really well as a cardboard re-imagining of the popular video game series, but it also works really well as a light RPG board game for the non-initiated.  The systems that bog down so many RPGs - specifically, levelling up and combat - are fast and streamlined here.  The components are very high quality, including a few beautifully-detailed miniatures.  Gameplay emphasizes luck over strategy, which might be a turnoff to some players, but seems appropriate for the theme.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+2 plays in. A few card repeats already. Influence cards can be a bit swingy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Plays as close to a video game as is possible. Nice branching storylines.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Fantastic
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+NIS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The videos makes it look alright for now. But FF has the habbit of releasing really crappy games now and then (althoug they are all beautiful, but that is superficial and unimportant). I hope this ain't one, because Fallout 4 was enough to pound the franchise down, we do not need another fiasco.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Plano
+Needs Insert
+Needs Sleeved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The game is solid and really creates a Fallout immersive experience. Miniatures are gorgeous. A few annoyingly vague cards show a lack of polish, could benefit from an expansion with more perks and scenarios.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Absoluty brilliant game! Already waiting for expansions :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Pretty fun game. Much like playing the video game, but with multiple players. I love the quest system. Expect to die a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+It's okay with some good choose-your-own-adventure mechanics, but somewhat simple and poorly explained at times.  Rules are mediocre with lots of holes to be house ruled.  Thematic, but doesn't hit all the Fallout notes, namely the loot system and shopping.  Very hard to find a weapon that does much or you can use effectively and limitations on shopping for the same goods everywhere ('Shop 1' means you can only buy OR sell one item which severely limits options).  Cannot strongly recommend, but it has it's good points.  Needs expansions, but I won't spend any more money on it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I'm a fan of Fallout, love art and components, really well done.
+Feeling good and toughing while playing a lot! 
+
+But systems not that cool, especially how to win the game with agenda cards like collecting VP made me down so much. I think it'll much better to finished the game with something BIG and END its. I need main quest, not just a story gossip and looping, nice for first play.
+
+For me, Good for correction, it's not that bad for fallout fan. 
+Play for touching but i won't play to the end of the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Edit: Rules still are horrible. Once we understood how to play it, we had a lot of fun. Updating my score from 6 to 8. Did I mention how I hate badly written rules? It's almost like a talent to write proper rules these days.
+=======================================================
+Not sure how I feel about this one but it's not going in the right direction. Sorry for my language but the rules are FUCKING HORRIBLE. Who the hell writes this stuff, looks at it and says "yeah, this is good and understandable."? Seriously FF, hire good copyrighters and do a PROPER RULES CHECK.
+
+I had to stop the game in the middle because players were so bogged down that no one was enjoying it anymore due to clunkiness and not understanding what the hell was going on with those questions cards (MY GOD it took a while to understand that freaking "Add #" result).
+
+I'm still going to pay it again because I want to like this game so much. But I'm already pissed that I paid that much money for something the company didn't do their job properly.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+A friend picked this up and I played it with them to see if I wanted a copy of my own. Boy am I glad I did, because it's an emphatic *NO!*
+
+I absolutely hate the agenda cards. It's not just that the mechanic is inherently broken, but that it's *boring.* This is how you're supposed to win, and it seems so disjointed from every other mechanic in the game that the victory just doesn't feel like an accomplishment at all, especially not when it it cuts the story short before it even gets off the ground. 
+
+Your statistics, loot and gear really don't matter, and the combat is frustrating and dull.
+
+The game in its current state is basically this: roll 3 hits while on an encounter spot and (through finishing a global quest objective which all players miraculously share) draw a free agenda card, with a 40% chance to instantly win you the game.
+
+No accomplishment. No interweaving of anything that made fallout exciting. Awful to nonexistent interplay of Special stats, perks and loot (don't speak to me about the companions). Not even any of the original games' humour. Absolutely dreadful.
+
+Two stars for the minis. But if I wanted cool minis, I might as well wait for Modiphius' upcoming Wasteland Warfare.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A fun game with wonky victory conditions. It's very easy to support your faction so much that it causes you to lose.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Rated after 1 play, my opinion could change either way with additional plays.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Opened but unplayed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Enjoying this. Close to scratching that post-apocalyptic itch. Not quite there.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+++ One of the most thematically involved games I have ever played,  uses its ip in juts about every mechanic
+++ the quest system is amazing,  and there's enough options and branches for every quest to add great repeatability
++ streamlining keeps the game feeling simple but still rich I  the things you can do
++ the variable characters are interesting
++ component quality is off the charts, especially for its value
++different agenda cards can have am interesting impact on how the game plays out in the end. 
+-- end game scoring feels almost entirely based on luck
+- too many quest lines don't pay out till the end. You could do 4 quests in a line with no reward  and have someone else swoop I  just to claim the reward. 
+
+Final thoughts 
+My new favorite exploration games with mechanics and theme that strive for simply creating a fun atmosphere. I think this is an amazing game where you will have a far greater experience if you don't go into it with a very competitive attitude.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Only complaint from me is how random the agenda cards can be. I feel as though I should be the one choosing which faction to side with and not the game telling me what I am siding with. The fact I could bank on one faction and get screwed over by drawing the other faction cards is a bit frustrating.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Was really looking forward to this, I'm a big Fallout fan, but after a good few plays, the game is OK. Certainly a disappointment as i was expecting big things.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+P
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Great theme , rules a bit tough to wade through at first , good storytelling . 
+Want to give a higher score . Inconsistent rules really need a faq
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Like this one much more than I expected.  I  never played the computer games, but that has not hampered my enthusiasm for this game. The mechanisms they use in it are really cool.  For me it replaces Posthuman.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+It's just not a fun game.  Also, its not Fallout, its just a re-skin of many other story driven, xp build games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Played solo only, 7 times now. One of the best solo games I have. Will last for a long time, great quality pieces, rules easy to understand. Emulates the Fallout experience in great fashion!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Awesome adventure game. Story (quests and encounters) change based on your in game decisions. Combat dice are cool and plenty of mitigation with re rolls and auto hits. The enemies are tough and will knock you around but they are not overwhelming on the map. You can pretty much play how you like. Go kill things or follow the story. Up to you. It is a good open world adventure.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1-4pp
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Some problems with the scoring aspect, but if you love Fallout you will likely forgive it. It's a fun adventure.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Theme:  FALLOUT... as in the video game, now a board game.
+Gameplay: Tile flipping, questing, solo-style, innovative cardboard leveling up...
+Components: Pretty damn good. 
+Replayability: Enjoyable if you've got the time & inclination to sit down to a game, and very expandable.
+Rulebook: 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Probably a little too fiddly for my tastes, but first impressions were ok. Still, it doesn't really provide the same quality experience as the computer game, and I see little reason to play this instead of the computer game...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I like it. A lot. It's desperate for more content. Sort of how Eldritch Horror needed more content when it first released, but is now drowning. I'd hope the same for Fallout.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+2018-02-24 - Random. Everything about this game is random. Want to go to a store? Maybe you'll randomly get the option in a settlement encounter. If you do, maybe one of the 5 goods available for purchase includes something you both want and can afford. You start the game with a randomly assigned hidden scoring card (you may get a choice between 2). Maybe it assigns you a faction whose agenda you'll want to advance. Maybe you'll spend a chunk of the game doing that. Then maybe you'll start drawing scoring cards that give you points for advancing the other faction instead. Random.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+This game should have just been 1 player or fully co-op.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+avoid, problems. didn't live upto hype
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+They did such an incredible job of shrinking down the Fallout universe, game style, and video game feeling into board game form that it feels remarkable. I love the stories and I love that they chain together to create bigger, more interesting stories. The gameplay mechanics all feel good and leveling up is incredibly fun and interesting. I docked it a point because I expect the stories will start to become work out as I continue to log playthroughs.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+They have something here, but I think the cake needed a few more hours.  Why did I sell it? Because sharing all missions was an terrible random experience.  Hey I draw a quest and to finish it I have to travel way across the board. Hey you are next to the area and on your turn you finish the mission and get two victory point cards.  Hey you haven't been involved in helping further one faction over the other but because of finishing the mission you draw two random cards that now vault you in one second flat from almost zero points to winning the game.....yeah that was fun....Lets see one of the point cards requires every space to be explored for a total of 3 points.  All that work for three points means you probably aren't focusing on getting more victory point cards.   Ugh it was so close but I had to let it go.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+This game, as is, is not very good for the average board gamer. The Fallout universe is one of my favorite that exists and I enjoy the game because of that, but even with that, I can see the issues that are in the game mechanics. I have already started adding in additional content and house ruling the game because I do still enjoy the universe, but I could not recommend this game to most of my board gaming friends. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+First play, took us a bit to get going but was fun.  We were not able to finish after 4 hours.  Giving this one a 6/10 for now.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Great game, and can be better when more expansions come. I'll be one to pre order them when they become available.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Good game, needs a bit of refinement, but you can see where they have left room for expansions and development.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+The rules could use some work. It is a new game so they have only been written once. I love the mechanics. They emulate the video game very well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+My initial review after my first 2p game*. Let me state. I was not expecting very much with this release when i heard Bethesda was involved, but let me say fallout the board game feels more true to the franchise than fallout 4 did. The game does have a design flaw though.  
+
+I enjoy the way the storytelling unfolds. the combat gets the game moving along at a good pace. i enjoy revealing plot as the game progresses. The theme is rich and present. I feel like I'm walking through the wasteland. The items you collect in the game are diverse and plenty. The skill system is intuitive and creative. The game offers great ways for mitigating luck.
+
+ Everything was great until I started seeing that the rule book was deceiving you. The rules book and the reference booklet are in contradiction on multiple occasions. The game ends up feeling clunky because you are second guessing whether you are playing the game correctly because things in the game just do not feel balanced. I just think the play testing phase was neglected or rushed (Bethesda) because the agendas are so poorly fleshed out. The main scoring mechanic that drives the game seems obtuse and cheap. a majority of the agenda cards have the same objective. Why is there so little diversity? the optimum strategy is to get a few agenda cards that support the winning fraction...and you ultimately win by a land slide. There is no way to stop this outcome. The game feels rigged from the start. In a 2 player game passing the agendas back and forth is so fiddly due to turns being so quick. The whole agenda mechanic feels broken to me. I just can't believe this was overlooked. The issue is glaring you in the face as you play. 
+
+Either way... ill give this another try and adjust my views accordingly. Even though the game feels like it overstays its welcome at a 3 hour play time. I think fallout has potential if FFG finds a way to improve the agenda system. It wouldn't be a bethesada product without game breaking bugs and patch work needed. 
+
+**** never went back. Sold it. I'll never support another thing with a Bethesda label on it. Money is their only motivation. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+i came, i saw, i m interested!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Painted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1,2,3,4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A good game. If you like board games and are a Fallout fan it is worth a look.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+If you don't already have the video game buy a second-hand xbox 360, Fallout 3 and Fallout Vegas...this is just a waste of money, so disappointing given the potential. The game mechanics feel rushed and unfinished.  Instead of being the most exciting aspect of the game combat is plain boring. The rulebook is a mess and contradictions with the agenda cards happen nearly every turn. Will gift the game away this Christmas to a broke hippy friend.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Fallout is an adventure game set impn the postapocalyptic world. The base game is enjoyable but feels like it lacks few things to make it truly 10/10 adventure. I don’t like the agenda cards, they deffinetely ask for expansion or custom modding. The combat system is fine, combination of rolling and suiting oneself with whatever equipement/companions does one come across while exploring the randomly set board. Lame enemies are lame, tough are... tough :) It’s easy to die in the Wastelad and radiation is not easy to get rid of. I’m giving this game 9/10 to lift the general score up, because comparing to other adventures around this one truly deserves the strong 8.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+J&J's 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+OMG, I waited for something like that so long... It really captures the game atmosphere. I understand that some people are disappointed with the game being to linear in the quest design and too simplified compared to the pc/console game, but really, for me this is a dream. The SPECIAL-system was captured in a nice way, the combat system is very easy to understand and reminds of the VATS in Fallout (yes, you are not really targeting limbs and yes it is just very loose connected, but what do you expect from a boardgame that shall play fast and easy?) and you recognize all the quests, creatures and items from the pc/console game - including Fallout 3 and Megaton! Awesome!
+
+Only thing that might lower my rating: If there don't come up expansions (well, at the end... this is FFG...). You really need new quest lines, more different enemy tokens and much more items. But as a base game this is a star on the boardgame heaven!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Sense of Fallout is there...
+One con, not so much exploration feeling.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+If the victory point system was better/different this might be my favorite game.  I love building my character and questing then when it ends it just feels... wrong.  I really wish there was a co-op mode, which I think could easily be done, it just feels made for it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Not bad, but there are some problems:
+
+- Scoring is hard sometimes and most agenda cards support one or other faction. I would prefer some more generic scoring cards. You basically need two cards supporting the same faction to win the game.
+- Wish there where more weapons in the loot or shop and a way to refresh the shop if no interesting item is available.
+
+I know this all sounds negative, but it is actually a pretty neat game. Certainly feels like fallout. Leveling up is awesome, SPECIAL system is very well done. And the gaining of quests is also very well done, though it is sometimes hard to "shuffle" three cards (number of cards is player dependent) and not keep track of the cards you shuffle ;-)
+
+It's more a "play for the enjoyment of the game" than a "play to win" kind of game. And that is ok, as long as you know it upfront.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+The game is a dice fest - all outcomes are determined via dice rolls, with very little players can do to mitigate the results. Winners and losers are decided by dice outcomes. Everything else about the game is compromised because of this obsolete Ameritrash design style. On top of the dice, loot, monsters, and encounters are all randomized. 
+
+While the quest/progression card/deck system is a nice iteration on the quest system of Near & Far/Above & Below, it is not nearly enough to compensate for the RNG Ameritrash design. 
+
+This game is basically Mage Knight with all the thinking and strategy replaced by mindless dice chucking.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+It’s amazing how the designers managed to transform some of the video game elements/gameplay into the board game equivalent such as the pip boy, the vats system, etc. And i believe the game does a good job to immerse the players into the video games’ world. 
+Some Issues/Improvements:
+- Can have more content (scenarios, enemies, characters, etc). I guess they can release some expansions later on.
+- Needs some time to fully understand the rules
+Overall, it’s a really good adaptation of the video game series.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Bought on a whim, but I'm glad I did. Played this with my PF group when we had some no shows one weekend and it was a hit!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+long
+random
+largely solitaire
+possible balance issues
+a bit fiddly
+FUN AS HELL
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I like Fallout. It is very much about storytelling, and the stories read a lot like the computer game. There is a lot going on under the hood with branching storylines and the whole ‘quest’ structure.
+
+I’m not too sure about replayability, as some of the storylines resurface in repeated games, and it seems very much like an uphill struggle to get geared up on equipment, and facing the monsters without any gear is deadly
+
+I'd really like to try it again soonish, to see how it stacks up on a second play
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Experience the video games on your tabletop!  Captures flavor and setting perfectly.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Very Initial Impressions due to initially being taught some rules incorrectly, and the rulebook being vague on several aspects: I think even without our struggle before figuring out the correct rules this game is a bit plodding in the beginning. 
+
+The objective cards seem a little bit swingy 
+
+The leveling up aspect definitely matters but doesn't feel that exciting.
+
+My play was with 4, and I can definitely understand why others think it is better with 1-2. While you can race your opponents for quests/to defeat enemies, compete for factions, or trade, turns take a while without you actually feeling like you are accomplishing a lot in each, so the added time between turns is especially bad here.
+
+Now, with all the negatives I've stated it may seem like I dislike this game. However, I still enjoyed it, it was just if really, really polished could have been a good if flawed game to an amazing adventure game. You do get a sense of exploration, and while I earlier criticized the game for being ploddi g early on the slowness of movement conveys a sense vastness of the realm. The pseudo-legacy quest and encounter cards adds a good overarching story, further enhancing the feel you are uncoverng the ruins of this apocalyptic world at the possible expense of sameness in replays of the same scenario.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting game with a mix of secret objective point collecting, physical ai movements and battle, and some item collecting. Also combat dice are a interesting twist with target areas of the body for combat hits a main feature of each side of the dice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+nice and very thematic adventure,captures the atmosphere of video game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+[b]9: Excellent game. Always a pleasure to play. Shines under most circumstances.[/b]
+We are really enjoying this game. We greatly enjoy the source material, fun game, quick playing, lots of choices and exploring feel.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Just started playing Fallout 4 on the PS4. Awesome!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+It's a Fallout game! But then again it's probably based on the neutered and dumbed down storytelling employed by Bethesda in a fairly good for what it is Fallout 3 and a Fallout 4 that is just.. god dammit Preston stop telling me I'm like some hot shot with an army at my beck and call, why am I the one cleaning the toilets and going after every tom, dick and harry in an endless legion of no name low lifes that are beyond my unending reach and influence(allegedly). I'm the leader of whatever organisation you made up, I can command a mass of.. oh sorry I need to go clean the toilets, one of the settlers had a curry last night that I made a little too hot, I hope he isn't too upset, also how does one make bleach in a post nuclear world?
+
+Now maybe they have a little more respect for the intelligence of the average board game player and therefore wrote a story that doesn't make you want to hand out Darwin awards, or better yet they employed somebody that is literate and knows of the existence of books and stuff, then this could have a passable story. That would be my cue to tick the boxes that are marked Fallout, Post Apocalyptic, Solo Play and and a bunch of other stuff that doesn't come together often enough. However if it's a Fallout 4 level catastrophe with it's janitor that rules an army that may or may not exist or some crap about finding an individual and knowing exactly how that is going to transpire right from the first 30 minutes, I just can't do that to myself again.
+
+On the other hand if it's a story that doesn't turn you into a misanthropist(you've not seen Independence Day till you've seen it from the perspective of the aliens) I will swallow my pride, accept that not everything is palatable but a nice side meal or two can make you rise above indifference and I will buy a two copies, one for the nuclear bunker because this stuff needs to be seen by future generations.
+
+"War, war has changed. It's now boring as well as deadly. You thought it couldn't get worse huh" - Don't use that on the box. Thanks.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Great story mechanics with cards coming into the decks based on decisions. Fun, but is a bit long. Odd mechanics for winning
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+The quest system is spectacularly done. It is one, if not, the best I've seen in an adventure board game. The big criticism I, and many others, have is the terrible agenda influence system cards based on faction ranking. This aspect definitely needs a fix. FFG, don't make your customers buy an expansion to fix it. Release an errata and make it right.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+This game has everything, even after 10 parties it delivers something new, but I hope there will be any expansions otherwise  I’ll lose interrest in month or two with my playing frequency
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Pre-ordered
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+16000, magyar, deltavision
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Demoed at Gencon 2017.
+I'm not much of a fallout fan but I enjoyed this demo a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+
+Way too long and had the feeling that I was doing the same thing over and over again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+On sale. 40 bucks Belair games. February 2018
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Adventure
+
+Players: 1-4
+Best With: 1-2
+Time: 3 Hours
+
+LAST PLAYED: 12/28/2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Good storytelling, but no endgame.
+
+The components are all well designed, but the rules could have been clearer. It took several passes through the rule book to determine the nuances between “adding”, “staging”, “trashing”, and otherwise handling of quest and encounter cards. However, once you figure that out, the game plays nicely like an old choose your own adventure book, where one quest card nicely transitions to other quest cards immersively.
+
+Pros: 
+Great storytelling at each encounter card. I feel like every quest had meaningful options, and I liked how skill checks were implemented.
+
+Excellent artwork. Every card, miniature, and other game piece looks like they were designed by Bethesda’s excellent art team. If you’ve played the video game, no artwork seems out of place. 
+
+Combat is fun and fast
+Feels like playing a video game
+
+Cons:
+Not enough choice in what faction you do or do not join. You get the option to join a particular faction based on an initial card draw, and can join at any time, but you never get the option to change your mind.
+
+Scoring is confusing and anti-climactic. I think a better system would have players competing for the same influence goals rather than secretly advancing toward their own drawn influence goals. There’s also no way to easily keep track of your own victory points.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The setting and rules make this feel a lot more like Fallout 4 than any of the other installations. Not a bad thing, but this game is likely lighter than most RPG fans would enjoy. It is an amazing narrative experience ripe for potential expansions.
+
+Great fun and as with most FFG games the rules all fall into place after a few rounds.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fantasy Flight games once again proves that it can do justice to an existing IP by perfectly capturing the feel of the Fallout video game series. The feeling of exploration coupled with a rich narrative is the main strength of this game. Players are pitted against each other, both experiencing the same story and trying to twist it to their own advantage. Component quality is amazing and it's already begging for an expansion.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Solid adventure game true to the spirit of the source material.  Branching questlines and modular board add replayability, though the scenarios probably will wear thin.
+
+This is almost a game where you can't pay that much attention to the points. They are so random and swing with the agenda deck that there are very few times you feel like you are in control of your own fate.  Focus on killing things, grabbing loot and getting SPECIAL, and you should have a good time. If you want an actual, competitive game, I cannot recommend.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+SECOND UPDATE:  I am really torn by this game.  It's probably a 6 for people who aren't familiar with or don't like the video game and a 7 or 8 for those who are and do.  I'm keeping it at a 7, but I am debating that a 6 might be more accurate.
+
+To simplify, based on several playings:
+
+The theme is not "post-apocalyptic wasteland", it's "video game based on post-apocalyptic wasteland".  Important difference there.  Everything about this game screams "board game conversion of video game property".  Whether that is good or bad is your call.
+
+The characters, items, monsters, and locations are virtually meaningless to anyone who doesn't know the video game.  Very little backstory is given.  A "Guide to the Fallout Universe" would have been a nice addition.
+
+Many of the mechanisms are a little clunky if you DON'T look at it as a video game port.  Again, how you feel about that is a matter of opinion.  The rules are written fairly simply, but some of the rules and some of the card text feel unclear.  You will be house ruling this game quite a bit until there's some reasonable errata released.  
+
+The beginning, middle, and endgame phases are very distinct.  The middle tends to drag.  You are fighting a LOT, and aren't sure if you are making progress.  The beginning is fairly simple, although new players may not be sure about strategy.  Get through one game and the strategy becomes more clear.  The endgame is a mad dash for victory conditions.  The quest and encounter system is interesting and keeps the story moving, but after playing scenarios a few times, they will tend to feel pretty samey in the early portions of the game.  The further you get into the game, the more each playing is distinct, but there are limits.  The game is BEGGING for expansions to keep gameplay fresh.  
+
+I doubt my feelings will change much more as I play the remaining scenarios.  Good to great game for Fallout fans, so-so game for non-fans.  Even fans will have to admit to some of the flaws, but if your main goal is to have the "Fallout experience" you will get that in spades.
+
+*********************************************
+
+UPDATE: Reducing my rating one star on further reflection.  The game is extremely long playing, but no more so than what the box lists.  It should scale directly, so four players should take twice as long as two players.  Length is not a downgrade, just FYI.  The major reason for the reduction is that the print on the cards, and the cards themselves are extremely small.  They can be read, but the queued up event cards can be hard to scan quickly, in order to know exactly what quests/rewards are available.  Easy to forget one or to maybe pick the wrong goal for your character's agenda because you don't have the information in front of you.  I would suggest taking notes or possibly creating a set of cards in easier to read type, with just the salient information listed so that it can be seen from all around the table. It's a lot of cards though.
+
+I'm wondering how sturdy the player status board will be over multiple playings, but that will tell itself in time.  You will be inserting and removing the pegs frequently and the edges of the peg holes may become worn.  Otherwise the components are excellent.  Even the cards, while hard to read, are well made, feel good in the hand, and are easy to shuffle.
+
+**************************************************
+
+My initial response to Fallout is extremely positive, but that comes with some caveats.  I am definitively the audience for this game, so on one hand you could say I was bound to love it.  It can be difficult to satisfy your core audience, however.  The question of whether or not it is a good game is two-pronged (maybe more, but we'll stick with two for now ;>).  As a strongly themed game, you must ask does it satisfy the theme?  Also, is it a good game for people with no interest or background with the theme.  That's actually at least three prongs
+
+Gameplay in Fallout or Skyrim is not extremely complex, they don't have complicated controls, and they add elements to make the games easier to play.  They are almost consciously easy in many ways and yet they possess a rabid audience among hardcore gamers.  This speaks to immersiveness. The current generation of Fallout games, and most Bethesda games in general, make very good use of a variety of tools to create an immersive environment.  The more of these elements there are, the more challenging the task in conversion to a board game format if they care to maintain the "flavor" of the game.  So, maybe four prongs.  Yeah, let's go with four. "Does it satisfy the theme?" can be split into two questions.  Is Fallout a satisfying post-apocalyptic gaming experience?  Does the game feel like "Fallout" the video game?  Is it even important that it feels that way?
+
+The last question is both a marketing and creative choice on the part of the developers.  They could have passed over the bulk of the video game elements and possibly even created a better game, at the cost of some of the core audience who may prefer a game experience suggestive of the original.  It is clear that the design was heavily weighted towards this core audience.  Since they already have a background that is friendly towards appreciating these elements, they should have minds open towards consuming what is a fairly busy design.  The different decks of cards in particular may tend to be confusing.  They aren't unmanageable and once a player understands the flow of the game knowing the way the different decks operate shouldn't be a problem.  They definitely contribute to the overall design which is meant to give the feeling of a more open world.  Having someone already familiar with a game as a teacher is often productive.  In this case having someone in your group who is already a Fallout fan will probably accelerate learning.  I would doubt this would be much of a problem with most groups.
+
+This isn't to say that people unfamiliar with the material won't be able to appreciate the game.  There is a rich set of storytelling mechanics which would seem to make the game feel deep without over burdening with complexity.  You choose a scenario and the scenario dictates an opening quest card.  This card will provide multiple paths.  Which path you complete will provide a different branch.  It will not take long before a game takes on a different flavor than previous games starting with the same scenario.  This makes the game more inherently replayable than many storytelling games, while still maybe not as replayable as a non-scenario based design.  It's a compromise that I think works very well in Fallout.
+
+The map design is also a bit of a compromise.  The map is hex tile based.  The game starts out with most of the map hidden and a few key hexes revealed.  The tiles are fairly large, but each tile contains multiple movement areas.  These areas may have different enemies attached to them, different areas for exploration, and may have terrain that is clear, "difficult", or irradiated.  The key hexes will be in the same locations for each play of a given scenario while the rest will be randomized.  While there is a limited number of tiles, the game will play out differently each time.  If you play the game many times, I am sure some repetition will creep in.  The limited number of starting characters, tiles, and enemies is balanced by a fairly large array of encounters, items, companions, and other elements.  These limitations almost scream out for expansions.  How you feel about that is a matter of personal preference.  Some people will love the idea of a living game, while some may be irked that there isn't more out of the box.  As in most areas of the design, it is based in compromise and I think Fallout draws a nice balance.
+
+The presentation is quite nice.  The art is drawn directly from the video game. This certainly cements the thematic elements, while some people may be bothered in the same way they are bothered by movie or TV screenshots in board games.  Overall, I wouldn't put it in the same category.  Live action screenshots typically lack immersion while reusing graphic design from a graphical format has a different effect.  Most people won't care much or if they do care will like the fact that the art pulls them back into that world.  The miniatures are top notch.  The material feels good in the hand, they seem highly detailed (to someone who has seen Warhammer minis, but isn't deeply familiar with them ;>), and are of a reasonable size.  They are unpainted.  I am not experienced with painting minis, but they are large enough that I would think they would be easy to paint.  I'm a little bit disappointed in the enemy tokens.  They work well within the context of the game and the iconography carries information without being overly arcane.  They just don't seem to carry much thematic flavor.  If you already know what a bloatbug is, for example, you should have no trouble mentally placing them into the board game world, but if you are new to Fallout you may wonder what this bug actually looks like in a three-dimensional sense and why it has a ranged attack.  The graphics on the tokens are small and there is no flavor text.  Miniatures, even smaller ones than the player character minis, and a larger informational card would have been more immersive than the small tokens.  This is also the case to a lesser extent with the NPC companions included in the game.  Those cards are larger, have larger graphics, and contain more information, but don't come with tokens OR minis that move on the mapboard. It may be hard to visualize them as actual characters and not just as items the player carries around.  It may also be difficult to envision any backstory to the NPCs.  A "Guide to Fallout" with more information about characters and items and locations may have been a nice addition.  It's clear however that they assume most players will not need this information.
+
+The combat system begs notice, while on some level being so light as not to provide much on which to comment.  The dice are six sided, but not marked with numbers, pips, or iconography designed to substitute for numbers or pips.  Each face of each die is marked with a body outline, marking out arms, legs, torso, and head (in the Fallout "Pipboy" style).  Different faces have different body parts filled in and have either zero, one, or two asterisks indicating combat "hits".  An enemy will be level 1, 2, or three and will have some combination of body parts vulnerable to hits. Armor or weapons may make hits harder or easier to make.  To engage in combat, the player rolls the dice and may re-roll based on certain cards within the game.  Any filled in body part on a die face that matches the enemy's vulnerability indicates a hit on the enemy (0-3 total) and the total amount of asterisks (which may be 0-6) indicates a number of hits on the player.  Hits on the enemy equal to or greater than their level grants a kill.  Hits on the player, multiplied by the enemy's level, equal the number of player hit points subtracted.  It's a fairly simple, elegant system which gives some of the flavor of the "VATS" combat system from the video game.
+
+The role of radiation in the game helps add nuclear "flavor" while not adding excessive complexity.  Players take radiation damage similar to the way they take hit point damage.  When A player is "killed" they essentially "respawn" at the home camp with hit points restored and some item cards lost, while the amount of radiation stays constant.  A player "kill" happens when the amount of hit points remaining drops below the amount of radiation accumulated.  Radiation continues to rise, making it harder and harder to take damage during the game without having to return to base camp.  In a similar way, the experience point system (which encapsulates the Fallout "SPECIAL" system and the role of level-up "perks) makes leveling up harder as the game progresses.  It is, again, an elegant, video game-esque system.
+
+I think Fallout is an excellent package and effectively abstracts a complex design into a manageable format.  Since the video game source material presents a deep view into a post-apocalyptic world and the board game is an effective window into that world, the theme is strong with this one.  For non-Fallout players, experience may vary, although with a little holding I think they will be able to appreciate this new game world.  It doesn't seem to present any purely original mechanics, but the overall combination of elements feels very original to me (and I haven't played every game out there so I'm sure there are exceptions to be made).  The "interface", in the form of the different component elements, in particular the use of cards, presents a slight learning curve, but not excessively so.  The rules are fairly thin.  Once you understand the way the game flows you may not need to continue referring to the rules, which is refreshing.  As in all areas of the game, the rules present a fine compromise between simplicity and depth.
+
+One remaining quibble.  The mapboard tiles are well made and designed to lay very flat and fit tightly together.  The disadvantage of this is that the tiles in the middle become very difficult to flip,  I had to develop my own method of sliding half of the board up, down, or to one side, flipping the tile, and sliding everything back.  Luckily, because they fit together so well and slide so easily, this is fairly easy to accomplish.  However, it could grow to bug a person after awhile.
+
+So, my initial reaction is largely positive. It's not a perfect game, but it is quite good I believe.  With the addition of inevitable expansions some of the weaknesses may be addressed, although I would never rate a game based on the quality of anticipated expansions.  I am even hesitant to refer to any "weaknesses".  I'm not sure they rise to that level.  "Quirks" might be more appropriate.  For Fallout fans, I'd rate the game an easy 9/10.  For Fallout newbies, maybe a 7.  It is a medium to heavy-weight game, so those numbers may fluctuate somewhat for certain audiences.  Some players may be so taken with the video game flavor as to add a point or two, while for some it may be an impediment to enjoying it purely as a board game.  I wouldn't be shocked to see many 10/10 ratings.  I'd be surprised if many people who took the time to play the game in the first place, rated it less than a 6/10.  Of course, it is purely a matter of taste and opinion and your mileage as always may vary.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Christmas 2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Never played the video game this is based on. 
+Overall the game has some interesting ideas mixed up in a whole bunch of half-assed gameplay. No idea what happened, but the game certinly needed further development. 
+Biggest flaw is the Victory system, it's totally divorced from the main game play so winning or losing really has little bearing  on how well you are playing, just luck of the draw. From a design perspective the agenda cards make no sense, why wouldn't you tie victory into the story cards that are the main feature of the game?
+Too much emphasis on moving around the board, too little on encounters. I found the board quickly became swamped with which became tedious, especially as a lot of them can really put the hurt on your character. 
+Money, weapons & Armor were far too scarce, and you really need these things. 
+The CYOA story style card were interesting but you start seeing the same plotlines after only a few games. Not sure i the vault encounters really worked. 
+The Fog mission had so many unclear areas and flaws I would be surprised if it was ever playtested. 
+Overall very disappointing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Standard American-style game affectionately. The noteworthy aspect being the story telling card system. Does the franchise justice. Starts slow but picks up. You can literally stand in a ruin and keep doing encounters until you're comfortably equipped, which seems a little hokey but isn't game breaking.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+ntp
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+SPIEL'17 Demo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Nice bits, so-so gameplay ...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Players 1-4
+Best 2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fun game! Great way to get an RPG experiance out of a boardgame! Plenty of scenarios and quest outcomes to give it tons of replayability!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+solo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Arrived 12/01/17
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+What a disappointment. Where do I begin? Apart from the fan service of including just about every major item, ally, location, and faction from the modern Fallout video games, this was just a trainwreck of a game.
+
+So the quest cards are an interesting idea, as each scenario starts you off with an initial one, and it branches out from there. The thing is, everyone is working on these communal quests at once, so it's like a race to finish them. Unfortunately, there's little you can do to mess with each other at all. Depending on your secret goals, you may support one side over another in the central conflict, but otherwise it's all about how fast you can get the quests done. And at some point someone wins. Yay. This creates a definite rich get richer problem, as once someone starts getting experience and good items, they're unlikely to slow down.
+
+The combat is also a real pain. Fantasy Flight swings and misses in their latest attempt at something different in this department. Instead of rolling dice for both sides and comparing them, you always roll 3 dice that can do damage and also harm you. It's like they combined the attack and defense dice into one, which sounds good in theory, but it just led to frustrating results. Plus the rulebook is awful, especially where combat is concerned. Some questions, like how many rounds of combat there are, I couldn't find at all. 
+
+This may go down as my biggest disappointment of 2017, board gaming wise. This really feels like a half-baked product that took some inspiration from the Mage Knight board game to awful results. For a game that gives me that Fallout feel, I'll stick with Posthuman.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Within Game Group
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+This game looks fantastic. Modular world building board... I'm sold.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Good story, easy to play but SEMI-COOP? REALLY FFG?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Much like every other Fallout game, it's going to be the player tweaks to smooth the rough edges that take the interesting system and feel that the game is built on and make something repeatably playable. 
+
+Unlike a Fallout video game, this isn't just wander around and kill random things and finish quest after quest. With a built-in endpoint, getting the most out of the cards you have to score with is goal #1 every turn, especially when the endpoint, one of the two factions in power for that game, can get potentially big jumps forward without any great warning.
+
+Good enough fun for the Fallout fan willing to let a few things slide, possibly not as much fun for people who don't already know fallout.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Grail game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+If you're a fan of the video game, this is a must-have. With a story driven theme up to 4 players can either work together, or against each other to be the first to gain the most influence in the wasteland.
+
+Nice RPG mechanics, reminiscent of the old adventure books (choice 1: Turn to page X etc) The questlines are divergent enough that there is a lot of replayability
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sealed, Brand New
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+A frustrating game. Love the series, but the narrative and storytelling falls flat. Game is fiddly, random, and excruciating long. Might try it again if they make a second edition that streamlines the flow of the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+https://www.youtube.com/watch?v=x6Vh-pQ_jIQ
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Played once solitaire, cards are partially sleeved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Simple mechanic based VP collection with Fallout flavored narrative theme.  Solo play is a race for VP against faction advancement "timer".
+
+COMPONENT UPGRADES: Nuka-Cola Caps (20 Red | 20 Blue; from gamercollectibles on Etsy: non-flared edges, accurate colors, authentic "Fallout" aging, and a protective matte finish); 8-bit Dice Quest Markers (8-bit black/green d6 dice to replace the monochromatic quest markers; from Turn One via Miniature Market)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Has potential, and FFG is known for planning games around expansions. For now it is fun, but not enough variety for it to last. Solo play is extremely boring at the moment, and feels like there is something missing.
+
+Update
+
+After several more plays the game just feels like the player objective was tacked on last minute. The agenda deck is over 2/3 freedom and security cards, it plays out without any real consideration from what the players want to do. It's just bad. The art, theme and encounters are fun, and the way that content is added is a great idea. The goal just sucks. I can't get over how ridiculously boring the game is made by the agenda deck. I can honestly say that this game deserves an awful rating as it is intended to be played.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+To start with the good: The game is extremely thematic. All mechanisms make sense in a thematic way and it conveys Fallout's atmosphere very well, through the quests, many of which should be familiar to Fallout players, familiar weapons, companions, you name it!
+
+As for the problems: This is hardly a game, it is an absurd luckfest. In this game, almost no meaningful decision can be taken as all choices are essentially irrelevant given the huge amount of luck inherent to the cards and die rolls. Don't get me wrong, I am not a Eurogamer who stumbled into his first Ameritrash game; I have played many FFG titles and enjoyed them, including Imperial Assault, Descent, Twilight Imperium etc. In this game though, they completely dropped the ball. It is hardly even worth calling it a game, in terms of player control, it is more like a Fallout-themed version of Snakes and Ladders.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Enjoyable enough.  Especially if you like the IP.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+This game is SO overly long it hurts. The quest structure is interesting, but has the potential to completely screw over 1 or 2 players so that they're completely unable to win, and is basically forced to sit and go trhough the motions of playing for 1-2 hours before the game FINALLY ends. And even after only one play I feel like I've seen everything there is to see in this game. Fallout is a game that has only been created to sucker fans of the videogames into buying it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Looks interesting. Ive never played a board game like this before.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Copies: 1
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+55.00
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+great game if you like fallout
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Rules pretty good until you actually start playing. After that I have zero idea how all the events & encounters work. And the rules for how the factions advance seem to be missing a few beats. Why can't I reset the tracks by defeating one of them?
+And those encounter cards on Institute/Railway etc  - how the hell am I supposed to implement them?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+2 Plays - I love Fallout (PC1-4) and really enjoyed how the Fallout world was translated into this board game. If it weren't for the great sense of exploration that the Fallout-humoured, branching quests created, I would probably rate this game much lower. Also a pro, the luck in the dice rolls is not as high as you'd first think as luck is mitigated as you gear up. Combat and skill checks can also very much be pre-calculated in terms of what kind of dmg you are likely to give and receive (or skills check results) based on the visible enemies stats/ die facings. This ability to pre-calculate basic odds again places emphasis on player decisions. Story and combat, check!
+
+A key downfall though is the repetitive nature of combating enemies. You could double the number of enemy tokens for very little cost and simultaneously create a lot more variability. The enemy movement and constant re-spawning also just feels repetitive and unexciting as are just 'grinding' through the same critters over and over... continuously - this is particularly true of the smaller critters that become more of an annoyance than an ongoing threat/ reward over time. In a SpaceBiff review (good reviewer - check him out), there is mention made to 'enemy congo lines' that form too, which happens as tokens chase players around the board. This is definitely a true phenomenon, which doesn't feel like 'good game design' at all.  
+
+I think the jury is still out on the agenda cards 'being broken', though most would definitely state that they make situational-dependent luck quite a viable method of winning (as opposed to good play). My feeling is that the designer put the rather high proportion of the faction cards in the agenda deck to ensure that the two factions would advance closely together, as players would collectively work toward ensuring they wouldn't lose to someone who gets a lucky draw (or two) toward the end of the game (while also preventing the risk that a faction will 'take over the wasteland'). Either way, these cards are VERY far from ideal, and again, VERY repetitive. 
+
+The way quests spawn is perhaps a bigger deal to me than the agenda cards even. Sure you're competing against rivals for quest completion, but then again... are you? If a quest spawns right next to you, is there really any competition to be had? This is obviously mitigated across the course of a game, as a number of quests appear in various locations. However, in a similar fashion to the agenda cards, toward the end of the game the spawning location of a quest is very luck dependent and can be very important! Some situations compound the situational-luck aspect here as enemy 'congo lines' close in on one player attempting to get to a quest location important to them, while others dance around freely. 
+
+Final thoughts? I would argue that it is very hard to determine 'what' constitutes 'good play' in this game. You're not playing the game, so much as you are simply experiencing it. Things just happen to you. While you can make calculated decisions about engaging in combat and dodging AI, there are a lot of key elements of the game that are not in player control which can essentially make all your other good decisions obsolete. The game builds on a lot of repetitive encounters with the starting pool of cards from the card library and combat-grinding against critters. Enemy movement, which forms a really key aspect of the game, leads to non-interesting, linear decision making. I would definitely recommend playing a friends copy, but I would never buy it. Even after having played only two of the four scenarios (and seen only parts of the card library) I really feel I am already done with this game! Again, remove the Fallout story and I would rate this one much lower!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Competitive
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Well thought out game, but the "semi-cooperative" nature means that it's hard to know how you're supposed to play, and it's very hard to get new items, which means half the group ends up using their fists (no weapons) all game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+I spent the weekend trying to convince myself this game isn't broken. But I'm afraid it is. You'll spend your first play-through trying to figure out what the hell you're supposed to be doing, and wonder why you weren't given a clearer objective. Played with two friends, and we may as well have just been three people at the same table playing solitaire. The timing of this game is a mess. You'll be sick of rolling the dice before you obtain a worthwhile quest. Weird mix of grinding and losing at dice rolls. Bummer. Really disappointed with how much money I spent on this otherwise beautiful game. Damn you, FFG. You're breaking my heart and my wallet. :-(
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I've always loved the Fallout video games so I preorderd this game not even knowing if it would be any good. Luckily not only is a good game but it absolutly nails the feel of the series. The levelling up aspect is a brilliant mechanic. The stories and encounters were always entertaining. Even though I lost the first playthrough, I felt more like I was just exploring the wasteland than I did trying to win a board game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Amazing game. So loyal to Bethesda lore. Any fan of the fallout series will greatly appreciate.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+As a Fallout junkie, i love this. It gives me the video game feel without having to be tied into a screen all day. I think this is a great game to disconnect some harder core video game RPG junkies with. I'm Proud to have this in my collection.
+
+Edit: Ended up selling because i don't feel this is a good multiplayer game (even though ive only played it solo, silly me), and i don't like the repetitive story nature of the game
+
+Also the influence system, not for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+The type of game I totally dislike and avoid.  Luck of the dice, chaos, no meaningful decisions, lots of different cards with lots of text on them that tell you what to do or what to get. Just move around the tiles, roll, and hope for the best. Total waste of time. In my only play I could not wait for it to end and will never play again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Got it as a fan of the series, a little bit disappointed with scoring, however the community have provided great variants. Nevertheless this is a game I am willing to play for a very long time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+As a complete fallout nerd, I need this! ????
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I don't understand the complaints people have with this game... I don't think its hard to learn (compared to other hobby games), I don't think its boring, I don't think its unbalanced. 
+
+I think it's a fantastic game and a fantastic service to Fallout fans, Yes its more Fallout 3/NV/4 and I would have liked to see more 1/2 mixed in but I still think its outrageously good. Also you are getting a TON of game for the price... FF could of easily put this closer to 100 bucks.  
+
+Super happy I pre-ordered this one as soon as I could. FF continues to knock it out of the part.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1–4 Players. Playing Time: 120–180 Min. Age: 14+. Weight: ??
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+A game that seems to be aimed directly at me. Fun sandbox style game? Check! Great theme and use of IP? Check! They didn't slouch on this one. VERY fun game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Feels very much like the video game that I love.   Long games full of the narrative we are used to with super mutants, ghouls, wastelanders and such.  Not hard to comprehend, easy rules in my opinion but plenty of meat around the bone with this game.  Did not dissapoint.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The board game does a really good job at capturing the essence of the video game. The board game has four different senarios to play through and I have played two. One game with the max players of 4 and the other with 2 players. The game does a great job at scaling for players. The biggest issue is learning the game (the only reason why i gave an 8 instead of 10).  The developers really try to make everything simple, but the issue comes from conflicting rules. There is very little situational clarification and we end up having to take logical leaps more than I would like.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Alex's copy
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.25
+Really like this one so far.  The game "feels" like Fallout, which is probably the most important thing, game play aside.  So far it can be a bit confusing with the rules when a particular situation arises, and the rules reference can be vague.  Definitely a game ripe for expansion content.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Rules are a mess. Really don’t like the ‘learn to play, look things up in another book’ style
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great feel of the Fallout universe, very interesting mechanics and gameplay.  Once you figure out the rules it moves pretty quick.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Lots of reading on each card which can bog the game down. Everyone just stayed on first wilderness encounter spot early on to get stuff for the first half of the game. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Fallout fan. Enjoyed the play a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Played twice now. Its strength comes in the choose your own adventure style of the quest system. If you like that sort of thing and you like the fallout universe, you will love this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(12/11/2017) - Snagged from Miniature Market.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Love the context and contents of this game. Not a huge fan of the agendas though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Max Players 4
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+Nice production. The theme is a definite draw for fans of Fallout the computer game.  However, the gameplay itself is very average.  Nothing exciting or innovative.  The quest/encounter system is very similar to that of Dead of Winter or Robinson Crusoe.  The rulebook is not well written.  The fighting/leveling gameplay seems disjointed from the agenda cards.  You can win without doing much leveling.  Not a bad game but just feel too exciting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Knocked it out of the park. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+1–4 Jugadores
+
+Si Solitario
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Fun game with a few easy to fix balance issues
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.5
+If you value story over gameplay and you don't care about winning then yes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A cool game that captures the look and feel of the Fallout video games.  I like it a lot.  The biggest flaw is that the instruction manual doesn't give you any strategy tips on how to play the game as intended so there are a lot of confused players out there playing the game wrong and house ruling a bunch of things because they feel the game is somehow broken or poorly designed.  It isn't.  FFG just needed to tell people how to play it and they didn't.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Need to look into this a bit more
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+One play, and holy cow is this thematic. It's also got very cool storytelling elements. Other pieces are problematic, such as the Objective cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+So, this needs an expansion that adds fun to the game.  Its a souless implementation for Fallouts 3 & 4 without the satire or social commentary of Fallouts 1 & 2.  Its an OK design but falls flat in the fun department.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+12
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Best adventure/questing game ever. Skill checks and combat are easy and cutely fit with the S.P.E.C.I.A.L theme. The narrative is beautiful written, and I love the choose-your-adventure feel. This is like Android with better conspiracies and character development, Bioshock Infinite with better everything from leveling up to juggling the two factions on the board, and Gears of War but better because it's not co-op.
+
+4+5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I was anxious about getting this to the table, but the 3 player experience was wonderful.  There were a lot of dramatic moments, both in stories and in battles, and a lot of laughter and smiles throughout.  The quest system is definitely the highlight, and you can't quite wrap your head around it until you get a multiplayer game going.  It works very well - as long as you're OK with your opponents potentially fulfilling a quest that you "revealed".   It ain't your personal quest-line.
+
+Most importantly, and this is definitely where the BGG-grumbling is coming from:  this is not a game where "winning" matters or is, in any way, determined by strategic play.  You sit down with some friends, you play out the story, you roll some dice and level up and feel really good about what is happening, and then after 3 hours or so, someone wins.  You can tweak the winning conditions/agendas all you want with house-rules (and I just might), but it doesn't change the fact that this game is very random in how it doles out victories.  And that's totally OK with me.
+
+Update after multiple solitaire plays:  this is really quite good solitaire, but there does need to be more variety - esp. in the starting encounter decks.  Classic FFG!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+a gentle adventure game where you complete various quests.  Four different scenarios, each with a different hex map layout.  Soloable.  
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Preordered 1st edition - received 2017-12-07.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I was thinking and reading forums before buying this game, and wasnt sure to buy it or not. But finally I decided to buy since I really like Fallout lore. Game is really good, especially for solo play or 2 players. I was worried since game has this agenda problem, but for me it wasnt big issue. Bigger issue are rules that took lot of my time, and managing many different things, but once you learn this you ll see game is good. It isnt my top 20 games but definately good, and problems with game arent so big like I thought prior to buying. Leveling up, different equipment, quests, encounters, story, fast combat, all of this makes gaming experience for me enjoyable. Therefore I rate this game solid 8.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Unplayed
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Great game for fans of the video game. Lots of story elements. Fans of Eldritch Horror should enjoy too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Love Fallout on PC so had to buy this, is it a good game.. Yes, But! .. I just feel it seems a little empty by FFG stardards, Minis are nice, good theme, but with only 4 missions and around 20 game tiles I honestly can't see masses of replay-ability and I just can't silence the big screaming voice in my head yelling "Expansions!!, more money please!!" just to get a few more tiles and maybe 1 extra mission each time
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+It only draws from Fallout 3 and 4 games, but it does a really good job with it.  I'm excited to see what else they add to this in the future.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+One of the best exploration games I've played that successfully captures the theme and feel of the video game franchise.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+As a long-time fan of the series, I both love the theme and have high expectations for Fallout franchise games.  This board game feels about as faithful to the video games as a 2-3 hr board game could be.  Additionally, I've played with folks who have never played the video games and they have enjoyed it as well.  The decision-based encounters and quests are fun and engaging, and the character/SPECIAL systems is understandable and balanced.
+
+The main drawback is replay value.  There are 4 campaigns, a randomized tile layout, and quests diverge based on choices.  However, the first half of a game will probably become very familiar if you play a decent amount.  I suspect there will be expansions released to ease this drawback.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Wow. I'm really disappointed with this game. It really felt like it dragged on. The mechanisms are clunky and everything feels very restrictive, from the way shopping works, to the questing.
+
+Honestly I think I'll have to house-rule maybe half the game to even want to play it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+A good theme and some decent Fallout inspired mechanics are wasted by the worst designed secret goal card system I've seen in a game (and most of them are pretty terrible.) Running around rolling dice isn't the most interesting thing to be doing to begin with, but these swingy, uninteresting goals leech all the fun, drama, and strategy out of an otherwise okay game.  I'm sure it can be house-ruled into something decent, but I probably won't find out.  I love the theme much more than Doom or Gears of War, but those are much better games.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Similar to SMERSH, 7th Continent, Near and Far etc. Game plus paragraphs this time on cards. Enjoyable and quite streamlined.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.7
+Dice, why did it have to be dice !
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Theme is fantastic; I felt the game's pacing can be a bit rushed compared to an open world game where the timelimit is as long as you need it to be, however, that sort of pace and time control is necessary to keep this game from being 6 or 7 hours long per play through.  Tons of fun and the narrative driven gameplay keeps things interesting.  Looking forward to more cards and expansions in the future.  It will certainly add depth and additional playability to the game as well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Very intertaining boardgame - great for solo too.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+GENCON2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+There are things I really enjoy about this game & there are things I quite despise! 
+
+Let's start with the good. I really enjoy the exploration aspect & the encounters. It fascinates me how the choices you make could impact the encounters you encounter later in the game. 
+
+The bad; first off, those agenda cards. That's your only way to gain influence points?! It really bothers me that I start the game & I randomly get dealt one with either the (shield) or (star) agenda card that will give me points equal to how much further along the one I have is over the either. Thats fine, that allows me to focus on a plan to gain influence. So, what happens when I acquire another agenda card & it happens to be the mirror (other faction) of the other card I have? That card is basically worthless to me, unless I change my plan. I go through all this trouble to finally get another agenda card & I get one that is basically useless. (Especially if you have been doing a lot of the quests to advance your faction token further down the track). I realize that at the end of the round the weaker faction moves down one space automatically, unless they are tied in which case they both move. Simply speaking, There should be more agenda cards & have them easier to achieve.
+
+My next gripe; the shopping. I don't mind only being able to shop when the city encounter card allows me to nor do I mind the encounter telling me how many 'shop' actions I get. But the same 4 cards each time?! Granted, you draw one card of the top of asset deck that gets placed to the left & therefore you have 5 potential items to buy. But if you didn't want those 5 items, you are stuck with 4 of them (one of them gets discarded at the end of the shopping encounter)? Why couldn't you just get a shopping encounter, draw 4 cards off the top 
+& then buy as many as the encounter allows?! Discard all cards you couldn't or wouldn't buy after the encounter. There is no way to 'wipe the cards' unless you buy them or don't buy anything & you choose which card to discard (to get you back down to 4) I realize that in Eldritch Horror, it's very similar (the same assests at every city location) but those assests are much easier to acquire. You may take a debt condition if you really needed something or clear one assest out if you didn't want anything. Caps are much more difficult to acquire in this game, without having to sell things you find.
+
+I dislike the activating & spawning monsters. It's clunky. Monsters only move when their icon is shown. They either move or attack, unless they have the aggressive trait. Also, if they have a range icon, they can fight from an adjacent space. If you dont have a ranged weapon, they automatically get a * on you. So, it says when they range attack you, they fight you from adjacent system. Therefore, when you roll the VATS dice, do you apply your hits to them as well (potentially killing them)? After you defeat an enemy, you spawn another one in the closet space with their icon, usually the same space you are standing in. They remain inactive until their icon is shown again on the agenda card and then all they do is 'flip'. I just dislike this whole mechanism. I think all monsters should move at the end of the round & only spawn ONE of each icon showing on the agenda card. They would spawn Activated. To balance the overwhelming amount of monsters you would get by doing this, you could make the pip damage would be '1 for 1' rather than equal to their level. The disconnect in the theme bothers me again; why would a deathclaw just stand in space adjacent to me & just not rush at me, because his 'icon' wasn't showing? 
+
+My last gripe; staging/adding the cards. I actually do quite enjoy this aspect of the game. My gripe is that if you play a multiplayer game, one player could finish a quest or encounter, then the card likely will always have you stage &/or add cards. Then, another player could then complete objectives on that newly staged card, even though they had nothing to do with the previous card. I do understand that this game is a semi-cooperative game, but the thematic disconnect bothers me. How & why should that player know the person I was trying to find, or the item I was looking for or any other 'effect' from the previous card if they are not even remotely close to my location. Also, is that fair that one player could do most of the quests to get those cards staged & another player could just easily finish the objectives while doing a minimal amount of the work. Some of the rewards are even agenda cards! I probably would like this aspect more if all players had their own play area which the cards they need to 'add or stage' will be only for them; no one else could attempt the encounter or quest.
+
+In conclusion, all these issues just make the game okay. Not great but not awful either. I have other issues, but I have griped enough about this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Anti-climactic endings to games, but is a lot of fun.  Many may feel game is broken, but the more we play it, the more the balancing seems good.   Luck plays a big part of the game, but good playing can offset this somewhat.
+
+Pieces are great quality.   I'd love to see an expansion soon.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fallout has some problems, most notably with its quest and agenda system, which is weirdly restrictive for a game that normally lets you make your own way in the wasteland. But for the most part, this captures the series admirably, from the hard-bitten difficulty to the weird conflicts. For once, I'm eager to see a game expanded.
+
+Read my review here: https://spacebiff.com/2017/12/06/fallout/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 1
+Oh dear, another gsme which was not playtested enough. It's not enough to convert a video game into a board game. The mechanics must work, the win conditions must be fair...and from what I am reading in this forum everything is too random and you can lose right from the start  if you draw the wrong quests. Sooo glad I did not buy this...Thanks BGG :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Love it! It plays like a competitive choose your own adventure so while it might seem luck driven ultimately still comes down to the choices you make.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+It is fun, only problem is that there isn't enough scenario  cards and the variation of enemies are not that great.  Maybe in an expansion they can update the enemies.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I like it very much as a Fallout fan.  This game does a phenomenal job of capturing the Fallout experience with lots of love toward Fallout 3 and Fallout 4, and their respective DLC.  I have a few minor quibbles here and there, but beyond that I really liked this as a Fallout experience.
+
+My worry is that it won't have much longevity. Honestly, if you're playing it for a board game experience?  It's not that great.  The mechanics exist solely to fit the theme, and wouldn't really stand on their own.  I can't really see non-Fallout fans enjoying this beyond casual amusement.  There's not a whole lot of skill or depth involved, and minimal player interaction (it's a race to get the most Influence points).  
+
+I gave it a high score because I personally loved it, but I don't see this one holding up to the test of time.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Quickly became my favorite game of 2017. What an amazing experience!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+I can’t believe FFG is still making these awkward, clunky games in 2018. You can feel the gears crunching against each other as this tries desperately to be thematic and fun, but just devolves into a soulless slog of mechanisms and rules that are the true opposite of elegant. This is not a good design. It is outdated and uninspired, and frankly, for me at least, a sign that FFG is falling behind the times and in dire need of fresh blood.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Elevates storytelling in boardgaming, all without using a tacked-on legacy system.  Quick turns and combat help speed the game along.  Rulebook is not so great, I am really not a fan of FFG's new "learn to play" and "rules reference" layout.  Some of the most important clarifications are hidden in the rules reference.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.75
+Setup and teardown were a bit of a bear, and the game was longer than I anticipated (even playing with two) but Fantasy Flight's done a marvelous job of capturing the feel of a Bethesda Fallout game - exploration, combat, leveling, and customization.
+
+The semi-hidden victory point model is neat. Feels similar to Tales of the Arabian Nights. The system of staging and adding cards to fuel the narrative is unlike anything I've seen in a boardgame and seems like it would add a TON of replayability to the box.
+
+The 'level up' system is very elegant and the playable characters are varied enough to make you want to play another round right away. I'm impressed!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+outlet games FB Pieter Demeulenaere
+Q2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Played a four player game and it was just awful. The game itself is ok, but the waiting between turns meant, that we could not keep focus on the "story". Also, the end game goals felt really random. Almost won the game by change, when another player had to select an option on an encounter. One option would have won me that game, but instead we all ended at 0 points, yes ZERO after more than three hours.
+
+Thinking about it, you might like this if you liked the video game. Running around solving quests, killing monsters, collecting loot, solving quests, killing monsters, collecting loot, etc.
+
+But I could be wrong. I think there might be a decent game in there, if you play solo or with two players. But with four players, I will not recommend it at all. And all the randomness and rolling dice is just not my thing.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Awesome game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+That is one amazing game. The questing system is the most elaborated and fun I've been able to experience. It really gives you that "open world rpg" that is the characteristic of the video game. Plus, if you are a Fallout fan like I am, well, you can just put some old jazz music and enjoy the Fallout universe!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 1
+Hexes...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Loved the way questing and fighting are handled. Can't wait for expansions
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played a 3 player game. Story wise the game shines. Not a fan of the point system though. The game dragged on way too long.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+[b]Last Play:[/b] 2018-01-01
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+It just didn't work for us. The game lacks a motivation and the mechanics are sloppy. Needs revision and might be great.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Typical FFG production; some minis, a ton of cards, and a lot of cardboard. It seems like they got the atmosphere and narrative in there, and I like the quest style. The card library and building encounter decks are all excellent additions to an adventure game. I enjoy the incorporation of S.P.E.C.I.A.L. more than I thought I would at first glance, and I'm happy there are some perks for players.
+
+The V.A.T.S. dice are still a bit of a letdown, though. It looks like V.A.T.S., but it doesn't feel like V.A.T.S. Player choice is nowhere to be found in where to hit. The combat system is all a bit of a letdown. 
+
+Solo play is pretty "Meh." Take it or leave it. Playing with others makes the questionable Influence system more interesting.
+
+Despite some flaws, it's still Fallout and still good fun.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Only one game in... so no definitive opinion yet.  Feels very thematic.  The tug of war between the progression of the faction achievements and how that impacts VP scoring cards was very interesting.  Also really liked the xp mechanic and how it interacted  with the skill selection (or rather not by choosing a skill to level more quickly). 
+ 
+Lots of luck in quest completion...
+The quest track felt very linear (despite possible parallel quest progression)  which could lead to a feeling of same-iness over time.  Lots of room for expansions. 
+
+It's a good game, but the first play took a lot longer than i wanted and somewhat outstayed it's welcome.  We'll see how future scenarios play out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Nice theme - but the game, as a whole, is poorly designed and unbalanced. Gameplay is fiddly, combat uninspired and the victory conditions poorly realised. The high scores are being awarded by the fanboys, and any attempt to mod is evidence of a broken game. Sold my copy at the first available opportunity.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+As a fallout fan I give this game an 8,5 rating. This game feels like fallout despite missing some opportunities here and there.
+If the lore is unknown but I would love story-driven adventure games this game rates at about a 7,5. The story is very good but some gameplay issues start deterring from the experience.
+As a gamers game this game reaches only a 5 in rating. There is actually little you can do to affect your chances of winning even if there is some solid gameplay during the game. It is just that this gameplay seems completely loose from the end result.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Story is fun, but I just can't get past the agenda cards. I like the mechanic, there just needs to be more of a variety and I don't like how they are integrated with the adversary movement.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Evan
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+107(41x63), 175(56x87).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+What a boring game. I REALLY wanted to like this one too. The good stuff first. Components and minis are great as is the art. Top notch FF components as usual. That is the end of the positives. The negatives. The rules are a joke and bog the game down completely. Even after you think you have them down, you get cards that trigger another question that has no good answers. This game needs a FAQ badly. The agenda cards seem so disjointed. And the combat is even more so. It advertises as open world but you still feel very restricted. The game is so RANDOM and repetitive. You are doing the same thing over until the encounter card is defeated. Even then they aren't always "trashed".  Loot seems all over the place and unattached.  I'm not sure this game was properly play tested.  What a bummer.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Painted
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+z - done
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Has enough familiar things even when coming from Fallout 1 and 2. Exploration and side quests can be interesting, but are not directly related to winning the game. Probably better with fewer players.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+pax unplugged
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Co-op / Solo
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Oooooh this is GOOD so far. I'm honestly surprised how quick and smooth the turns are. The stories are really good, both from the cards themselves and choices the players make in their normal play. I can look past the scoring problems because they're generally manageable. Adventure games usually aren't fair anyway. Not sure about 4 players yet so this rating is tentative, but it's GREAT at the lower counts.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+I remember playing this on the computer eons ago and having a blast.  The boardgame version seems to keep ties to its roots with quests and conflict but making a competitive multi-player romp for points.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-4 players
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+I really wanted to like this. Playing the game you really feel like you are adventuring in a wasteland. What kills the game for me though is the completely random VP objective cards which you need multiple ones of and will at times give you conflicting goals.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+I paid 60 for it from https://www.fantasyflightgames.com/en/products/fallout/ but it cost an additional 15 to get it shipped to me.  Total of $78.65 with tax.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Amazing game, needs a little tweaking to make it perfect, but an incredibly good game!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Video game series table top version as a 4X quest based hex exploration of the wasteland.  Pick your path quest deck allows for Scooby doo endings.  Powerful perks are an interesting and powerful upgrade option.  Fun way of incorporating the video game feel to the board game experience with; story quests, side quests, personal objectives, progressive skill leveling, managing radiation, freedom, and using respawn points.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+My first game upon enterting the tabletop scene. I usually play solo and this game provided a decent solo experience.
+After 7 games (~20 hours), I can already remember every initial encounter along with its choices and rewards. Can also remember most of the quest lines and already know which option to make even by just seeing its card number.
+Yeah, sure, it provides the Fallout feel that you could get by playing hundreds of hours in the video game; but it lacks replayability right now and certainly needs a good expansion which can resolve its issues.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Played 3 games so far, two solo and one with 2 players. I can say the games last a LONG time. Minimum 2 hours from what i've played and will more than likely last longer but that's not technically a bad thing as long as you're having a good time. 
+
+Pretty easy to learn and I love how the instruction manuals are set up. 1 to learn the basics and then another for all the rule references. Lots of pictures and examples to help explain as well. The minis are very detailed and look great. There are 5 character classes to choose from and each has a different starting card which makes them all play really differently.
+
+There is a TON of variety for multiple playthroughs. Firstly there are 4 scenario cards, so 4 different all encompassing scenarios (worlds) to choose from that set up different from one another. Beyond that you have a number of hidden tiles that you mix up and place down without seeing, so each game regardless of scenario will be varied as far as which tiles you discover where. On top of that when you draw quest or encounter cards, depending on what decision you make out of the usual 3 choices on each card will determine what other quests cards you place. And there are over 150 different quest and encounter cards to choose from. Lots of branches in this tree.
+
+The leveling up aspect is very well done and fun and there is a shop to use caps to buy upgrades and status effects like getting addicted to chems or vilified plus more. These little effects will have an effect on quests as well. 
+
+For the most part I really love this game however there are a few factors about it that I don't much care for. The game starts out VERY exciting as the majority of each map (scenario) is hidden so you have to explore to start uncovering tiles and locations. However once you eventually get all the tiles explored and flipped, the mystery dies a little and with it, the fun....but just a little. By this point of the game (probably an hour or more in) you will hopefully already be super deep into a quest line and have some idea on what you need to do to get those last few remaining influence points to win.
+
+Which brings me to the next downside, the win condition. To win you need to acquire a certain number of influence points throughout the game based on how many players there are. For a 2 player game it's 10. You can acquire influence mostly by completing quests but there are a few other ways to get it. Each influence card you have is worth 1 influence point but the catch is, you can only have a total of 4 influence cards in your inventory. So then it comes down to utilizing the text on the influence cards to try and maximize the amount of influence you get per card based on whatever it reads on a particular card. 
+
+Most commonly this would boil down to supporting one of the two other factions that are included in the particular scenario you picked. Here's the catch, when you support the AI faction, USUALLY they will gain influence as well and if they gain enough, they can win and you lose. SO it's an interesting balance game that you need to play in order to make sure they stay on top BUT not too far on top. Basically just enough to help you win. 
+
+So for me the second half of the game isn't as much fun as the first half when you are exploring. That's not to say that the second half is bad, it's just different. Which brings me to my next point, the enemies and fighting. As you travel around discovering tiles you will also unlock enemies of all kinds which you can fight to gain experience and loot, which is always a welcome thing. The thing is, the enemies never REALLY die. Once you kill one you replace the enemy tile with another facedown inactive enemy tile. So it lingers inactive till the enemy phase which activates it, which could be a few turns depending on if that enemy type is chosen. 
+
+This isn't a terrible thing....until the later half of the game when you have all tiles exposed and around 15 enemies chasing you all over the board. At that point you can never linger too long in one spot as they can and will gang up on you. I can see why this mechanic is the way it is though, if you get to that point of the game and you still haven't won, more than likely one of the two factions is about win. It's like the game wants to end and ramps up the difficulty the longer you play. Of course this for me was about 3 or so hours in. 
+
+My favorite thing about the game by FAR is the sheer amount of story and quest cards with so many different decisions. The flavor text on each card is amazing and when one gets drawn, the person to your right reads it and your options.....but not the consequences..........freaking awesome. So you have to go with your gut and pick what you think you would actually do......and hope it turns out to be the right choice. 
+
+I'm going to put a few more playthroughs under my belt and will come back with updated impressions after the newness wears off a bit. As it stands though from 3 playthroughs I would rate it an 8.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+More of a game of sitting by and enjoy the ride than a hard, competitive game. But I enjoy the story telling element.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+I love everything about this game except how abruptly it ends and generally how influence points are tallied.  As things stand, the end game conditions are awful and this game will never see the light of day as a multiplayer adventure.  Solo play circumvents many of the pitfalls, but random draws from the Agenda deck still makes it a crap shoot of whether or not you get the [i]right[/i] influence cards.  As a variant, I'd prefer playing for 2.5 hours exploring the world, then rolling a die to determine the winner.
+
+I leave it to the brilliant minds here on BGG to create the perfect, playable, end-game variant.  BGG, please make this game a 9 for me!
+
+[b]MOST Disappointing Game of the Year: 2017[/b]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+End games a bit tedious. More monster and expansion needed to bring up this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A fun conversion of Fallout 4 - surprisingly quick, although look forward to FFG FAQ, no shortage of confusing rules. Also, I'd recommend house-ruling the influence-cards and victory conditions, as the ending can suddenly feel very flat as someone turns over the winning set of cards out of the blue.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2017: 5 plays
+===
+Game of the Month: December 2017 (5 plays)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 3
+Too random and no real character development.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Both too short and too long.  Has Fallout feel, but can't finish a quest before game ends.  Might house rule some things.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.99
+Doesn’t feel like they finished it. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+I absolutely love this board game, I have played many adventure and dog board/card games, including zombiecide, Acadia quest, and dnd adventure board games, this tops them all, I really hope it gets expansions, whether it's small ones with added characters, monsters, or even starter quests. I want more!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Dagfinn has this
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+I LOVE this game, with the exception of one card, that allows players to gain influence hand over fist by having multiple copies of said card. That's my only gripe about the game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+Fallout is an incomplete, untested, poorly designed mess of a game. So, it's pretty close to the source Bethesda material honestly. Unplayable​.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A must for fallout lovers, conveys feeling and tone from vdo game very well. Not too complex to enjoy.

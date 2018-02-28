@@ -1,0 +1,377 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Round House
+RANK: 2241
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Own the [boardgame=208066]1st expansion- Additional tiles[/boardgame], the [boardgame=208065]Expert promo cards[/boardgame], and the [boardgame=234693]2nd expansion- Port City[/boardgame].
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Good game. All the new players enjoyed it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+pl
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Round House เป็นเกมยูโรระดับกลางจากนักออกแบบไต้หวันที่หนึ่งในนั้นเคยร่วมออกแบบ Burano ธีมเกมนี้ว่าด้วยการใช้ชีวิตอยู่ใน Fujian Tulou อันเป็นหมู่บ้านแบบโบราณของจีนที่มีลักษณะถ้าเทียบกับบ้านเราในสมัยนี้ก็น่าจะประมาณแฟลตในฉบับตึกเป็นทรงกลมแล้วมีลานกว้างตรงกลาง เป็นเกมที่ให้กลิ่น Point Salad แบบ Stefan Feld นิดๆ
+
+ระบบหลักของเกมจะเป็นการพัฒนาขึ้นจากการเลือกแอ๊คชั่นแบบ Rondel (แบบใน Navagador / Antike / Imperial 2030 ของนักออกแบบ Mac Gerdts ) ที่ผู้เล่นจะต้องขยับตัวคนงานของเราวิ่งวนอยู่ในหมู่บ้านพอไปหยุดอยู่ที่ไหนก็ทำแอ๊คชั่นช่องนั้น ตัววงแหวนมีสองชั้นเชื่อมต่อกันด้วยบันไดที่ทางจะทำให้ช่องเหลื่อมกันนิดหน่อย ทำให้เวลาเลือกทำแอ๊คชั่นในวงในก็อาจจะทำให้เราต้องข้ามบางแอ๊คชั่นในวงนอกไป ในเกมเราต้องค่อยๆเดินคนงานไปข้างหน้าเรื่อยๆ เกมจบลงเมื่อมีคนงานมีการเดินวนครบจำนวนรอบที่กำหนด
+
+เกมทำแต้มได้หลายสาย หนึ่งในแต้มหลักของเกมคือการเก็บสะสมสัญลักษณ์เครื่องรางทำเป็นเซ็ท หรือจะใช้วิธีสะสมคนงานเพื่อนำไปกราบไหว้บรรพบุรุษทุกๆครั้งที่เดินวนรอบบ้านครบหนึ่งรอบ หรือไม่ก็เน้นการสะสมสินค้าไปขายตามใบสั่งก็ได้ แอ๊คชั่นระหว่างทางก็ไม่ซับซ้อน (แต่สัญลักษณ์บางอันก็แอบตีความเองยากนิดนึง) ส่วนมากจะเป็นการหาทรัพยากรเงิน / เพิ่มคนงาน / ซื้อขายสินค้า แต่เกมต้องวางแผนหน้างานเยอะเพราะว่าช่องที่มีคนอยู่แล้วเราจะไปใช้ไม่ได้ และเกมไม่ยอมให้เราเดินถอยหลัง
+
+เป็นเกมที่ตอนอ่านกติกาแล้วรู้สึกว่าธรรมดา ตอนเล่นตาแรกๆก็รู้สึกธรรมดา (เพราะเหมือนจะจบเร็ว) แต่พอเริ่มเล่นไปซักพักพบว่าสนุกใช้ได้ เพราะมีอะไรให้ทำเยอะกว่าที่คิด (รวมไปถึงขัดใจเวลามีใครยืนทับช่องที่เราอยากใช้) ระบบตัดรอบจบตอนวนครบรอบก็น่าสนใจดี รวมๆคือถ้าใครชอบเกมของ Stefan Feld ก็น่าจะชอบเกมนี้ (นักออกแบบเค้าก็บอกอยู่เหมือนกันว่าเป็นติ่งของคนนี้ เกม Burano ที่ออกมาก่อนหน้าก็ 'ได้รับแรงบันดาลใจ' มาจากเกมของ Stefan Feld เต็มๆ) ติดอยู่นิดๆตรงกติกาแปลมาไม่ค่อยดีเท่าไร ไอคอนหลายอันสื่อไม่ค่อยคลีน กับไทล์ชั้นสองที่ทำออกมาแบบโคตรรรรหนา แต่ไม่ได้ใช้ประโยชน์อะไรนอกจากกิมมิคก็น่าเสียดายนิดหน่อย ข้อเสียอีกอันก็ตามมาตราฐานยูโรคือธีมบางไปหน่อย แต่ฉากของเกมก็ถือว่าแปลกใหม่ดี
+
+เกมนี้ฝากเพื่อนซื้อมาจากไต้หวัน จริงๆก็แปลกใจเหมือนกันที่เกมใกล้ๆขนาดนี้บ้านเราไม่เห็นมีใครเอาเข้ามา (หรือมีแต่ผมอาจจะไม่รู้เองก็ได้)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Got it directly from Emperor4s. Not yet play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Das ist mal wieder ein Spiel mit interessantem Thema. Schon forscht man näher nach, was es mit den Rundhäusern der Hakka auf sich hat. Andere Bildungslücken stopft man dann auch, wenn man sieht, dass es die Ressource Celadon gibt. Da ich nicht wusste, was genau das ist, habe ich auch dazu geforscht und Bilder angesehen. Es macht immer wieder Spaß, sich mit dem thematischen Hintergrund eines Spiels näher zu befassen.
+This is once again a game with an interesting topic. You are already researching more closely what the Hakka round houses have in common. Other gaps in education are also stuffed when you see that there is the resource Celadon. Since I did not know what that is, I also researched and viewed pictures. It is always fun to deal with the thematic background of a game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+MagnoGato 2017 - Acquisti
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+The rulebook leaves a lot to be desired, and some of the board iconography could be clearer, but this is a really great game.  Be warned, the length of the game can vary greatly depending upon how aggressively (or non-aggressively) people try to push towards the end game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.75
+There's a lot to say about this game... first the rules were easy to grasp, but failed to cover all the special cases we encountered during our first play. The idea is great, the finale is also very good, but the mid game feels too slow and underwhelming. The theme is there for most part and I would definitely play it again.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Missing parts - one print sheet (2 action tiles, 5 pirate tiles, 9 amulets and half of the money coins)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3 32.3
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+1 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Spieleschmiede-Ausgabe
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Thoughts after 1st demo at Essen 2016: An initially dizzying selection of intertwined mechanics that by the time the fog clears reveals a real gem of a very nicely constructed and balanced game.  The modular board means that the experience will never become mundane or predictable and there is a very nice slice of player interaction and blockage. Four of us sat in on the demo, we all bought it. A real beauty.
+
+Play #2 involved us stumbling with a rule interpretation and one player exploiting the error (in good faith) and winning by a country mile. However this win did prompt one player to consider that an all out strategy of placing people in the villages and then filling the temple might be the way to go. 
+
+Play #3 revealed this strategy  seems to be a sure fire way to win. If other players don't go for the temple it offers more room and rewards for those who do. The gulf between those who do and don't widens. The option to pursue artefacts as an alternative point scoring method is pivotal on the artefact tile being in play and being able to get the occupations that get them. Meanwhile the player visiting the temple can scoop artefacts up in equal measure, gain points, infinite chairs positions and resources. Presence in the temple escalates success disproportionately to other options. 
+
+I'm disappointed that success in this game is not likely unless you fight hard for positions and dominate in the temple, there is no other route that gives such strategic rewards coupled with resources and points.
+
+Sold Dec 2016.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A very well designed board game. It has variety, a clear purpose and it is very competitive. Played in Essen 2016 and I am very sad I couldn't buy a copy (sold out).
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Nothing overly new or original. But it comes together decently enough. 
+Essentially a large double roundel action selection game, with blocking.
+Only takes 1.5 hours even for 5 players. 
+Seems to have only two strategies: go for contracts or go for amulet set collecting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Uniquely-themed euro game with a neat double-rondel board. Players go around the two circular levels collecting resources to complete contracts, hiring assistants, and there's even an amulet set collection element. The game has some of the thickest cardboard pieces I've ever seen and the prayer board scoring was a really interesting touch. O the other hand, the iconography is pretty difficult to figure out at first, especially since not there's a few unique spaces that work in different ways. I also found that there was quite a few instances where other players unknowingly blocked another, which made planning out moves ahead a bit too difficult.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Very good mechanisms, easy to explain but not so easy to find the right strategy. A lot fun and interaction around the table. Really we all enjoyed and look forward next game... really, a very good game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+This looks to be right up my gaming alley.  Not sure if there's anything here I wouldn't like.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Box 4 - BNIS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+SO-SS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 2
+2017-08-27 : The rules to this are bad, really bad. Even the rewritten rules have holes you could drive a truck through. Is it conceptually bad or just a case of not a single native English speaker ever reading through them I don't know - and at this point in time I frankly don't care anymore. I've put in more time trying to make sense of this game than it's worth. Sold at the Essen auction.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Board is almost too crowded with 5.
+Players have to go around the board more quickly,
+may have less opportunities to access certain key actions,
+and end game can be triggered more quickly as well.
+3 and 4 is good, and even 2p works well.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Board doesn't fit in the box? HUH!?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+DB
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+BGG auction
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+[url=nobleknight.com]Noble Knight Games[/url]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Malaysia
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Round House is an engine-building rondel game with lots of blocking the nice action spots for the next player but plenty of detours available. I'm not sure it's balanced (it probably isn't), and some of the combinations are positively insane but the game is tactically engaging and over quickly enough that it doesn't matter too much. Even though it mostly just combines well-known elements from the Euro game world this tour-de-force manages to feel fresh and make you dizzy at the same time. If the publisher had done a better job on the graphic design and rulebook fronts, this might have been a real winner.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Ein Lehmrundbau des Volkes der Hakka in der chinesischen Provinz Fujian aus der Zeit der Ming-Dynastie ist die Wohnstätte für ein Eurogame aus Taiwan. Das fensterlose, meterdicke Monument wird zum asiatischen Rondell Mac Gerdtscher Bauart. Treppauf, treppab wandert jeder Spieler mit seinen zwei Dickpöppeln im Kreis und lebt historisch korrekt ein isoliertes Leben innerhalb der Lehmfestung, indem der Raum durchaus eng wird. ROUND HOUSE ist ein klassisches, visuellästhetisch östlich beheimatetes, spieltechnisch blitzsauberes Eurogame, das einen viele Wege im Haus gehen lässt. Durch die Engpässe, der sich aus dem WP ergibt, wird das Spiel taktisch, wenngleich man sich gleichzeitig schon einen kleinen Motor aus Helfern und Auftragskarten bauen muss. ROUND HOUSE hat sein Handwerk gut gelernt, an ein paar Kleinigkeiten merkt man den Kleinverlag: Ikonographie und Symbole sind zu klein, die englische Regel sehr hilfsbedürftig. Gut, dass die Spieleschmiede eine Deutsche Übersetzung angeschmiedet hat und das Kleinod einem ausgesuchten Käuferkreis zur Verfügung stellt. ROUND HOUSE muss man nicht unbedingt haben, aber wenn man es haben kann, dann darf man es ruhig nehmen und sich freuen. Ein unbekanntes Kulturdenkmal der Unesco als Brettspiel freut sich über eine kleine Spende nach Taiwan. Sehr gute BGG 7/10.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.49
+The rules were fiddly for this one and you want to make sure you have a good grasp of what each location does
+
+The worker placement aspect of this one is interesting as there is a lot of blocking while going around the "round house" and also tactical timing for when spaces open up.
+
+At first I thought set collection would be the key to scoring but about 1/3 in, I realized that completing contracts is actually the key. It gives more lasting bonuses, there is a limited supply, and each score a lot of points. The worship part is also interesting and a good mix of going for early first come bonus vs saving up for big worships
+
+If you can get pass the initial fiddlyness of certain aspects of this game, I think it becomes a fun tactical worker placement game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+LeiriaCON Copy
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Andy - Dorine - Ilja - Anneleen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Components are nice and gameplay is straightforward and easy to get into.  Managing the different resources, competing for spaces in the house and temple, and utilizing expert and order bonuses were all interesting and worked well together.  Enjoy playing this.  If you like this one, check out [geekurl=/boardgame/181260/burano]Burano[/geekurl] from the same designer!
+
+Two player variant needs one fix: Move the blocking dummy players AFTER your turn.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Nicely produced Euro, with plenty going on and different paths to victory.  Rules aren't as clear as they could be, so hoping we have them down now to test out the game proper.  Theme doesn't work for me - not clear what each mechanic actually represents?
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+智威
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Acquired 12.2017
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+台灣策略遊戲的救星！版圖可以更直觀，回合數調少以及卡片張數調多一點會更好
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Occupying and blocking the house rooms are the best things in this game that cause tightness, the rest are usual euro actions. Maybe the way sending workers to one only town, then doing an offer to get a permanent worker on a chair, is the only one to win.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+Great gameplay and a unique theme make this game standout. I really like the neutral player blocking action in the two player game. I love games where there are multiple puzzles to sort out.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.3
+Reminiscent of a Feld. Euro game with a thin theme.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Cool worker movement/placement game with an interesting scoring mechanism.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+FIRST IMPRESSION:
+
+Feels rough around the edges much like his previous effort Burano. Doesn't help that the board is slightly too large to fit easily into the box and one corner is already splitting as a result. I do think the worship scoring table is quite interesting as is the dance of the workers around the Round House trying to grab the room of choice in the right timing. With two workers, one can stifle a spot for much of the game although there is another room that allows you to copy a leader in a room. There are a few questions that the rules may not answer clearly where we had questions as well. The roundhouse tiles are the thickest tiles I have ever seen! I do want to play another time or two before making the final decision on whether to keep this one or not.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Artwork is the only merit
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+played the 2 player variant
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Radar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Fun game. Rondel game actually, walking 1-3 steps in a round house. There is something to be done in each room. In the end it is largely collect stuff and turn it into points. But the way in which it has been implemented includes some original elements.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Incredibly disappointing & unbalanced game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Very cool game! I love the rondel-esque action and the interplay between the cards, contracts, and assistant scoring. Chair investments are also intriguing. Bit of a bonus engine going on also. Really great. Wish the board fit in the box.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.75
+Great Game... love the Duel Rondel with 2 Workers to move in them... opens up a lot of choices.
+
+the production is great with chunky cardboard pieces... love the art and theme.
+
+Very interesting gameplay and it's combotastic :) 
+
+The only issue are the English rules but at least they are trying to solve this by putting out revised rulebooks so that the questions are resolved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Round House is a standard euro where you use rondel actions to convert resources into victory points. There are some interesting mechanisms, such as gathering family members and having them occupy valuable temple spots, while others feel fiddly and convoluted, such as all the different cards and bonuses to keep track of. An often confusing iconography doesn't help. Round House would have benefitted from a cleaner design focusing on what the game wants to be.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Geekmarket 40€ incl beide uitbreidingen
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Interesting game. It seems at first that there is many ways to win. In truth it is all about collecting the amulets. Only when all the players are competing for the amulets does the other ways of winning points matter. Without this competition the game lacks interest. Indeed, when you collect all the different amulets you will score expomentially. But if there is little competition, due to the distribution of amulets in the game and the way combinations are made, your scoring possibilities will drop exponentially as well, making the other ways to collect points worthwile.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Styczeń 2018 - 7.37
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+,
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Frighteningly insane resource-management and rondel game: a bit like what would happen if Glory To Rome was designed by Mac Gerdts. Completely uncontrollable in reality, but engaging enough and you always feel as if there's plenty to do.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Saw a picture but haven't read much about this yet.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+What a mess, too much going on for what is a basic cube pusher.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+規則:
+*三大片房間版塊隨機放置對應位置，五小片隨機抽三個放，宗祠版塊立起放對應位置，商隊版塊放在起始位置，護身符洗勻抽7個放在左邊宗祠獎勵格，在開三個成供應區，2/3/4/5人放一個在7/8/10/12回合軌上，小廟版塊開著放一旁，倭寇版塊洗勻疊起開三個，起始訂單每人抽一，剩下洗勻開三，專家卡也洗勻開三，放三圓到錢莊，回合標記放到回合軌0
+*每人拿一個個人圖版，放兩個該色米寶在宗祠板塊上，一個夥計圓片計分放0，五個放供應區，9個放在圖板上放供應列每人拿一黃金，隨機起始，照順位拿3/3/4/5/6圓
+*5人使只用一個米寶，2人時額外放兩個中立米寶
+*玩家從起始開始照順位行動，直到觸發回合軌到結束護身符區時，該輪所有玩家一樣回合數結束，每個玩家回合有五個階段
+1.啟動專家卡  可選擇啟動一張，如果有護身符則使用後放到一旁蓋著，沒有的則棄掉，只有一次性效果的此時啟動
+2.移動一個自己米寶，順時鐘移動1~3格，沿著藍色通道或樓梯，有人的格直接跳過不算格數，經過宗祠要停下
+3.執行房間 可不做，或執行主要行動跟夥計行動
+*如果該格有椅子上面有你的圓片，可回到供應區在啟動該房間行動一次，年長夥計(翻面的)不用回
+>收貨 拿任意資源跟商隊派駐
+>倭寇 拿一黃金，或選一個倭寇版塊拿上面資源，並將該版塊放到牌庫底，在開新的
+>賣貨市場 放一個對應貨物到對應市場空格上，拿獎勵做行動，三格都滿才清掉，使用夥計時可在同格賣多個相同的
+>專家 拿一張，然後開新的，玩家上限3張
+>錢莊 拿走上面的錢然後補到三圓或拿一個黃金以外資源，皆可馬車派駐
+>大堂 付兩圓到錢莊來執行任意米寶所在房間行動然後增添夥計，或是執行兩夥計一派駐一投資
+>零售市場或銀行 左到右可依序之附上面金錢或資源來拿獎勵，最多全付
+>黑市 買或賣最多兩次，可重複，賣價為上面價格+2
+>交易所 支付1/3/6/9原來選對應行動1~4次，可重複
+>聚會所 支付一圓/+1夥計/+2夥計 來拿1~3張專家卡
+>倉庫 支付1/3/5圓從任意房間拿取1~3資源(包括黃金)，如果拿倉庫的則補資源
+***夥計行動
+>增添 從各人圖板供應列放到供應區，從左邊拿，解雇或支付放到目前最右
+>派駐 從供應區放一個夥計到馬車所在位置，執行前都可花一圓來順時鐘移動一格，有人執行放完後也會在移動一格
+>投資 從供應區拿夥計放到內圈的椅子上
+>祭拜行動 經過宗祠時，可選小廟獎勵並翻面或是家廟(沒小廟可選時強制)，回合標記前進一格，選一個有你夥計的城鎮拿走全部，從1開始擺在宗祠軌上，一格一個，之後每個要跟之前相鄰，如果碰到之前自己的可連結，最後一格的翻面，獲得該格分數，場上每個椅子上該玩家夥計都一分，並拿該格四個方位的獎勵，然後除了翻面的其他都回手
+4.取得訂單卡片 獲得分數時如果通過卡片符號，可從訂單卡或護身符區挑一個拿，全部拿完後馬上補
+5.完成訂單  支付資源將訂單卡翻面，獲得上面的永久效果
+*遊戲結束時，平手比錢
+>不同的為一組的護身符拿對應分數
+>訂單卡上分數
+>夥計供應列如果有露出分數也拿
+>主圖板上椅子或城鎮上夥計一個一分
+>個人供應區夥計/資源/黃金一個一分，3圓一分
+****2人變體****
+1.在移動自己米寶石要移動中立
+2.一樣要移動，且可使用房間效果
+*中立不經過樓梯，一個在內圈時另外一個要停外圈，不停留在宗祠版塊
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I quite enjoyed this, and was tempted to up it to an 8 after an initial play before common sense said wait a minute, settle down, let's see how multiple games pan out first. It's dual-rondel, where your pawn can move between inner and outer tracks, which I haven't seen before and I thought it a worthy addition to the genre. I also liked the newish temple mechanism, whereby at the end of each completed circle around the rondel, the more pieces you've accumulated, the further into the temple you can move and the better the things you get. Together with the unique spaces, these are enough to provide an attraction. Otherwise there are the standard power cards (one off and eternal), orders to fulfil via cube gathering for VP's, acquire as many different amulets as you can get for geometric VPs. Standard stuff. Basically get some powers you can abuse, and plan your path around the rondel to maximise their abuse as quickly as possible, as you only get a few swings around the rondel. It's all engaging, but probably more and more luck prone with the addition of each player clogging up the rondel and not allowing easy access to the spaces you want. Which does make for an interesting game however.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Round House is an intricate resource manipulation game based around a common action rondel, the titular round house.  Players have two pawns they can move clockwise around the rondel, but they can't land in a space occupied by another pawn.  Because of the second pawn though, patient players can wait behind blocking players until they move the pawn.  The action spaces themselves let you do a number of things, like buying resources, turning in those resources for bonuses, getting mostly one-time-use expert cards, activating family member tokens, and sending those family members either to chairs in the middle for various bonuses, or to surrounding towns to queue them up to go to a bonus board.  Every time around the rondel, players send their family members from one of the surrounding towns to try to claim as big of a reward as possible.  There's really a lot going on in this game, but I thought it all fit very well together.  There's a ton of different ways to approach this game.  Really liked this one.
+
+(3 plays)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Very intersting game built around the double rondelle...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Very confusing rulebook, which makes it hard to judge after only one play
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+One I was very excited for at Essen! Cool hefty cardboard house tiles. Rondel game where you are moving pawns around the house. Collecting items and potentially trading for on going powers and points. resource management game and set collection game. lots of options and not all house tiles are in play so each game will be different depending on the spaces that become available each game. Really enjoyable and a game I want to play a bunch more. Happy to have it!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Awesome game, very pleasant mechanism
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+i really enjoy everything about this nested rondel game, except for the 2p variant rules :(
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Roundel game where you have two workers, actions are not too difficult as you can skip over spaces occupied by other workers. Game allows plenty of combos as you can get free resources/ money/ points every time you do a common action. Towards the middle of the game the combos can slow down things a bit. Set collection is a major part of scoring and not to be ignored!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Played at: Tony's
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+2-5
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Krat: 01
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Taking the Chinese walled village as a setting for a game is an inspired choice, in my opinion. Players get to traverse a two-storied rondel, send family members out to seek their fortunes, and call them back when it’s time to pay respects to the ancestors. But the thematic immersion is more or less broken when worshipping turns out to be a mancala mini-game, and you realise that this is still a Euro reminiscent of a Feld output.
+
+Nonetheless, the design flourishes are neat and I especially like the balancing game of getting family members to the same village. I must admit that having a major part of the game focus on generic Euro tropes is rather disappointing though – it’s just trading nameless resources for coins and vice versa, coupled with a bit of set collection and contract fulfilment on the side. It’s a design that puts effort into fleshing out a unique game befitting its theme, but doesn’t go quite far enough. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
++ 1st expansion and expert promo cards.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+superbe mecanique
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Probably my most favourite game utilising the rondel mechanic. Plenty of decisions to be made and I particularly love the Asian cultural themey influences on the game. Great replayability as the outer round house actions track is randomised every game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Cool mechanisms and different(ish) game. It would work better in my opinion if the spots used to perform the actions would be more difficult to get but I think the designer opted to have a more open design, which is fine too.
+
+(I)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+With expansion packs:
+Round House: 1st Expansion - Additional Tiles
+
+With promos:
+Round House: Expert Promo Cards
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+It's either this or Antike 2 for a rondel game. Still undecided
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+2 Player rules as written just do not work. This is a 3+ players game. Sold.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Vin d'jeu: french review & videos of Round House: http://www.vindjeu.eu/2017/02/20/round-house-videos/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Essen 2016
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A very interesting game. Rules are a total mess, but with clarifications this game has a chance of being great. Clever interactions between elements.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Really smooth and satisfying gameplay, with some great design ideas.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+The art and game components are good. I think the designers (or the company) picked up a right theme which is not quite common but it is meaningful for cultural reasons. I enjoyed the mechanism that reflects some Chinese cultural facts, such like "calling back your guys from other city to worship your ancestors." In a real life, if Chinese are doing a good business outside of their hometown, they do bring the honor for their family when they are back to their origin to worship ancestors. Also, when traveling far from home, ancient Chinese folks brought all kinds of the amulets to protect themselves from the bad things. It is really interesting to see how the designers describe these cultural stuff by using the mechanism.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.2
+2016 Lucca
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+I have played this game. I love it.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+en mecatol
+
+sin enfundar
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+A mix of familiar feeling mechanics that form a solid game. Curious production values with the extremely thick cardboard, and the board that does not fit in the box.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Solid medium/heavyweight Euro from Taiwan.  Nice theme that's unique to that aspect of Chinese life, but still pasted on.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Still don't have a clue on what makes for a winning combination of moves! Can't wait to play it some more. Best description I can muster is it is like playing Iki on steroids!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Euro worker placement point salad set in the ancient Chinese round houses where cleverly found inside is a double ring rondel.  Random startup to the max with honor contracts that require combinations of fruit tea and/or celadon, experts to recruit, random action spaces for the outer rondel circuit, random worship bonuses and amulets and random black market goods.  Strategy choices galore between rondel actions and leveraging assistants and experts.  Race around the rondel to claim big advantages in the main worship house. I appreciate the bonus contracts at set points along the loyalty track rewarding advancement. I love that completed contracts provide an added action or scoring benefit instead of just earning points--more games should do this. The action spaces are creative and have unique functions and interactions with goods, other action spaces and worker pawns. If you don't like AP games you will not want this game because each turn presents a ton of options to consider that shift with other player choices.  This game rewards smart moves with big bonuses and and punishes stupid!  It will take several plays to see the moves.  This looks like a winner.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Includes:
+2016: 1st Expansion – Additional Tiles
+2016: Expert Promo Cards
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+The rulebook is crappy...literally.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Brand new in shrink, for sale/looking to trade for other board games.

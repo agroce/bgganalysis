@@ -1,0 +1,314 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+GAME: Wings for the Baron (second edition)
+RANK: 3709
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+The base game is neat, and has an odd rubber band effect of "research > design (roll better) > collect contracts for a bit and eventually fall behind" wash repeat. In that regard, it's "Power Grid the wargame." That's apt in more ways than one; it's a wargame in terms of some of the things you can do to other people and theme, but it's fundimentally an economic themed game built around a massive tech tree. Timing the end via either morale or inflation is probably one of the last big questions of the game outside of optimizing your tech. At higher player counts, the optimization pathways via bomber/recon that are offered by the advanced game are welcome for no other reason than it prevents you from getting super screwed on the base fighter orders and presents an interesting question as to what do you pursue.
+
+I have yet to see a game run anywhere close to 45min, but I can see where it might clock in at an hour if everything that was not specifically turn order based was done simultaneously. Second, banking for gold is ridiculously lame. I get it's fundamentally a dice game, but your major source of VP at the end is rough to have dependent upon a few dice rolls as to how well you can convert marks to gold.
+
+I'd play it again, but I'm not sure I'd ask for it, and I'm not sure I'd do it with 5 again...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.5
+Initial rating after 1 play. I really enjoyed it. It's actually fairly simple and light economic game. You do have significant luck factor but the most important is the engine building. There's also a little srew the other player aspect to it. Sholud play in no more than 90 minutes (4 player) once you grasp the idea.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+The sort of game Martin Wallace would like to have designed. Though its a business game of sorts, the combat aspect is implied also. The low ratings are likely to be from those who just played the fighter game, which is introductory only. Adding two-seaters and heavy bombers brings the game into its own. Short rules, but longer gameplay than is claimed, not least because its engrossing. I can imagine a useful expansion.
+
+...the trouble is, the economic system is a tad redundant. Rather than an expansion, the game might benefit from a little development in this area. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Basic game: It's a simulation so there is lots of rolling of the dice to determine the results of events beyond the players' influence. Decent but not particularly exciting game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Wings for the Baron is like a classic efficiency game with actions spent building production capacity and improving the product.  That it doesn't feel like a cube pusher is down to some excellent thematic integration and levels of randomness and take thatery not usually seen in this genre.  It's also unusual for an efficiency game to be set in a rapidly detriorating situation; inflation takes bites out of our profits, the allies usually have the edge in fighter technology, and  the war goes from bad to worse. 
+
+I appreciate the randomness in that it prevents perfect planning and constantly forces reassessment of situation and options.  Even so, a succession of low rolls can see your hopes shot down in flames.  Having played both the standard and campaign games, I am unsure which is best.   The latter gives you options when trailing in the fighter development race, but I'm not sure it is worth the extra rules overhead.  
+
+To someone who is compulsive about keeping his games pristine, the pre-distressed look of the cards and the counters that look as though they have lain around in an aircraft factory for several years is troubling.   Nonetheless, everything except the silly little arrows is functional.  The use of period photos on cards and counters is nicely done.  I found the rules an easy read and appreciated the extra booklet of historical notes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+It looks so dry, and the components are laughable, but then when you start playing, you discover that it's actually all really fun and kind of rowdy and borderline goofy.  Lots of interaction and theatrical dice rolls.  Be warned though: this is ultimately a dice game, and with all the bits and pieces around, some players may feel like they were set up for a heavy strategic game and got stuck with random dice rolls.  I didn't mind though.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 10
+Very, very cool...
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Based on my first play only, but enjoyed it so much I am buying a copy to play with my friends.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+I love WW1 aviation and really like this game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+There are a few things in this game that seem under "developed", but the game overall is a lot of fun.  The blue power does seem under powered, so there might be some house ruling in the future to resolve that.  I also wish it was "more possible" for the allies to actually lose the war, which would make the strategies even more interesting on what to do with your paper money.  The tech tree is neat, but it seems like it stalls out about mid game... which makes it tough to catch up on the leader.  Components are "ok", but this is a VPG game so wasn't expecting anything mind blowing.  Probably not one I need to own, but overall a very fun game that I would like to play more of.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Euro type game with plenty of theme (WWI aircraft manufacturing) and limited but interesting decisions each turn. Not much downtime as selecting cards is simultaneous. Feels like a Martin Wallace economic game. The dependence on good dice rolling to bank some money, etc, can be quite frustrating and there doesn't seem to be any way to catch up once you fall behind if you consistently draw design cards that you've already upgraded to. I'm also not a fan of the "take-that" events. Some of the player colours are a bit indistiguishable and the player 'mats' could be more exciting but I love the chunky medals representing the war's progress.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Very typical game of the genre, but fairly painless.  Curious about campaign game, however ...
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I do enjoy this game, I do.  However, the randomness of the card draw, and sometimes the roll of the die, can really hinder your game, and there is nothing you can really do about it.  If the deck doesn't favor you, you tend to fall behind with little you can do about it.  Still, I enjoy it, but just be prepared for a lot of randomness.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 4
+Waaay too random for what the game is. A few bad rolls can basically put you out of contention.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+SOLO PLAY:
+
+1 Player Minimum
+5 Player Maximum
+Very cool game competing to make the best airplane for Germany during WWI.
+
+Solo Play Notes:
+Solo Play Sequence of Play:
+I.) Choose Actions
+II.) Resolve Action
+  A.) Build:
+    -Build Player: +1 Factory
+    -Build NPC: Find Fighter Contracts Avaliable Marker and note "+" value at bottom. Compare the "+" value with #of Factories. IF factories is < "+" NPC gains +1 Factory.
+  B.) Espionage:
+    -Espionage Player: Select a tech you do not have. Roll 1 die, add DRM. If result is grater than or equal. You gain that tech.
+    -Espionage NPC: Not Available.
+  C.) Design: (in order of Preference Rating)
+    -Design Player: Add Tech to mat that corresponds to Tech Card in hand.
+    -Effectiveness Player: Roll 1 die. Sum die roll with all Technology bonuses to determine new Effectiveness. If greater than current Effectiveness move marker to amount of new Effectiveness.
+    -Design NPC: Roll Aeroplane Type Improved to determine which plane.
+    -Effectivenss NPC: Roll Amount of Effectiveness Increase.
+  D.) Research
+    -Research Player: Draw 1 Tech/Event card for each action.
+    -Research NPC: Not Available
+  E.) Bank
+    -Bank Player: Roll 1 die for each action. Convert rolled number from Papiermark to Gold.
+    -Bank NPC: Not Available
+III.) Award Contracts Phase
+    -Player may play events.
+    -Add/Remove Generalstab and Kaiserhilfe
+  A.) Acquire Contracts (in order of Preference Rating.)
+    -Acquire Contracts Player: Roll 1 die, acquire contracts = space of effectiveness. For each Acquired Contract gain = Papiermark and reduce "Fighter Contracts Remaining" marker.
+    -Acquire Contracts NPC: Just reduce "Fighter Contracts Remaining" marker.
+  B.) Acquire Fighter Contracts before Recon and Bomber.
+IV.) Inflation Phase
+    -Roll 1 die to determine Inflation.
+    -Player may play Event Cards.
+V.) War Status Phase: (reveal next War Status Card)
+    -Adjust Morale, then side with highest Fighter Effectiveness gains +1 Morale
+    -Adjust Contracts: Subtract current space of "Fighter Contract Remaining" marker from Contracts Available on the War Satus Card. IF positive, increase "Fighter Contracts Available" = to positive result.
+    -Place "Fighter Contract Remaining" marker on top of "Fighter Contracts Available" for next round.
+    -Upgrade Allied Effectiveness according to War Status Card.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Bought for the solo play variant
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+After two (3 player) plays of the non-advanced game this is a keeper.
+
+Clean mechanics, tough choices, great narrative.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Vendor room at CSW Expo
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fun business game, themed on German World War 1 aircraft production of all things.  It feels a bit old school, but so old school it actually feels refreshing to play.  Nice decision pivot points, a little bit of luck, but a fun ride.  The addition of Reconnaissance and Bomber aircraft, and a solo mode, are just gravy for players who want a little more.  Very good.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+This is a game with good ties between its topic and the game play.  There's plenty of luck, but plenty of meaningful decisions as well.  I would cheerfully play it again if I were asked.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+DB
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Sooty counters and colour problems on the card backs = pretty serious component issues.    That said WftB is a great game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Amazon 2/17
+
+NIS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 spillere
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Joué partie d'introduction.  En partant le nettoyage des pièces de carbones avec la petite napkin est nécessaire mais après les counters sont assez épais et les cartes se brassent bien.
+
+Au début j'étais un peu mélanger avec les event à chaque phase mais j'ai compris que le bas des cartes sert à plusieurs phases donc faut faire attention entre le desing et l'event que l'on veut faire.
+
+Le déroulement de l'ordre du jeu avec les cartes numéroté est une bonne mécanique j'aime bien.  Je catchais pas au début la relation factory, awards mais après quelques tours ça rentre bien et on voit comment la partie fini tranquilement avec la morale qui diminue.
+
+L'arbre de développement est bien fait avec les prérequis qui ne sortent pas aux bon moments.  Des petits coups chien que l'on peut faire à l'adversaire.  De bons éléments inter-reliés pas trop compliquer à assimiler ça coule bien pas trop de temps d'arrêt.  Comme pour les jeux de carte il faut prendre du temps pour bien lire car il y a beaucoup de texte et il faut s'habituer à ce que l'on a en main.  Pour un jeu d'introduction c'est un bon début pas trop brain burner.
+
+Un bon jeu.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+It has what I love in a game: engine building, dice chucking, take that, airplanes (or at least manufacturers), variable player powers, hidden action selection. It's all wrapped up in a WWI aviation theme. Lots of "stand up" dice rolls.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Really neat game.  Solo variant is good too.  This is really an economic game centered around competing WW1 fighter plane companies.  Has a neat research tree and has an interesting interaction with the war effort in the event deck.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Wow, this is a surprisingly good game on an unusual theme. It looks like it will be very complicated but it's actually pretty simple and very smooth and intuitive in play.
+
+Good things: the interaction between paper money / gold / inflation, the simultaneous action plotting (keeps downtime to a minimum),  the different ways of growing the tech tree, the simple but neat special powers for each company ...
+
+Bad things: ... can't think of any!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A very nice surprise game in my collection.  My friend Greg says, you need to play this.  It's a real fun, fast playing strategy game.  I think more players is better, as it gets more cut-throat.  The theme and play work real well with this one.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+
+Rating based on about a half-dozen plays thus far.  Wish this game got more attention, because it's not bad, despite the high luck factor and unique but kind of unattractive theme (building better planes for an enemy of the US in WWI).  Key decision mechanic is picking two cards from six in your hand, one of which can be done twice, the other done once, but the game does not allow you to do three different actions once -- a unique twist on the "limited actions" mechanic.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Just a single play, and as a 2p game.  I liked it, and would play again.  My teacher explained there was an option to add a dummy player to have a third opponent, which we didn't do.  He seemed to think that the game would have been better with a third player.
+
+Anyway, I now understand the game.  It is a fresh theme, easy enough rules, and has some nice features.  I liked the little counters for my tech board.  But I did find the airplane status board somewhat hard to follow.   You need to see how your fighter, recon plane and bomber stack up against the opponents.  All of these are square counters of various sizes, and the colors were muted.  I also wish the game effects of the bomber and recon planes had been printed on the player mat.
+
+But quibbles aside, this is a neat game, especially if you are comfortable with a war theme euro game.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+FIRST IMPRESSION:
+
+I've yet to play the Campaign version of the game but this is actually quite a fun game as long as you don't take it too seriously - the die rolls can be painful (one person literally rolled 4 ones in a row when taking the bank action four times which is not good...and there's not much one can do to mitigate the die roll). In addition, the tech cards have two potential uses - as tech or as an event and a number of the events can be quite nasty to other people. Each player also has a special ability of which one may not be quite strong enough (tech card power). The different potential game endings create a variance in how end game scoring is calculated - paper marks are not nearly as good as gold in most endings (paper marks accumulated and not banked will be worth either $0 in one game end condition, half value in another, and full value in a rare game ending situation where Germany actually wins WWI.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+One of the hidden treasures kind of game. This is a euro game with a war theme.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6.6
+I feel like it could use some more events but this is a great economic game based on World War I German aircraft manufacturing. I would love to see a similar game based around WWII armor manufacturing in Germany.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+After one play I am completely enamoured with this design.
+
+For the first time in likely years I did't feel the need to win; I was happy to enjoy the flight.  The theme is very engaging and the game concepts easy to grasp. The select action card mechanic  is similar to what I used in my own design for Whiskey Traders (lifted off of Robo Rally).  Turns move quickly.
+
+We only played the basic game with fighters but I cannot wait to try with recon and bombers.
+
+Also our group started brainstorming some ideas for an Axis vs Allies 2 vs 2 variant.
+
+My only gripe is the cards have different coloured backs on the set we played.
+
+This title really deserves a greater audience.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+I can't deny that there's some charm here. Much like VPG's title, Circus Train, it's not hard for me to like this game based mostly on thematic/contextual trappings. However,  Wings for the Baron seems like some missed opportunities as a game. The somewhat straightforward engine of building better stuff to get better awards is made a little more dramatic with the inflation and national will spicing things up, but there's just not sufficient agency for the players to pull those levers. I mean, there can be, but you have to get the right cards and your opponents have to not get them or roll poorly or any of a dozen other random things. Cute, might play again, not a purchase for me.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+KEEP
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+In World War I Germany, you are an airplane manufacturer, competing with rival firms to earn contracts and get gold. During your turn, you choose between two actions, such as building a factory, banking or developing your plane. The highest along the development track gets the most contracts. You have to keep pace with an Allied plane development otherwise you cannot earn contracts.
+
+Now there is a ton of dice rolling: You roll for your plane's development level, you roll to see how much money you can bank and you roll for espionage. There appears to be a lot of luck involved, but I think you enjoy the game as the German morale goes down and try to adapt, and bak your gold. It's an interesting history lesson, though I can't be sure that's what happened to the German airplane industry. Perhaps there are enough good decisions to be made that rolling the dice will average out. 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5
+Luck driven, too swingy.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+War-themed euro about arms race
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Played this five-player last weekend and enjoyed it. It is light and doesn't overstay its welcome but the randomness is huge and some of the strategies are obvious. We just played the basic game, so maybe the game really shines when playing the more advanced campaign game but I found it to be light and fun but not compelling enough to want to play a lot.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+solitaire
+
+VPG
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+Sleeved
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Such a terrible rulebook! 
+
+Good gameplay, tensed in the desired way (more you want to do than you can actually do). A little too random though. 
+
+Unique theme; well integrated into gameplay.
+
+Overall, the game is good. But not great.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Basic game: Little tech-tree game that is ok but nothing too exciting.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+23.2 x 30.4 x 4.2
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.55
+The euro mechanisms are fun to deal with. The dice chucking can be mitigated, so other than the take that card play, it is a very unique combination of mechanisms that works smoothly.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+[color=#CC0000]
+
+This is at least two games in one.  
+
+The game with just fighters is a super-tight euro with enough unpredictability to keep you on your toes, struggling to make it work the entire time.  A very tight competition with your fellow players to succeed.
+
+The three-planes version of the rules is more open, giving you "multiple paths to victory" and the opportunity to be more creative with your approach to the game.
+
+I'm torn over which I like more.  A great game either way, a great purchase for the price.
+
+
+
+There's two other ways to play as well -- there are solo rules, and it is quite easy for one player to play the multi-player rules, playing several different manufacturers simultaneously.  I have not tried the solo rules, opting for the latter method instead.  Very much enjoyed it.  There's just a lot of value here.
+
+S.
+
+
+[/color]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+(x)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+PH-SW
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+Another VPG design that explores an historical theme and setting beyond mere window dressing to create a game that feels and plays unique.  Its core action selection and stratified sequence of play create a smooth running engine, but throw in enough cogs and tough choices to add complexity, tautness and tension.  Its engrossing, never leaves you idle and lasts just enough to satisfy.  And the triumphs and setbacks of wartime make for a frail economy and vague future seemingly on the brink of collapse.  Challenging and variable.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Rating is for the Standard and Campaign games.  Solo version I'd give a 6 - It's a bit fiddly and has more "roll a die and move a marker on a track" than it does decisions. The game is definitely more fun to play solo the old-fashioned way, as multiple manufacturers.
+
+This title is a blessing for a WWI aviation buff like me, with its totally unique approach to gaming the first air war.  I like the care that's gone into it, from the background booklet to the interplay of the various historical factors to graphic touches like the manufacturers' logos.  It would have been more immersive if they could've somehow used photos or graphics to illustrate the design advancements on the player mats, rather than have them be just dry flow charts of boxed words and numbers.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7.8
+The game is a well designed tech tree race to win WWI for Germany.  The theme and game mechanics mesh well as you design aircraft for the German war machine.  The designs earn you Deutschmarks that can be ravaged by inflation so you should be converting paper into gold bars often.  The games theme blends wonderfully with the mechanisms and each turn I wanted to do twice what I was able to do.  I won the game by taking the second half of the game not designing but by earning money and converting the paper into gold bars.  The surprise of the inflation roll and the agonizing decision of choosing between the event or the design on the tech card is excruciatingly wonderful.  The gaming experience is one of the most satisfying I have had in years and I will be adding this game to my extensive collection.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+3-5 p
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 7
+Awesome game
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+Provisional rating, one play (Advanced). Like the concept, but not the dice.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 6
+cool ideas, but too much dice rolling for me
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 5.5
+The technology/event cards had great flavor, and I liked the action choices.  However, the game felt pretty flat, as in the end, it really was just about going through the motions to see who could modify dice the fastest.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8.5
+Amazing little game that hits all the right notes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+Fantastic game for competitive play, doesn't get the recognition it deserved
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: N/A
+WWI German aircraft manufacturers use simultaneous actions to advance tech tree and efficiency from R&D or espionage and get government contracts from managing number of factories, banking Deutschmarks into gold against inflation, and morale impacted by war status and reacting to events. Rich and intuitive game play that I really enjoy. I’m surprised it is not more liked.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 9
+The theme is married to a great economic system, which makes it a blast to play.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+RATING: 8
+A solid game.
+Beautiful components (laser-cut thick cardboard and colorful mats, nice cards, etc.).
+Rules are simple (for a wargamer), yet play is not banine or dull but has layers and subtleties.
+Lots of theme (though the word "context" is more meaningful here) and a lot of research that lies behind the very first impression went into this (I mean, there is a FULL booklet that traces the historical details behind each event and technology in the game).
+Plays ok-ish solo.
+Shines in multyplayer, with a 3-player being a VERY different game than a 5-player.
+Wholeheartedly recommended.
