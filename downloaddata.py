@@ -30,7 +30,12 @@ def getComments(gameNumber,reqRank):
         try:
             root = ET.fromstring(html)
         except:
-            return "PARSE ERROR"
+            print "PAGE",page,"NOT READ DUE TO PARSE ERROR"
+            with open('parserror.txt','a') as pf:
+                pf.write(str(gameNumber)+"\n")
+            numComments = 1
+            page += 1
+            continue
         numComments = 0
         for child in root:
             for deepchild in child:
@@ -65,6 +70,17 @@ def getComments(gameNumber,reqRank):
         return None
     return (name,rank,comments)
 
+def getReadGames():
+    rg = {}
+    for f in os.listdir("data"):
+        try:
+            g = int(f.split(".txt")[0])
+            rg[g] = True
+        except:
+            pass
+    return rg
+        
+
 WORSTRANK = 5000
 
 top20 = [174430, 161936, 182028, 12333, 167791, 187645, 120677, 169786, 193738, 173346, 84876,
@@ -76,39 +92,26 @@ gameData = []
 
 #games = top20 + games
 
-lowRank = []
+lowRank = {}
 for l in open ("data/lowrank.txt"):
     try:
-        lowRank.append(int(l))
+        lowRank[int(l)] = True
     except ValueError:
         pass
 
-parseError = []
-for l in open ("data/parseerror.txt"):
-    try:
-        parseError.append(int(l))
-    except ValueError:
-        pass    
-
+readGames = getReadGames()
 
 with open("data/lowrank.txt",'a') as lowrankf:
-    with open("data/parseerror.txt",'a') as parseerrorf:
         for game in games:
-            if (game in lowRank) or (game in parseError):
+            if game in lowRank:
                 continue
-            if os.path.exists("data/"+str(game)+".txt"):
-                print game,"ALREADY READ"
+            if game in readGames:
                 continue
             g = getComments(game,WORSTRANK)
             time.sleep(0.3)
             if g == None:
                 lowrankf.write(str(game)+"\n")
                 lowrankf.flush()
-                continue
-            if g == "PARSE ERROR":
-                print "PARSE ERROR!"
-                parseerrorf.write(str(game)+"\n")
-                parseerrorf.flush()
                 continue
             with open("data/"+str(game)+".txt",'w') as outf:
                 outf.write("*-"*40+"\n")
