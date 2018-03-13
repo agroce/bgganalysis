@@ -1,8 +1,5 @@
 import os
-import time
-from textblob import TextBlob
-import sys
-import scipy.stats
+import pickle
 
 def getGames():
     games = []
@@ -23,9 +20,6 @@ def normalize(word):
         
 
 games = {}
-words = {}
-
-CUTOFF = 30
 
 for g in getGames():
     with open(g) as f:
@@ -58,45 +52,5 @@ for g in getGames():
             comments.append((rating,comment))
         games[(name,rank)] = comments
 
-
-        
-data = []
-subdata = []
-
-for (name,rank) in games:
-    thisData = []
-    thisSubdata = []
-    if len(games[(name,rank)]) < CUTOFF:
-        continue
-    for (r,c) in games[(name,rank)]:
-        if r == -1.0:
-            continue
-        s = TextBlob(c)
-        try:
-            data.append((r,s.sentiment.polarity))
-            thisData.append((r,s.sentiment.polarity))
-            subdata.append((r,s.sentiment.subjectivity))
-            thisSubdata.append((r,s.sentiment.subjectivity))            
-        except:
-            pass
-    print "#"*50
-    print "#",rank,":",name,len(games[(name,rank)])
-    thisRegress = scipy.stats.linregress(thisData)
-    print "POLARITY R^2",(thisRegress.rvalue**2)
-    thisSubRegress = scipy.stats.linregress(thisSubdata)
-    print "SUBJECTIVITY R^2",(thisSubRegress.rvalue**2)    
-    sys.stdout.flush()
-
-print "*"*80
-
-print "OVER ALL GAMES:"
-    
-print len(data)
-            
-regress = scipy.stats.linregress(data)
-
-print "POLARITY R^2:",(regress.rvalue)**2
-
-subRegress = scipy.stats.linregress(subdata)
-
-print "SUBJECTIVITY R^2:",(subRegress.rvalue)**2
+with open("games.pickle",'w') as f:
+    pickle.dump(games, f)
