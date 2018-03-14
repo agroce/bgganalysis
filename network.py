@@ -19,7 +19,7 @@ colonIgnore = ["Legacy","Magic","Lord of the Rings","Star Wars",
                    "The Card Game", "Escape", "Android", "Pandemic",
                    "The Board Game"]
     
-for RANKCUTOFF in [500]:
+for RANKCUTOFF in [200,250,300,350,400,450,500]:
     print "*" * 80
     print "ANALYZING FOR",RANKCUTOFF
     
@@ -81,6 +81,17 @@ for RANKCUTOFF in [500]:
             for n in names:
                 if n == "Go":
                     continue # Too many false positives, hurts results
+                if n == "Village" and "Dominion" in name:
+                    continue # Avoid the card name mixup
+                if n == "Nations" and "Imperial" in name:
+                    continue # Talking about nations in game, not this game
+                if (n.find("Imperial") == 0):
+                    if "Star Wars" in name or "Descent" in name:
+                        continue
+                    if "Imperium" in name:
+                        continue
+                    if "Imperial Settlers" in name:
+                        continue
                 for s in alternatives[n]:
                     if " " + s + " " in c:
                         if n != name:
