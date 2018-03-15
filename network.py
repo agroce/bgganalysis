@@ -19,7 +19,7 @@ colonIgnore = ["Legacy","Magic","Lord of the Rings","Star Wars",
                    "The Card Game", "Escape", "Android", "Pandemic",
                    "The Board Game"]
     
-for RANKCUTOFF in [200,250,300,350,400,450,500]:
+for RANKCUTOFF in [50,100,150,200,250,300,350,400,450,500]:
     print "*" * 80
     print "ANALYZING FOR",RANKCUTOFF
     
@@ -44,7 +44,42 @@ for RANKCUTOFF in [200,250,300,350,400,450,500]:
         if ALLINGRAPH:
             (nname,nrank) = nameRankMap[nodeMap[name]]
             ntext = str((nname + ": " + str(nrank))).decode('utf-8').encode('ascii',errors='ignore')
-            dot.node(nodeMap[name], ntext)
+            if name == "Agricola":
+                dot.node(nodeMap[name], ntext, color='goldenrod1', penwidth="15.0")
+            elif "Puerto Rico" in name:
+                dot.node(nodeMap[name], ntext, color='gold', penwidth="10.0")
+            elif "El Grande" in name:
+                dot.node(nodeMap[name], ntext, color='gold', penwidth="10.0")
+            elif "Caylus" in name:
+                dot.node(nodeMap[name], ntext, color='gold', penwidth="10.0")                
+            elif name == "Pandemic":
+                dot.node(nodeMap[name], ntext, color='hotpink', penwidth="15.0")
+            elif name == "Dominion":
+                dot.node(nodeMap[name], ntext, color='orange', penwidth="10.0")
+            elif name == "Race for the Galaxy":
+                dot.node(nodeMap[name], ntext, color='orange', penwidth="10.0")                
+            elif name == "Twilight Struggle":
+                dot.node(nodeMap[name], ntext, color='purple', penwidth="10.0")
+            elif "Through the Ages" in name:
+                dot.node(nodeMap[name], ntext, color='yellow', penwidth="10.0")
+            elif "Commands & Colors" in name:
+                dot.node(nodeMap[name], ntext, color='crimson', penwidth="10.0")
+            elif "Arkham" in name:
+                dot.node(nodeMap[name], ntext, color='magenta', penwidth="10.0")                
+            elif "Combat Commander" in name:
+                dot.node(nodeMap[name], ntext, color='crimson', penwidth="10.0")
+            elif "Descent" in name:
+                dot.node(nodeMap[name], ntext, color='deeppink', penwidth="10.0") 
+            elif "Carcassonne" in name:
+                dot.node(nodeMap[name], ntext, color='khaki', penwidth="10.0")
+            elif name in ["Tigris & Euphrates","Ra","Samurai","Battle Line", "Modern Art",
+                              "Lord of the Rings: The Confrontation", "Amun-Re",
+                              "Lost Cities", "Taj Mahal", "Ingenious", "Through the Desert",
+                              "Medici", "The Quest for El Dorado", "Blue Moon City",
+                              "Schotten Totten"]:
+                dot.node(nodeMap[name], ntext, color='lawngreen', penwidth="10.0")                               
+            else:
+                dot.node(nodeMap[name], ntext)
             nodes.add(nodeMap[name])
     for name in names:
         alternatives[name] = []
@@ -130,7 +165,7 @@ for RANKCUTOFF in [200,250,300,350,400,450,500]:
                 break
 
     print "SAVING GRAPH FOR",RANKCUTOFF
-    dot.render("top" + str(RANKCUTOFF) + "_2most",view=False)
+    dot.render("ctop" + str(RANKCUTOFF) + "_2most",view=False)
                     
 
 
